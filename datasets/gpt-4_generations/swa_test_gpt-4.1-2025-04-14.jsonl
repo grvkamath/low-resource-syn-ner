@@ -1,0 +1,1028 @@
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "aliapishwa", "kuiongoza", "Tanzania", "Aprili", "2021", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 5, 7, 8, 0]}
+{"tokens": ["Kilimo", "cha", "mpunga", "kinaendelea", "kwa", "kasi", "katika", "eneo", "la", "Ifakara", "mkoa", "wa", "Morogoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Maandamano", "makubwa", "yamefanyika", "jijini", "Nairobi", "kupinga", "korokoro", "za", "uchaguzi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Wasanii", "wa", "muziki", "Diamond", "Platnumz", "na", "AliKiba", "walishinda", "tuzi", "katika", "tuzo", "za", "Afrima", "2022", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 1, 0, 0, 0, 0, 3, 7, 8, 0]}
+{"tokens": ["Benki", "ya", "Afrika", "Mashariki", "imeongeza", "mtaji", "wake", "mwaka", "huu", "."], "ner_tags": [3, 0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bingwa", "wa", "Olympics", "Eliud", "Kipchoge", "amevunja", "rekodi", "ya", "marathon", "Berlin", "2023", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 0, 5, 7, 8, 0]}
+{"tokens": ["Shule", "ya", "Wasichana", "ya", "Loreto", "inapata", "matokeo", "bora", "kaunti", "ya", "Kiambu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "biashara", "ulimfanyika", "Mombasa", "na", "kuhudhuriwa", "na", "wageni", "kutoka", "China", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Serikali", "imeandikisha", "mafanikio", "katika", "mradi", "wa", "SDGs", "ulioanzishwa", "na", "UNDP", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0]}
+{"tokens": ["Mwimbaji", "maarufu", "Vanessa", "Mdee", "aliwakilisha", "Tanzania", "katika", "mashindano", "ya", "BET", "2019", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 0, 0, 0, 3, 7, 8, 0]}
+{"tokens": ["Daktari", "Omari", "amegundua", "tiba", "mpya", "ya", "malaria", "Tanga", "katika", "Taifa", "la", "Tanzania", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 5, 0, 3, 0, 5, 0]}
+{"tokens": ["Mahakama", "ya", "Afrika", "ya", "Haki", "za", "Binadamu", "ipo", "Arusha", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 5, 0, 5, 5, 0]}
+{"tokens": ["Chama", "cha", "Mapinduzi", "(CCM)", "kimetangaza", "wagombea", "wapya", "2020", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 5, 3, 0, 0, 0, 7, 5, 6, 6, 0]}
+{"tokens": ["Filamu", "ya", "The", "Royal", "Tour", "iliyoshirikisha", "Rais", "Samia", "imesifiwa", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 3, 2, 2, 0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["Maonyesho", "ya", "kimataifa", "ya", "vituo", "vikubwa", "vya", "teknolojia", "yamefanyika", "Nairobi", "Kenya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Jaji", "George", "Odunga", "aliamuru", "wachunguzi", "wachukue", "DNA", "ya", "washukiwa", "wa", "mauaji", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mradi", "wa", "umeme", "wa", "Rea", "umefanikiwa", "kuwafikia", "watu", "wengi", "Tanzania", "Vijijini", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Waandishi", "wa", "habari", "walikutana", "Katika", "Uwanja", "wa", "Ndege", "Julius", "Nyerere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Kampuni", "ya", "Simba", "Cement", "imefungua", "kiwanda", "kipya", "katika", "mjini", "Sudan", "Kusini", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Jeshi", "la", "Wananchi", "wa", "Tanzania", "(JWTZ)", "limefanya", "zoezi", "la", "mazoezi", "ya", "kijeshi", "Dodoma", "."], "ner_tags": [0, 0, 5, 0, 5, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Baraza", "la", "Mawaziri", "limeidhinisha", "mikopo", "umri", "wa", "wanafunzi", "wanaosomea", "udaktari", "Kampala", "Uganda", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Mchezaji", "maarufu", "wa", "mpira", "wa", "miguu", "Cristiano", "Ronaldo", "amehamia", "klabu", "ya", "Al", "Nassr", "nchini", "Saudi", "Arabia", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 3, 4, 0, 5, 6, 0]}
+{"tokens": ["Mwanzilishi", "wa", "kampuni", "ya", "Tesla", "Elon", "Musk", "ametoa", "mchango", "kwa", "shule", "nchini", "Kenya", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Mapigano", "yameripotiwa", "katika", "eneo", "la", "Tigray", "kaskazini", "mwa", "Ethiopia", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Makamu", "wa", "rais", "Samia", "Suluhu", "Hassan", "alitoa", "hotuba", "katika", "mkutano", "wa", "umoja", "wa", "mataifa", "New", "York", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 3, 4, 0, 3, 4, 0]}
+{"tokens": ["Serikali", "ya", "Afrika", "Kusini", "imetangaza", "msamaha", "kwa", "watu", "waliokosa", "kodi", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeshi", "la", "Nigeria", "limefanikiwa", "kukamata", "magendo", "ya", "dawa", "za", "kulevya", "mkoani", "Kano", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ndege", "aina", "ya", "Boeing", "737", "ilikuwa", "ikisafiri", "kutoka", "Cairo", "kwenda", "Khartoum", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Filamu", "Mpya", "ya", "James", "Bond", "imevuta", "watazamaji", "wengi", "Ulaya", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "ulikutanisha", "viongozi", "kutoka", "Burundi", ",", "Uganda", "na", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "wa", "India", "Narendra", "Modi", "amefadhili", "mradi", "wa", "umwagiliaji", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 0, 5, 1, 2, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Kampeni", "ya", "chanjo", "ya", "Polio", "ilianza", "rasmi", "jijini", "Dodoma", "Tanzania", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ajali", "ya", "gari", "imetokea", "eneo", "la", "Moshi", "na", "kuhusisha", "watu", "10", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Makerere", "kilitangaza", "matokeo", "ya", "wanafunzi", "wa", "shahada", "ya", "uzamili", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Wanamgambo", "wa", "al", "Qaeda", "wamedai", "kuhusika", "na", "shambulio", "katika", "mji", "wa", "Mogadishu", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "msalaba", "mwekundu", "limesaidia", "mafuriko", "nchini", "Bangladesh", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwanasiasa", "wa", "upinzani", "Zitto", "Kabwe", "amezindua", "kitabu", "kipya", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mashindano", "ya", "Olympiki", "yatafanyika", "Paris", "mwaka", "2024", "."], "ner_tags": [0, 0, 3, 4, 0, 5, 0, 0]}
+{"tokens": ["Mto", "Nile", "una", "umuhimu", "mkubwa", "katika", "maisha", "ya", "watu", "wa", "Misri", "na", "Sudan", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mahakama", "ya", "Kimataifa", "ya", "The", "Hague", "imeamuru", "kizuizi", "cha", "mali", "ya", "Urusi", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mjasiriamali", "maarufu", "wa", "Nigeria", "Aliko", "Dangote", "ametoa", "ajira", "elfu", "kwa", "wakazi", "wa", "Lagos", "."], "ner_tags": [0, 0, 0, 5, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Fatuma", "Karume", "alijiunga", "na", "chama", "cha", "ACT", "Wazalendo", "mwaka", "2018", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "Tanzania", "imezindua", "huduma", "mpya", "ya", "malipo", "kwa", "simu", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alitembelea", "mji", "wa", "Dodoma", "jumamosi", "iliyopita", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Mkutano", "mkubwa", "uliofanyika", "katika", "Jiji", "la", "Nairobi", "ulijadili", "masuala", "ya", "miundombinu", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Baraza", "la", "Mitihani", "la", "Tanzania", "litatangaza", "matokeo", "leo", "asubuhi", "."], "ner_tags": [0, 0, 0, 0, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Aliyekuwa", "Waziri", "Mkuu", "Edward", "Lowassa", "alitoa", "hotuba", "kwenye", "mkutano", "huo", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mto", "Nile", "huanzia", "katika", "eneo", "la", "Ziwa", "Victoria", "."], "ner_tags": [0, 1, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Klabu", "ya", "Simba", "imeandaa", "mchezo", "dhidi", "ya", "Yanga", "mwishoni", "mwa", "wiki", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "imefanikiwa", "kupunguza", "bei", "ya", "umeme", "katika", "miezi", "mitatu", "iliyopita", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dkt.", "Asha-Rose", "Migiro", "alitunukiwa", "tuzo", "katika", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 4, 0, 6, 6, 7, 0]}
+{"tokens": ["Bodi", "ya", "Filamu", "ya", "Nigeria", "imetangaza", "shindano", "la", "filamu", "bora", "mwaka", "huu", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Gavana", "wa", "Banki", "Kuu", "ya", "Uganda", "alizindua", "mpango", "wa", "kukuza", "uwekezaji", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "CECAFA", "yamefanyika", "katika", "ukumbi", "wa", "Kasarani", "Nairobi", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 6, 0, 6, 0]}
+{"tokens": ["Azimio", "la", "Maridhiano", "lilisainiwa", "kati", "ya", "Uhuru", "Kenyatta", "na", "Raila", "Odinga", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["Biashara", "zinazoendeshwa", "katika", "eneo", "la", "Bandari", "ya", "Mombasa", "zinanufaika", "na", "ushuru", "mdogo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwimbaji", "Diamond", "Platnumz", "amezindua", "albamu", "yake", "mpya", "inayojulikana", "kama", "First", "Of", "All", ".", ""], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Mtendaji", "Mkuu", "wa", "Taifa", "Stars", "amepongeza", "kikosi", "kwa", "ushindi", "dhidi", "ya", "Burundi", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Stanbic", "Bank", "Tanzania", "iliyopokea", "tuzo", "ya", "ubora", "Septemba", "2023", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Taasisi", "ya", "African", "Wildlife", "Foundation", "amesema", "uhifadhi", "ni", "wa", "muhimu", "."], "ner_tags": [0, 0, 3, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Katibu", "Mkuu", "wa", "Umoja", "wa", "Afrika", "Mashariki", "alisema", "mkutano", "ujiojao", "utafanyika", "mwaka", "2025", "."], "ner_tags": [0, 0, 0, 3, 4, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Filamu", "ya", "The", "Last", "Kingdom", "imepewa", "tuzo", "katika", "tamasha", "la", "Cannes", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alitoa", "hotuba", "mazishi", "ya", "Ali", "Hassan", "Mwinyi", "Dar", "es", "Salaam", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 1, 2, 2, 5, 6, 5, 0]}
+{"tokens": ["Mkuu", "wa", "mkoa", "wa", "Kilimanjaro", "amezindua", "mradi", "mpya", "wa", "umeme", "katika", "wilaya", "ya", "Moshi", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Siku", "ya", "Jumatatu", ",", "Shirika", "la", "Afya", "Duniani", "lilitoa", "takwimu", "mpya", "kusiana", "na", "COVID-19", "Afrika", "."], "ner_tags": [0, 0, 7, 0, 3, 4, 4, 5, 0, 0, 0, 0, 0, 8, 5, 0]}
+{"tokens": ["Mapigano", "yameripotiwa", "katika", "mji", "wa", "Goma", ",", "Kivu", "Kaskazini", ",", "Jamhuri", "ya", "Kidemokrasia", "ya", "Congo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 6, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "huo", "ulihudhuriwa", "na", "mabalozi", "kutoka", "Ujerumani", ",", "Ufaransa", "na", "Canada", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Katibu", "Mkuu", "wa", "Umoja", "wa", "Afrika", ",", "Moussa", "Faki", "Mahamat", ",", "alisema", "hatua", "za", "diplomasia", "zinahitajika", "."], "ner_tags": [0, 2, 0, 3, 4, 4, 1, 2, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mariam", "Ali", "alizawadiwa", "tuzo", "ya", "Walimu", "Bora", "Barani", "Afrika", "mwaka", "2023", "."], "ner_tags": [1, 2, 0, 0, 0, 7, 8, 5, 0, 0, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "imeanzisha", "kampeni", "dhidi", "ya", "ukimwi", "jijini", "Nairobi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mahakama", "Kuu", "ya", "Tanzania", "yameahirisha", "kesi", "ya", "rushwa", "iliyomhusisha", "John", "Magufuli", "."], "ner_tags": [0, 2, 0, 5, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Jengo", "jipya", "la", "ubalozi", "wa", "China", "limezinduliwa", "katika", "mtaa", "wa", "Oysterbay", ",", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 5, 6, 5, 0]}
+{"tokens": ["Mkurugenzi", "mtendaji", "wa", "kampuni", "ya", "Tanzania", "Cement", "Limited", ",", "Bi", "Asha", "Mwinyi", ",", "alishinda", "tuzi", "hiyo", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 2, 2, 0, 7, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Msanii", "maarufu", "Diamond", "Platnumz", "alikuwa", "anaendesha", "tamasha", "la", "muziki", "Mombasa", ",", "Kenya", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Katika", "mkutano", "ulinganuliwa", "na", "Umoja", "wa", "Mataifa", "katika", "mji", "wa", "Geneva", "ya", "Uswisi", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mtandao", "MPesa", "umepata", "idadi", "kubwa", "ya", "watumiaji", "nchini", "Tanzania", "na", "Kenya", "."], "ner_tags": [0, 9, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mbio", "za", "London", "Marathon", "zitafanyika", "mwaka", "huu", "huku", "Waafrika", "wengi", "wakitarajiwa", "kushiriki", "."], "ner_tags": [0, 0, 7, 8, 0, 0, 0, 0, 10, 0, 0, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "Profesa", "Joyce", "Ndalichako", "alitembelea", "chuo", "cha", "Ardhi", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 2, 1, 2, 0, 0, 0, 5, 5, 6, 5, 0]}
+{"tokens": ["Shirika", "la", "Ndege", "Ethiopian", "Airlines", "limeanza", "safari", "za", "moja", "kwa", "moja", "kutoka", "Addis", "Ababa", "hadi", "Dar", "es", "Salaam", "."], "ner_tags": [3, 4, 4, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 5, 6, 5, 0]}
+{"tokens": ["Mashindano", "ya", "AFCON", "yanafanyika", "Ivory", "Coast", "mwezi", "Januari", "2024", "."], "ner_tags": [0, 7, 8, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Benki", "ya", "Equity", "imefanikiwa", "kupata", "faida", "kubwa", "mwaka", "2022", "katika", "kanda", "ya", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 5, 0]}
+{"tokens": ["Wanariadha", "kutoka", "Uganda", "na", "Eritrea", "walishinda", "medali", "katika", "mashindano", "ya", "olomu", "za", "dunia", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "Tanzania", "ilichangia", "milioni", "200", "kupambana", "na", "ugonjwa", "wa", "malaria", "Serengeti", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "alizungumza", "na", "waandishi", "katika", "Dodoma", "juzi", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Filamu", "iliyotengenezwa", "na", "Ramata", "Sy", "iliweza", "kushinda", "tuzo", "Cannes", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 4, 0]}
+{"tokens": ["Siku", "ya", "kesho", "kutakuwa", "na", "mkutano", "mkubwa", "katika", "Chuo", "Kikuu", "cha", "Nairobi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Mashindano", "ya", "Olympics", "yalifanyika", "Tokyo", "mwaka", "2021", "."], "ner_tags": [0, 0, 4, 0, 5, 0, 0, 0]}
+{"tokens": ["Sandra", "Owino", "aliwahi", "kuwa", "balozi", "wa", "Kenya", "nchini", "Ethiopia", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Umoja", "wa", "Mataifa", "umetoa", "ripoti", "kuhusu", "hali", "katika", "Afghanistan", "."], "ner_tags": [3, 0, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "huo", "uliendeshwa", "na", "Banki", "ya", "Dunia", "katika", "jiji", "la", "Dakar", "Senegal", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 4, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Zaida", "Ali", "alifuzu", "shahada", "yake", "katika", "Chuo", "Kikuu", "cha", "Makerere", "Uganda", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4, 0, 5, 5, 0]}
+{"tokens": ["Luis", "Suarez", "aliiongoza", "Atletico", "Madrid", "kushinda", "mchezo", "dhidi", "ya", "Barcelona", "."], "ner_tags": [1, 2, 0, 1, 2, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "imezindua", "huduma", "kabisa", "mpya", "nchini", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alitembelea", "mkoa", "wa", "Mwanza", "na", "kuweka", "jiwe", "la", "msingi", "katika", "mradi", "huo", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtoto", "aliyeokolewa", "katika", "shambulio", "la", "hoteli", "jijini", "Mogadishu", "alikuwa", "na", "miaka", "minne", "tu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Timu", "ya", "Manchester", "United", "ilitoka", "sare", "na", "Chelsea", "jana", "usiku", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["Mwanzilishi", "wa", "Wikipedia", "Jimmy", "Wales", "amepokea", "tuzo", "kutoka", "UNESCO", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 3, 0]}
+{"tokens": ["Katika", "Mkutano", "huo", "huko", "Kigali", ",", "Rwanda", ",", "walizungumzia", "masuala", "ya", "mazingira", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwimbaji", "maarufu", "Diamond", "Platnumz", "ametangaza", "ziara", "yake", "barani", "Ulaya", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Shirika", "la", "Afya", "Duniani", "Tedros", "Adhanom", "ameonya", "kuhusu", "mlipuko", "wa", "ebola", "katika", "Congo", "."], "ner_tags": [0, 0, 3, 0, 3, 4, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Makamu", "wa", "Rais", "Philip", "Mpango", "amesema", "serikali", "italeta", "vifaa", "vipya", "katika", "hospitali", "za", "Tanzania", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Michelle", "Obama", "alifanya", "ziara", "kubwa", "nchini", "Ghana", "mwezi", "uliopita", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Waziri", " wa", "Kilimo", ",", "Hussein", "Bashe", ",", "ameanzisha", "mpango", "maalumu", "kukabiliana", "na", "uhaba", "wa", "mbolea", "katika", "mikoa", "ya", "Kilimanjaro", "na", "Mbeya", "."], "ner_tags": [0, 0, 3, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mchezo", "huo", "ulifanyika", "kwenye", "uwanja", "wa", "Allianz", "Arena", "jijini", "Munich", ",", "Ujerumani", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 4, 0, 4, 0, 5, 0, 5, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "amezindua", "daraja", "jipya", "katika", "Jijini", "Mombasa", "leo", "asubuhi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Mkutano", "wa", "kimataifa", "utafanyika", "Addis", "Ababa", "mwisho", "wa", "wiki", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Jumamosi", "iliyopita", ",", "wanamichezo", "kutoka", "Tanzania", "walishinda", "medali", "katika", "mashindano", "ya", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Mutahi", "Kagwe", "alitangaza", "ongezeko", "la", "wagonjwa", "wa", "Covid-19", "Nairobi", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 6, 5, 0]}
+{"tokens": ["Serikali", "ya", "Jamhuri", "ya", "Demokrasia", "ya", "Kongo", "inaendesha", "uchunguzi", "dhidi", "ya", "mzozo", "mpya", "katika", "Goma", "."], "ner_tags": [0, 0, 5, 0, 6, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "simit", "ya", "Turkish", "Airlines", "imeanzisha", "safari", "mpya", "katika", "Arusha", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mchezo", "wa", "fainali", "ya", "Kombe", "la", "FA", "ulifanyika", "katika", "uhamiaji", "wa", "Wembley", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Profesa", "Wangari", "Maathai", "alishinda", "Tuzo", "ya", "Nobel", "kwa", "juhudi", "za", "uhifadhi", "mazingira", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tetemeko", "la", "ardhi", "lililokumba", "Algeria", "limewaathiri", "maelfu", "ya", "watu", "katika", "jiji", "la", "Algiers", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwaka", "2002", ",", "Shirika", "la", "Afya", "Duniani", "(WHO)", "lilitoa", "tahadhari", "kuhusu", "mlipuko", "wa", "Ebola", "Afrika", "Magharibi", "."], "ner_tags": [0, 7, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Wanaharakati", "walifanya", "maandamano", "kutoka", "Uwanja", "wa", "Uhuru", "hadi", "Bunge", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 5, 1, 2, 3, 0]}
+{"tokens": ["Shirika", "la", "Ufadhili", "la", "Bill", "and", "Melinda", "Gates", "Foundation", "latangaza", "misaada", "kwa", "wajasiriamali", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 2, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mtihani", "wa", "kujiunga", "na", "Chuo", "Kikuu", "cha", "Makerere", "umefanyika", "Juni", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 1, 0, 7, 0]}
+{"tokens": ["Katika", "kanda", "ya", "Ziwa", "Victoria", ",", "wavuvi", "wamelalamikia", "kuongezeka", "kwa", "kivuko", "mabaya", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Meli", "ya", "MV", "Bukoba", "ilizamishwa", "katika", "Ziwa", "Victoria", "mwaka", "1996", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 5, 6, 0, 7, 0]}
+{"tokens": ["Mwakilishi", "wa", "Benki", "ya", "Dunia", "amesema", "uchumi", "wa", "Kenya", "utakuwa", "mbadala", "mwaka", "huu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Mashabiki", "wa", "Liverpool", "waliadhimisha", "ushindi", "wao", "dhidi", "ya", "Manchester", "United", "juzi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Aliyekuwa", "Rais", "Jakaya", "Kikwete", "alitembelea", "Manyara", "kujionea", "maendeleo", "ya", "mradi", "mpya", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Taswira", "ya", "Kilima", "cha", "Kilimanjaro", "inawavutia", "watalii", "kutoka", "nchi", "mbalimbali", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Baadhi", "ya", "wanafunzi", "wa", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "walishiriki", "kongamano", "la", "Sayansi", "ya", "Afya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 7, 0, 0, 0, 0, 5, 0, 6, 0]}
+{"tokens": ["Mwimbaji", "Diamond", "Platnumz", "aliandaa", "tamasha", "kubwa", "katika", "Uwanja", "wa", "Benjamin", "Mkapa", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 1, 2, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alikutana", "na", "Waziri", "Mkuu", "Boris", "Johnson", "katika", "mkutano", "wa", "G7", "uliofanyika", "London", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 1, 2, 2, 0, 0, 0, 7, 0, 5, 0]}
+{"tokens": ["Mafuriko", "makubwa", "yameripotiwa", "katika", "mji", "wa", "Morogoro", "baada", "ya", "mvua", "zinazoendelea", "kuacha", "watu", "wengi", "bila", "makazi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Serikali", "ya", "Tanzania", "imetoa", "tangazo", "kuhusu", "ongezeko", "la", "maambukizi", "ya", "COVID-19", "hasa", "katika", "jiji", "la", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 5, 2, 2, 0]}
+{"tokens": ["Mashindano", "ya", "Kilimanjaro", "Marathon", "yamevutia", "wakimbiaji", "kutoka", "mataifa", "mbalimbali", "ikiwemo", "Kenya", ",", "Ethiopia", "na", "Afrika", "Kusini", "."], "ner_tags": [0, 0, 5, 2, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 2, 0]}
+{"tokens": ["Timu", "ya", "mpira", "wa", "miguu", "ya", "Simba", "SC", "imefanikiwa", "kuingia", "hatua", "ya", "robo", "fainali", "CAF", "Champions", "League", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 2, 0, 0, 0, 0, 0, 6, 2, 2, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Shirika", "la", "Afya", "Duniani", "Tedros", "Adhanom", "ametangaza", "mpango", "maalum", "wakutoa", "chanjo", "barani", "Afrika", "mwanzoni", "mwa", "2022", "."], "ner_tags": [0, 0, 5, 0, 6, 2, 2, 1, 2, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Zanzibar", "imetoa", "takwimu", "mpya", "za", "watu", "waliopona", "korona", "tangu", "kuanza", "kwa", "janga", "hilo", "mwaka", "2021", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Waandishi", "wa", "habari", "kutoka", "Norway", "walizuru", "msitu", "wa", "Amani", "uliopo", "Tanga", "kwa", "ajili", "ya", "tafiti", "za", "mazingira", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mahakama", "Kuu", "ilitoa", "amuzi", "dhidi", "ya", "kampuni", "ya", "Acacia", "Mining", "kuhusiana", "na", "madini", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwaka", "2008", ",", "Michezo", "ya", "Olympic", "ilifanyika", "Beijing", ",", "China", ",", "ambapo", "wanariadha", "wa", "Tanzania", "hawakushinda", "medali", "yoyote", "."], "ner_tags": [7, 8, 0, 0, 0, 6, 0, 5, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Papa", "Francisco", "alifanya", "ziara", "barani", "Afrika", "na", "kutembelea", "miji", "ya", "Nairobi", ",", "Kampala", "na", "Bangui", "mwaka", "2015", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 0, 5, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Shule", "ya", "Msingi", "Lumumba", "iliyopo", "mjini", "Dodoma", "imefanya", "vyema", "katika", "mtihani", "wa", "kitaifa", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Chama", "cha", "Mapinduzi", "(CCM)", "kimeshinda", "uchaguzi", "mdogo", "uliokua", "ukifanyika", "katika", "wilaya", "ya", "Ulanga", "."], "ner_tags": [0, 0, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkufunzi", "anayetoka", "Brazil", "alielezea", "jinsi", "teknolojia", "ya", "kilimo", "inavyotumika", "katika", "mkoa", "wa", "Morogoro", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Gavana", "wa", "Benki", "Kuu", "ya", "Kenya", "amesema", "soko", "la", "Forex", "limekua", "na", "mabadiliko", "makubwa", "kufuatia", "UVIKO-19", "."], "ner_tags": [0, 0, 5, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Jeshi", "la", "Polisi", "limewakamata", "watu", "watatu", "wanaotuhumiwa", "kuhusika", "na", "wizi", "wa", "pikipiki", "eneo", "la", "Sinza", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 2, 2, 0]}
+{"tokens": ["Mkutano", "mkubwa", "wa", "wakuu", "wa", "Nchi", "za", "Afrika", "Mashariki", "umefanyika", "Kampala", "Uganda", "ili", "kudumisha", "amani", "katika", "ukanda", "huo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtendaji", "mkuu", "wa", "kampuni", "ya", "Vodacom", "ameahidi", "kuongeza", "uwekezaji", "katika", "miundombinu", "ya", "mawasiliano", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Daktari", "Ali", "Mohamed", "kutoka", "Hospitali", "ya", "Muhimbili", "amekiri", "kupokea", "wagonjwa", "wenye", "dalili", "za", "malaria", "."], "ner_tags": [0, 1, 2, 0, 6, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Twiga", "Foods", "imetangaza", "kuanzisha", "kiwanda", "kipya", "cha", "kusindika", "matunda", "karibu", "na", "Mji", "wa", "Arusha", "."], "ner_tags": [0, 0, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "Habari", "la", "Al", "Jazeera", "limetoa", "ripoti", "juu", "ya", "mzozo", "unaondelea", "katika", "Uarabuni", "."], "ner_tags": [0, 0, 6, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Magufuli", "alizindua", "barabara", "mpya", "katika", "jiji", "la", "Dar", "es", "Salaam", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 3, 4, 4, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "imetangaza", "likizo", "maalum", "siku", "ya", "Madaraka", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 7, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", "limeonya", "kuhusu", "kuongezeka", "kwa", "maambukizi", "mapya", "ya", "COVID-19", "Afrika", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 7, 5, 0]}
+{"tokens": ["Mbunge", "wa", "Mbeya", "Mjini", "Joseph", "Mbilinyi", "amesema", "mradi", "wa", "maji", "umeanza", "."], "ner_tags": [0, 0, 5, 6, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "ametembelea", "kiwanda", "kipya", "cha", "nguo", "Arusha", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "aliagiza", "uimarishwaji", "wa", "usalama", "katika", "mpaka", "wa", "Tanzania", "na", "Msumbiji", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Makamu", "wa", "Pili", "wa", "Rais", "Isle", "of", "Zanzibar", "Hemed", "Suleiman", "Abdulla", "amehudhuria", "sherehe", "za", "mapinduzi", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 9, 1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Jiji", "la", "Mombasa", "limeweka", "vifaa", "vipya", "vya", "kusafisha", "maji", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Biashara", "katika", "eneo", "la", "Kariakoo", "Dar", "es", "Salaam", "imezidi", "kuongezeka", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 3, 4, 4, 0, 0, 0]}
+{"tokens": ["Watu", "wengi", "walifika", "Uwanja", "wa", "Ndege", "Julius", "Nyerere", "kupokea", "wanafunzi", "wanaorejea", "kutoka", "Uchina", "."], "ner_tags": [0, 0, 0, 7, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waandishi", "wa", "habari", "walisafiri", "kutoka", "Dodoma", "hadi", "Moshi", "kufuatilia", "mkutano", "wa", "wanawake", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Simba", "Cement", "imezindua", "kiwanda", "kipya", "Morogoro", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Filamu", "iliyoshinda", "Oscar", "mwaka", "2022", "iliandaliwa", "nchini", "Nigeria", "."], "ner_tags": [0, 0, 7, 0, 8, 0, 0, 0, 5, 0]}
+{"tokens": ["Mchezaji", "maarufu", "Cristiano", "Ronaldo", "amejiunga", "na", "klabu", "ya", "Al", "Nassr", "Saudi", "Arabia", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 0, 4, 7, 8, 5, 6, 0]}
+{"tokens": ["Mkutano", "mkubwa", "wa", "biashara", "ulifanyika", "Kampala", "Uganda", "wakishirikisha", "wawekezaji", "kutoka", "Ulaya", "na", "Asia", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 7, 0, 5, 0]}
+{"tokens": ["Waathirika", "wa", "mafuriko", "walihamishiwa", "kambini", "Naivasha", "kwa", "msaada", "wa", "Serikali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 3, 0]}
+{"tokens": ["Bunge", "la", "Jamhuri", "ya", "Muungano", "wa", "Tanzania", "limepitisha", "sheria", "mpya", "ya", "elimu", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "Kombe", "la", "Afrika", "kwa", "Wachezaji", "wanaocheza", "ndani", "ya", "bara", "yameanza", "nchini", "Ivory", "Coast", "."], "ner_tags": [0, 0, 7, 8, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Meneja", "wa", "benki", "alikutana", "na", "mkuu", "wa", "Chama", "cha", "Wafanyabiashara", "wa", "Afrika", "Mashariki", "kutafuta", "ufumbuzi", "wa", "changamoto", "zao", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Msanii", "maarufu", "Diamond", "Platnumz", "aliandaa", "tamasha", "kubwa", "katika", "ukumbi", "wa", "Milimani", "City", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 7, 8, 3, 4, 4, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Dodoma", "kimetunuku", "shahada", "za", "heshima", "kwa", "viongozi", "wa", "Afrika", "."], "ner_tags": [3, 4, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "amezindua", "mradi", "mpya", "wa", "umeme", "katika", "mkoa", "wa", "Morogoro", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Chama", "cha", "Mapinduzi", "kimepata", "ushindi", "mkubwa", "katika", "uchaguzi", "wa", "mwaka", "2020", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 7, 8, 0, 5, 0]}
+{"tokens": ["Soko", "la", "kariakoo", "limefungwa", "kwa", "maandalizi", "ya", "sherehe", "za", "uhuru", "itakayofanyika", "Desemba", "9", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "Profesa", "Joyce", "Ndalichako", "ametangaza", "matokeo", "ya", "mtihani", "wa", "kidato", "cha", "nne", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Filamu", "ya", "Black", "Panther", "imeonyeshwa", "katika", "ukumbi", "wa", "Cinemax", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 4, 5, 5, 5, 5, 0]}
+{"tokens": ["Mkutano", "wa", "Umoja", "wa", "Mataifa", "uliofanyika", "New", "York", "umejadili", "masuala", "ya", "kimataifa", "."], "ner_tags": [0, 0, 0, 4, 4, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Simba", "SC", "imeshinda", "mechi", "yake", "dhidi", "ya", "Young", "Africans", "katika", "ligi", "ya", "Tanzania", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwanzilishi", "wa", "Tesla", "Elon", "Musk", "ametangaza", "zawadi", "maalum", "kwa", "wagunduzi", "chipukizi", "."], "ner_tags": [0, 0, 1, 2, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Wakazi", "wa", "Kisumu", "wamepongeza", "mradi", "wa", "maji", "ulioanzishwa", "na", "serikali", "ya", "Kaunti", "ya", "Kisumu", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "WHO", "limeonya", "kuhusu", "kuongezeka", "kwa", "vifo", "vinaavyosababishwa", "na", "malaria", "Afrika", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Julius", "Nyerere", "alikumbukwa", "kwenye", "maadhimisho", "ya", "Kumbukumbu", "ya", "Mwalimu", "nchini", "Butiama", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 1, 0, 5, 0]}
+{"tokens": ["Mahakama", "ya", "kimataifa", "ikiongozwa", "na", "Jaji", "Fatou", "Bensouda", "inachunguza", "kesi", "ya", "uhalifu", "Gambia", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "kwenye", "Ukumbi", "wa", "Mlimani", "City", "uliongozwa", "na", "wazungumzaji", "kutoka", "Uganda", "na", "Rwanda", "."], "ner_tags": [0, 0, 3, 4, 5, 5, 0, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["Jeshi", "la", "Polisi", "limefanya", "doria", "katika", "eneo", "la", "Msasani", "usiku", "huu", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Mcheza", "tenisi", "Serena", "Williams", "ametwaa", "ubingwa", "katika", "mashindano", "ya", "Wimbledon", "mwaka", "2021", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 1, 0, 7, 8, 0]}
+{"tokens": ["Kupitia", "ufadhili", "wa", "Benki", "ya", "Dunia", ",", "wanafunzi", "zaidi", "ya", "1000", "wamenufaika", "na", "mradi", "huo", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Katika", "muswada", "mpya", "bungeni", ",", "Mbunge", "David", "Silinde", "amesema", "marekebisho", "yatawanufaisha", "wananchi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Marubani", "wa", "kampuni", "ya", "Ethiopian", "Airlines", "waliokolewa", "baada", "ya", "ajali", "iliyotokea", "Addis", "Ababa", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Waziri", "wa", "Mambo", "ya", "Ndani", "George", "Simbachawene", "alizindua", "kampeni", "ya", "usalama", "barabarani", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Watanzania", "wamesherehekea", "Eid", "al-Fitr", "kwa", "kushiriki", "sala", "katika", "msikiti", "wa", "Gadafi", "Dar", "."], "ner_tags": [0, 0, 7, 8, 0, 0, 0, 0, 3, 4, 5, 6, 0]}
+{"tokens": ["Wanariadha", "kutoka", "Kenya", "wamefanikiwa", "kuweka", "rekodi", "katika", "mbio", "za", "Olympics", "Tokyo", "2020", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alizungumza", "katika", "Sherehe", "za", "Siku", "ya", "Uhuru", "kwenye", "uwanja", "wa", "Moi", "Nairobi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 7, 0, 5, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Mkutano", "mkubwa", "ulimfanyika", "Dar", "es", "Salaam", "kwa", "ushirikiano", "na", "Chuo", "Kikuu", "cha", "Makerere", "Uganda", "."], "ner_tags": [0, 0, 0, 1, 2, 3, 0, 0, 0, 1, 2, 0, 1, 2, 5, 0]}
+{"tokens": ["Mwimbaji", "maarufu", "Diamond", "Platnumz", "ametangaza", "ziara", "yake", "Ulaya", "mwaka", "huu", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 0, 0, 0]}
+{"tokens": ["Serikali", "ya", "Congo", "imetangaza", "janga", "la", "Ebola", "katika", "mkoa", "wa", "Ituri", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Janet", "Museveni", "aliwasili", "Entebbe", "na", "kuzungumza", "kwenye", "kituo", "cha", "televisheni", "cha", "NTV", "."], "ner_tags": [1, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Mkutano", "wa", "jumuiya", "ya", "Afrika", "Mashariki", "ulifanyika", "Arusha", "Jumatano", "iliopita", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 1, 0, 7, 8, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "amehudhuria", "sherehe", "za", "mapinduzi", "Zanzibar", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0, 1, 5, 0]}
+{"tokens": ["Obama", "alikutana", "na", "Raila", "Odinga", "katika", "mkutano", "wa", "eneo", "la", "Kisumu", "Kenya", "."], "ner_tags": [1, 0, 0, 1, 2, 0, 0, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Liverpool", "ilibeba", "kombe", "la", "Maendeleo", "Barani", "Ulaya", "mwaka", "2019", "."], "ner_tags": [3, 0, 0, 0, 5, 6, 0, 8, 0, 0, 0]}
+{"tokens": ["Watoto", "wapatao", "elfu", "kumi", "wamepatiwa", "chanjo", "nchini", "Rwanda", "kutokana", "na", "ushirikiano", "na", "UNICEF", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "imezindua", "huduma", "mpya", "ya", "M-Pesa", "katika", "Kaunti", "ya", "Nairobi", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 3, 0, 0, 7, 0, 1, 5, 0]}
+{"tokens": ["Agosti", "28", "Shirika", "la", "Afya", "Ulimwenguni", "WHO", "litatoa", "ripoti", "rasmi", "juu", "ya", "COVID-19", "barani", "Afrika", "."], "ner_tags": [7, 8, 3, 0, 5, 6, 0, 4, 0, 0, 0, 0, 0, 0, 0, 7, 8, 5, 6, 0]}
+{"tokens": ["Papa", "Francisco", "aliwaombea", "waathirika", "wa", "tetemeko", "la", "ardhi", "Haiti", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["Timu", "ya", "Simba", "ilinyakua", "ubingwa", "Ligi", "Kuu", "ya", "Tanzania", "2018", "."], "ner_tags": [0, 0, 1, 0, 0, 3, 4, 0, 0, 5, 8, 0]}
+{"tokens": ["Mwezi", "uliopita", "kulikuwa", "na", "mafuriko", "makubwa", "katika", "jimbo", "la", "Mozambique", "na", "watu", "wengi", "walipoteza", "makazi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Almasi", "zilizopatikana", "katika", "mgodi", "wa", "Williamson", "zinatoka", "Tanzania", "Mara", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 5, 6, 0]}
+{"tokens": ["Muhariri", "Wa", "Gazeti", "la", "Daily", "Nation", "aliandika", "makala", "kuhusu", "uchumi", "wa", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 3, 4, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Halmashauri", "ya", "Jiji", "la", "Mombasa", "imezindua", "kampeni", "ya", "usafi", "iliyodhaminiwa", "na", "Coca-Cola", "."], "ner_tags": [0, 0, 1, 0, 1, 2, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Mamlaka", "ya", "Hali", "ya", "Hewa", "imetangaza", "doa", "za", "mawingu", "kali", "katika", "eneo", "la", "Dodoma", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 0]}
+{"tokens": ["Hospitali", "ya", "Aga", "Khan", "iliyoko", "jijini", "Dar", "es", "Salaam", "inatoa", "matibabu", "ya", "ubora", "wa", "hali", "ya", "juu", "."], "ner_tags": [0, 0, 1, 2, 3, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwanafunzi", "alitoka", "Bukavu", "Kongo", "kuja", "kusoma", "Chuo", "Kikuu", "cha", "Nairobi", "Tawi", "la", "Kisumu", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 4, 5, 6, 0, 1, 2, 7, 8, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alitembelea", "mji", "wa", "Mombasa", "kwa", "mazungumzo", "na", "gavana", "Hassan", "Joho", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Mnamo", "Jumamosi", "iliyopita", ",", "wanariadha", "kutoka", "Ethiopia", "walishinda", "mbio", "za", "marathon", "za", "Dar", "es", "Salaam", "."], "ner_tags": [0, 7, 0, 0, 0, 5, 0, 0, 0, 0, 7, 8, 9, 0]}
+{"tokens": ["Kampuni", "ya", "Tanzania", "Breweries", "Limited", "imetangaza", "faida", "katika", "mdahalo", "uliofanyika", "mkoani", "Dodoma", "."], "ner_tags": [0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Katika", "mkutano", "uliofanyika", "katika", "Chuo", "Kikuu", "cha", "Nairobi", ",", "watafiti", "walijadili", "matokeo", "ya", "utafiti", "wao", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mama", "Teresa", "alikumbukwa", "na", "jumuiya", "ya", "Kanisa", "Katoliki", "Ulimwenguni", "."], "ner_tags": [0, 1, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Filamu", "ya", "Black", "Panther", "ilionyeshwa", "katika", "Jumba", "la", "Nafasi", "Arusha", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 3, 4, 5, 5, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Mutahi", "Kagwe", "alimweleza", "wananchi", "kuhusu", "tahadhari", "dhidi", "ya", "COVID-19", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Mtangazaji", "maarufu", "Mwanaisha", "Chidzuga", "ametangaza", "kujiunga", "na", "runinga", "ya", "K24", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mwanzilishi", "wa", "kampuni", "ya", "Tesla", ",", "Elon", "Musk", ",", "ameorodheshwa", "miongoni", "mwa", "matajiri", "wakubwa", "duniani", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klabu", "ya", "soka", "ya", "Yanga", "SC", "imeshinda", "ubingwa", "Tanzania", "Bara", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 5, 6, 0]}
+{"tokens": ["Balozi", "China", "nchini", "Kenya", "amepongeza", "ushirikiano", "kati", "ya", "mataifa", "hayo", "mawili", "."], "ner_tags": [0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tuzo", "ya", "Nobel", "ya", "Amani", "mwaka", "2021", "ilipewa", "Maria", "Ressa", "kutoka", "Ufilipino", "."], "ner_tags": [0, 0, 7, 0, 7, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Tamasha", "la", "muziki", "la", "Sauti", "za", "Busara", "limeanzishwa", "Zanzibar", "tangu", "mwaka", "2004", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 2, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Mji", "wa", "Kigali", "umekuwa", "kielelezo", "cha", "maendeleo", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Utafiti", "wa", "Chuo", "Kikuu", "cha", "Oxford", "umebaini", "ufanisi", "wa", "chanjo", "ya", "AstraZeneca", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Mchezaji", "Lionel", "Messi", "amejiunga", "na", "PSG", "baada", "ya", "kuondoka", "Barcelona", "mwaka", "2021", "."], "ner_tags": [0, 1, 2, 0, 0, 3, 0, 0, 0, 1, 0, 7, 0]}
+{"tokens": ["Askofu", "Desmond", "Tutu", "aliongoza", "wapandaishi", "wa", "maendeleo", "Afrika", "Kusini", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Kikao", "kilichofanyika", "wilayani", "Serengeti", "kilihudhuriwa", "na", "wakuu", "wa", "vitengo", "mbalimbali", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "kimataifa", "la", "UNICEF", "limezindua", "mpango", "wa", "chanjo", "dhidi", "ya", "polio", "nchini", "Sudan", "."], "ner_tags": [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Magereza", "ya", "Keko", "yamepokea", "ufadhili", "kutoka", "Shirika", "la", "Red", "Cross", "International", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "alifanya", "ziara", "rasmi", "nchini", "Uganda", "ili", "kuimarisha", "uhusiano", "wa", "kidiplomasia", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mechi", "katika", "uwanja", "wa", "Benjamin", "Mkapa", "ilimvutia", "Kocha", "wa", "Simba", "SC", "kutokana", "na", "ushindi", "mkubwa", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 1, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", ",", "limeonya", "kuhusu", "kuongezeka", "kwa", "maambukizi", "ya", "Ebola", "katika", "Jamhuri", "ya", "Kidemokrasia", "ya", "Congo", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "iliendesha", "kampeni", "ya", "upandaji", "miti", "katika", "mkoa", "wa", "Kilimanjaro", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Aliyekuwa", "Rais", "wa", "Zimbabwe", ",", "Robert", "Mugabe", ",", "alifariki", "mwaka", "2019", "katika", "taifa", "hilo", "."], "ner_tags": [0, 0, 0, 5, 0, 1, 2, 0, 0, 7, 0, 0, 0, 0]}
+{"tokens": ["Wanariadha", "kutoka", "Kenya", "walishinda", "medali", "nyingi", "katika", "mashindano", "ya", "Olimpiki", "Tokyo", "2021", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 7, 0, 8, 0]}
+{"tokens": ["Miaka", "ya", "mapema", "ya", "2000s", "ilikuwa", "ya", "mabadiliko", "makubwa", "katika", "sehemu", "za", "teknolojia", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "Mataifa", "ya", "Afrika", "Mashariki", "ulifanyika", "Arusha", "wiki", "iliyopita", "."], "ner_tags": [0, 0, 0, 0, 5, 2, 0, 5, 0, 0, 0]}
+{"tokens": ["Mwimbaji", "maarufu", "Diamond", "Platnumz", "alitoa", "wimbo", "mpya", "ulioitwa", "\"", "Jeje", "\"", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 2, 2, 0]}
+{"tokens": ["Benki", "ya", "ABSA", "imetangaza", "mpango", "wa", "kuwasaidia", "wajasiriamali", "wadogo", "katika", "Tanzania", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Jaji", "Mkuu", "Martha", "Koome", "alichaguliwa", "kuongoza", "Mahakama", "ya", "Juu", "nchini", "Kenya", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Chama", "cha", "Demokrasia", "na", "Maendeleo", "(CHADEMA)", "kiliandaa", "mkutano", "mkubwa", "Dodoma", "."], "ner_tags": [0, 0, 1, 0, 2, 0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Serikali", "ya", "China", "imetangaza", "marufuku", "ya", "kutumia", "programu", "ya", "TikTok", "katika", "mashule", "yake", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Kijana", "aliyekamatwa", "na", "polisi", "Dar", "es", "Salaam", "alikutwa", "na", "dawa", "za", "kulevya", "aina", "ya", "Heroine", "."], "ner_tags": [0, 0, 0, 0, 5, 2, 2, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Baraza", "la", "Mitihani", "Tanzania", "limetangaza", "matokeo", "ya", "kidato", "cha", "nne", "mwaka", "2023", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Mara", "ya", "kwanza", "Baada", "ya", "miezi", "sita", ",", "treni", "ya", "SGR", "ilitoka", "Nairobi", "kuenda", "Mombasa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 5, 0, 5, 0]}
+{"tokens": ["Mbunge", "wa", "Jimbo", "la", "Hai", ",", "Freeman", "Mbowe", ",", "alihutubia", "mkutano", "mkubwa", "Arusha", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkurugenzi", "wa", "UNICEF", "Catherine", "Russell", "alizindua", "mpango", "mpya", "wa", "chanjo", "Afrika", "Magharibi", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 0, 0, 5, 2, 0]}
+{"tokens": ["Wakazi", "wa", "Zanzibar", "walisherehekea", "Sikukuu", "ya", "Eid", "el-Fitr", "kwa", "shangwe", "na", "furaha", "tele", "."], "ner_tags": [0, 0, 5, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jengo", "la", "Hospitali", "ya", "Rufaa", "ya", "Bugando", "lilifunguliwa", "rasmi", "mnamo", "2005", "Mwanza", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 1, 0, 0, 0, 7, 5, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alifanya", "ziara", "nchini", "Uganda", "mwaka", "2023", "kutia", "saini", "makubaliano", "ya", "biashara", "."], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 5, 7, 8, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtoto", "aliyezaliwa", "mji", "wa", "Tanga", "amepokelewa", "kwa", "furaha", "na", "wazazi", "wake", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Soko", "kuu", "la", "Kariakoo", "limefunguliwa", "tena", "baada", "ya", "matengenezo", "makubwa", "katika", "jengo", "lile", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "alitembelea", "kiwanda", "cha", "maziwa", "cha", "Tanga", "Fresh", "Jumatatu", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Mkutano", "wa", "Kimataifa", "uliofanyika", "wanafunzi", "walitoka", "nchi", "mbalimbali", "kama", "Kenya", ",", "Rwanda", "na", "Burundi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Mheshimiwa", "Jakaya", "Mrisho", "Kikwete", "aliwahutubia", "wananchi", "mkoani", "Mtwara", "siku", "ya", "uhuru", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(", "WHO", ")", "limeripoti", "ongezeko", "la", "maambukizi", "barani", "Afrika", "."], "ner_tags": [3, 4, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mchezo", "wa", "fainali", "ulichezwa", "katika", "Uwanja", "wa", "Benjamin", "Mkapa", ",", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 0, 5, 6, 6, 0]}
+{"tokens": ["Jopo", "la", "madaktari", "kutoka", "Hospitali", "ya", "Muhimbili", "limeshirikiana", "na", "Hospitali", "Kuu", "ya", "Bugando", "kutoa", "matibabu", "bora", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 5, 6, 0, 5, 0, 0, 0]}
+{"tokens": ["Shule", "ya", "St.", "Mary's", "iliyopo", "Arusha", "imepata", "tuzo", "ya", "usafi", "wa", "mazingira", "mwaka", "huu", "."], "ner_tags": [0, 0, 3, 4, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkurugenzi", "wa", "kampuni", "ya", "Vodacom", "Tanzania", "alitangaza", "mpango", "mpya", "wa", "miamala", "ya", "kielektroniki", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Benki", "ya", "CRDB", "imetangaza", "faida", "kupitia", "ripoti", "yake", "ya", "mwaka", "2022", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Kampuni", "ya", "Simba", "Sports", "Club", "imetangaza", "usajili", "wa", "wachezaji", "wapya", "kutoka", "Nigeria", "na", "Ghana", "."], "ner_tags": [3, 4, 5, 6, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Aliyekuwa", "makamu", "wa", "rais", "John", "Pombe", "Magufuli", "amezikwa", "Wilayani", "Chato", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 2, 0, 5, 6, 0]}
+{"tokens": ["Jiji", "la", "Mombasa", "linajulikana", "kwa", "fukwe", "zake", "nzuri", "zilizopo", "pwani", "ya", "Kenya", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwenyekiti", "wa", "bodaboda", "aliunga", "mkono", "tuzo", "iliyotolewa", "na", "Serikali", "ya", "Mapinduzi", "ya", "Zanzibar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0, 5, 0]}
+{"tokens": ["Tamasha", "la", "muziki", "la", "Sauti", "za", "Busara", "lafanyika", "Unguja", "kila", "mwaka", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Canada", "imetangaza", "msaada", "wa", "dola", "milioni", "20", "kwa", "Shirika", "la", "Misaada", "Duniani", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Mtangazaji", "maarufu", "Salama", "Jabir", "anaendesha", "kipindi", "kipya", "kinachoitwa", "'", "Mkasi", "'", "katika", "EATV", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Balozi", "wa", "Uingereza", " nchini", "Tanzania", "ameahidi", "kuendeleza", "ushirikiano", "katika", "sekta", "ya", "elimu", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ni", "wakati", "wa", "mashindano", "makubwa", "ya", "mbio", "za", "marathon", "zitakazofanyika", "Kilimanjaro", "2024", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 7, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alikutana", "na", "Waziri", "Mkuu", "wa", "India", ",", "Narendra", "Modi", ",", "katika", "mkutano", "uliofanyika", "New", "Delhi", "."], "ner_tags": [1, 2, 2, 0, 0, 1, 2, 0, 5, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Watoto", "wengi", "nchini", "Uganda", "wanapata", "chanjo", "kupitia", "mpango", "wa", "UNICEF", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mkutano", "wa", "uchumi", "ulimwenguni", "umepangwa", "kufanyika", "Davos", ",", "Uswisi", "mwaka", "huu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Filamu", "iliyoshinda", "tuzo", "ya", "Oscar", "inaitwa", "Parasite", "kutoka", "Korea", "Kusini", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 5, 6, 0]}
+{"tokens": ["Mwezi", "uliopita", ",", "Tanzania", "ilitangaza", "kugundua", "gesi", "asili", "katika", "eneo", "la", "Lindi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mabingwa", "wa", "soka", "Ulaya", ",", "Real", "Madrid", ",", "walisherehekea", "ushindi", "wakubwa", "dhidi", "ya", "Barcelona", "."], "ner_tags": [0, 0, 0, 5, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Daktari", "James", "Mwangi", "amependekezwa", "kupokea", "tuza", "kutoka", "Chuo", "Kikuu", "cha", "Nairobi", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 1, 2, 2, 5, 0]}
+{"tokens": ["Ziara", "ya", "papa", "Francis", "nchini", "Sudan", "Kusini", "ilijadili", "masuala", "ya", "amani", "na", "maridhiano", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Serikali", "yatangaza", "mvuvi", "kutokea", "kisiwa", "cha", "Pemba", "amepata", "samaki", "mkubwa", "zaidi", "mwaka", "huu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "imezindua", "huduma", "mpya", "ya", "M-Pesa", "katika", "nchi", "za", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 6, 0]}
+{"tokens": ["Mwanariadha", "Eliud", "Kipchoge", "aliweka", "rekodi", "mpya", "kwenye", "mbio", "za", "marathon", "London", "2019", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Timu", "ya", "volleyball", "ya", "Malkia", "Strikers", "ilitwaa", "ubingwa", "mwaka", "2023", "katika", "Za", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Msanii", "Diamond", "Platnumz", "ametangaza", "kufanya", "tamasha", "kubwa", "katika", "jiji", "la", "Kigali", ",", "Rwanda", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Gavana", "wa", "Kisumu", ",", "Profesa", "Anyang'", "Nyong'o", ",", "amezindua", "barabara", "mpya", "katika", "mji", "huo", "."], "ner_tags": [1, 0, 5, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtoto", "aliyepotea", "alitafutwa", "na", "makundi", "ya", "msalaba", "mwekundu", "na", "wanajamii", "kwa", "siku", "tatu", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Wakimbizi", "kutoka", "Burundi", "wanapatiwa", "makazi", "katika", "makambi", "ya", "Nyarugusu", "na", "Mtendeli", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Msafara", "wa", "misaada", "umewasili", "mji", "wa", "Goma", "katika", "DRC", "baada", "ya", "mlipuko", "wa", "vulkan", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shindano", "la", "marathon", "limefanyika", "jijini", "Arusha", "likivutia", "wakimbiaji", "kutoka", "kila", "pembezoni", "mwa", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Kiongozi", "anaongoza", "chama", "kipya", "kilichosajiliwa", "kwa", "jina", "la", "Wazalendo", "Kenya", "na", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 5, 0, 5, 0]}
+{"tokens": ["Mtihani", "wa", "KCSE", "umeanza", "leo", "katika", "shule", "mbalimbali", "za", "jamii", "za", "Wamalwa", "na", "Waswahili", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "aliwasili", "Dar", "es", "Salaam", "kutoka", "Dodoma", "kwa", "ajili", "ya", "majadiliano", "ya", "bidhaa"], "ner_tags": [0, 1, 2, 2, 0, 5, 6, 6, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "Kilimanjaro", "Marathon", "yamepangwa", "kufanyika", "mwaka", "huu", "katika", "mkoa", "wa", "Kilimanjaro"], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Abdallah", "Maulid", "amechaguliwa", "kuwa", "meya", "wa", "jiji", "la", "Zanzibar"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Mkutano", "wa", "Viongozi", "wa", "Jumuiya", "ya", "Afrika", "Mashariki", "ulifanyika", "Arusha", "mwishoni", "mwa", "wiki"], "ner_tags": [0, 0, 0, 0, 3, 4, 5, 6, 0, 5, 0, 0, 0]}
+{"tokens": ["Mfuko", "wa", "Kimataifa", "wa", "Fedha", "(IMF)", "umetoa", "mkopo", "kwa", "Serikali", "ya", "Uganda"], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 6]}
+{"tokens": ["Shule", "ya", "Sekondari", "ya", "St.", "Mary's", "iliongoza", "katika", "matokeo", "ya", "kidato", "cha", "nne"], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwamuzi", "mashuhuri", "Salome", "Mwita", "alitolewa", "tuzo", "katika", "Tuzo", "ya", "CAF", "2023"], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 4, 7, 8]}
+{"tokens": ["Aliyekuwa", "Waziri", "wa", "Zendegi", "Nasser", "Najafi", "alifariki", "duniani", "Jumatatu"], "ner_tags": [0, 0, 0, 3, 1, 2, 0, 0, 7]}
+{"tokens": ["Benki", "ya", "CRDB", "imetangaza", "faida", "zaidi", "mwaka", "2022"], "ner_tags": [0, 0, 3, 0, 0, 0, 7, 8]}
+{"tokens": ["Filamu", "\u2018Nyota", "ya", "Mapenzi\u2019", "ilionyeshwa", "kwenye", "Tamasha", "la", "Filamu", "la", "Zanzibar"], "ner_tags": [0, 3, 4, 0, 0, 0, 3, 4, 0, 5]}
+{"tokens": ["Meneja", "wa", "mradi", "huo", "kutoka", "Shirika", "la", "AFD", "Bi.", "Claire", "Dupont", "alitembelea", "Morogoro"], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 1, 2, 0, 5]}
+{"tokens": ["Dkt.", "Peter", "Modi", "alitangaza", "mpango", "wa", "chanjo", "nchini", "Sudan"], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "amesema", "serikali", "itashirikiana", "na", "wakulima", "wa", "Mbarali"], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Makamu", "wa", "Rais", "Philip", "Mpango", "ashiriki", "mkutano", "wa", "klima", "Dubai"], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5]}
+{"tokens": ["Mwanamuziki", "maarufu", "Diamond", "Platnumz", "ametunukiwa", "tuzi", "huko", "Nigeria"], "ner_tags": [0, 0, 1, 2, 0, 0, 5]}
+{"tokens": ["Mahakama", "ya", "Kimataifa", "ya", "The", "Hague", "imesikiliza", "kesi", "dhidi", "ya", "Serbia"], "ner_tags": [0, 0, 3, 4, 5, 6, 0, 0, 0, 0, 5]}
+{"tokens": ["Mtandao", "maarufu", "wa", "Twitter", "umepigwa", "marufuku", "katika", "Nigeria"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 5]}
+{"tokens": ["Balozi", "Anna", "Mwakasaka", "aliwakilisha", "Tanzania", "katika", "mkutano", "wa", "UNESCO"], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 0, 3]}
+{"tokens": ["Mji", "wa", "Bukoba", "umepokea", "mgeni", "kutoka", "Burundi"], "ner_tags": [0, 0, 5, 0, 0, 0, 5]}
+{"tokens": ["Hafla", "ya", "kuapishwa", "ilifanyika", "Ikulu", "mara", "baada", "ya", "uchaguzi", "kuu"], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "wa", "Mambo", "ya", "Nje", "alikutana", "na", "mabalozi", "kutoka", "Ufaransa", "na", "Ujerumani"], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 5, 0, 5]}
+{"tokens": ["Timu", "ya", "Simba", "imefuzu", "kwenda", "fainali", "ya", "Kombe", "la", "Shirikisho", "Afrika", "msimu", "huu", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "amezindua", "mradi", "mpya", "wa", "umeme", "katika", "mkoa", "wa", "Morogoro", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Barabara", "ya", "Bagamoyo", "imefunguliwa", "rasmi", "mwezi", "Januari", "2024", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Ujenzi", "wa", "Bwawa", "la", "Nyerere", "umefikia", "asilimia", "80", "hadi", "Juni", "2023", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Shule", "ya", "Feza", "iliyopo", "Dar", "es", "Salaam", "imepokea", "tuzo", "ya", "ubora", "."], "ner_tags": [0, 0, 1, 0, 5, 6, 5, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "AFCON", "yamepangwa", "kufanyika", "Ivory", "Coast", "mwaka", "2024", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 6, 0, 7, 0]}
+{"tokens": ["Ali", "Kiba", "ametoa", "wimbo", "mpya", "unaohusu", "amani", "barani", "Afrika", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "umuhimu", "ulifanyika", "Addis", "Ababa", "mwishoni", "mwa", "wiki", "iliyopita", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Benki", "ya", "CRDB", "imezindua", "programu", "ya", "mikopo", "kwa", "wajasiriamali", "wadogo", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Katika", "tuzo", "za", "Grammy", "2023", ",", "Burna", "Boy", "alipata", "uteuzi", "mara", "tatu", "."], "ner_tags": [0, 0, 0, 3, 7, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Mvua", "kubwa", "imesababisha", "mafuriko", "katika", "jiji", "la", "Mombasa", "wiki", "yaliyopita", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["UNICEF", "imesaidia", "kujenga", "madarasa", "mapya", "katika", "wilaya", "ya", "Bunda", "Tanzania", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Filamu", "ya", "The", "Lion", "King", "imevutia", "watazamaji", "wengi", "kimataifa", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Dodoma", "kimepata", "fadhili", "kutoka", "serikali", "ya", "China", "."], "ner_tags": [0, 1, 2, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mhe.", "John", "Magufuli", "aliweka", "jiwe", "la", "msingi", "katika", "mradi", "wa", "madini", "Geita", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waandishi", "kutoka", "BBC", "walitembelea", "hifadhi", "ya", "Ngorongoro", "wakifanya", "taarifa", "za", "mazingira", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashirika", "ya", "kimataifa", "yanaisaidia", "Somalia", "kupambana", "na", "ukame", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imezindua", "huduma", "za", "Intaneti", "ya", "5G", "Tanzania", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 3, 0, 7, 0]}
+{"tokens": ["Mbio", "za", "marathon", "zitafanyika", "Arusha", "Jumamosi", "ijayo", "."], "ner_tags": [0, 0, 0, 0, 5, 7, 0, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "imetoa", "chanjo", "ya", "polio", "kwa", "watoto", "nchini", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Harusi", "ya", "Zuchu", "na", "Diamond", "Platnumz", "ilifanyika", "Dar", "es", "Salaam", "mwaka", "2023", "."], "ner_tags": [0, 0, 1, 0, 1, 2, 0, 5, 6, 5, 0, 7, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "alizindua", "mradi", "mpya", "wa", "ujenzi", "wa", "barabara", "Dodoma", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Marathon", "ya", "Kilimanjaro", "ilifanyika", "mwaka", "2022", "ikiwahusisha", "washiriki", "kutoka", "mataifa", "mbalimbali", "."], "ner_tags": [0, 0, 5, 0, 0, 7, 8, 0, 0, 0, 0, 0]}
+{"tokens": ["Benki", "ya", "Equity", "imetangaza", "kupunguza", "viwango", "vya", "riba", "kwa", "wakopaji", "wadogo", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "wa", "Biashara", "utafanyika", "katika", "ukumbi", "wa", "Julius", "Nyerere", "International", "Convention", "Centre", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 0]}
+{"tokens": ["Jamii", "ya", "Wasambaa", "imekuwa", "ikihifadhi", "utamaduni", "wao", "kwa", "vizazi", "vingi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Daktari", "Asha", "Abdalla", "ametajwa", "kushinda", "tuzo", "ya", "utafiti", "Afrika", "Mashariki", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Eneo", "la", "Serengeti", "lina", "wanyama", "wengi", "wakubwa", "kama", "tembo", "na", "simba", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Air", "Tanzania", "imezindua", "safari", "mpya", "kuenda", "Lubumbashi", "Jamhuri", "ya", "Kidemokrasia", "ya", "Congo", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 6, 6, 6, 6, 0]}
+{"tokens": ["Mwanafunzi", "wa", "Shule", "ya", "Sekondari", "Marian", "aliwaongoza", "wenzie", "katika", "shindano", "la", "hisabati", "nchini", "Kenya", "."], "ner_tags": [0, 0, 5, 6, 3, 4, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Filamu", "mpya", "iliyotengenezwa", "na", "John", "Mbaga", "imepata", "tuzo", "Hollywood", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "kimetoa", "scholarships", "kwa", "wanafunzi", "wenye", "ufaulu", "wa", "juu", "."], "ner_tags": [0, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "kipaji", "vya", "muziki", "yamefanyika", "kwenye", "ukumbi", "wa", "Nkrumah", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 1, 2, 3, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "ametuma", "salamu", "za", "pongezi", "kwa", "wachezaji", "wa", "Simba", "SC", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mto", "Nile", "ni", "moja", "ya", "mito", "mikubwa", "barani", "Afrika", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imezindua", "app", "yake", "mpya", "Dar", "es", "Salaam", "katika", "tukio", "la", "kimataifa", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwenyekiti", "wa", "Bunge", "la", "Burundi", "Bw.", "Jean", "Ngendakumana", "amewapongeza", "wabunge", "wote", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Barafu", "zinatokea", "mlima", "Kilimanjaro", "ambao", "uko", "kaskazini", "mwa", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kikosi", "cha", "jeshi", "la", "UN", "kinashiriki", "katika", "operesheni", "za", "amani", "C\u00f4te", "d'Ivoire", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Mashirika", "ya", "Habari", "BBC", "na", "Al", "Jazeera", "yamefanya", "tafiti", "Afrika", "Kusini", "."], "ner_tags": [0, 0, 3, 4, 0, 3, 4, 0, 0, 5, 6, 0]}
+{"tokens": ["Mwanariadha", "Tirunesh", "Dibaba", "ametoka", "Ethiopia", "na", "anashikilia", "rekodi", "ya", "mbio", "za", "mita", "5000", "."], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alikutana", "na", "wafanyabiashara", "kutoka", "China", "katika", "ikulu", "ya", "Nairobi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "kimataifa", "ulifanyika", "katika", "jiji", "la", "Addis", "Ababa", "mwaka", "2019", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Mutahi", "Kagwe", "ametoa", "tahadhari", "ya", "korona", "nchini", "Kenya", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Hifadhi", "ya", "Serengeti", "inajulikana", "kwa", "wanyama", "wengi", ",", "hususani", "simba", "na", "nyumbu", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "vodacom", "iliwekeza", "katika", "mradi", "mpya", "wa", "simu", "zamani", "Dodoma", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Shule", "ya", "sekondari", "ya", "Saint", "Mary", "iliyoko", "Mbezi", "inafunzi", "aling'ara", "katika", "mitihani", "ya", "taifa", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mabingwa", "wa", "ligi", "ya", "Uhispania", "Real", "Madrid", "walishinda", "mechi", "dhidi", "ya", "Barcelona", "juzi", "."], "ner_tags": [0, 0, 0, 0, 5, 3, 4, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Filamu", "ya", "Black", "Panther", "iliweka", "rekodi", "mpya", "katika", "Hollywood", "mwaka", "2018", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Makamu", "wa", "Rais", "Samia", "Suluhu", "ameapishwa", "kuwa", "Rais", "wa", "Tanzania", "baada", "ya", "kifo", "cha", "John", "Magufuli", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Hospitali", "ya", "Aga", "Khan", "imesaidia", "wagonjwa", "wengi", "nchini", "Kenya", "na", "Tanzania", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Barabara", "ya", "Mombasa", "Road", "imezinduliwa", "rasmi", "na", "Waziri", "James", "Macharia", "siku", "ya", "Jumatatu", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 1, 2, 0, 0, 7, 0]}
+{"tokens": ["Msanii", "Diamond", "Platnumz", "ametumbuiza", "katika", "tamasha", "la", "musiki", "Arusha", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Yanga", "walishinda", "bao", "mbili", "dhidi", "ya", "Namungo", "katika", "ligi", "kuu", "Tanzania", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 7, 0]}
+{"tokens": ["Mashindano", "ya", "Olympic", "yatafanyika", "mjini", "Tokyo", "mwaka", "2021", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Waandishi", "wa", "habari", "walitembelea", "Kituo", "cha", "Red", "Cross", "International", "kuona", "huduma", "zinavyotolewa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Kiongozi", "wa", "upinzani", "Raila", "Odinga", "alihojiwa", "na", "BBC", "katika", "mjadala", "wa", "kisiasa", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jumuiya", "ya", "Afrika", "Mashariki", "inategemea", "kuongeza", "ushirikiano", "kati", "ya", "wanachama", "wake", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Wanasayansi", "kutoka", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "wamegundua", "dawa", "mpya", "ya", "malaria", "."], "ner_tags": [0, 0, 3, 4, 0, 5, 6, 7, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Msafara", "wa", "Katibu", "Mkuu", "wa", "Umoja", "wa", "Mataifa", "ulifika", "nchini", "Sudan", "Kusini", "Jumamosi", "iliyopita", "."], "ner_tags": [0, 0, 1, 2, 0, 3, 0, 4, 0, 0, 5, 6, 7, 0, 0, 0, 0]}
+{"tokens": ["Wapiga", "kura", "waliweka", "rejareja", "katika", "mji", "wa", "Mwanza", "katika", "uchaguzi", "mkuu", "wa", "2015", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Shirika", "la", "UNICEF", "linaendesha", "kampeni", "ya", "chanjo", "Dhaka", "Bangladesh", "hivi", "karibuni", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alitangaza", "mpango", "wa", "kuimarisha", "afya", "katika", "kaunti", "ya", "Nairobi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "huo", "ulifanyika", "katika", "jiji", "la", "Dodoma", "mnamo", "Aprili", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 8, 0]}
+{"tokens": ["Serikali", "ya", "Tanzania", "imezindua", "mradi", "mpya", "wa", "umeme", "nchini", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwanasiasa", "maarufu", "Magufuli", "alifariki", "mwaka", "2021", "."], "ner_tags": [0, 0, 1, 0, 7, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imetangaza", "upungufu", "wa", "bei", "ya", "intaneti", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Watoto", "walisherehekea", "Siku", "ya", "Wafanyakazi", "tarehe", "Mosi", "Mei", "."], "ner_tags": [0, 0, 8, 0, 8, 8, 0]}
+{"tokens": ["Balozi", "Susan", "Mwangi", "aliwasili", "Addis", "Ababa", "Jumatatu", "."], "ner_tags": [0, 1, 2, 0, 5, 5, 8, 0]}
+{"tokens": ["Mchezaji", "nyota", "wa", "Simba", "SC", "alikabidhiwa", "tuzo", "ya", "ubora", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Barabara", "ya", "Bagamoyo", "ilifunguliwa", "na", "Waziri", "Mkuu", "Kassim", "Majaliwa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Jeshi", "la", "Ulinzi", "la", "Kenya", "liliadhimisha", "siku", "ya", "mashujaa", "Oktoba", "20", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 8, 0, 8, 8, 0]}
+{"tokens": ["Katika", "mashindano", "ya", "Olimpiki", "mjini", "Tokyo", "mwaka", "2020", ",", "wanariadha", "wa", "Ethiopia", "walipata", "medali", "za", "dhahabu", "."], "ner_tags": [0, 0, 0, 8, 0, 5, 7, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mgombea", "wa", "urais", "Samia", "Suluhu", "aliwatembelea", "wakazi", "wa", "Morogoro", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Timu", "ya", "Yanga", "SC", "ilicheza", "dhidi", "ya", "Azam", "FC", "jumamosi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 3, 4, 0, 8, 0]}
+{"tokens": ["Dkt.", "John", "Pombe", "Magufuli", "alizindua", "barabara", "mpya", "katika", "mkoa", "wa", "Kilimanjaro", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kaimu", "Mkurugenzi", "wa", "Hospitali", "ya", "Aga", "Khan", "amesema", "wagonjwa", "wataongezeka", "shuleni", "zikifunguliwa", "Mei", "."], "ner_tags": [0, 1, 0, 3, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "WHO", "limetoa", "tahadhari", "ya", "mlipuko", "wa", "maradhi", "Uganda", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Rehema", "Juma", "aliwakilisha", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "katika", "kongamano", ".", ""], "ner_tags": [1, 2, 0, 3, 4, 0, 5, 5, 5, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "wa", "Mambo", "ya", "Ndani", "George", "Kinoti", "aliteuliwa", "na", "rais", "wa", "Kenya", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "biashara", "utafanyika", "katika", "ukumbi", "wa", "Julius", "Nyerere", "International", "Convention", "Centre", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 5, 5, 5, 0]}
+{"tokens": ["Mtoto", "alitibiwa", "katika", "Hospitali", "ya", "Bugando", "Kanda", "ya", "Ziwa", "."], "ner_tags": [0, 0, 0, 3, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "Afya", "ulimfanya", "Dr.", "Mohamed", "Omar", "kuzungumza", "mbele", "ya", "wataalamu", "katika", "Nairobi", "."], "ner_tags": [0, 0, 5, 0, 1, 2, 2, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "aliwasili", "Dar", "es", "Salaam", "alasiri", "kutoka", "Dodoma", "."], "ner_tags": [0, 1, 2, 0, 4, 4, 5, 0, 0, 4, 0]}
+{"tokens": ["Mashindano", "ya", "Olympic", "yalifanyika", "Tokyo", "mwezi", "Julai", "2021", "."], "ner_tags": [0, 0, 7, 0, 5, 0, 8, 0, 0]}
+{"tokens": ["Serikali", "ya", "Tanzania", "imetangaza", "mpango", "wa", "kujenga", "barabara", "mpya", "katika", "Arusha", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Mwimbaji", "Maarufu", "Diamond", "Platnumz", "atashiriki", "tamasha", "la", "muziki", "Cape", "Town", "Afrika", "Kusini", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 4, 4, 5, 6, 0]}
+{"tokens": ["Michael", "Olunga", "aliifungia", "Kashiwa", "Reysol", "magoli", "mawili", "katika", "ligi", "ya", "Japani", "."], "ner_tags": [1, 2, 0, 0, 5, 6, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Safari", "ya", "Abuja", "ilipangwa", "na", "wizara", "ya", "mambo", "ya", "nje", "ya", "Kenya", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "Jumuiya", "ya", "Afrika", "Mashariki", "ulifanyika", "Kampala", "Uganda", "."], "ner_tags": [0, 0, 7, 0, 5, 6, 0, 4, 4, 0]}
+{"tokens": ["Shughuli", "za", "uzinduzi", "zitaongozwa", "na", "Waziri", "Mkuu", "Kassim", "Majaliwa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Mtangazaji", "Susan", "Owiyo", "alizuru", "Mombasa", "lingo", "la", "karibu", "na", "bahari", "ya", "Hindi", "."], "ner_tags": [0, 1, 2, 0, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mapinduzi", "ya", "Sudan", "yamesababisha", "mabadiliko", "makubwa", "ya", "uongozi", "katika", "Khartoum", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Timu", "ya", "soka", "ya", "Simba", "Sports", "Club", "ilikutana", "na", "Al", "Ahly", "katika", "Cairo", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 3, 0, 0, 4, 5, 0, 4, 0]}
+{"tokens": ["Mshindi", "wa", "tuzo", "ya", "Nobel", "kwa", "Elimu", "ni", "Abiy", "Ahmed", "kutoka", "Ethiopia", "."], "ner_tags": [0, 0, 0, 0, 7, 0, 0, 0, 1, 2, 0, 4, 0]}
+{"tokens": ["Waumini", "walienda", "Rome", "kuhudhuria", "mazishi", "ya", "Papa", "Francis", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Shirika", "la", "Habari", "la", "Uingereza", "BBC", "limevumbua", "kashfa", "hiyo", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Msanii", "Ali", "Kiba", "aliandaa", "tamasha", "la", "pamoja", "na", "Amani", "Club", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 4, 5, 0]}
+{"tokens": ["Katika", "mwaka", "wa", "2020", ",", "Umoja", "wa", "Mataifa", "ulipitisha", "azimio", "la", "amani", "."], "ner_tags": [0, 0, 0, 8, 0, 7, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Gavana", "wa", "Mombasa", "aliwasili", "ujerumani", "kuhudhuria", "mkutano", "wa", "AFCON", "2022", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Mvua", "kubwa", "imenyesha", "katika", "eneo", "la", "Morogoro", "na", "kusababisha", "mafuriko", "makubwa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Ndege", "ilianguka", "muda", "mfupi", "baada", "ya", "kuruka", "kutoka", "Uwanja", "wa", "Kimataifa", "wa", "Julius", "Nyerere", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 4, 4, 5, 0]}
+{"tokens": ["John", "Pombe", "Magufuli", "alikuwa", "rais", "wa", "tano", "wa", "Tanzania", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwili", "wa", "Nelson", "Mandela", "ulilazwa", "katika", "makao", "yake", "Qunu", "Afrika", "Kusini", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Chama", "cha", "Mapinduzi", "ndicho", "kiliongoza", "uchaguzi", "wa", "2020", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Mkutano", "ulifanyika", "katika", "jiji", "la", "Nairobi", "Kenya", "mwezi", "Julai", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 7, 0]}
+{"tokens": ["Mwanafunzi", "alishinda", "shindano", "la", "Sayansi", "duniani", "huko", "Shanghai", "China", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 3, 4, 0]}
+{"tokens": ["Serikali", "ya", "Nigeria", "ilitoa", "tamko", "Jumatatu", "kuhusu", "mzozo", "katika", "Delta", "State", "."], "ner_tags": [0, 0, 5, 0, 0, 7, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Simba", "Sports", "Club", "ilisaini", "mchezaji", "kutoka", "Uganda", "aitwaye", "Denis", "Onyango", "."], "ner_tags": [5, 6, 6, 0, 0, 0, 0, 3, 0, 1, 2, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "George", "Magoha", "alitangaza", "matokeo", "ya", "KCSE", "mwaka", "2021", "Kenya", "."], "ner_tags": [0, 0, 5, 1, 2, 0, 0, 0, 0, 7, 8, 8, 4, 0]}
+{"tokens": ["Wakulima", "wa", "kahawa", "mkoa", "wa", "Mbeya", "walipata", "faida", "kubwa", "mwaka", "2022", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Mashindano", "ya", "Olympic", "2024", "yatafanyika", "Paris", "Ufaransa", "."], "ner_tags": [0, 0, 5, 8, 0, 3, 4, 0]}
+{"tokens": ["Moja", "ya", "vituo", "vikubwa", "vya", "utafiti", "barani", "Afrika", "ni", "ILRI", "nchini", "Kenya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 4, 0]}
+{"tokens": ["Microsoft", "ilifungua", "ofisi", "yake", "katika", "mji", "wa", "Lagos", "Nigeria", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Uwanja", "wa", "mpira", "wa", "Old", "Trafford", "upo", "jijini", "Manchester", "Uingereza", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 3, 4, 0]}
+{"tokens": ["Katika", "mkutano", "uliofanyika", "New", "York", ",", "Ant\u00f3nio", "Guterres", "alisema", "UN", "itashirikiana", "na", "Serikali", "za", "dunia", "kufanikisha", "malengo", "ya", "maendeleo", "endelevu", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 1, 2, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bi", "Fatuma", "Mohamed", "alikuwa", "mgombea", "urais", "katika", "uchaguzi", "wa", "Somalia", "mwaka", "2017", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 7, 8, 8, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alizuru", "mji", "wa", "Kisumu", "Mei", "2021", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 4, 0, 7, 8, 0]}
+{"tokens": ["Filamu", "ya", "The", "Lion", "King", "iliyotengenezwa", "na", "Disney", "ilionyesha", "mazingira", "ya", "Afrika", "."], "ner_tags": [0, 0, 5, 6, 7, 0, 0, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Dkt.", "Dorothy", "Gwajima", "alizindua", "kampeni", "ya", "Chanjo", "ya", "UVIKO-19", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 1, 2, 0, 0, 0, 0, 5, 0, 7, 8, 0, 4, 0]}
+{"tokens": ["Msanii", "Diamond", "Platnumz", "alipewa", "zawadi", "na", "shirika", "la", "UNICEF", "kutambua", "mchango", "wake", "kwa", "watoto", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Gazeti", "la", "Daily", "Nation", "huchapishwa", "katika", "nchi", "ya", "Kenya", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alizindua", "mradi", "mpya", "nchini", "Kenya", "jana", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", "lilitoa", "ripoti", "kuhusu", "mlipuko", "wa", "Ebola", "huko", "Kongo", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mkutano", "uliandaliwa", "katika", "ukumbi", "wa", "Julius", "Nyerere", "International", "Convention", "Centre", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 5, 5, 5, 5, 5, 0]}
+{"tokens": ["Tembo", "walionekana", "karibu", "na", "ziwa", "Tanganyika", "mwezi", "Mei", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 7, 8, 0]}
+{"tokens": ["Mwanamuziki", "Diamond", "Platnumz", "alifanya", "tamasha", "kubwa", "Dodoma", "mwishoni", "mwa", "juma", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 7, 0, 0, 0]}
+{"tokens": ["Shule", "ya", "Sekondari", "ya", "St.", "Mary's", "Arusha", "ilipata", "matokeo", "mazuri", "katika", "mitihani", "ya", "kitaifa", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mhandisi", "Mwinyi", "alielekea", "Dodoma", "kukagua", "ujenzi", "wa", "barabara", "ya", "Morogoro", "Road", "."], "ner_tags": [0, 1, 0, 5, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Katibu", "Mkuu", "Wa", "Umoja", "Wa", "Mataifa", "Antonio", "Guterres", "alihutubia", "mkutano", "New", "York", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 5, 1, 2, 0, 0, 5, 5, 0]}
+{"tokens": ["Meli", "iliwasili", "Bandari", "ya", "Mombasa", "saa", "tatu", "asubuhi", "."], "ner_tags": [0, 0, 5, 5, 0, 5, 8, 8, 0, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "Profesa", "Joyce", "Ndalichako", "aliwatembelea", "wanafunzi", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 5, 5, 5, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "ilisaini", "mkataba", "mpya", "nchini", "Ethiopia", "Jumatatu", "iliyopita", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 7, 8, 0]}
+{"tokens": ["Mtalii", "kutoka", "Ujerumani", "alitembelea", "mlima", "Kilimanjaro", "mwaka", "2019", "na", "kupanda", "kilele", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 7, 8, 0, 0, 0, 0]}
+{"tokens": ["Jeshi", "la", "Polisi", "Tanzania", "lilifanikiwa", "kukamata", "magari", "matano", "ya", "wizi", "katika", "jiji", "la", "Mbeya", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwezi", "januari", "kuna", "maonesho", "yatakayofanyika", "Zanzibar", "katika", "viwanja", "vya", "Amaan", "."], "ner_tags": [7, 8, 0, 0, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampeni", "za", "chanjo", "dhidi", "ya", "Polio", "zitaanza", "kesho", "katika", "wilaya", "za", "Kigoma", "na", "Kasulu", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mkimbizi", "Samia", "alipokelewa", "na", "shirika", "la", "UNHCR", "mpakani", "na", "Burundi", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Mcheza", "mpira", "Cristiano", "Ronaldo", "amesaini", "mkataba", "na", "Manchester", "United", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Bunge", "la", "Afrika", "Mashariki", "limepitisha", "mswada", "mpya", "Arusha", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Mahakama", "ya", "kimataifa", "ilitoa", "hukumu", "dhidi", "ya", "Serikali", "ya", "Uganda", "mwaka", "2021", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 7, 8, 0]}
+{"tokens": ["Marekani", "iliahidi", "misaada", "ya", "dola", "milioni", "250", "kwa", "wakimbizi", "wa", "Syria", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 5, 0]}
+{"tokens": ["Dkt.", "Asha-Rose", "Migiro", "alitunukiwa", "tuzo", "na", "Chuo", "Kikuu", "cha", "Newcastle", "Uingereza", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 5, 0, 5, 5, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "imezindua", "mpango", "mpya", "wa", "afya", "katika", "kaunti", "ya", "Mombasa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dkt.", "Amina", "Hassan", "amechaguliwa", "kama", "waziri", "mkuu", "wa", "elimu", "nchini", "Somalia", "."], "ner_tags": [3, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "COP28", "ulifanyika", "Dubai", "mwezi", "Desemba", "2023", "."], "ner_tags": [0, 3, 4, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Lionel", "Messi", "alifikiria", "kustaafu", "kabla", "ya", "fainali", "ya", "Kombe", "la", "Dunia", "Qatar", "2022", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 5, 7, 8, 0]}
+{"tokens": ["Profesa", "Wangari", "Maathai", "alitunukiwa", "Tuzo", "ya", "Nobel", "mnamo", "2004", "."], "ner_tags": [3, 1, 2, 0, 0, 0, 3, 0, 7, 8, 0]}
+{"tokens": ["Timu", "ya", "Yanga", "imefanikiwa", "kushinda", "ubingwa", "Ligi", "Kuu", "Tanzania", "2023", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 3, 4, 5, 7, 8, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alitembelea", "Dodoma", "jioni", "ya", "Ijumaa", "."], "ner_tags": [0, 1, 2, 2, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Chama", "cha", "Mapinduzi", "kimeshinda", "uchaguzi", "Serengeti", "Mkoa", "wa", "Mara", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 5, 5, 0, 5, 0]}
+{"tokens": ["Shule", "ya", "St.", "Mary's", "imeandikisha", "wanafunzi", "wapya", "wiki", "hii", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 7, 8, 0, 0]}
+{"tokens": ["Mbunge", "Esther", "Passaris", "amewasilisha", "mswada", "bungeni", "Nairobi", "leo", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Mto", "Nile", "unatiririka", "kupitia", "nchi", "za", "Misri", ",", "Sudan", "na", "Ethiopia", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Afrika", "Mashariki", "imekumbwa", "na", "mafuriko", "hivi", "karibuni", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "wa", "Michezo", "Uganda", "alitangaza", "ratiba", "ya", "mechi", "za", "mataifa", "mwezi", "Agosti", "."], "ner_tags": [0, 0, 3, 5, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Simon", "Peter", "alizaliwa", "katika", "kijiji", "cha", "Nazareti", ",", "Israel", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Marathon", "ya", "Kilimanjaro", "ilivutia", "wakimbiaji", "kutoka", "nchi", "mbalimbali", "Afrika", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mwendesha", "mashtaka", "aliwasilisha", "ushahidi", "mahakamani", "katika", "jiji", "la", "Arusha", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ali", "Kiba", "ataperform", "katika", "tamasha", "la", "muziki", "Zanzibar", "mwishoni", "mwa", "wiki", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Canada", "ilipokea", "wakimbizi", "wengi", "kutoka", "Syria", "mwaka", "2015", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", "limetoa", "tahadhari", "ya", "Marburg", "Uganda", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 3, 5, 0]}
+{"tokens": ["Binti", "wa", "Kigoma", "aliyefaulu", "imtihani", "alizawadiwa", "laptop", "na", "benki", "ya", "CRDB", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alifanya", "ziara", "nchini", "China", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "uliofanyika", "Jijini", "Dar", "es", "Salaam", "ulifanikiwa", "sana", "."], "ner_tags": [0, 0, 7, 5, 5, 5, 0, 0]}
+{"tokens": ["Waziri", "wa", "Mambo", "ya", "Nje", "Samuel", "Makori", "alizungumza", "bunge", "la", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mashindano", "ya", "Olympic", "yatafanyika", "Paris", "2024", "."], "ner_tags": [0, 0, 3, 0, 5, 8, 0]}
+{"tokens": ["Wimbo", "wa", "bendi", "maarufu", "ya", "Sauti", "Sol", "ulishinda", "tuzo", "ya", "AFRIMA", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Janet", "alizaliwa", "Arusha", "mwaka", "1990", "na", "amesoma", "Chuo", "Kikuu", "cha", "Nairobi", "."], "ner_tags": [1, 0, 5, 0, 8, 0, 0, 3, 3, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "limeonya", "kuongezeka", "kwa", "maradhi", "Afrika", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Timu", "ya", "Simba", "imeshinda", "kombe", "la", "CECAFA", "mwaka", "2022", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 0, 8, 0]}
+{"tokens": ["Mbio", "za", "London", "Marathon", "zilikuwa", "na", "washiriki", "elfu", "kumi", "."], "ner_tags": [0, 0, 5, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Muswada", "umepitishwa", "bunge", "la", "Uganda", "tarehe", "15", "Mei", "2023", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "amezindua", "mradi", "mpya", "Dodoma", "."], "ner_tags": [0, 1, 2, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Timu", "ya", "Barcelona", "ilifunga", "goli", "tatu", "dhidi", "ya", "Real", "Madrid", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 3, 3, 0]}
+{"tokens": ["Dkt.", "Ali", "Bakari", "ameshinda", "tuzo", "ya", "tafiti", "Sayansi", "Afrika", "Mashariki", "."], "ner_tags": [0, 1, 2, 0, 3, 0, 0, 3, 5, 6, 0]}
+{"tokens": ["Taifa", "la", "Canada", "limepokea", "wageni", "wengi", "kutoka", "Afrika", "na", "Asia", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Wakazi", "wa", "Pwani", "walisherehekea", "Siku", "ya", "Uhuru", "tarehe", "9", "Desemba", "."], "ner_tags": [0, 0, 5, 0, 7, 0, 3, 8, 0]}
+{"tokens": ["Kampuni", "ya", "Tigo", "imetangaza", "kifurushi", "kipya", "kwa", "wateja", "wake", "Tanzania", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwigizaji", "maarufu", "Lupita", "Nyong'o", "aliigiza", "filamu", "ya", "Black", "Panther", "."], "ner_tags": [0, 0, 1, 2, 1, 0, 0, 0, 3, 3, 0]}
+{"tokens": ["Serikali", "ya", "Mexiko", "imetangaza", "kiwango", "kipya", "cha", "ajira", "mwezi", "Juni", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Mtihani", "wa", "KCPE", "umeanza", "rasmi", "kesho", "nchini", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Wakati", "wa", "matembezi", "mwaka", "uliopita", "Janeth", "alienda", "Italy", "kuhudhuria", "kongamano", "la", "UNESCO", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Dkt", "Hamisi", "Kigwangalla", "alitangaza", "mpango", "mpya", "wa", "afya", "nchini", "Tanzania", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "imetambulisha", "huduma", "mpya", "ya", "mtandao", "wa", "5G", "katika", "miji", "ya", "Nairobi", "na", "Mombasa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["John", "Magufuli", "alizaliwa", "Chato", ",", "Geita", ",", "mwaka", "1959", "."], "ner_tags": [1, 2, 0, 5, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Mkutano", "wa", "Biashara", "ulimfanyika", "hoteli", "ya", "Serena", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 2, 2, 0]}
+{"tokens": ["Jeshi", "la", "Polisi", "limemkamata", "mtuhumiwa", "wilayani", "Kinondoni", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 5, 2, 2, 0]}
+{"tokens": ["Mashindano", "ya", "CAN", "2023", "yatafanyika", "Ivory", "Coast", "mwaka", "ujao", "."], "ner_tags": [0, 0, 5, 8, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Profesa", "Wambura", "aliendesha", "mkutano", "Chuo", "Kikuu", "cha", "Dodoma", "."], "ner_tags": [0, 1, 0, 0, 5, 5, 0, 5, 0]}
+{"tokens": ["Mwenyekiti", "wa", "Tume", "ya", "Uchaguzi", "alieleza", "hatua", "zinazofuata", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alikutana", "na", "wakulima", "katika", "kaunti", "ya", "Kirinyaga", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Barabara", "ya", "Bagamoyo", "imefungwa", "kwa", "matengenezo", "ya", "miundombinu", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "WHO", "limetoa", "tahadhari", "ya", "mlipuko", "wa", "Ebola", "katika", "DRC", "."], "ner_tags": [0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 5, 0, 5, 5, 0]}
+{"tokens": ["Filamu", "ya", "The", "Lion", "King", "imevutia", "watazamaji", "nchini", "Kenya", "na", "Uganda", "."], "ner_tags": [0, 0, 5, 5, 5, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mchezo", "baina", "ya", "Simba", "SC", "na", "Yanga", "utachezwa", "Uwanja", "wa", "Mkapa", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Walimu", "wameanza", "mafunzo", "jijini", "Arusha", "kuchangia", "ubora", "wa", "elimu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "Susan", "Nakhumicha", "aliapishwa", "mbele", "ya", "Rais", "William", "Ruto", "nchini", "Kenya", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Balozi", "wa", "Ufaransa", "amezuru", "Zanzibar", "kuimarisha", "uhusiano", "wa", "kidiplomasia", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Tukio", "hilo", "lilitokea", "mto", "Nile", "karibu", "na", "mji", "wa", "Juba", ",", "Sudan", "Kusini", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Kampeni", "ya", "maboresho", "ya", "chanjo", "itaanza", "Machi", "2024", "kote", "nchini", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 0, 0, 0]}
+{"tokens": ["Mary", "Okello", "alipokea", "tuzo", "ya", "Maendeleo", "ya", "Wanawake", "Afrika", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waandishi", "wa", "habari", "walifanyiwa", "mafunzo", "na", "Chama", "cha", "Waandishi", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 5, 0]}
+{"tokens": ["Samia", "Suluhu", "alizindua", "mradi", "mpya", "wa", "umeme", "jijini", "Dodoma", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Mkutano", "utafanyika", "katika", "ukumbi", "wa", "AICC", "Arusha", "tarehe", "15", "Mei", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Nairobi", "kimetoa", "wanafunzi", "1000", "mwaka", "huu", "."], "ner_tags": [5, 6, 6, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Benki", "ya", "Maendeleo", "Afrika", "imetoa", "mkopo", "kwa", "Tanzania", "."], "ner_tags": [5, 6, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Timu", "ya", "Simba", "imefuzu", "nusu", "fainali", "ya", "Ligi", "ya", "Mabingwa", "Afrika", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 5, 6, 6, 6, 0]}
+{"tokens": ["Asha", "Mohammed", "aliwasili", "Mombasa", "saa", "12", "asubuhi", "."], "ner_tags": [1, 2, 0, 5, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imetangaza", "faida", "yao", "ya", "mwaka", "2022", "."], "ner_tags": [5, 6, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Watu", "walikusanyika", "Viwanja", "vya", "Uhuru", "Dar", "es", "Salaam", "kuaga", "mzee", "Mkapa", "."], "ner_tags": [0, 0, 5, 6, 1, 2, 2, 2, 0, 1, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "inapanga", "kujenga", "bandari", "katika", "Lamu", "."], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mji", "wa", "Zanzibar", "umepokea", "wageni", "kutoka", "China", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Chama", "cha", "Mapinduzi", "kinafanya", "kampeni", "katika", "mikoa", "ya", "Kilimanjaro", "na", "Mbeya", "."], "ner_tags": [5, 6, 6, 0, 0, 0, 0, 6, 0, 6, 0]}
+{"tokens": ["Jaji", "Mkuu", "Profesa", "Ibrahim", "Juma", "aliahidi", "mageuzi", "mahakamani", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["Rais", "Cyril", "Ramaphosa", "alituma", "ujumbe", "kupongeza", "Afrika", "Kusini", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 6, 7, 0]}
+{"tokens": ["Mashirika", "15", "ya", "kimataifa", "yalisaidia", "maafa", "Baada", "ya", "Tetemeko", "Kagera", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kocha", "wa", "Manchester", "United", "alitoa", "hongera", "kwa", "Marcus", "Rashford", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Mwanafunzi", "aliyeitwa", "Fatma", "alisafiri", "kutoka", "Unguja", "mpaka", "Morogoro", "."], "ner_tags": [0, 0, 1, 0, 0, 6, 0, 6, 0]}
+{"tokens": ["Kampuni", "ya", "Tanesco", "imetangaza", "katizo", "la", "umeme", "Arusha", "na", "Manyara", "."], "ner_tags": [5, 6, 1, 0, 0, 0, 5, 0, 6, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Dkt.", "Dorothy", "Gwajima", "alikagua", "hospitali", "ya", "Bugando", "."], "ner_tags": [0, 0, 6, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Ziwa", "Victoria", "limetajwa", "kama", "chanzo", "kikuu", "cha", "samaki", "kanda", "ya", "Maziwa", "Makuu", "."], "ner_tags": [5, 6, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mashindano", "ya", "riadha", "yamepangwa", "fanyika", "mwezi", "Agosti", "Nairobi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Hospitali", "ya", "Aga", "Khan", "Dar", "es", "Salaam", "ilifungua", "kitengo", "kipya", "cha", "usafiri", "wa", "dharura", "."], "ner_tags": [0, 0, 1, 2, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "alikutana", "na", "rais", "Emmanuel", "Macron", "kwenye", "mkutano", "wa", "G7", "nchini", "Ufaransa", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Watoto", "kutoka", "Kampala", "walishiriki", "mashindano", "yaliyofanyika", "Uganda", "mwaka", "2021", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Profesa", "John", "Nkoma", "aliwasilisha", "ripoti", "ya", "utafiti", "katika", "Chuo", "Kikuu", "cha", "Dodoma", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Serikali", "ya", "Misri", "imetangaza", "marekebisho", "katika", "sekta", "ya", "elimu", "2022", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "imezindua", "huduma", "mpya", "katika", "jiji", "la", "Nairobi", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "alizindua", "mradi", "mpya", "wilayani", "Ruangwa", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Papa", "Francis", "ametembelea", "Kongo", "kutoa", "ujumbe", "wa", "amani", "Afrika", "ya", "Kati", "."], "ner_tags": [1, 2, 0, 5, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mkutano", "wa", "kimataifa", "uliandaliwa", "katika", "mji", "wa", "Zanzibar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mchezaji", "mashuhuri", "Serena", "Williams", "ametangazwa", "kujiunga", "na", "baraza", "la", "olympiki", "duniani", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mafuriko", "makubwa", "yameshuhudiwa", "Bayelsa", "na", "Delta", "huko", "Nigeria", "mwaka", "2022", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Mtandao", "Social", "Media", "Watch", "umetoa", "ripoti", "mpya", "kuhusu", "matumizi", "ya", "mitandao", "Afrika", "Mashariki", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Balozi", "wa", "Ujerumani", "aliyeko", "Kenya", "alitembelea", "mradi", "wa", "kilimo", "Meru", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Wachezaji", "wa", "C\u00f4te", "d'Ivoire", "walipokea", "ushindi", "mkubwa", "katika", "Afcon", "2023", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 3, 7, 8, 0]}
+{"tokens": ["Kesi", "dhidi", "ya", "mkazi", "wa", "Bukoba", "ilitajwa", "mahakamani", "leo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Mashirika", "ya", "AMREF", "na", "UNICEF", "yanatekeleza", "miradi", "ya", "maji", "Tanzania", "Magharibi", "."], "ner_tags": [0, 0, 1, 0, 3, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Chama", "kinachotetea", "haki", "za", "wanawake", "Women", "Empowerment", "Trust", "kimeanzisha", "kampeni", "nchini", "Zambia", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Dr.", "Jane", "Ruth", "Achieng", "alitembelea", "kitengo", "cha", "chanjo", "Kampala", "Hospital", "."], "ner_tags": [0, 0, 1, 0, 2, 2, 2, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Mwandishi", "mashuhuri", "Anjan", "Sundaram", "aliandika", "kitabu", "kilichoshinda", "tuzo", "ya", "CNN", "2016", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 3, 7, 8, 0]}
+{"tokens": ["Katika", "maonesho", "ya", "kimataifa", "ya", "biashara", "2022", "Tanzania", "iliwaalika", "wawekezaji", "kutoka", "Abu", "Dhabi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 8, 5, 0, 0, 5, 6, 0]}
+{"tokens": ["Msanii", "Maarufu", "Diamond", "Platnumz", "alipokea", "tuzo", "kutoka", "BET", "Awards", "2019", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 1, 2, 7, 8, 0]}
+{"tokens": ["Mkutano", "wa", "wakuu", "wa", "nchi", "za", "Afrika", "ulifanyika", "Accra", "mwaka", "2007", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Fatma", "Ahmed", "alienda", "hospitali", "ya", "Mloganzila", "kupata", "matibabu", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "ilisaini", "mkataba", "na", "serikali", "ya", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mzee", "Ali", "Ramadhani", "alitunukiwa", "tuzo", "katika", "sherehe", "zilizofanyika", "Dar", "es", "Salaam", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 5, 6, 0]}
+{"tokens": ["Wachezaji", "wa", "Simba", "SC", "walishinda", "kombe", "la", "ligi", "kuu", "ya", "Tanzania", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Balozi", "wa", "Japan", "alifanya", "ziara", "katika", "eneo", "la", "Bagamoyo", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwamuzi", "Mariam", "Kibwana", "aliekeleza", "mchezo", "wa", "fainali", "ya", "Cecafa", "Challenge", "Cup", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", ",", "linaongoza", "mapambano", "dhidi", "ya", "COVID-19", "."], "ner_tags": [0, 0, 5, 6, 7, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alitembelea", "mji", "wa", "Dodoma", "akizindua", "barabara", "mpya", "."], "ner_tags": [0, 1, 2, 3, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Nairobi", "kimepata", "ufadhili", "kutoka", "UNESCO", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Serikali", "ya", "Norway", "iliunga", "mkono", "mradi", "wa", "umeme", "Rufiji", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "elimu", "Profesa", "Joyce", "Ndalichako", "alizindua", "mpango", "wa", "kujifunza", "kwa", "vitendo", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Benki", "ya", "Standard", "Chartered", "imeongeza", "misaada", "kwa", "wakulima", "kaskazini", "mwa", "Kenya", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mchezaji", "Hadija", "Omary", "ashinda", "medali", "ya", "dhahabu", "katika", "mashindano", "ya", "Olimpiki", "Tokyo", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Kampuni", "ya", "dawa", "ya", "Johnson", "na", "Johnson", "imetangaza", "chanjo", "yake", "mpya", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Msanii", "Diamond", "Platnumz", "ametoa", "wimbo", "mpya", "aliomshirikisha", "Rayvanny", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Ardhi", "ya", "kijiji", "cha", "Kigamboni", "imechukuliwa", "kwa", "maendeleo", "ya", "miundombinu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jaji", "Mary", "Mugut", "wa", "Mahakama", "Kuu", "alitangaza", "uamuzi", "wa", "keshi", "kubwa", "ya", "rushwa", "."], "ner_tags": [0, 1, 2, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shindano", "la", "ubunifu", "limeratibiwa", "na", " kampuni", "ya", "Google", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Kiongozi", "wa", "Upinzani", "Railia", "Odinga", "alitoa", "matamshi", "katika", "mkutano", "uliofanyika", "Kisumu", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Wafanyakazi", "wa", "shirika", "la", "reli", "watu", "25", "waliumia", "katika", "ajali", "iliyotokea", "Morogoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "alizindua", "mradi", "mpya", "Arusha", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 5, 0, 0]}
+{"tokens": ["Huawei", "imefungua", "tawi", "jijini", "Dar", "es", "Salaam", "kuimarisha", "biashara", "yao", "."], "ner_tags": [5, 0, 0, 0, 5, 6, 7, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "anatarajia", "kutembelea", "Dodoma", "wiki", "ijayo", "."], "ner_tags": [0, 1, 2, 3, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Shule", "ya", "Msimbazi", "imepokea", "misaada", "kutoka", "UNICEF", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Mkufunzi", "wa", "soka", "kutoka", "Senegal", "aliwasili", "leo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["mkutano", "wa", "Tume", "ya", "Afrika", "Mashariki", "ulifanyika", "Addis", "Ababa", "Ethiopia", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 0, 5, 6, 5, 0]}
+{"tokens": ["Hamad", "alishinda", "tuzo", "ya", "wanasayansi", "Afrika", "2018", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 7, 0]}
+{"tokens": ["Chanjo", "ya", "COVID-19", "imeanza", "kusambazwa", "Tanzania", "kaskazini", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 0, 0]}
+{"tokens": ["Daktari", "wakuu", "kutoka", "Chuo", "Kikuu", "cha", "Makerere", "walifanya", "uhakiki", "wa", "afya", "."], "ner_tags": [0, 0, 0, 5, 6, 7, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "Afcon", "yamepangwa", "kufanyika", "Cote", "d'Ivoire", "2023", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Kampuni", "ya", "NMB", "Bank", "ilimpatia", "mkopo", "mteja", "wake", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashirika", "ya", "kimataifa", "kama", "UNESCO", "yanatoa", "msaada", "kwa", "elimu", "nchini", "Kenya", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwimbaji", "Diamond", "Platnumz", "alitoa", "tamasha", "Mwanza", "mwishoni", "mwa", "wiki", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Bunge", "la", "Uingereza", "limepitisha", "sheria", "mpya", "ya", "usafirishaji", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jiji", "la", "Mombasa", "linakabiliwa", "na", "mafuriko", "kila", "mwaka", "wa", "masika", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ripoti", "ya", "Benki", "ya", "Dunia", "iliyotolewa", "jijini", "New", "York", "inaonesha", "ukuaji", "wa", "uchumi", "."], "ner_tags": [0, 0, 5, 0, 6, 0, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Gwiji", "wa", "riadha", "David", "Rudisha", "aliwahi", "kushinda", "medali", "dhahabu", "London", "2012", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 7, 0]}
+{"tokens": ["Watoto", "wengi", "hucheza", "katika", "Bustani", "ya", "Uhuru", "Arusha", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imetangaza", "mpango", "mpya", "wa", "CDMA", "nchini", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 3, 0, 0, 0]}
+{"tokens": ["Kikosi", "mahususi", "cha", "Jeshi", "la", "Wananchi", "wa", "Tanzania", "kimetumwa", "Congo", "kaskazini", "."], "ner_tags": [0, 0, 0, 5, 0, 6, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Rais", "John", "Magufuli", "alizindua", "barabara", "mpya", "Dar", "es", "Salaam", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", "limetoa", "tahadhari", "kuhusu", "mripuko", "mpya", "wa", "Ebola", "katika", "Jamuhuri", "ya", "Kidemokrasia", "ya", "Kongo", "."], "ner_tags": [0, 0, 3, 4, 3, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 6, 6, 0]}
+{"tokens": ["Waziri", "Fred", "Matiang'i", "alitoa", "amri", "kwa", "wanafunzi", "kurudi", "shuleni", "Jumatatu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Makampuni", "kama", "Safaricom", "yamewekeza", "zaidi", "katika", "uchumi", "wa", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Timu", "ya", "Liverpool", "ilifanikiwa", "kushinda", "ubingwa", "wa", "Ligi", "Kuu", "ya", "Uingereza", "2020", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 3, 4, 0, 5, 0, 0]}
+{"tokens": ["Vifurushi", "vipya", "vya", "DSTV", "vitazinduliwa", "wiki", "ijayo", "Tanzania", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Aliyekuwa", "Gavana", "wa", "Nairobi", "Mike", "Sonko", "ameshtakiwa", "mahakamani", "leo", "."], "ner_tags": [0, 0, 0, 5, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "mkubwa", "umeandaliwa", "katika", "ukumbi", "wa", "KICC", "Nairobi", "leo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 5, 0, 0]}
+{"tokens": ["Serikali", "ya", "Jamhuri", "ya", "Muungano", "wa", "Tanzania", "imetangaza", "likizo", "kubwa", "Ramadhani", "."], "ner_tags": [0, 0, 5, 0, 6, 0, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Kituo", "cha", "runinga", "ITV", "kimetua", "tuzo", "za", "Media", "Awards", "2023", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Mtoto", "aliyezaliwa", "katika", "hospitali", "ya", "Aga", "Khan", "Nairobi", "amepokelewa", "kwa", "furaha", "na", "familia", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kocha", "Ole", "Gunnar", "Solskjaer", "amesaini", "mkataba", "mpya", "na", "Manchester", "United", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Makerere", "kimepokea", "fadhili", "kutoka", "Serikali", "ya", "Norway", "."], "ner_tags": [0, 3, 4, 0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Msanii", "Diamond", "Platnumz", "ametangaza", "kuzindua", "albamu", "mpya", "mwaka", "huu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Wakazi", "wa", "Dodoma", "walimkaribisha", "Makamu", "wa", "Rais", "Samia", "Suluhu", "Hassan"], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 1, 2, 2]}
+{"tokens": ["Mashindano", "yatakayofanyika", "katika", "Uwanja", "wa", "Benjamin", "Mkapa", "yatashirikisha", "vijana", "wote", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Baraza", "la", "Maaskofu", "Katoliki", "Kenya", "limeitisha", "maombi", "ya", "amani", "kwa", "nchi", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwandishi", "wa", "habari", "Ali", "Bilali", "amepata", "tuzo", "kutoka", "UNESCO", "kwa", "utendaji", "wake", "mzuri", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mahakama", "Kuu", "ya", "Uganda", "imetoa", "hukumu", "ya", "kesi", "ya", "Erias", "Lukwago", "dhidi", "ya", "benki", "moja", "."], "ner_tags": [0, 3, 4, 5, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "wa", "Mambo", "ya", "Nje", "Lejeune", "Mbise", "amesafiri", "kuenda", "China", "kwa", "mazungumzo", "ya", "kidiplomasia", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Maonesho", "ya", "kimataifa", "ya", "Vitabu", "yanafanyika", "katika", "Ukumbi", "wa", "Julius", "Nyerere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 2, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alikutana", "na", "mjumbe", "kutoka", "Afrika", "Kusini", "katika", "Ikulu", "ya", "Nairobi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 6, 0, 3, 0, 3, 0]}
+{"tokens": ["Daima", "Arsenal", "ni", "timu", "maarufu", "kutoka", "London", ",", "Uingereza", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Elimu", "nchini", "Tanzania", "imekuwa", "ikiboreshwa", "kwa", "msaada", "wa", "UNICEF", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mkutano", "wa", "jumuiya", "ya", "Afrika", "Mashariki", "ulifanyika", "Kigali", ",", "Rwanda", "mwaka", "2021", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Baraza", "la", "Seneti", "lilipiga", "kura", "dhidi", "ya", "mswada", "ulioletwa", "na", "Nancy", "Pelosi", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Katika", "filamu", "ya", "Black", "Panther", ",", "Chadwick", "Boseman", "alifuzu", "kuigiza", "T'Challa", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 1, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Mutahi", "Kagwe", "alisema", "chanjo", "zitatolewa", "Kenya", "kuanzia", "Mei", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Timu", "ya", "Liverpool", "ilitwaa", "kombe", "la", "UEFA", "Champions", "League", "mwaka", "2019", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 3, 4, 5, 0, 0, 0]}
+{"tokens": ["Katika", "mahojiano", "yake", "CNN", ",", "Antony", "Blanken", "alizungumzia", "mpango", "wa", "diplomasia", ","], "ner_tags": [0, 0, 0, 3, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Maonyesho", "ya", "sanaa", "yalifanyika", "Makumbusho", "ya", "Kisasa", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 1, 2, 3, 4, 0]}
+{"tokens": ["Wakazi", "wa", "Mbeya", "walipata", "mafuriko", "makubwa", "mwaka", "2020", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Gavana", "wa", "Benki", "Kuu", "Profesa", "Florens", "Luoga", "alitangaza", "sera", "mpya", "juzi", "."], "ner_tags": [0, 0, 3, 4, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Chanzo", "cha", "moto", "kilichoteketeza", "soko", "Kariakoo", "bado", "hakijafahamika", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Huawei", "imeweka", "miundombinu", "ya", "intaneti", "nchini", "Nigeria", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Jacob", "Zuma", "alizaliwa", "katika", "Wilaya", "ya", "Nkandla", "Afrika", "Kusini", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 1, 0, 5, 6, 0]}
+{"tokens": ["Mashindano", "ya", "Olympiki", "yamepangwa", "fanyika", "Tokyo", ",", "Japani", "2021", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Mahakama", "kuu", "iliyopo", "Dodoma", "ilisikiliza", "kesi", "ya", "rushwa", "dhidi", "ya", "mbunge", "maarufu", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "Fred", "Matiang'i", "aliagiza", "shule", "zote", "kufungwa", "kwa", "siku", "tatu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(", "WHO", ")", "lilitangaza", "mlipuko", "wa", "Ebola", "katika", "DRC", "."], "ner_tags": [0, 0, 3, 4, 0, 5, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Harakati", "za", "wamachinga", "zimeshika", "kasi", "katika", "jiji", "la", "Arusha", "hivi", "karibuni", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"tokens": ["George", "Weah", "alichaguliwa", "kuwa", "rais", "wa", "Liberia", "mwaka", "2018", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "alifungua", "mkutano", "mkubwa", "Daresalaam", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Mashindano", "ya", "olympiki", "yatafanyika", "Paris", "mwaka", "2024", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Aliyekuwa", "waziri", "mkuu", "Edward", "Lowassa", "alitunukiwa", "tuzo", "hiyo", "nchini", "Uingereza", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imeshirikiana", "na", "UNICEF", "kuratibu", "mradi", "mpya", "Arusha", "."], "ner_tags": [0, 0, 3, 4, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Makerere", "kilianzishwa", "mwaka", "1922", "nchini", "Uganda", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 7, 0, 5, 0]}
+{"tokens": ["Mtoto", "aliepotea", "alipatikana", "karibu", "na", "ziwa", "Victoria", "mpakani", "na", "Kenya", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "WHOmataifa", "ulifanyika", "Geneva", ",", "Uswisi", "."], "ner_tags": [0, 0, 3, 4, 0, 5, 0, 5, 0]}
+{"tokens": ["Jeshi", "la", "Marekani", "lilitangaza", "kufanya", "mazoezi", "katika", "Gulf", "of", "Aden", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Balozi", "Susan", "Rice", "alitembelea", "Tanzania", "wiki", "iliyopita", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0]}
+{"tokens": ["Waandishi", "wa", "habari", "kutoka", "BBC", "walifika", "Zanzibar", "kuchukua", "ripoti", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 5, 0, 0, 0]}
+{"tokens": ["Mashirika", "yasiyo", "ya", "kiserikali", "kama", "Red", "Cross", "yanasaidia", "mafuriko", "Nigeria", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 5, 0]}
+{"tokens": ["Wataalamu", "kutoka", "Taifa", "la", "China", "walifanya", "upelelezi", "Malawi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mwanariadha", "Eliud", "Kipchoge", "aliweka", "rekodi", "mpya", "marathoni", "Berlin", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "Habari", "Reuters", "limeripoti", "kuzuka", "kwa", "mlipuko", "Sudan", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mhadhiri", "kutoka", "Chuo", "Kikuu", "cha", "Dodoma", "aliwasilisha", "taarifa", "Shinyanga", "."], "ner_tags": [0, 0, 3, 4, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkurugenzi", "wa", "WHO", "Tedros", "Adhanom", "ametangaza", "hatua", "mpya", "dhidi", "ya", "COVID", "-", "19", "."], "ner_tags": [0, 0, 3, 4, 1, 2, 0, 0, 0, 0, 3, 4, 7, 0]}
+{"tokens": ["Mkutano", "wa", "COP28", "ulianza", "Dubai", "Desemba", "2023", "."], "ner_tags": [0, 0, 3, 4, 0, 5, 0, 7, 0]}
+{"tokens": ["Jumuiya", "ya", "Afrika", "Mashariki", "inapanga", "mkutano", "Kampala", "wiki", "ijayo", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Google", "ilifungua", "ofisi", "yake", "Rwanda", "mwaka", "2022", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Utafiti", "uliendeshwa", "na", "Chuo", "cha", "Teknolojia", "MIT", "Boston", " Marekani", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 3, 4, 5, 6, 0]}
+{"tokens": ["Alienda", "hospitali", "ya", "Kenyatta", "kupata", "matibabu", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0]}
+{"tokens": ["Jumapili", "iliyopita", ",", "Rais", "Samia", "Suluhu", "Hassan", "alizungumza", "na", "wananchi", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imetangaza", "faida", "kubwa", "mwaka", "huu", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtayarishaji", "filamu", "maarufu", "kutoka", "Nigeria", ",", "Genevieve", "Nnaji", ",", "atazuru", "Tanzania", "mwezi", "ujao", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 1, 2, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Shule", "ya", "Wasichana", "ya", "Loreto", "imefunguliwa", "tena", "baada", "ya", "likizo", "ndefu", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uchaguzi", "mdogo", "umeandaliwa", "katika", "jimbo", "la", "Bunda", ",", "Mara", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Gazeti", "la", "The", "Citizen", "limechapisha", "makala", "kuhusu", "uchumi", "wa", "Tanzania", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kiongozi", "wa", "Upinzani", "Kenya", ",", "Raila", "Odinga", ",", "amehutubia", "wananchi", "."], "ner_tags": [0, 0, 0, 5, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Mkutano", "wa", "Jumuiya", "ya", "Afrika", "Mashariki", "umeisha", "jana", "."], "ner_tags": [0, 0, 3, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Mshindi", "wa", "Tuzo", "ya", "Oscar", "mwaka", "2020", "alikuwa", "Bong", "Joon-ho", "kutoka", "Korea", "Kusini", "."], "ner_tags": [0, 0, 3, 0, 3, 0, 0, 0, 1, 2, 0, 5, 6, 0]}
+{"tokens": ["Serikali", "imeanzisha", "mradi", "mpya", "kwenye", "mto", "Rufiji", "kwa", "ajili", "ya", "umeme", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Barabara", "ya", "Bagamoyo", "imekabidhiwa", "kwa", "kampuni", "ya", "China", "Civil", "Engineering", "Construction", "Corporation", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 4, 4, 4, 4, 0]}
+{"tokens": ["Waziri", "wa", "Mambo", "ya", "Ndani", ",", "George", "Simba", "Chawene", ",", "ameahidi", "kuboresha", "usalama", "."], "ner_tags": [0, 0, 3, 0, 3, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Mwanariadha", "Eliud", "Kipchoge", "amevunja", "rekodi", "ya", "dunia", "katika", "mbio", "za", "marathon", "Berlin", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mahakama", "Kuu", "ya", "Kenya", "imetangaza", "uamuzi", "wa", "kesi", "ya", "kupinga", "matokeo", "ya", "urais", "."], "ner_tags": [0, 3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "ulifanyika", "katika", "hoteli", "ya", "Serena", "Arusha", ".", "Washiriki", "walitoka", "mataifa", "mbalimbali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Balozi", "Amina", "Mohamed", "amepelekwa", "kufanya", "kazi", "katika", "makao", "makuu", "ya", "UN", "New", "York", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 3, 3, 4, 4, 0]}
+{"tokens": ["Jarida", "maarufu", "la", "National", "Geographic", "limechapisha", "picha", "ya", "Serengeti", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 3, 0]}
+{"tokens": ["Wanafunzi", "waliotoka", "Shule", "ya", "Brookhouse", "walitembelea", "Bustani", "ya", "Nairobi", "juzi", "."], "ner_tags": [0, 0, 3, 0, 4, 0, 3, 0, 0, 0]}
+{"tokens": ["Profesa", "Joseph", "Mukasa", "wa", "Chuo", "Kikuu", "Makerere", "ameandika", "kitabu", "kipya", "cha", "elimu", "."], "ner_tags": [0, 1, 2, 0, 3, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Msanii", "maarufu", "Diamond", "Platnumz", "ametoa", "wimbo", "mpya", "aliomshirikisha", "Koffi", "Olomide", "kutoka", "DRC", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Magufuli", "alizindua", "daraja", "jipya", "la", "Mkapa", "katika", "mkoa", "wa", "Ruvuma", "mwaka", "2015", "."], "ner_tags": [1, 0, 0, 0, 1, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Serikali", "ya", "Tanzania", "imekamilisha", "ujuzi", "wa", "madaktari", "katika", "Hospitali", "ya", "Muhimbili", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 1, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", ",", "limeonya", "kuhusu", "mlipuko", "mpya", "nchini", "Brazil", "."], "ner_tags": [0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["John", "Pombe", "Magufuli", "alikuwa", "rais", "wa", "Tanzania", "mpaka", "kufariki", "mwaka", "2021", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Wakazi", "wa", "Arusha", "walivuna", "mahindi", "mengi", "msimu", "huu", "wa", "masika", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Baraza", "la", "Mitihani", "Tanzania", "limetangaza", "matokeo", "ya", "kidato", "cha", "nne", "2023", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "wa", "Kimataifa", "utafanyika", "katika", "jiji", "la", "Nairobi", "mwishoni", "mwa", "mwezi", "Aprili", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 5, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Rais", "William", "Ruto", "alisafiri", "kwenda", "Marekani", "kukutana", "na", "rais", "Biden", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0, 0, 1, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imezindua", "huduma", "mpya", "ya", "intaneti", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Wanafunzi", "wa", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "wameanzisha", "mradi", "wa", "kilimo", "."], "ner_tags": [0, 0, 5, 6, 0, 1, 2, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtanzania", "Ramadhani", "Juma", "amepata", "tuzo", "katika", "mashindano", "ya", "riadha", "yaliyofanyika", "Doha", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Papa", "Francis", "alitoa", "wito", "kwa", "waumini", "katika", "jiji", "la", "Vatican", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "bima", "Jubilee", "imeanza", "kutoa", "huduma", "katika", "mkoa", "wa", "Kilimanjaro", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dkt", "Asha-Rose", "Migiro", "amechaguliwa", "kuwa", "mbunge", "wa", "kuteuliwa", "katika", "Bunge", "la", "Jamhuri", "ya", "Muungano", "wa", "Tanzania", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 7, 0, 5, 0, 5, 0]}
+{"tokens": ["Mashindano", "ya", "AFCON", "yameanza", "leo", "katika", "jiji", "la", "Abidjan", ",", "Ivory", "Coast", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 0, 0, 7, 0, 5, 6, 0]}
+{"tokens": ["Aliyekuwa", "Katibu", "Mkuu", "Ban", "Ki", "Moon", "alitunukiwa", "ktka", "sherehe", "za", "UM", "New", "York", "."], "ner_tags": [0, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Daraja", "la", "Kigamboni", "limeunganisha", "wilaya", "ya", "Temeke", "na", "Ilala", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "Ulinzi", "Job", "Ndugai", "aliwasilisha", "ripoti", "katika", "Bunge", "Dodoma", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Filamu", "ya", "The", "Lion", "King", "iliyochezwa", "Hollywood", "imevutia", "watazamaji", "wengi", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 5, 6, 7, 0, 5, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Mchezaji", "mstaru", "Simba", "SC", "Meddie", "Kagere", "amehamia", "klabu", "ya", "Yanga", "Africa", "."], "ner_tags": [0, 0, 5, 6, 1, 2, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Uchaguzi", "mdogo", "utafanyika", "katika", "kata", "ya", "Makuyuni", "Arusha", "tarehe", "12", "Juni", "2024", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 7, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "amezindua", "mradi", "mpya", "wa", "barabara", "katika", "mkoa", "wa", "Mtwara", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Klabu", "ya", "Simba", "imefanikiwa", "kutwaa", "ubingwa", "wa", "ligi", "kuu", "Tanzania", "msimu", "huu", "."], "ner_tags": [3, 4, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Mama", "Samia", "Suluhu", "Hassan", "anaongoza", "mkutano", "mkubwa", "nchini", "Kenya", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Dangote", "imewekeza", "fedha", "nyingi", "katika", "sekta", "ya", "saruji", "Afrika", "Magharibi", "."], "ner_tags": [3, 4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mamia", "ya", "wakimbizi", "kutoka", "Sudan", "Kusini", "wametafuta", "hifadhi", "Uganda", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 5, 0]}
+{"tokens": ["Jeshi", "la", "amari", "limeripoti", "kukamatwa", "kwa", "mtu", "mmoja", "Karatu", "juzi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Taasisi", "ya", "Taasisi", "ya", "Utafiti", "wa", "Afya", "Afrika", "Kusini", "amesema", "uamuzi", "umefanikiwa", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 4, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Mahakama", "Kuu", "Dar", "es", "Salaam", "imetangaza", "hukumu", "ya", "kesi", "ya", "Kashfa", "ya", "Ufisadi", "."], "ner_tags": [3, 4, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jumuiya", "ya", "Afrika", "Mashariki", "imejadili", "masuala", "ya", "biashara", "mpakani", "."], "ner_tags": [3, 4, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Dodoma", "kimepokea", "wanafunzi", "wageni", "kutoka", "mataifa", "mbalimbali", "."], "ner_tags": [3, 4, 4, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Katibu", "Mkuu", "Mwenezi", "wa", "CCM", "Humphrey", "Polepole", "alishiriki", "kampeni", "Mtwara", "."], "ner_tags": [0, 0, 0, 0, 3, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["Mkurugenzi", "Mtendaji", "wa", "Vodacom", "Tanzania", "alisema", "mabadiliko", "yataleta", "faida", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Wanariadha", "kutoka", "Ethiopia", "wameshinda", "mbio", "za", "kilomita", "kumi", "Nairobi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ofisi", "ya", "Mkurugenzi", "wa", "Benki", "ya", "Dunia", "ilitoa", "ripoti", "hii", "jana", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashirika", "ya", "habari", "Ujerumani", "yameripoti", "kuhusu", "maonesho", "Berlin", "."], "ner_tags": [3, 4, 4, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Rais", "F\u00e9lix", "Tshisekedi", "alizungumza", "na", "kiongozi", "wa", "DRC", "kuhusu", "amri", "mpya", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Wanahabari", "kutoka", "Tanzania", "wamepokea", "tuzo", "ya", "uandishi", "mzuri", "Addis", "Ababa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Hafla", "ya", "uzinduzi", "ilifanyika", "katika", "ukumbi", "Serena", "Hotel", "arusha", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Serikali", "ya", "Msumbiji", "inaendelea", "kupambana", "na", "magaidi", "kaskazini", "mwa", "nchi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashirika", "yasiyo", "ya", "kiserikali", "yalitoa", "msaada", "Kwa", "wakulima", "wa", "Morogoro", "."], "ner_tags": [3, 4, 4, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Nairobi", "kimepokea", "mgeni", "mashuhuri", "Profesa", "Wangari", "Maathai", "kwa", "mazungumzo", "maalumu", "."], "ner_tags": [3, 4, 4, 4, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Timu", "ya", "soka", "ya", "Simba", "imefuzu", "kwenda", "fainali", "ya", "CAF", "Champions", "League", "mwaka", "huu", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 4, 4, 4, 4, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alizungumza", "na", "waandishi", "wa", "habari", "kituoni", "Dodoma", "."], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mradi", "wa", "umeme", "wa", "Stiegler's", "Gorge", "unatarajiwa", "kukamilika", "mwaka", "2025", "katika", "mto", "Rufiji", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Makamu", "wa", "rais", "wa", "Jamhuri", "ya", "Muungano", "wa", "Tanzania", "amekutana", "na", "wakulima", "wa", "kahawa", "mkoani", "Mbeya", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "WHO", "limetoa", "tahadhari", "kuhusu", "mlipuko", "wa", "Ebola", "nchini", "Uganda", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Mzee", "Ali", "Mazrui", "alikuwa", "msomi", "mashuhuri", "kutoka", "Kenya", "aliyefundisha", "katika", "vyuo", "vingi", "ulimwenguni", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Winga", "wa", "Yanga", "SC", "Fei", "Toto", "amepata", "uhamisho", "kujiunga", "na", "Orlando", "Pirates", "ya", "Afrika", "Kusini", "."], "ner_tags": [0, 0, 3, 4, 1, 2, 0, 0, 0, 0, 3, 4, 0, 3, 4, 0]}
+{"tokens": ["Mbio", "za", "marathon", "za", "Mount", "Kilimanjaro", "zimeleta", "washiriki", "kutoka", "nchi", "mbali", "mbali", "duniani", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Baraza", "la", "Mawaziri", "limependekeza", "sera", "mpya", "ya", "kilimo", "kwa", "mikoa", "ya", "Magharibi", "ya", "Tanzania", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Mwaka", "huu", "mchezo", "maarufu", "wa", "ngumi", "umepangwa", "kufanyika", "katika", "Arusha", "tarehe", "12", "Agosti", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"tokens": ["Mwenyekiti", "wa", "Tume", "ya", "Uchaguzi", "Ali", "Juma", "amezungumza", "na", "waandishi", "wa", "Serengeti", "Media", "leo", "."], "ner_tags": [0, 0, 3, 4, 4, 1, 2, 0, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["Migodi", "ya", "dhahabu", "ya", "Geita", "inatarajiwa", "kuzalisha", "kiasi", "kikubwa", "mwaka", "2024", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Waziri", "wa", "Mambo", "ya", "Nje", "Augustine", "Mahiga", "aliwakilisha", "Tanzania", "katika", "makubaliano", "ya", "suluhu", "ya", "Mgogoro", "wa", "Sudan", "Kusini", "."], "ner_tags": [0, 0, 3, 4, 4, 1, 2, 3, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Katika", "maonesho", "ya", "biashara", "ya", "Kimataifa", "Arusha", "International", "Trade", "Fair", "mwaka", "2023", "kuna", "wawakilishi", "kutoka", "China", "na", "India", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Wachezaji", "wa", "basketball", "kwa", "mara", "ya", "kwanza", "walizuru", "Shule", "ya", "Sekondari", "ya", "St.", "Mary's", "Morogoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 3, 4, 0]}
+{"tokens": ["Muungano", "wa", "Vyama", "vya", "Wafanyakazi", "TUCTA", "umeandaa", "mkutano", "mkubwa", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Profesa", "Abdalla", "Said", "alitoa", "hotuba", "katika", "kongamano", "la", "Elimu", "Barani", "Afrika", "lililofanyika", "Accra", ",", "Ghana", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 3, 4, 0, 3, 0, 3, 0]}
+{"tokens": ["Shirika", "lisilo", "la", "kiserikali", "la", "Green", "Hearts", "Foundation", "limezindua", "kampeni", "dhidi", "ya", "ukimwi", "Mtwara", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mahakama", "Kuu", "ya", "Kenya", "ilitoa", "uamuzi", "mkali", "dhidi", "ya", "rushwa", "mwishoni", "mwa", "2022", "."], "ner_tags": [3, 4, 4, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "mawasiliano", "ya", "Airtel", "Tanzania", "imetoa", "msaada", "kwa", "wafanyakazi", "Hospitali", "ya", "Bugando", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["Samira", "Said", "alifanyiwa", "mazungumzo", "na", "runinga", "ya", "Al", "Jazeera", "katika", "mji", "wa", "Cairo", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "Red", "Cross", "limepokea", "msaada", "kutoka", "serikali", "ya", "Finland", "na", "Denmark", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Katika", "mkutano", "uliofanyika", "Dar", "es", "Salaam", ",", "Balozi", "Marie", "Jones", "aliwasilisha", "barua", "kutoka", "Serikali", "ya", "Canada", "."], "ner_tags": [0, 0, 0, 5, 6, 7, 0, 0, 1, 2, 0, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Mwimbaji", "maarufu", "Diamond", "Platnumz", "alizindua", "wimbo", "mpya", "jijini", "Nairobi", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Jarida", "la", "Nature", "limechapisha", "makala", "kuhusu", "uvumbuzi", "mpya", "katika", "Chuo", "Kikuu", "cha", "Cape", "Town", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 3, 4, 5, 6, 0]}
+{"tokens": ["Rais", "Paul", "Kagame", "wa", "Rwanda", "alijadili", "masuala", "ya", "usalama", "katika", "mkutano", "wa", "AU", "."], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Waandishi", "kutoka", "Reuters", "walitembelea", "eneo", "la", "mlima", "Kilimanjaro", "wakati", "wa", "matukio", "ya", "mazoezi", "ya", "kibinadamu", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "wa", "diplomasia", "uliandaliwa", "na", "UNESCO", "katika", "mji", "wa", "Paris", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Shindano", "la", "Olympics", "limepangwa", "kufanyika", "Tokyo", "mwaka", "2021", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Mbunge", "wa", "Tanga", "Fatma", "Karume", "alitoa", "tamko", "mjini", "Dodoma", "."], "ner_tags": [0, 0, 5, 0, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["Mtangazaji", "maarufu", "Ali", "Saleh", "alihojiwa", "na", "BBC", "Swahili", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 3, 4, 0]}
+{"tokens": ["Kampuni", "ya", "Kwa", "Wote", "Bima", "ilimzawadia", "Robert", "Mwangi", "usafiri", "bure", "katika", "jiji", "la", "Mombasa", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwanafunzi", "kutoka", "Jamhuri", "ya", "Congo", "alitunukiwa", "tuzi", "ya", "Chuo", "Kikuu", "cha", "Makerere", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 3, 4, 5, 6, 0]}
+{"tokens": ["Waziri", "mkuu", "Jane", "Nzuki", "alizindua", "mpango", "wa", "maendeleo", "mkoani", "Kigoma", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Aprili", "14", ",", "waziri", "Ali", "Juma", "aliutembelea", "uwanja", "wa", "Ndege", "ulioko", "Zanzibar", "."], "ner_tags": [7, 7, 0, 0, 1, 2, 0, 0, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Kikosi", "cha", "Jeshi", "la", "Wananchi", "wa", "Tanzania", "kilitunukiwa", "medali", "na", "Umoja", "wa", "Mataifa", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 5, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Aliyekuwa", "mchezaji", "wa", "Liverpool", "Steven", "Gerrard", "amechaguliwa", "kuwa", "kocha", "mpya", "wa", "Aston", "Villa", "."], "ner_tags": [0, 0, 0, 0, 5, 1, 2, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Benki", "ya", "Afrika", "Mashariki", "alitangaza", "faida", "ya", "mwaka", "2022", "."], "ner_tags": [0, 0, 3, 4, 5, 6, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Kampuni", "ya", "Simu", "ya", "Safaricom", "imetangaza", "kujenga", "mnara", "mpya", "katika", "kaunti", "ya", "Kisii", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Balozi", "wa", "Sweden", "Eva", "Lundgren", "alitembelea", "ofisi", "za", "WHO", "katika", "kilimo", "cha", "afya", "barani", "Afrika", "."], "ner_tags": [0, 0, 5, 0, 1, 2, 0, 0, 0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Jumapili", "iliyopita", ",", "Waziri", "Mkuu", "wa", "Tanzania", "alikutana", "na", "viongozi", "wa", "Chama", "Cha", "Mapinduzi", "Dar", "es", "Salaam", "kujadili", "hali", "ya", "uchumi", "."], "ner_tags": [7, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "Olympics", "yanafanyika", "Tokyo", "mwaka", "huu", ",", "wanamichezo", "kutoka", "Afrika", "wanafanya", "vizuri", "."], "ner_tags": [0, 0, 5, 0, 7, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Ndege", "ya", "Kenya", "Airways", "ilitua", "salama", "katika", "uwanja", "wa", "kimataifa", "wa", "Jomo", "Kenyatta", "Nairobi", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 5, 6, 5, 0]}
+{"tokens": ["Serikali", "ya", "Uganda", "imezindua", "mpango", "mpya", "wa", "kutoa", "chanjo", "dhidi", "ya", "COVID-19", "katika", "miji", "mikubwa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Cyril", "Ramaphosa", "aliwahutubia", "wananchi", "wa", "Afrika", "Kusini", " kuhusu", "janga", "la", "corona", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkali", "wa", "bendi", "maarufu", "ya", "Sauti", "Sol", "anatarajia", "kuanzisha", "tamasha", "nchini", "Kenya", "hivi", "karibuni", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "ulimfanyika", "katika", "ukumbi", "wa", "Serena", "Hotel", "Dar", "es", "Salaam", "uliohudhuria", "na", "wafanyabiashara", "maarufu", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imeshirikiana", "na", "Tigo", "kuimarisha", "huduma", "za", "mtandao", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Baraza", "la", "Mitihani", "la", "Zanzibar", "amesema", "matokeo", "ya", "mtihani", "wa", "darasa", "la", "saba", "yatatangazwa", "Ijumaa", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Jiji", "la", "Mombasa", "limepokea", "kiasi", "kikubwa", "cha", "methali", "kutoka", "UNESCO", "mwaka", "2023", "kuhifadhi", "utamaduni", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 7, 0, 0, 0, 0]}
+{"tokens": ["Kiongozi", "wa", "upinzani", " nchini", "Nigeria", "alizungumzia", "umuhimu", "wa", "amani", "na", "maridhiano", "kabla", "ya", "uchaguzi", "mkuu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Soko", "la", "Kariakoo", "limefungwa", "kwa", "muda", "kupisha", "ukarabati", "baada", "ya", "kuchomeka", "kwa", "moto", "mkubwa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Watalii", "kutoka", "China", "walitembelea", "hifadhi", "ya", "Serengeti", "wakifurahia", "maajabu", "ya", "asili", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Makerere", "kimeadhimisha", "miaka", "100", "tangu", "kuanzishwa", "kwake", "huko", "Kampala", "."], "ner_tags": [0, 5, 5, 0, 0, 7, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mahakama", "ya", "kimataifa", "ICJ", "imesikiliza", "kesi", "ya", "mzozo", "wa", "mpaka", "kati", "ya", "Somalia", "na", "Kenya", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Waumini", "wa", "dini", "ya", "Kiislamu", "walikusanyika", "katika", "msikiti", "wa", "Al", "Azhar", "kusali", "sala", "ya", "Ijumaa", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 6, 0, 0, 0, 7, 0]}
+{"tokens": ["Mwanasiasa", "maarufu", " Raila", "Odinga", "ameshinda", "kura", "za", "maoni", "nchini", "Kenya", "kwa", "mara", "ya", "tatu", "mfululizo", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "afya", "duniani", "WHO", "lilitoa", "taarifa", "kuhusu", "kuenea", "kwa", "ugonjwa", "wa", "ebola", "nchini", "Congo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Katika", "tamasha", "la", "muziki", "Arusha", "watu", "elufu", "waliangalia", "onyesho", "lililoshirikisha", "wasanii", "kutoka", "Ghana", "na", "Nigeria", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Miaka", "15", "iliyopita", ",", "shirika", "la", "habari", "Reuters", "lilifungua", "tawi", "lake", "nchini", "Ethiopia", "kupata", "habari", "za", "kusini", "mwa", "Afrika", "."], "ner_tags": [0, 7, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Samsung", "imetambulisha", "simu", "mpya", "aina", "ya", "Galaxy", "S23", "katika", "soko", "la", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alikuwa", "mgeni", "rasmi", "katika", "maadhimisho", "ya", "Siku", "ya", "Uhuru", "Dodoma", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mashindano", "ya", "AFCON", "2023", "yatafanyika", "Ivory", "Coast", "mwaka", "ujayo", "."], "ner_tags": [0, 0, 7, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Mswada", "huo", "ulipitishwa", "na", "Bunge", "la", "Jamhuri", "ya", "Muungano", "wa", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "Profesa", "George", "Magoha", "amesema", "mitihani", "itaanza", "kesho", "."], "ner_tags": [0, 0, 5, 1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "ulifanyika", "Arusha", "na", "uliendeshwa", "kwa", "lugha", "ya", "Kiingereza", "na", "Kiswahili", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 6, 0, 6, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Shirika", "la", "Afya", "Duniani", "Tedros", "Adhanom", "alizungumzia", "janga", "la", "COVID-19", "."], "ner_tags": [0, 0, 5, 0, 6, 6, 1, 2, 0, 0, 0, 7, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "imepitisha", "sera", "mpya", "za", "kilimo", "kwa", "wananchi", "wake", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Makerere", "kilianzishwa", "mwaka", "1922", "Uganda", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Papa", "Francis", "atatarajiwa", "kutembelea", "Jiji", "la", "Kinshasa", "mwishoni", "mwa", "wiki", "ijayo", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwimbaji", "maarufu", "Diamond", "Platnumz", "ametangaza", "kuzindua", "albamu", "yake", "mpya", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 6, 5, 0]}
+{"tokens": ["Majaji", "kutoka", "Mahakama", "ya", "Afrika", "Mashariki", "walikutana", "Nairobi", "kutoa", "maamuzi", "."], "ner_tags": [0, 0, 5, 0, 5, 6, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "imeanzisha", "huduma", "ya", "5G", "katika", "miji", "mikuu", "ya", "Kenya", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 7, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mwanasiasa", "Mariga", "alichaguliwa", "kuwa", "mbunge", "wa", "Kibra", "jijini", "Nairobi", "Kenya", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Sherehe", "za", "Eid", "alifanyika", "kwenye", "Uwanja", "wa", "Uhuru", "Stadium", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 7, 0, 0, 5, 0, 5, 6, 5, 6, 5, 0]}
+{"tokens": ["Mwanafunzi", "kutoka", "Zimbabwe", "amepata", "ufadhili", "wa", "kusoma", "Harvard", "University", "Marekani", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Kwa", "mujibu", "wa", "Ripoti", "ya", "UNICEF", ",", "asilimia", "30", "ya", "watoto", "Tanzania", "wanapata", "chanjo", "kamili", "."], "ner_tags": [0, 0, 0, 5, 0, 1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Timu", "ya", "Simba", "SC", "ilibeba", "kombe", "la", "ligi", "kuu", "ya", "Tanzania", "mwaka", "2022", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Mapinduzi", "ya", "Zanzibar", "yaliadhimishwa", "kila", "mwaka", "tarehe", "12", "Januari", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Mfanyabiashara", "maarufu", "Mo", "Dewji", "alifanya", "mchango", "kwa", "hospitali", "ya", "Muhimbili", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mbio", "za", "marathon", "zilifanyika", "Moshi", "mkoani", "Kilimanjaro", ",", "Tanzania", "wikendi", "iliyopita", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "Habari", "la", "Reuters", "limeripoti", "habari", "za", "Ukraine", "mapema", "leo", "."], "ner_tags": [0, 0, 3, 0, 3, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Waziri", "Juliana", "Shonza", "amehudhuria", "mkutano", "uliofanyika", "Dodoma", "katika", "ukumbi", "wa", "Mikutano", "Serena", "Hotel", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 5, 3, 4, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alizindua", "barabara", "mpya", "Morogoro", "wiki", "iliyopita", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Ajali", "imetokea", "eneo", "la", "Mlandizi", ",", "Pwani", ",", "Tanzania", "mashariki", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Ofisi", "ya", "Msajili", "wa", "Vyama", "imefanya", "uchaguzi", "kwa", "kushirikiana", "na", "Chama", "cha", "Mapinduzi", "CCM", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 4, 5, 6, 5, 0]}
+{"tokens": ["Mtoto", "Juma", "Selemani", "alikuwa", "mwanariadha", "mahiri", "kutoka", "Moshi", "Kilimanjaro", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["BBC", "ilipokea", "tuzo", "ya", "Uandishi", "Bora", "mwaka", "2023", "nchini", "Uingereza", "."], "ner_tags": [3, 0, 0, 0, 3, 4, 7, 8, 0, 5, 0]}
+{"tokens": ["Mkutano", "uliandaliwa", "na", "UNESCO", "katika", "jiji", "la", "Paris", "Ufaransa", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Dkt", "Asha", "Rose", "Migiro", "alialikwa", "kuzungumza", "katika", "Chuo", "Kikuu", "University", "of", "Dar", "es", "Salaam", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 3, 4, 3, 4, 5, 6, 0]}
+{"tokens": ["Alikiba", "alizindua", "albamu", "yake", "jijini", "Nairobi", "katika", "tamasha", "la", "muziki", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Serikali", "ya", "Uganda", "imesaini", "makubaliano", "na", "TotalEnergies", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Mwanasiasa", "Bob", "Wine", "ameendelea", "kupinga", "matokeo", "ya", "uchaguzi", "Uganda", "Mashariki", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Shule", "ya", "Wasichana", "ya", "Barbro", "Johansson", "imepata", "matokeo", "bora", "mwaka", "huu", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Mifumo", "ya", "Malipo", "imeboreshwa", "katika", "Benki", "ya", "Equity", "Group", "Holdings", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 0, 3, 0, 3, 4, 5, 0]}
+{"tokens": ["Dada", "wa", "Nelson", "Mandela", "amefariki", "dunia", "jijini", "Johannesburg", ",", "Afrika", "Kusini", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Shughuli", "za", "kilimo", "zimeathiriwa", "na", "mafuriko", "Arusha", "kaskazini", "mara", "kadhaa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Yanga", "SC", "ilicheza", "dhidi", "ya", "Simba", "SC", "kwenye", "Uwanja", "wa", "Mkapa", "Dar", "es", "Salaam", "."], "ner_tags": [3, 4, 0, 0, 0, 3, 4, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Idara", "ya", "elimu", "ya", "Afya", "imeandaa", "semina", "katika", "Chuo", "Kikuu", "cha", "Makerere", "Uganda", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 0, 3, 0, 5, 0]}
+{"tokens": ["Mwanzilishi", "wa", "Safaricom", "Michael", "Joseph", "amepokea", "tuzo", "kutoka", "Kenya", "Association", "of", "Business", "Leaders", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 5, 3, 4, 3, 4, 0]}
+{"tokens": ["Balozi", "Francois", "Delattre", "aliwasili", "nchini", "Tanzania", "kufanya", "mazungumzo", "na", "Rais", "Samia", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Mahakama", "Kuu", "ya", "Rufaa", "katika", "mji", "wa", "Mombasa", "imepanga", "kesi", "kusikilizwa", "wiki", "ijayo", "."], "ner_tags": [3, 4, 0, 3, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alikutana", "na", "wafanyabiashara", "katika", "ukumbi", "wa", "Diamond", "Jubilee", "mjini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 5, 6, 0, 5, 6, 6, 0]}
+{"tokens": ["Mashindano", "ya", "olimpiki", "mwezi", "Julai", "yafanyika", "Tokyo", ",", "Japan", ",", "wakati", "wanariadha", "elimu", "wakiwakilisha", "nchi", "zao", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hospitali", "ya", "Mnazi", "Mmoja", "imepokea", "vifaa", "vya", "matibabu", "kutoka", "Shirika", "la", "Afya", "Duniani", "(WHO)", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0]}
+{"tokens": ["Bidhaa", "za", "kilimo", "zinauzwa", "katika", "masoko", "makubwa", "ya", "Arusha", "na", "Moshi", "kila", "wiki", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ripoti", "ya", "Climate", "Action", "Network", "inaonyesha", "hatari", "ya", "mabadiliko", "ya", "hali", "ya", "hewa", "nchini", "Kenya", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "uliofanyika", "Paris", "ulijadili", "mustakabali", "wa", "mazungumzo", "ya", "amani", "katika", "Mashariki", "ya", "Kati", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Serikali", "ya", "Ethiopia", "imetangaza", "msaada", "kwa", "waathirika", "wa", "mafuriko", "jijini", "Addis", "Ababa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mbunge", "Zitto", "Kabwe", "amesema", "bunge", "litajadili", "sheria", "mpya", "mwaka", "2024", "katika", "Mkutano", "wa", "Januari", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 7, 8, 0]}
+{"tokens": ["Filamu", "ya", "Queen", "of", "Katwe", "iliyoongozwa", "na", "Mira", "Nair", "ilionyesha", "ujuzi", "wa", "watoto", "wa", "Uganda", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Uchaguzi", "utafanyika", "Oktoba", "mchini", "Msumbiji", "kulingana", "na", "tume", "yenye", "jukumu", "hilo", "."], "ner_tags": [0, 0, 7, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mchezaji", "mpya", "amejiunga", "na", "klabu", "ya", "Simba", "SC", "kutoka", "Nigeria", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Jeshi", "la", "Jamhuri", "ya", "Kidemokrasia", "ya", "Kongo", "limedhibiti", "eneo", "la", "Beni", "mashariki", "mwa", "nchi", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imezindua", "huduma", "ya", "5G", "katika", "miji", "ya", "Dodoma", "na", "Mbeya", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mahakama", "Kuu", "ya", "Tanzania", "imesikiliza", "kesi", "ya", "wanaharakati", "wa", "HAKI", "ZA", "BINADAMU", "."], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Baraza", "la", "Madiwani", "limeidhinisha", "mradi", "wa", "maji", "wa", "mji", "wa", "Mbulu", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Waziri", "wa", "Ulinzi", "huko", "South", "Sudan", "ameenda", "Juba", "kusaini", "mkataba", "mpya", "wa", "amani", "."], "ner_tags": [0, 0, 5, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtandao", "maarufu", "wa", "Pinterest", "umetimiza", "watumiaji", "milioni", "400", "duniani", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Profesa", "Makame", "Mbarawa", "amealikwa", "kuhutubia", "kongamano", "la", "Sayansi", "Afrika", "mwakani", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["Wakazi", "wa", "Kigoma", "wameshukuru", "mradi", "wa", "umeme", "uliolengwa", "kuwafaidisha", "vijiji", "vitano", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "wa", "biashara", "Amerika", "Kusini", "ulileta", "pamoja", "wawekezaji", "kutoka", "Brazili", "na", "Argentina", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Fatma", "Karume", "alitembelea", "chuo", "cha", "Dar", "es", "Salaam", "kwenye", "sherehe", "za", "uhitimu", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["Serikali", "ya", "Kenya", "imesaini", "makubaliano", "na", "Kampuni", "ya", "Safaricom", "kuhusu", "uzinduzi", "wa", "teknolojia", "mpya", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Samia", "Suluhu", "Hassan", "atahutubia", "mkutano", "wa", "Umoja", "wa", "Afrika", "mwaka", "huu", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Watalaam", "kutoka", "Chuo", "Kikuu", "cha", "Makerere", "wameshiriki", "kongamano", "la", "kisayansi", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", "limeonya", "kuhusu", "ongezeko", "la", "magonjwa", "barani", "Asia", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Mwaka", "2002", "Serikali", "ya", "Nigeria", "ilizindua", "mpango", "wa", "chanjo", "ya", "polio", "."], "ner_tags": [0, 8, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barack", "Obama", "alitoa", "hotuba", "katika", "Jiji", "la", "Nairobi", "jumanne", "iliofuata", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Maonesho", "ya", "Sanaa", "ya", "Afrika", "yamefanyika", "katika", "Ukumbi", "wa", "Julius", "Nyerere", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 3, 0, 7, 0, 0, 0, 3, 4, 3, 4, 4, 0]}
+{"tokens": ["Marekani", "imeahidi", "msaada", "wa", "milioni", "50", "kwa", "Msumbiji", "baada", "ya", "kimbunga", "Idai", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Mashindano", "ya", "Olympic", "yatafanyika", "Paris", "mwaka", "2024", "."], "ner_tags": [0, 0, 3, 0, 5, 0, 8, 0]}
+{"tokens": ["Timu", "ya", "Simba", "imefanikiwa", "kufuzu", "kwenye", "kombe", "la", "CAF", "Champions", "League", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Watalii", "walifika", "katika", "Hifadhi", "ya", "Serengeti", "mwezi", "Januari", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 8, 0]}
+{"tokens": ["Raila", "Odinga", "alitangaza", "mpango", "mkakati", "katika", "Kaunti", "ya", "Kisumu", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mradi", "wa", "umeme", "umetekelezwa", "katika", "Ziwa", "Victoria", "kwa", "ushirikiano", "na", "Uganda", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Papa", "Francis", "ametuma", "salamu", "za", "pongezi", "kwa", "waumini", "wa", "Lusaka", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampeni", "ya", "kupanda", "miti", "imezinduliwa", "Dar", "es", "Salaam", "na", "Shirika", "la", "Viwanja", "vya", "Ndege", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 0, 3, 4, 4, 4, 5, 0]}
+{"tokens": ["Ndege", "aina", "ya", "Airbus", "A350", "imeshushwa", "Uwanja", "wa", "Ndege", "Jomo", "Kenyatta", "Nairobi", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 3, 4, 3, 4, 5, 0]}
+{"tokens": ["Kikosi", "cha", "polisi", "kimekamata", "watuhumiwa", "katika", "Mtaa", "wa", "Kariakoo", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 3, 4, 4, 0]}
+{"tokens": ["Mkutano", "wa", "biashara", "ulifanyika", "katika", "Hoteli", "ya", "Hyatt", "Regency", "Arusha", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 5, 0]}
+{"tokens": ["Wanamichezo", "kutoka", "Burundi", "na", "Rwanda", "watashiriki", "Mbio", "za", "kimataifa", "mwezi", "Mei", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 3, 0, 0, 8, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "Hassan", "alikutana", "na", "watendaji", "wakuu", "wa", "Bank", "of", "Tanzania", "ikulu", "Dar", "es", "Salaam", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 3, 4, 5, 5, 3, 3, 3, 3, 0]}
+{"tokens": ["Mkutano", "mkubwa", "uliofanyika", "Moshi", ",", "Mkoani", "Kilimanjaro", ",", "ulijadili", "mabadiliko", "ya", "tabianchi", "katika", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 5, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "Profesa", "Joyce", "Ndalichako", "alialikwa", "katika", "chuo", "cha", "University", "of", "Nairobi", "nchini", "Kenya", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 3, 4, 5, 0, 5, 0]}
+{"tokens": ["Uchaguzi", "mdogo", "ulifanyika", "katika", "wilaya", "ya", "Bukoba", "Mjini", "mwaka", "2022", "na", "uliendeshwa", "kwa", "amani", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 3, 0, 8, 0, 0, 0, 0]}
+{"tokens": ["Dkt.", "Ali", "Mohamed", "Shein", "alitunukiwa", "tuzo", "na", "Taifa", "la", "Uswisi", ".", ""], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["Jeshi", "la", "Ulinzi", "la", "Wananchi", "wa", "Tanzania", "(JWTZ)", "limepanga", "maonesho", "katika", "viwanja", "vya", "Jamhuri", "Dodoma", "."], "ner_tags": [0, 0, 3, 4, 4, 5, 3, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Mgombea", "urais", "wa", "Chama", "Cha", "Mapinduzi", "aliwasili", "katika", "jiji", "la", "Arusha", "mnamo", "Septemba", "2021", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Mohamed", "Salah", "aliifungia", "Liverpool", "magoli", "mawili", "dhidi", "ya", "Manchester", "United", "katika", "Ligi", "Kuu", "ya", "England", "."], "ner_tags": [1, 2, 0, 3, 0, 0, 0, 0, 3, 4, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", "limetoa", "tahadhari", "kuhusu", "mlipuko", "wa", "Ebola", "nchini", "Guinea", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Profesa", "Wangari", "Maathai", "alipokea", "Tuzo", "ya", "Nobel", "kwa", "amani", "mwaka", "2004", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 4, 0, 0, 0, 8, 0]}
+{"tokens": ["Mto", "Nile", "ni", "mrefu", "zaidi", "barani", "Afrika", "na", "unapitia", "nchi", "kama", "Misri", ",", "Sudan", "na", "Uganda", "."], "ner_tags": [3, 4, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Shindano", "la", "Olympics", "linafanyika", "mwaka", "2024", "katika", "jiji", "la", "Paris", ",", "Ufaransa", "."], "ner_tags": [0, 0, 3, 0, 0, 8, 0, 0, 0, 3, 5, 0]}
+{"tokens": ["Mwimbaji", "Diamond", "Platnumz", "alitumbuiza", "kwenye", "tamasha", "la", "Fiesta", "lililofanyika", "Dodoma", "mwezi", "Julai", "2023", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 0, 0, 5, 0, 0, 7, 8, 0]}
+{"tokens": ["Serikali", "ya", "Jamhuri", "ya", "Muungano", "wa", "Tanzania", "iliongeza", "bajeti", "ya", "elimu", "mwaka", "2021-2022", "."], "ner_tags": [0, 0, 5, 6, 6, 6, 3, 0, 0, 0, 0, 8, 8, 0]}
+{"tokens": ["Ripoti", "iliyotolewa", "na", "WHO", "ilionyesha", "kuongezeka", "kwa", "vifo", "barani", "Asia", "kusababishwa", "na", "UVIKO-19", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 3, 0]}
+{"tokens": ["Mwenyekiti", "wa", "EACC", ",", "Eliud", "Wabukala", ",", "amewaonya", "maafisa", "wa", "umma", "kuhusika", "na", "rushwa", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ajali", "kubwa", "imetokea", "katika", "barabara", "ya", "Morogoro", "na", "imesababisha", "vifo", "kadhaa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Jiji", "la", "Mbeya", "limezindua", "kampeni", "ya", "usafi", "iliyoshirikisha", "wadau", "mbalimbali", "kama", "benki", "za", "NMB", "na", "CRDB", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Michael", "Joseph", "alistaafu", "nafasi", "yake", "kama", "Mkurugenzi", "Mtendaji", "wa", "Safaricom", "Kenya", "mwaka", "2019", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 3, 5, 0, 5, 0, 8, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Mamlaka", "ya", "Hali", "ya", "Hewa", "Tanzania", "amesema", "mvua", "zitaendelea", "kanda", "ya", "pwani", "hasa", "Dar", "es", "Salaam", "na", "Tanga", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 5, 3, 0, 0, 0, 0, 0, 0, 5, 6, 6, 0, 5, 0]}
+{"tokens": ["Mashindano", "ya", "Kilimanjaro", "Marathon", "yalishirikisha", "washiriki", "kutoka", "Uganda", ",", "Rwanda", "na", "Burundi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "alikutana", "na", "rais", "wa", "Uganda", "yaliyopita", "Ijumaa", "kujadili", "mradi", "mpya", "wa", "umeme", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 7, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Makamu", "wa", "Rais", "Sheikh", "Mohammed", "bin", "Rashid", "al", "Maktoum", "alikaribisha", "ujumbe", "kutoka", "Burundi", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 2, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "ulimfanyika", "kwenye", "Chuo", "Kikuu", "cha", "Nairobi", "wiki", "iliyopita", "."], "ner_tags": [0, 0, 0, 6, 6, 6, 5, 0, 0, 0]}
+{"tokens": ["Mchezaji", "maarufu", "Lionel", "Messi", "aliwasili", "Dar", "es", "Salaam", "kucheza", "mechi", "ya", "kirafiki", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "iliwezesha", "malipo", "kwa", "M-Pesa", "nchini", "Kenya", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 1, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "Profesa", "Joyce", "Ndalichako", "alitangaza", "matokeo", "katika", "jiji", "la", "Dodoma", "."], "ner_tags": [0, 0, 0, 3, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwamuzi", "Frank", "Lampard", "atafanya", "kazi", "katika", "ligi", "kuu", "ya", "Uingereza", "mwaka", "2025", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 8, 0]}
+{"tokens": ["Kampuni", "ya", "Huawei", "imezindua", "simu", "mpya", "ya", "kisasa", "soko", "la", "Afrika", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Ziara", "ya", "waziri", "kutoka", "Finland", "ilifanyika", "katika", "bunge", "la", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dr.", "Ahmed", "Mohamed", "alitoa", "madawa", "katika", "hospitali", "ya", "Mloganzila", "."], "ner_tags": [3, 1, 2, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Walipofika", "kwenye", "ufukwe", "wa", "Zanzibar", ",", "watalii", "walipiga", "picha", "za", "mandhari", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kikao", "kilifanyika", "mchana", "Alhamisi", "katika", "ukumbi", "wa", "Serena", "Hotel", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 7, 0, 0, 0, 1, 1, 5, 5, 5, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "(WHO)", "limeonya", "kuhusu", "mlipuko", "wa", "Corona", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Meneja", "wa", "klabu", "ya", "Yanga", "alihojiwa", "na", "waandishi", "wa", "habari", "juu", "ya", "fainali", "za", "ligi", "kuu", "ya", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["James", "Omondi", "alitunukiwa", "tuzo", "na", "shirikisho", "la", "mpira", "wa", "miguu", "la", "Afrika", "CAF", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 1, 0]}
+{"tokens": ["Ujenzi", "wa", "barabara", "ya", "Morogoro", "kuenda", "Dodoma", "umekamilika", "mwisho", "wa", "Mei", "2024", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 7, 8]}
+{"tokens": ["Mwandishi", "Samuel", "Njoroge", "alichapisha", "kitabu", "kipya", "jijini", "Nakuru", "mwezi", "Juni", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Mkurugenzi", "wa", "Mamlaka", "ya", "Tanzania", "Revenue", "Authority", "(TRA)", "aliwakaribisha", "wageni", "kutoka", "Ujerumani", "."], "ner_tags": [0, 0, 1, 0, 1, 2, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Msanii", "maarufu", "Diamond", "Platinumz", "aliandaa", "tamasha", "kubwa", "katika", "ukumbi", "wa", "Julius", "Nyerere", "International", "Conference", "Centre", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["Mataifa", "ya", "Afrika", "yalikubaliana", "kuanzisha", "Eneo", "Huru", "la", "Biashara", "Barani", "Afrika", "mwaka", "2019", "."], "ner_tags": [0, 0, 5, 0, 0, 6, 6, 0, 0, 5, 0, 8, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alikutana", "na", "wafanyabiashara", "kutoka", "Uchina", "katika", "Ikulu", "ya", "Nairobi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 3, 4, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "Kassim", "Majaliwa", "alizindua", "mradi", "mpya", "wa", "maji", "Wilayani", "Dodoma", "Jumatano", "hii", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 4, 5, 7, 0, 0]}
+{"tokens": ["Filamu", "ya", "Black", "Panther", "ilionyeshwa", "katika", "ukumbi", "wa", "cinema", "mjini", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Serikali", "ya", "Canada", "imetoa", "msaada", "kwa", "wakimbizi", "wa", "Sudan", "Kusini", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Dkt.", "John", "Magufuli", "alizindua", "barabara", "mpya", "ya", "express", "kutoka", "Mbezi", "kuenda", "vituo", "vikubwa", "vya", "ubebaji", "mizigo", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mahakama", "ya", "Kimataifa", "ya", "Uhalifu", "(ICC)", "iliamua", "kesi", "ya", "mtuhumiwa", "kutoka", "Jamhuri", "ya", "Kidemokrasia", "ya", "Kongo", "."], "ner_tags": [0, 0, 3, 4, 5, 6, 0, 0, 0, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Mkutano", "wa", "kimataifa", "utafanyika", "Bujumbura", ",", "Burundi", "mwanzoni", "mwa", "mwaka", "huu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 8, 0, 0]}
+{"tokens": ["Mchezaji", "maarufu", "Lionel", "Messi", "amejiunga", "na", "klabu", "ya", "Inter", "Miami", "nchini", "Marekani", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 4, 0, 5, 0, 5]}
+{"tokens": ["Makubaliano", "yamefikiwa", "kati", "ya", "serikali", "ya", "Norway", "na", "Serikali", "ya", "Tanzania", "kuhusu", "maswala", "ya", "mazingira", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Wataalamu", "wa", "Shirika", "la", "Afya", "Duniani", "(WHO)", "wakiongozwa", "na", "Dkt.", "Tedros", "Adhanom", "walitembelea", "Ethiopia", "."], "ner_tags": [0, 0, 3, 4, 5, 6, 7, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Taarifa", "zinasema", "viongozi", "wakuu", "wa", "kikundi", "cha", "Boko", "Haram", "walihojiwa", "na", "polisi", "wa", "Nigeria", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Bunge", "la", "Afrika", "Mashariki", "litakutana", "Arusha", "wiki", "ijayo", "kujadili", "masuala", "ya", "biashara", "."], "ner_tags": [0, 0, 3, 4, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mtoto", "alieokolewa", "katika", "mlipuko", "uliotokea", "Mogadishu", ",", "Somalia", "ametibiwa", "katika", "hospitali", "kuu", "ya", "mji", "huo", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mshindi", "wa", "tuzo", "ya", "Nobel", "ya", "Amani", "mwaka", "2021", "ni", "Maria", "Ressa", "kutoka", "Ufilipino", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 8, 8, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Papa", "Francisco", "alitembelea", "jimbo", "la", "Kinshasa", "akiwa", "ziarini", "katika", "Jamhuri", "ya", "Kidemokrasia", "ya", "Kongo", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Hospitali", "ya", "Mount", "Meru", "Arusha", "imepokea", "vifaa", "vipya", "kutoka", "Shirika", "la", "UNICEF", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Mwaka", "2018", ",", "Kampuni", "ya", "Vodacom", "ilitoa", "ajira", "za", "moja", "kwa", "moja", "kwa", "wanafunzi", "waliohitimu", "chuo", "cha", "UDSM", "."], "ner_tags": [0, 8, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Wanajeshi", "wa", "Kenya", "walisafiri", "mpaka", "Somalia", "kushiriki", "operesheni", "ya", "AMISOM", "iliyodumu", "miaka", "mitano", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Tamasha", "la", "muziki", "lililofanyika", "Buguruni", "Dar", "es", "Salaam", "limevutia", "wasanii", "kutoka", "nchi", "mbalimbali", "za", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 7, 0, 0, 0, 0, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Profesa", "Abdulrazak", "Gurnah", "alipata", "Tuzo", "ya", "Nobel", "katika", "fasihi", "mwaka", "2021", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4, 0, 0, 8, 8, 0]}
+{"tokens": ["Maandamano", "makubwa", "yamefanyika", "Mji", "wa", "Ouagadougou", "kulaani", "mauaji", "ya", "raia", "Burkina", "Faso", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Mkutano", "huo", "ulifanyika", "katika", "jiji", "la", "Dar", "es", "Salaam", "na", "kuhudhuriwa", "na", "wawakilishi", "kutoka", "Uganda", "na", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Mtalii", "aliwasili", "katika", "mbuga", "ya", "Serengeti", "kutoka", "Marekani", "alikotoka", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 5, 0, 0, 0]}
+{"tokens": ["Waandishi", "wa", "habari", "walihojiwa", "na", "Kamishna", "wa", "Polisi", "mkoa", "wa", "Arusha", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "imetangaza", "kuwekeza", "shilingi", "bilioni", "kumi", "katika", "sekta", "ya", "mawasiliano", "nchini", "Tanzania", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kiongozi", "wa", "upinzani", "Rail", "Odinga", "alitoa", "tamko", "hilo", "Nairobi", "siku", "ya", "Jumatatu", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Makerere", "kinatajwa", "kuwa", "miongoni", "mwa", "vyuo", "vikubwa", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 5, 4, 0]}
+{"tokens": ["Mahakama", "ya", "Upeo", "ilikataa", "ombi", "la", "kampuni", "ya", "Facebook", "kuhusu", "tozo", "mpya", "ya", "serikali", "ya", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Sikiliza", "mahojiano", "yetu", "na", "profesa", "Mohamed", "Shemdoe", "kutoka", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Mwenyekiti", "wa", "Tume", "ya", "Uchaguzi", "Katibu", "John", "Kipoi", "amesema", "uchaguzi", "utafanyika", "wiki", "ijayo", "."], "ner_tags": [0, 0, 3, 4, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mto", "Nile", "unapitia", "mataifa", "kadhaa", "ikijumuisha", "Misri", ",", "Sudan", "na", "Ethiopia", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Gavana", "wa", "Benki", "Kuu", "alikutana", "na", "mabalozi", "kutoka", "Jamhuri", "ya", "Kidemokrasia", "ya", "Congo", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0, 3, 4, 4, 0]}
+{"tokens": ["Makamu", "wa", "rais", "Samia", "Suluhu", "Hassan", "alitunukiwa", "tuzo", "na", "Umoja", "wa", "Afrika", "mashariki", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 3, 4, 4, 0, 0]}
+{"tokens": ["Shirika", "la", "Afya", "Duniani", "limetoa", "tahadhari", "ya", "mlipuko", "katika", "Dola", "ya", "Sudan", "Kusini", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 3, 4, 4, 0, 5, 4, 0]}
+{"tokens": ["Wachezaji", "wa", "Simba", "SC", "walishinda", "mchezo", "dhidi", "ya", "Azam", "FC", "ndani", "ya", "Uwanja", "wa", "Benjamin", "Mkapa", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Waziri", "wa", "elimu", "Profesa", "Joyce", "Ndalichako", "aliwasilisha", "ripoti", "kuhusu", "vyuo", "vikuu", "nchini", "Tanzania", "na", "Zimbabwe", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mtoto", "wa", "mfalme", "anasoma", "shule", "ya", "St.", "Mary", "Academy", "jijini", "Nairobi", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 7, 0]}
+{"tokens": ["Balozi", "wa", "Ujerumani", "alisifu", "ushirikiano", "na", "serikali", "ya", "Tanzania", "katika", "miradi", "ya", "maendeleo", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mji", "wa", "Mombasa", "umeshuhudia", "ongezeko", "la", "watalii", "kutoka", "Indonesia", "na", "Uingereza", "wakati", "wa", "likizo", "za", "mwaka", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Katibu", "Mkuu", "wa", "jumuiya", "alisema", "mkutano", "utafanyika", "Dodoma", "tarehe", "15", "Julai", "2021", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Msingi", "wa", "Nelson", "Mandela", "umetoa", "misaada", "kwa", "shule", "za", "msingi", "mkoani", "Eastern", "Cape", "Afrika", "Kusini", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 5, 4, 0]}
+{"tokens": ["Kikosi", "cha", "Jeshi", "la", "Wananchi", "kilipelekwa", "kusaka", "wahamiaji", "haramu", "mpakani", "na", "Burundi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "aliwasili", "Nairobi", "kwa", "ziara", "rasmi", "ya", "siku", "tatu", "."], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mashindano", "ya", "AFCON", "2023", "yatafanyika", "Ivory", "Coast", "mwaka", "huu", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "kimetangaza", "kozi", "mpya", "za", "kilimo", "."], "ner_tags": [5, 6, 6, 6, 6, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Anthony", "Joshua", "alishinda", "pambano", "dhidi", "ya", "Jermaine", "Franklin", "katika", "London", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "Elimu", "Profesa", "George", "Magoha", "ametembelea", "Kaunti", "ya", "Kisumu", "leo", "."], "ner_tags": [0, 0, 3, 0, 1, 2, 0, 3, 0, 5, 0, 0]}
+{"tokens": ["Juma", "ameanzisha", "kampuni", "ndogo", "ya", "teknolojia", "inayoitwa", "Tech", "Tanzania", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Serikali", "imeahidi", "kuboresha", "miundombinu", "ya", "barabara", "Mombasa", "na", "Nairobi", "ifikiapo", "mwaka", "2025", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Papa", "Francis", "anaongoza", "sala", "katika", "mji", "mtakatifu", "wa", "Vatican", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Beatrice", "Chebet", "ameidhinishwa", "kushiriki", "mbio", "za", "Olympics", "Paris", "2024", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 5, 0, 0]}
+{"tokens": ["Shirika", "la", "Habari", "la", "Uingereza", "BBC", "limeripoti", "habari", "za", "kisiasa", "leo", "asubuhi", "."], "ner_tags": [0, 0, 3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mafuriko", "makubwa", "yameripotiwa", "katika", "jiji", "la", "Kinshasa", ",", "Jamhuri", "ya", "Kidemokrasia", "ya", "Congo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 3, 6, 6, 6, 3, 0]}
+{"tokens": ["Papa", "Yohane", "Paulo", "wa", "Pili", "alitawazwa", "mnamo", "mwaka", "1978", "."], "ner_tags": [1, 2, 2, 0, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Mwili", "wa", "mtoto", "aliyezama", "Bahari", "ya", "Hindi", "umepatikana", "leo", "asubuhi", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkutano", "wa", "Biashara", "Afrika", "Mashariki", "umefanyika", "Arusha", "Tanzania", "."], "ner_tags": [0, 0, 3, 5, 6, 0, 5, 6, 0]}
+{"tokens": ["Uwekezaji", "katika", "teknolojia", "umeongezeka", "hasa", "nchini", "Kenya", "na", "Ethiopia", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mshambuliaji", "wa", "Manchester", "United", "Marcus", "Rashford", "alifunga", "mabao", "mawili", "dhidi", "ya", "Leeds", "United", "."], "ner_tags": [0, 0, 5, 6, 1, 2, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Filamu", "\"", "Vuta", "N'kuvute", "\"", "imepokea", "tuzo", "kwenye", "Tamasha", "la", "Filamu", "Zanzibar", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 0, 3, 5, 0]}
+{"tokens": ["Dkt", "Asha", "Mohamed", "amezindua", "kampeni", "ya", "Afya", "Bora", "kwa", "Wakazi", "wa", "Mogadishu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["Jengo", "la", "Benki", "ya", "Kiislamu", "limezinduliwa", "katika", "eneo", "la", "Westlands", "Nairobi", "."], "ner_tags": [0, 0, 3, 0, 6, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mwimbaji", "Maarufu", "Diamond", "Platnumz", "ametangaza", "ziara", "nchini", "Australia", "mwaka", "2024", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Simba", "Cement", "imeongeza", "uzalishaji", "wake", "huko", "Morogoro", "."], "ner_tags": [0, 0, 3, 6, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alizungumza", "katika", "mkutano", "uliofanyika", "Nairobi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Serikali", "ya", "Tanzania", "ilitoa", "tangazo", "hilo", "Jumamosi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 7, 0]}
+{"tokens": ["William", "Ruto", "alizuru", "mkoa", "wa", "Kisumu", "kutembelea", "mradi", "wa", "maji", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Mkurugenzi", "wa", "UNICEF", "James", "Elder", "alisema", "watoto", "wengi", "Sudani", "wanahitaji", "msaada", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Zaidi", "ya", "waathiriwa", "1000", "wa", "tetemeko", "la", "ardhi", "wamelazwa", "katika", "hospitali", "ya", "Bugando", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mashirika", "kama", "Red", "Cross", "na", "MSF", "wanatoa", "msaada", "katika", "eneo", "la", "Goma", "."], "ner_tags": [0, 0, 3, 4, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "kimataifa", "uliofanyika", "Dar", "es", "Salaam", "ulihudhuriwa", "na", "wageni", "kutoka", "China", "na", "India", "."], "ner_tags": [0, 0, 0, 0, 5, 4, 4, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Januari", "2022", "Beatrice", "Owiti", "aliapishwa", "kuwa", "mwenyekiti", "wa", "Baraza", "la", "Wazee", "Kisumu", "."], "ner_tags": [7, 8, 1, 2, 0, 0, 0, 0, 3, 0, 4, 5, 0]}
+{"tokens": ["Watalii", "kutoka", "Ufaransa", "walivutiwa", "na", "mlima", "Kilimanjaro", "na", "fuji", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Jiji", "la", "Dodoma", "limeendelea", "kukua", "kwa", "haraka", "tangu", "liwe", "makao", "makuu", "ya", "Tanzania", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mgombea", "wa", "urais", "Martha", "Karua", "alialikwa", "kwenye", "mkutano", "huo", "Kanairo", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Filamu", "iliyotengenezwa", "Nigeria", "imepata", "tuzo", "kwenye", "tamasha", "la", "Cannes", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 3, 0, 0, 5, 0]}
+{"tokens": ["Jumla", "ya", "wanafunzi", "2,000", "walifanya", "mtihani", "wa", "darasa", "la", "saba", "mwaka", "huu", "2017", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Mkutano", "ulioandaliwa", "na", "Shirika", "la", "Habari", "BBC", "ulionekana", "duniani", "nzima", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["Mtangazaji", "maarufu", "Salim", "Ahmed", "alihojiwa", "kwenye", "runinga", "ya", "Citizen", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 0, 0, 5, 0]}
+{"tokens": ["Bunge", "la", "Jamhuri", "ya", "Muungano", "wa", "Tanzania", "limepitisha", "mswada", "mpya", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Daktari", "mkubwa", "Francois", "Bongomin", "amesema", "Chanjo", "ya", "Polio", "inapatikana", "bure", "katika", "Hospitali", "ya", "Mengo", "Uganda", "."], "ner_tags": [0, 0, 1, 2, 0, 3, 0, 4, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Kiongozi", "wa", "Upinzani", "Railia", "Odinga", "alitoa", "matamshi", "kuhusu", "ugonjwa", "wa", "Ebola", "katika", "eneo", "la", "Kivu", "Kaskazini", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 5, 4, 0]}
+{"tokens": ["Mechi", "kati", "ya", "Simba", "na", "Yanga", "iliyochezwa", "Uwanja", "wa", "Benjamin", "Mkapa", "Dar", "es", "Salaam", "ilivutia", "watu", "wengi", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0, 1, 2, 5, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["Mwaka", "2021", "John", "Siboe", "alitunukiwa", "tuza", "ya", "mtangazaji", "bora", "Kenya", "."], "ner_tags": [7, 8, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kampuni", "ya", "Safaricom", "imetangaza", "faida", "ya", "Shilingi", "bilioni", "20", "katika", "nusu", "ya", "mwaka", "huu", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 0, 8, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["John", "alitembelea", "mji", "wa", "Morogoro", "mwaka", "2012", "."], "ner_tags": [1, 0, 0, 0, 5, 7, 0]}
+{"tokens": ["Mwimbaji", "maarufu", "Diamond", "Platnumz", "ana", "mpango", "wa", "kufanya", "tamasha", "nchini", "Kenya", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mkutano", "wa", "Jumuiya", "ya", "Afrika", "Mashariki", "ulifanyika", "Kampala", ","], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 5, 0]}
+{"tokens": ["Chelsea", "ilipata", "ushindi", "dhidi", "ya", "Arsenal", "jumamosi", "iliyopita", "."], "ner_tags": [1, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Shirika", "la", "AFDB", "limeahidi", "kutoa", "mkopo", "kwa", "Tanzania", "."], "ner_tags": [3, 0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Rais", "Uhuru", "Kenyatta", "alizindua", "barabara", "mpya", "katika", "kaunti", "ya", "Mombasa", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Papa", "Francis", "anatarajiwa", "kutembelea", "Sudan", "Kusini", "mwaka", "ujayo", "."], "ner_tags": [1, 2, 0, 0, 7, 8, 0, 0, 0]}
+{"tokens": ["Kampuni", "ya", "Vodacom", "ilitoa", "ufadhili", "kwa", "mradi", "wa", "maji", "Dodoma", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Waziri", "Mkuu", "alikutana", "na", "wakulima", "wa", "kahawa", "Moshi", "Alhamisi", "iliyopita", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 7, 0, 0, 0]}
+{"tokens": ["Timu", "ya", "taifa", "ya", "Misri", "ilitoka", "sare", "na", "Senegal", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 1, 0]}
+{"tokens": ["Mnamo", "Januari", "2023", ",", "shule", "ya", "St.", "Anne", "ilipokea", "misaada", "kutoka", "UNICEF", "."], "ner_tags": [0, 7, 8, 0, 0, 0, 1, 2, 0, 0, 0, 3, 0]}
+{"tokens": ["Marathon", "ya", "Kilifi", "itafanyika", "tarehe", "15", "Machi", "2024", "."], "ner_tags": [0, 0, 5, 0, 0, 7, 8, 0]}
+{"tokens": ["Serikali", "ya", "Ujerumani", "imezindua", "mpango", "mpya", "kwa", "wahamiaji", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Makamu", "wa", "Rais", "Samia", "Suluhu", "aliwasili", "Oman", "kwa", "ziara", "rasmi", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 5, 0, 0, 0]}
+{"tokens": ["Tuzo", "ya", "Oscar", "ilitolewa", "kwa", "filamu", "yenye", "ubunifu", "mwaka", "2021", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Benki", "Kuu", "ya", "Nigeria", "imetangaza", "kubadilisha", "noti", "za", "sarafu", "mnamo", "Juni", "."], "ner_tags": [0, 1, 0, 5, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Daktari", "James", "Mwakilasa", "alifanya", "upasuaji", "wa", "kwanza", "katika", "Hospitali", "ya", "Maggie", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 1, 0, 2, 0]}
+{"tokens": ["Wachezaji", "wa", "Serengeti", "Boys", "walisafiri", "kwenda", "Burundi", "kwa", "mashindano", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Kampeni", "ya", "Chanjo", "ya", "Surua", "ilifanyika", "kwenye", "kaunti", "ya", "Meru", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Mwezi", "Septemba", "2020", ",", "maonyesho", "ya", "sanaa", "yalifanyika", "Ukumbi", "wa", "Allianz", "Arena", "Dar", "es", "Salaam", "."], "ner_tags": [0, 7, 8, 0, 0, 0, 0, 0, 1, 0, 1, 2, 1, 2, 0]}
+{"tokens": ["Rais", "Samia", "Suluhu", "alikutana", "na", "waziri", "mkuu", "wa", "Ethiopia", "Abiy", "Ahmed", "katika", "mkutano", "Dar", "es", "Salaam", "."], "ner_tags": [7, 1, 2, 0, 0, 7, 0, 0, 5, 1, 2, 0, 7, 8, 8, 0]}
+{"tokens": ["Mashindano", "ya", "Kilimanjaro", "Marathon", "yalifanyika", "mwaka", "huu", "mwezi", "Machi", "mkoani", "Kilimanjaro", "."], "ner_tags": [0, 0, 6, 6, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Timu", "ya", "Simba", "SC", "ilisafiri", "kucheza", "na", "Al", "Ahly", "katika", "mchezo", "wa", "Ligi", "ya", "Mabingwa", "Afrika", "huko", "Misri", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 6, 7, 0, 0, 0, 0, 6, 0, 5, 0, 5, 0]}
+{"tokens": ["Waziri", "wa", "Afya", "Ummy", "Mwalimu", "ametangaza", "mpango", "mpya", "kujenga", "hospitali", "Dodoma", "."], "ner_tags": [7, 0, 7, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Shirika", "la", "Viwango", "Tanzania", "(", "TBS", ")", "limeanzisha", "kampeni", "ya", "elimu", "kwa", "umma", "."], "ner_tags": [3, 0, 3, 5, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Benki", "Kuu", "ya", "Tanzania", "imetangaza", "kupunguza", "riba", "mwaka", "2024", "."], "ner_tags": [3, 8, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shule", "ya", "Sekondari", "Jangwani", "imeandikisha", "wanafunzi", "wapya", "jijini", "Dar", "es", "Salaam", "."], "ner_tags": [6, 0, 6, 4, 0, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Baraza", "Kuu", "la", "Waislamu", "Tanzania", "(", "BAKWATA", ")", "lilitoa", "tangazo", "kuhusu", "mfungo", "wa", "Ramadhani", "."], "ner_tags": [3, 8, 0, 3, 5, 0, 3, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Jerome", "Lucas", "alishinda", "tuzo", "ya", "mchezaji", "bora", "wa", "mwaka", "nchini", "Ufaransa", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Marekebisho", "ya", "katiba", "yamepitishwa", "na", "Bunge", "kubwa", "zaidi", "katika", "historia", "ya", "Ghana", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mradi", "wa", "umeme", "wa", "Stiegler's", "Gorge", "unafadhiliwa", "na", "serikali", "ya", "Tanzania", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Katika", "msimu", "uliopita", "wa", "Kombe", "la", "FA", "Arsenal", "iliishinda", "Chelsea", "mchezo", "wa", "fainali", "."], "ner_tags": [0, 0, 0, 0, 6, 0, 6, 3, 0, 4, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Profesa", "John", "Magufuli", "alikuwa", "akifanya", "kazi", "Chuo", "Kikuu", "cha", "Dar", "es", "Salaam", "kabla", "ya", "kuwa", "rais", "."], "ner_tags": [7, 1, 2, 0, 0, 0, 6, 6, 0, 7, 8, 8, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Mashirika", "yasiyo", "ya", "kiserikali", "kama", "Red", "Cross", "yanasaidia", "wakimbizi", "kambi", "ya", "Nyarugusu", "mkoani", "Kigoma", "."], "ner_tags": [3, 0, 0, 0, 3, 4, 0, 0, 0, 0, 4, 0, 5, 0, 5, 0]}
+{"tokens": ["Wakimbizi", "kutoka", "Sudan", "Kusini", "waliingia", "mpakani", "na", "Uganda", "kuomba", "hifadhi", "."], "ner_tags": [0, 0, 5, 4, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Mtangazaji", "maarufu", "Salama", "Jabir", "alifanya", "mazungumzo", "maalum", "katika", "Clouds", "FM", "jioni", "ya", "Alhamisi", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 4, 0, 0, 0, 6, 0]}
+{"tokens": ["Watalii", "wengi", "walivutiwa", "na", "Hifadhi", "ya", "Serengeti", "na", "watarajia", "kutembelea", "Ngorongoro", "pia", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 5, 0, 0, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Daktari", "Richard", "Mutungi", "anafanya", "kazi", "katika", "Hospitali", "ya", "Aga", "Khan", "jijini", "Mwanza", "."], "ner_tags": [7, 1, 2, 0, 0, 0, 6, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Ndege", "mpya", "ya", "Air", "Tanzania", "imewasili", "kutoka", "Ufaransa", "mchana", "huu", "."], "ner_tags": [0, 0, 0, 3, 5, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Filamu", "mpya", "ya", "Swahiliwood", "itazinduliwa", "wiki", "ijayo", "katika", "Ukumbi", "wa", "Mlimani", "City", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 6, 0, 4, 0]}

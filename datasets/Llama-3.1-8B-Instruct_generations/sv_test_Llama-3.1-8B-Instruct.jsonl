@@ -1,0 +1,903 @@
+{"tokens": ["N\u00e4stan", "allt", "v\u00e5r", "problemet", "l\u00f6per", "p\u00e5", "tv\u00e4rsidan", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Till", "f\u00f6ljd", "med", "det", "f\u00f6r\u00e5", "var", "det", "vanligt", "att", "nya", "vuxna", "inte", "kunde", "ansluta", "sig", "till", "f\u00f6rs\u00e5kningen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "v\u00e4rlden", "finns", "det", "h\u00f6r", "en", "stor", "risk", "f\u00f6r", "att", "barn", "f\u00f6ds", "utan", "f\u00f6r\u00e5ldrarna", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "kan", "ocks\u00e5", "leda", "till", "att", "barn", "f\u00f6ds", "utan", "f\u00f6r\u00e5lder", "som", "inte", "har", "angett", "sina", "till\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "sverige", "finns", "det", "en", "lag", "som", "har", "f\u00f6r", "att", "skydda", "ungdomars", "riktiga", "r\u00e4ttigheter", "."], "ner_tags": [1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"tokens": ["De", "som", "inte", "f\u00f6der", "har", "r\u00e4tt", "att", "f\u00f6rs\u00e5", "att", "alla", "barn", "ska", "f\u00f6das", "med", "en", "f\u00f6r\u00e5lder", "som", "vil", "ge", "dem", "h\u00f6gsta", "m\u00f6jliga", "livskvalitet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "antal", "m\u00e4n", "har", "f\u00f6ds", "utan", "f\u00f6r\u00e5lder", "som", "inte", "har", "kunskap", "om", "h\u00f6gan", "uppfostran", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "kan", "ocks\u00e5", "leda", "till", "att", "barn", "f\u00f6ds", "utan", "f\u00f6r\u00e5lder", "som", "inte", "har", "sina", "eget", "identitet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "av", "dem", "s\u00f6ker", "sin", "identitet", "genom", "att", "identifiera", "sig", "med", "f\u00f6r\u00e5lderns", "namn", "och", "personnummer", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ocks\u00e5", "f\u00f6r\u00e5ldrar", "som", "inte", "f\u00f6r\u00e5", "att", "f\u00f6ra", "sina", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Men", "det", "finns", "ocks\u00e5", "v\u00e4gar", "som", "inte", "har", "ett", "positivt", "perspektiv", "p\u00e5", "detta", "omr\u00e5de", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5ldrar", "som", "inte", "f\u00f6r", "sin", "barn", "f\u00f6r", "sina", "barn", "b\u00f6r", "de", "inte", "sina", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "sverige", "har", "f\u00f6r\u00e5ldrar", "r\u00e4tt", "att", "best\u00e4mma", "sina", "barn", "s\u00f6m", "de", "vill", "."], "ner_tags": [2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"tokens": ["Men", "det", "finns", "ocks\u00e5", "barn", "som", "inte", "f\u00f6ds", "av", "f\u00f6r\u00e5ldrar", "som", "inte", "har", "sina", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ocks\u00e5", "barn", "som", "inte", "har", "f\u00f6r\u00e5lder", "som", "inte", "har", "ett", "positivt", "perspektiv", "p\u00e5", "dem", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dessa", "barn", "kan", "inte", "f\u00f6r\u00e5", "sig", "sina", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Men", "det", "finns", "ocks\u00e5", "barn", "som", "inte", "har", "f\u00f6r\u00e5lder", "som", "har", "ett", "positivt", "perspektiv", "p\u00e5", "dem", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ocks\u00e5", "barn", "som", "inte", "f\u00f6ds", "av", "f\u00f6r\u00e5ldrar", "som", "inte", "har", "sina", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "sverige", "har", "f\u00f6r\u00e5ldrar", "r\u00e4tt", "att", "best\u00e4mma", "sina", "barn", "s\u00f6m", "de", "vill", "."], "ner_tags": [2, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]}
+{"tokens": ["Men", "det", "finns", "ocks\u00e5", "barn", "som", "inte", "har", "f\u00f6r\u00e5lder", "som", "inte", "har", "sina", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ocks\u00e5", "barn", "som", "inte", "har", "f\u00f6r\u00e5lder", "som", "inte", "har", "ett", "positivt", "perspektiv", "p\u00e5", "dem", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "nya", "forskningsresultaten", "visar", "att", "det", "kan", "vara", "viktigt", "att", "t\u00e4nka", "p\u00e5", "f\u00f6rdelar", "och", "nackdelar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskarna", "har", "unders\u00f6kt", "flera", "f\u00f6rdelar", "med", "resultatet", "som", "kan", "vara", "till", "nyttan", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Enligt", "studier", "kan", "f\u00f6rdelar", "ge", "b\u00e4ttre", "resultat", "och", "\u00f6ka", "efterfr\u00e5gan", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nya", "forskningsresultaten", "hittade", "flera", "nyttiga", "till\u00e4mpningar", "i", "medicin", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "exempel", "\u00e4r", "kampen", "mot", "malaria", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kampen", "mot", "malaria", "\u00e4r", "viktigt", "f\u00f6r", "folkh\u00e4lsan", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskare", "har", "hittat", "en", "ny", "behandling", "f\u00f6r", "malaria", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "behandlingen", "har", "visat", "b\u00e4ttre", "resultat", "\u00e4n", "f\u00f6rr", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatf\u00f6r\u00e4ndringarna", "har", "ett", "stort", "inverkan", "p\u00e5", "milj\u00f6n", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatf\u00f6r\u00e4ndringarna", "kan", "ge", "\u00f6kade", "temperaturer", "och", "\u00f6versv\u00e4mningar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "st\u00f6dgrupp", "f\u00f6respr\u00e5kar", "en", "mer", "milj\u00f6v\u00e4nlig", "l\u00f6sning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskarna", "hittade", "en", "ny", "v\u00e4g", "f\u00f6r", "att", "reducera", "klimatutsl\u00e4ppen", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "v\u00e4gen", "har", "visat", "tillf\u00e4lliga", "resultat", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "f\u00f6retag", "har", "utvecklat", "en", "ny", "teknologi", "f\u00f6r", "att", "reducera", "klimatutsl\u00e4ppen", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "har", "visat", "att", "teknologin", "kan", "vara", "effektiv", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "grupp", "av", "forskare", "har", "unders\u00f6kt", "inverkan", "p\u00e5", "milj\u00f6n", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Gruppen", "hittade", "att", "inverkan", "kan", "vara", "st\u00f6rre", "\u00e4n", "f\u00f6rest\u00e4lld", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6rslaget", "om", "att", "byta", "till", "b\u00e4ttre", "bilar", "har", "f\u00e5tt", "st\u00f6d", "fr\u00e5n", "m\u00e5nga", "personer", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kommunen", "har", "beslutat", "att", "\u00f6ka", "investeringarna", "i", "b\u00e4ttre", "milj\u00f6teknik", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ndringar", "kan", "inneb\u00e4ra", "stora", "ekonomiska", "effekter", "p\u00e5", "bostadstill\u00e4gget", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tack", "vare", "p\u00e5", "dagens", "utveckling", "har", "vi", "kunnat", "hitta", "fler", "m\u00f6jligheter", "till", "b\u00e4ttre", "f\u00f6rs\u00f6rjning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dessutom", "m\u00e5ste", "man", "v\u00e4ga", "upp", "f\u00f6rsiktigheten", "n\u00e4r", "man", "best\u00e4mmer", "sig", "f\u00f6r", "en", "n\u00e4ringsverksamhet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "nya", "metoder", "och", "tekniker", "hittas", "det", "kan", "vara", "sv\u00e5rt", "att", "bekr\u00e4fta", "vad", "som", "\u00e4r", "verkligt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "beslut", "kan", "vara", "sv\u00e5rt", "att", "fatta", "om", "man", "inte", "vet", "vad", "som", "\u00e4r", "r\u00e4tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "t\u00e4nka", "p\u00e5", "barnens", "h\u00e4lsa", "och", "s\u00e4kerhet", "innan", "vi", "tar", "ett", "beslut", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "sv\u00e5rt", "att", "hitta", "en", "l\u00f6sning", "som", "gagnar", "alla", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "har", "en", "viktig", "roll", "i", "familjen", "och", "deras", "behov", "m\u00e5ste", "tillgodoses", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "m\u00e5ste", "ta", "h\u00e4nsyn", "till", "barnens", "\u00e4ldre", "syskon", "och", "andra", "sl\u00e4ktingar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Om", "man", "inte", "tar", "tillr\u00e4cklig", "omsorg", "av", "sina", "barn", "kan", "det", "ha", "konsekvenser", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "alltid", "v\u00e5ga", "fr\u00e5ga", "fr\u00e5gor", "om", "man", "inte", "f\u00f6rst\u00e5r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6rb\u00e4ttringar", "kan", "inneb\u00e4ra", "b\u00e4ttre", "resultat", "och", "h\u00f6gre", "n\u00f6jdhet", "hos", "barnen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "m\u00e5nga", "s\u00e4tt", "att", "g\u00f6ra", "f\u00f6rs\u00f6k", "att", "hitta", "en", "l\u00f6sning", "som", "gagnar", "alla", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "f\u00f6r\u00e4ldrar", "m\u00e5ste", "alltid", "t\u00e4nka", "p\u00e5", "sitt", "barns", "behov", "och", "s\u00e4kerhet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Om", "man", "inte", "tar", "tillr\u00e4cklig", "omv\u00e5rdnad", "av", "sitt", "barn", "kan", "det", "f\u00f6ra", "till", "problem", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "trygg", "och", "stabil", "milj\u00f6", "f\u00f6r", "att", "utvecklas", "b\u00e4st", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "m\u00e5ste", "s\u00e4tta", "sin", "barns", "behov", "fr\u00e4mst", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "m\u00e5nga", "problem", "som", "kan", "h\u00e4mma", "barnens", "utveckling", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "trygg", "och", "stabil", "f\u00f6r\u00e4ldrar", "f\u00f6r", "att", "utvecklas", "b\u00e4st", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "m\u00e5ste", "alltid", "ta", "h\u00e4nsyn", "till", "sitt", "barns", "behov", "och", "s\u00e4kerhet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnet", "har", "inte", "r\u00e4tt", "till", "en", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "som", "f\u00e5r", "h\u00f6gst", "inkomst", "ska", "inte", "f\u00e5", "r\u00e4kna", "p\u00e5", "sig", "som", "fattiga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Samh\u00e4llet", "m\u00e5ste", "ta", "ansvar", "f\u00f6r", "barnens", "utbildning", "."], "ner_tags": [1, 0, 0, 1, 0, 1, 1, 0]}
+{"tokens": ["F\u00f6r", "utvecklingsl\u00e4nderna", "ska", "det", "vara", "en", "klar", "agenda", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "f\u00f6rs\u00e4kra", "osselva", "om", "vi", "vill", "ha", "en", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "inte", "bara", "en", "fr\u00e5ga", "om", "ekonomi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "trygg", "och", "s\u00e4ker", "milj\u00f6", "f\u00f6r", "att", "utvecklas", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "f\u00f6rs\u00e4kra", "att", "barnen", "f\u00e5r", "r\u00e4ttigheter", "som", "de", "beh\u00f6ver", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["De", "som", "har", "mycket", "kan", "ocks\u00e5", "ha", "mycket", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Staten", "m\u00e5ste", "ta", "ansvar", "f\u00f6r", "barnens", "utbildning", "och", "h\u00e4lsa", "."], "ner_tags": [3, 0, 0, 3, 0, 3, 3, 0, 0]}
+{"tokens": ["F\u00f6r", "utvecklingsl\u00e4nderna", "ska", "det", "vara", "en", "sp\u00e5rv\u00e4g", "till", "framtid", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "trygg", "och", "s\u00e4ker", "milj\u00f6", "f\u00f6r", "att", "utvecklas", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "f\u00f6rs\u00e4kra", "att", "barnen", "f\u00e5r", "r\u00e4ttigheter", "som", "de", "beh\u00f6ver", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "vi", "f\u00f6rs\u00e4krar", "osselva", "om", "vi", "vill", "ha", "en", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "trygg", "och", "s\u00e4ker", "milj\u00f6", "f\u00f6r", "att", "utvecklas", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utvecklingsl\u00e4nderna", "ska", "det", "vara", "en", "klar", "agenda", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["De", "som", "har", "mycket", "kan", "ocks\u00e5", "ha", "mycket", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "f\u00f6rs\u00e4kra", "att", "barnen", "f\u00e5r", "r\u00e4ttigheter", "som", "de", "beh\u00f6ver", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "trygg", "och", "s\u00e4ker", "milj\u00f6", "f\u00f6r", "att", "utvecklas", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "f\u00f6rs\u00e4kra", "att", "barnen", "f\u00e5r", "r\u00e4ttigheter", "som", "de", "beh\u00f6ver", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["De", "som", "har", "mycket", "kan", "ocks\u00e5", "ha", "mycket", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utvecklingsl\u00e4nderna", "ska", "det", "vara", "en", "sp\u00e5rv\u00e4g", "till", "framtid", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "som", "f\u00f6rs\u00f6ker", "att", "g\u00f6ra", "en", "god", "inverkan", "p\u00e5", "milj\u00f6,"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "som", "har", "en", "stor", "positiv", "inverkan", "p\u00e5", "milj\u00f6,"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "som", "har", "en", "stor", "positiv", "inverkan", "p\u00e5", "milj\u00f6,"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "som", "f\u00f6rs\u00f6ker", "att", "g\u00f6ra", "en", "god", "inverkan", "p\u00e5", "milj\u00f6,"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "2020", "h\u00e4nder", "det", "finns", "hundratals", "nyhetsartiklar", "om", "covid-19", "p\u00e5", "h\u00f6gre", "niv\u00e5\u00e5", "niv\u00e5\u00e5", "i", "v\u00e4rlden", ",", "och", "de", "f\u00f6r", "f\u00f6rst\u00e4r", ".", "som", "d\u00f6mer", "hundratals", "d\u00f6das"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "studie", "som", "g\u00f6rs", "p\u00e5", "h\u00f6gre", "h\u00f6gskolor", "i", "Sverige", "visar", "att", "ungdomar", "med", "f\u00f6r\u00e5ldrar", "med", "h\u00f6gre", "utbildning", "har", "b\u00e4ttre", "chanser", "att", "g\u00f6ra", "framg\u00f6ngsrika", "karri\u00e5r"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "s\u00f6ker", "s\u00f6ka", "skydd", "mot", "p\u00f6nsningar", "om", "barn", "p\u00e5", "verksamheten"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "unders\u00f6kning", "av", "hur", "folk", "upplever", "livet", "p\u00e5", "g\u00f6ra", "hemma", "med", "kostnad", "p\u00e5", "kr\u00e5vande", "f\u00f6rs\u00e4kringssystem"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "i", "dag", "kan", "man", "f\u00f6ra", "s\u00f6k\u00e4n", "om", "s\u00f6kande", "teknik", "som", "kan", "h\u00e5lla", "man", "i", "kontakt", "med", "d\u00e5r", "barn", "som", "lever", "till", "f\u00f6r\u00e5l", "som", "lever", "p\u00e5", "annan", "plats"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "studie", "visar", "att", "barn", "som", "f\u00f6ds", "f\u00f6r", "\u00e4ldern", "har", "b\u00e4ttre", "chanser", "att", "g\u00f6ra", "framg\u00f6ngsrika", "karri\u00e5r"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "f\u00f6rra", "\u00e5ret", "h\u00e4nder", "det", "finns", "mer", "grupper", "som", "f\u00f6rs\u00f6ker", "att", "leva", "utan", "hustru", "och", "make"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00f6gre", "andelar", "av", "m\u00e5n", "f\u00f6rs\u00f6ker", "att", "gifta", "sig", "med", "en", "person", "som", "har", "en", "h\u00f6gre", "utbildning"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "n\u00e4mnd", "studie", "p\u00e5", "f\u00f6r\u00e5ldrars", "roll", "i", "barnens", "uppfostran", "visar", "att", "f\u00f6r\u00e5ldrarna", "har", "en", "stor", "inverkan", "p\u00e5", "barnets", "framtid"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "m\u00e5n", "f\u00f6rs\u00f6ker", "att", "gifta", "sig", "med", "en", "person", "som", "delar", "deras", "intressen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "i", "dag", "kan", "man", "g\u00f6ra", "t\u00e4ndera", "av", "k\u00f6n", "och", "genus"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "unders\u00f6kning", "av", "hur", "barn", "upplever", "skolan", "p\u00e5", "g\u00f6ra", "hemma", "med", "speciella", "h\u00e5lls\u00f6ganden"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "som", "f\u00f6ds", "f\u00f6r", "\u00e4ldern", "har", "b\u00e4ttre", "chanser", "att", "g\u00f6ra", "framg\u00f6ngsrika", "karri\u00e5r", "med", "en", "h\u00f6gre", "utbildning"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5l", "som", "har", "barn", "har", "b\u00e5ttre", "chanser", "att", "g\u00f6ra", "framg\u00f6ngsrika", "karri\u00e5r", "med", "en", "h\u00f6gre", "utbildning"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "f\u00f6r\u00e5ldrare", "f\u00f6rs\u00f6ker", "att", "ha", "en", "samlevnad", "med", "en", "person", "som", "delar", "deras", "intressen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "i", "dag", "kan", "man", "f\u00f6ra", "s\u00f6k\u00e4n", "om", "hur", "man", "kan", "g\u00f6ra", "samma", "saker", "tillsammans"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "som", "f\u00f6ds", "f\u00f6r", "\u00e4ldern", "har", "en", "h\u00f6gre", "chans", "att", "g\u00f6ra", "framg\u00f6ngsrika", "karri\u00e5r", "med", "en", "h\u00f6gre", "utbildning"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5l", "som", "har", "barn", "har", "b\u00e5ttre", "chanser", "att", "g\u00f6ra", "framg\u00f6ngsrika", "karri\u00e5r", "med", "en", "h\u00f6gre", "utbildning"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00f6gre", "andelar", "av", "m\u00e5n", "f\u00f6rs\u00f6ker", "att", "gifta", "sig", "med", "en", "person", "som", "har", "en", "h\u00f6gre", "utbildning"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "n\u00e4mnd", "studie", "p\u00e5", "f\u00f6r\u00e5ldrars", "roll", "i", "barnens", "uppfostran", "visar", "att", "f\u00f6r\u00e5ldrarna", "har", "en", "stor", "inverkan", "p\u00e5", "barnets", "framtid"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "har", "betydelse", "f\u00f6r", "v\u00e5rldshistorien", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "sv\u00e5rt", "att", "f\u00f6rs\u00f6ka", "att", "f\u00f6rst\u00e5", "sig", "fr\u00f6n", "de", "som", "f\u00f6rs\u00f6kt", "att", "f\u00f6rs\u00f6ka", "sig", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4nniskor", "f\u00f6r\u00e5r", "att", "de", "inte", "v\u00e4ljer", "att", "f\u00f6rs\u00f6ka", "sig", "fr\u00f6n", "saker", "som", "inte", "f\u00f6nns", "i", "verkligheten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tillg\u00e5ngen", "till", "f\u00f6rskolan", "har", "betydelse", "f\u00f6r", "utvecklingen", "av", "barnens", "kunskaper", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "lagen", "som", "reglerar", "hur", "man", "kan", "\u00e4g\u00e5", "guld", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f6rarna", "v\u00e4ljer", "att", "k\u00f6ra", "fortfarande", "med", "\u00e5ter\u00f6ppen", "till\u00e5tta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f6rslutet", "om", "hur", "man", "skall", "h\u00e5lla", "tillsammans", "p\u00e5", "arbetstillf\u00e5llen", "och", "b\u00f6rsh\u00f6jderna", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "sv\u00e5rt", "att", "b\u00f6ra", "upp", "f\u00f6r\u00e5nderskap", "med", "personer", "som", "inte", "har", "f\u00f6rlorat", "sin", "sj\u00e4lvst\u00e4ndighet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "som", "inte", "har", "b\u00f6rjat", "att", "f\u00f6rsa", "sig", "fr\u00f6n", "de", "sv\u00e5ra", "konsekvenserna", "av", "Klimat\u00f6vergreppet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Samh\u00e4llet", "m\u00e5ste", "f\u00f6rs\u00f6ka", "att", "f\u00f6rs\u00f6ka", "sig", "fr\u00f6n", "de", "sv\u00e5ra", "problem", "som", "vi", "inte", "kan", "l\u00f6sa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "2000", "har", "det", "varit", "en", "kraftig", "tillv\u00e5xt", "i", "f\u00f6retagande", "av", "ren\u00e5energi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildning", "har", "betydelse", "f\u00f6r", "utvecklingen", "av", "samh\u00e5llet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "tid", "t\u00e4nker", "man", "att", "det", "\u00e4r", "bra", "att", "f\u00f6rs\u00f6ka", "sig", "fr\u00f6n", "saker", "som", "inte", "f\u00f6nns", "i", "verkligheten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "sv\u00e5rt", "att", "vara", "en", "ung", "idag", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4nniskor", "f\u00f6r\u00e5r", "att", "v\u00e4lja", "att", "f\u00f6rs\u00f6ka", "sig", "fr\u00f6n", "saker", "som", "inte", "f\u00f6nns", "i", "verkligheten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "har", "inte", "f\u00f6rlorat", "sina", "kunder", "tro", "p\u00e5", "att", "de", "inte", "f\u00f6rs\u00f6ker", "sig", "fr\u00f6n", "de", "sv\u00e5ra", "konsekvenserna", "av", "Klimat\u00f6vergreppet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e5sta", "utbildningssystem", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5n", "v\u00e4ggen", "som", "inte", "v\u00e4xlar", "s\u00e5", "har", "man", "k\u00f6rt", "p\u00e5", "h\u00f6gre", "v\u00e4g", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildning", "har", "betydelse", "f\u00f6r", "m\u00e5ngahandel", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "sv\u00e5rt", "att", "f\u00f6rs\u00f6ka", "att", "f\u00f6rst\u00e5", "sig", "fr\u00f6n", "saker", "som", "inte", "f\u00f6nns", "i", "verkligheten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4derk\u00f6rdarna", "f\u00f6resl\u00e5", "att", "v\u00e4derk\u00f6rdarna", "kommer", "att", "s\u00e4ga", "en", "s\u00e4m", "m\u00e5nga", "fler", "regndagar", "p\u00e5", "\u00e5ret", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "som", "inte", "kommer", "in", "p\u00e5", "minskade", "betalningar", "ska", "tvingas", "att", "betala", "mer", "pengar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagets", "nye", "chef", "har", "varit", "i", "beslutande", "position", "innan", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e5gra", "vanliga", "symptom", "p\u00e5", "schizofreni", "inklusive", "hallucinationer", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4ster", "m\u00e5ste", "ja", "sj\u00e4lv", "som", "ber\u00e5tt", "om", "sin", "tid", "p\u00e5", "h\u00f6gskolan", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "g\u00f6r", "inte", "n\u00f6dv\u00e4ndigt", "att", "anja", "st\u00f6r", "om", "v\u00e4rlden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidningen", "publicerade", "en", "artikel", "om", "den", "nya", "teknologin", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["F\u00f6rel\u00e5ngarna", "har", "hittat", "en", "ny", "v\u00e5g", "att", "f\u00f6rebygga", "f\u00f6ljande", "klimatf\u00f6r\u00e5ndringar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "ska", "komma", "fr\u00e5n", "b\u00f6rjan", "p\u00e5", "den", "nya", "skolan", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Det", "blev", "klart", "att", "Sverige", "skulle", "delta", "p\u00e5", "europ\u00e5r\u00f6fentliga", "m\u00f6ten", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagets", "aktier", "h\u00f6jdes", "av", "st\u00f6rre", "investerare", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildningsministeriet", "h\u00f6rjer", "ut", "en", "ny", "utredning", "."], "ner_tags": [1, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["Jag", "kan", "inte", "komma", "ih\u00e5g", "p\u00e5", "min", "cykel", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e5gra", "personer", "har", "blivit", "v\u00e4ldt", "av", "r\u00f6ven", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e4karen", "fick", "besked", "om", "sin", "nominering", "."], "ner_tags": [1, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["F\u00f6retaget", "har", "varit", "i", "branschen", "i", "mer", "\u00e5n", "tio", "\u00e5r", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "som", "h\u00e4nder", "p\u00e5", "den", "nya", "skolan", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["F\u00f6rl\u00e5gningen", "p\u00e5", "resa", "till", "Italien", "var", "en", "sucess", "."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4xterna", "har", "blivit", "mycket", "v\u00e5rre", "d\u00e5", "sist\u00e5", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hon", "blev", "den", "f\u00f6rsta", "flickan", "att", "g\u00f6ra", "det", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "inte", "n\u00f6jdigt", "att", "vara", "i", "en", "l\u00e4nder", "som", "inte", "har", "samma", "v\u00e4der", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "har", "varit", "i", "branschen", "i", "mer", "\u00e5n", "tio", "\u00e5r", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildningsministern", "har", "varit", "i", "beslutande", "position", "innan", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidigare", "tjenare", "vid", "Folkh\u00e4lsan", "har", "blivit", "n\u00e5got", "som", "beskriver", "som", "en", "positiv", "utveckling", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6rfattaren", "har", "tidigare", "arbetat", "vid", "Svenska", "Universitetet", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Samh\u00e4llet", "m\u00f5r", "konkurs", "om", "det", "inte", "g\u00f6rs", "n\u00e5got", "f\u00f6r", "att", "r\u00e5da", "upp", "den", "ekonomiska", "situationen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "studie", "som", "har", "publicerats", "i", "dagspressen", "visar", "att", "tillg\u00e5ngen", "till", "h\u00f6gskoleutbildning", "har", "t\u00f6rt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "samma", "anledning", "har", "Svenska", "myndigheter", "beslutat", "att", "investera", "mera", "pengar", "i", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnet", "har", "blivit", "infekterat", "med", "ett", "allvarligt", "sjukdom", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3]}
+{"tokens": ["Doktorand", "vid", "Svenska", "Universitetet", "har", "f\u00f6rt", "en", "studie", "om", "temat", "."], "ner_tags": [3, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Myndigheterna", "har", "best\u00e5mt", "att", "g\u00f6ra", "n\u00e5got", "f\u00f6r", "att", "r\u00e5da", "upp", "situationen", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Professor", "Lars", "Jensen", "vid", "Tekniska", "H\u00f6gskolan", "har", "f\u00f6rt", "en", "studie", "om", "effektivitet", "."], "ner_tags": [0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidningen", "har", "p\u00f6sters", "en", "artikel", "om", "temat", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskaren", "har", "publicerat", "en", "bok", "om", "samma", "tema", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4rldsh\u00e4lsaorganisationen", "WHO", "har", "meddelat", "att", "de", "har", "f\u00f6rt", "en", "studie", "om", "temat", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidigare", "statsminister", "har", "blivit", "vald", "till", "posten", "igen", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskningen", "har", "visat", "att", "temat", "har", "stor", "betydelse", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dagens", "nyheter", "har", "skrivit", "en", "artikel", "om", "temat", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "studie", "som", "har", "publicerats", "i", "kvartalen", "visar", "att", "temat", "har", "stor", "betydelse", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Temat", "har", "fokus", "p\u00e5", "sociala", "fr\u00e5gor", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "myndigheter", "har", "beslutat", "att", "investera", "mera", "pengar", "i", "utbildning", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskare", "vid", "Svenska", "Universitetet", "har", "f\u00f6rt", "en", "studie", "om", "effektivitet", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dagens", "nyheter", "har", "skrivit", "en", "artikel", "om", "temat", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Temat", "har", "fokus", "p\u00e5", "h\u00f6gskoleutbildning", "."], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "studie", "som", "har", "publicerats", "i", "kvartalen", "visar", "att", "temat", "har", "stor", "betydelse", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskaren", "har", "publicerat", "en", "bok", "om", "temat", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "studenter", "f\u00e5r", "f\u00f6r", "h\u00f6g", "inkomst", "och", "lever", "f\u00f6r", "sina", "\u00e4gna", "l\u00f6ner", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "m\u00e5nga", "\u00e5r", "har", "Sverige", "kommit", "under", "press", "f\u00f6r", "sin", "h\u00f6g", "arbetsl\u00f6shet", "."], "ner_tags": [0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Lagen", "om", "arbetsl\u00f6shet", "ska", "anpassas", "f\u00f6r", "framtiden", "."], "ner_tags": [2, 0, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "som", "lever", "i", "fattigdom", "kan", "ha", "sv\u00e5rt", "att", "lyckas", "i", "skolan", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Det", "\u00e4ktenskap", "som", "inneb\u00e4r", "att", "man", "ska", "\u00e4ga", "sin", "hustru", "\u00e4r", "ett", "viktigt", "samh\u00e4lls", "tillst\u00e5nd", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Krisen", "som", "h\u00e4r", "intr\u00e4ffat", "ska", "inte", "sl\u00e5", "till", "\u00e5ren", "f\u00f6re", "kriget", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6rbundet", "f\u00f6r", "svensk", "industri", "vill", "se", "till", "att", "alla", "ungdomar", "ska", "f\u00e5", "chans", "att", "bli", "anst\u00e4llda", "."], "ner_tags": [2, 0, 2, 2, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "ska", "h\u00e5lla", "tillsammans", "med", "EU", "om", "framtiden", "."], "ner_tags": [2, 0, 0, 0, 2, 2, 0, 0, 0]}
+{"tokens": ["P\u00e5", "arbetsmarknaden", "arbetar", "m\u00e5nga", "personer", "med", "funktionsneds\u00e4ttning", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Man", "ska", "ha", "r\u00e4tt", "till", "f\u00f6rs\u00e4kring", "om", "han", "d\u00f6r", "inne", "\u00e5lderdom", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["F\u00f6retag", "som", "inte", "har", "s\u00e5", "mycket", "pengar", "ska", "inte", "kunna", "f\u00f6rlora", "pengar", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "alla", "barn", "ska", "f\u00e5", "bra", "utbildning", "f\u00f6r", "framtiden", "."], "ner_tags": [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ingen", "f\u00f6retagare", "ska", "tvingas", "avskeda", "sina", "anst\u00e4llda", "p\u00e5", "grund", "av", "\u00e5lderdom", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 2, 0, 0, 0, 2, 0]}
+{"tokens": ["Den", "som", "\u00e4r", "under", "30", "\u00e5r", "ska", "ha", "f\u00f6rm\u00e5ga", "att", "t\u00e4nka", "kritiskt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Om", "man", "\u00e4r", "en", "f\u00f6retagare", "ska", "man", "ha", "kunnande", "i", "ekonomi", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "m\u00e5nga", "familjer", "ska", "det", "vara", "sv\u00e5rt", "att", "f\u00f6rs\u00f6rja", "sig", "i", "fattigdom", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "har", "r\u00e4tt", "till", "f\u00f6rs\u00e4kring", "om", "de", "d\u00f6r", "inne", "\u00e5lderdom", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Om", "man", "inte", "arbetar", "ska", "man", "ha", "r\u00e4tt", "till", "f\u00f6rs\u00f6rjning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ingen", "person", "ska", "tvingas", "att", "arbeta", "mot", "sin", "vilja", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "ska", "ha", "en", "stark", "f\u00f6rsvarsmakt", "f\u00f6r", "att", "skydda", "landet", "."], "ner_tags": [2, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6rbundet", "f\u00f6r", "svensk", "kultur", "vill", "fr\u00e4mja", "kulturell", "utveckling", "i", "Sverige", "."], "ner_tags": [2, 0, 2, 2, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Alla", "m\u00e4nniskor", "ska", "ha", "r\u00e4tt", "till", "f\u00f6rs\u00e4kring", "om", "sjukdom", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Under", "f\u00f6rra", "\u00e5ret", "var", "det", "h\u00f6gsta", "antal", "jobbs\u00f6kande", "som", "n\u00e5gonsin", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "den", "sista", "g\u00e5ngen", "blev", "hon", "utn\u00e4mnd", "till", "\u00e5rets", "ledare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "studie", "fr\u00e5n", "universitetet", "visar", "att", "m\u00e4nniskans", "livsl\u00e4ngd", "har", "\u00f6kat", "avsev\u00e4rt", "sedan", "dess", "att", "hon", "startade", "att", "ta", "igenv\u00e4xtkurs", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["P\u00e5", "tisdagen", "blev", "ett", "nytt", "rekord", "uppn\u00e5tt", "n\u00e4r", "man", "uppt\u00e4ckte", "ett", "nytt", "djur", "arter", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "grupp", "av", "vetenskapsm\u00e4n", "har", "startat", "en", "ny", "kampanj", "f\u00f6r", "att", "b\u00e4dda", "in", "fler", "tr\u00e4d", "i", "stadsparken", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Under", "veckan", "bes\u00f6kte", "hennes", "familj", "hennes", "mor", "f\u00f6r", "f\u00f6sta", "g\u00e5ngen", "sedan", "\u00e5ret", "f\u00f6rra", "\u00e5ret", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "skola", "ska", "byggas", "i", "omr\u00e5det", "f\u00f6r", "att", "ge", "barnen", "b\u00e4ttre", "f\u00f6ruts\u00e4ttningar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utomhus", "har", "man", "hittat", "flera", "r\u00e4ttf\u00e4rdiga", "orsaker", "till", "varf\u00f6r", "man", "inte", "kan", "g\u00f6ra", "n\u00e5got", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "grupp", "av", "elever", "har", "startat", "en", "ny", "f\u00f6rening", "f\u00f6r", "att", "arbeta", "med", "milj\u00f6fr\u00e5gor", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "kommunikationsl\u00f6sningen", "som", "kommer", "att", "sl\u00e4ppas", "skulle", "kunna", "\u00f6ka", "effektiviteten", "i", "samtliga", "system", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "studerande", "fr\u00e5n", "Sverige", "har", "vunnit", "ett", "pris", "p\u00e5", "en", "vetenskaplig", "konferens", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "som", "den", "f\u00f6rsta", "i", "v\u00e4rlden", "att", "inf\u00f6ra", "en", "ny", "lag", "som", "st\u00e4nger", "in", "sociala", "medier", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "studie", "visar", "att", "h\u00e4lsan", "p\u00e5", "\u00e4ldre", "h\u00f6jer", "sig", "n\u00e4r", "man", "bes\u00f6ker", "n\u00e4rhet", "v\u00e4nner", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "teknologin", "som", "sl\u00e4pptes", "hittade", "sitt", "v\u00e4g", "genom", "konsumenternas", "f\u00f6rtroende", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "\u00e4ldre", "m\u00e4nniskor", "finns", "det", "s\u00e4rskilda", "l\u00e4karverksamhet", "f\u00f6r", "att", "ge", "dem", "r\u00e4tt", "v\u00e5rd", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nyhetsnamn", "som", "blev", "publicerat", "hittade", "ett", "helt", "nytt", "s\u00e4tt", "att", "ber\u00e4tta", "historien", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "att", "\u00f6ka", "turismen", "i", "Sverige", "har", "man", "slutit", "en", "allians", "med", "n\u00e4ringslivet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "samarbete", "mellan", "fyra", "regioner", "f\u00f6r", "att", "ge", "b\u00e4ttre", "tillg\u00e5ng", "till", "kultur", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "att", "f\u00f6rebygga", "olyckor", "har", "man", "inf\u00f6rt", "en", "nya", "lag", "som", "kr\u00e4ver", "att", "bilar", "skall", "h\u00e5llas", "upp", "till", "ett", "visst", "standard", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "informativa", "hanteringen", "som", "kommer", "att", "sl\u00e4ppas", "skulle", "kunna", "ge", "dem", "b\u00e4ttre", "\u00f6verblick", "\u00f6ver", "sitt", "liv", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "dem", "som", "v\u00e4ljer", "att", "f\u00f6rs\u00f6ka", "livet", "eftersom", "de", "tror", "att", "det", "\u00e4r", "l\u00e4ttare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "trots", "att", "det", "h\u00e4r", "var", "l\u00e4tt", "att", "f\u00f6rs\u00f6ka", "t\u00e4nka", "p\u00e5", "det", "h\u00e4r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Men", "de", "som", "har", "villkorlig", "f\u00f6rs\u00e4kring", "har", "ingen", "risiko", "i", "fr\u00e5ga", "om", "sjukdom", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["D\u00e4rf\u00f6r", "\u00e4r", "de", "mera", "f\u00f6rsiktiga", "i", "sina", "\u00e5tg\u00e4rder", "till", "att", "f\u00f6rebygga", "sjukdomar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["WHO", "arbetar", "f\u00f6r", "att", "f\u00f6rebygga", "sjukdomar", "v\u00e4rlden", "\u00f6ver", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["Den", "amerikanska", "staten", "Texas", "\u00e4r", "k\u00e4nd", "f\u00f6r", "sina", "vilda", "vilda", "v\u00e4stern", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["K\u00e4nd", "personer", "som", "har", "f\u00f6dd", "sig", "i", "Texas", "\u00e4r", "m\u00e5nga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Bland", "annat", "\u00e4r", "klara", "vatten", "i", "Flint", "Texas", "som", "\u00e4r", "tillg\u00e4ngliga", "f\u00f6r", "alla", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Texas", "\u00e4r", "en", "delstat", "i", "USA", "som", "b\u00f6r", "bli", "bes\u00f6kt", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Texas", "fanns", "tidigare", "en", "staty", "av", "Santa", "Anna", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Men", "statyn", "har", "f\u00f6rsvunnit", "och", "ingen", "veta", "varf\u00f6r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Lantbruksf\u00f6retaget", "John", "Deere", "\u00e4ger", "mer", "av", "mark", "\u00e4n", "alla", "\u00f6vriga", "jordbruksf\u00f6retag", "tillsammans", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "grundades", "av", "John", "Deere", "i", "Moline", "Illinois", "i", "1852", "."], "ner_tags": [2, 0, 0, 1, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["F\u00f6retaget", "har", "expanderat", "till", "ett", "globalt", "f\u00f6retag", "med", "kontor", "i", "\u00f6ver", "30", "l\u00e4nder", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4rldens", "st\u00f6rsta", "fyrv\u00e4xlare", "\u00e4r", "en", "fabrik", "i", "Chicago", "som", "producerar", "en", "st\u00f6rre", "del", "av", "alla", "fyrv\u00e4xlare", "i", "v\u00e4rlden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "som", "\u00e4ger", "fyrv\u00e4xlaren", "\u00e4r", "General", "Motors", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "\u00e4r", "ett", "land", "i", "Norden", "som", "\u00e4r", "bekant", "f\u00f6r", "sina", "finansiella", "system", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "banker", "\u00e4r", "bekanta", "med", "sina", "tj\u00e4nster", "i", "\u00e4ven", "Norge", "och", "Danmark", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "brett", "n\u00e4tverk", "av", "finansiella", "institutioner", "som", "verkar", "p\u00e5", "globalt", "niv\u00e5", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4rt", "att", "notera", "att", "Sverige", "\u00e4r", "ett", "av", "de", "l\u00e4nder", "som", "har", "det", "h\u00f6gsta", "BNP", "per", "inv\u00e5nare", "."], "ner_tags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "h\u00f6gsta", "datumet", "p\u00e5", "vilket", "man", "kan", "f\u00e5", "en", "f\u00f6rtur", "att", "flyga", "fr\u00e5n", "Sverige", "\u00e4r", "den", "1", "januari", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "finns", "mer", "\u00e4n", "150", "flygplatser", "som", "erbjuder", "passagerar", "tj\u00e4nster", "till", "m\u00e5nga", "destinationer", "\u00f6ver", "hela", "v\u00e4rlden", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "har", "lagt", "ut", "en", "ny", "aktie", "p\u00e5", " b\u00f6rsen", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["Den", "nya", "lagen", "kommer", "att", "g\u00f6ra", "det", "sv\u00e5rt", "f\u00f6r", "f\u00f6retagen", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Vi", "har", "gett", "en", "utredning", "om", "hur", "det", "ska", "g\u00f6ra", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e5ngt", "ifr\u00e5n", "har", "man", "kunnat", "se", "hur", "det", "g\u00e5r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "mera", "tid", "med", "sin", "f\u00f6r\u00e4lder", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["F\u00f6retaget", "ska", "anv\u00e4nda", "fler", "kvinna", "i", "ledningen", "."], "ner_tags": [1, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["Den", "nya", "teknologin", "kan", "f\u00f6rb\u00e4ttra", "v\u00e5ra", "liv", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "har", "gett", "ett", "nystartat", "f\u00f6retag", "upp", "."], "ner_tags": [0, 0, 0, 0, 1, 1, 0, 0]}
+{"tokens": ["Tillg\u00e4ngligheten", "i", "staden", "har", "f\u00f6rb\u00e4ttrats", "mycket", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "ska", "byta", "namn", "snart", "."], "ner_tags": [1, 0, 0, 1, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "en", "stor", "nya", "chans", "f\u00f6r", "oss", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "mera", "tid", "med", "sitt", "f\u00f6r\u00e4lder", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Den", "nya", "teknologin", "kan", "f\u00f6rb\u00e4ttra", "v\u00e5ra", "liv", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "ska", "anv\u00e4nda", "fler", "m\u00e4n", "i", "ledningen", "."], "ner_tags": [1, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["Tillg\u00e4ngligheten", "i", "staden", "har", "f\u00f6rb\u00e4ttrats", "mycket", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["Lagarna", "ska", "\u00e4ndras", "snart", "."], "ner_tags": [0, 0, 1, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "en", "stor", "nya", "chans", "f\u00f6r", "oss", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnet", "beh\u00f6ver", "mera", "tid", "med", "sitt", "f\u00f6r\u00e4lder", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["F\u00f6retaget", "ska", "anv\u00e4nda", "fler", "m\u00e4n", "i", "ledningen", "."], "ner_tags": [1, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["Tillg\u00e4ngligheten", "i", "staden", "har", "f\u00f6rb\u00e4ttrats", "mycket", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "teknologin", "kan", "f\u00f6rb\u00e4ttra", "v\u00e5ra", "liv", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "har", "gett", "ett", "nystartat", "f\u00f6retag", "upp", "."], "ner_tags": [0, 0, 0, 0, 1, 1, 0, 0]}
+{"tokens": ["Barnav\u00e5rdsbidraget", "betalas", "ut", "fr\u00e5n", "staten"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Familjen", "har", "en", "viktig", "roll", "i", "samh\u00e4llet"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Socialtj\u00e4nsten", "erbjuder", "st\u00f6d", "till", "familjer", "med", "barn"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldraskap", "\u00e4r", "en", "viktigt", "uppdrag"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "familjer", "drabbas", "av", "ekonomisk", "sv\u00e5righeter"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "familjen", "har", "en", "stabilt", "finansiellt", "st\u00f6d"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnets", "b\u00e4sta", "intresse", "ska", "alltid", "komma", "f\u00f6rst"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "ska", "s\u00e4tta", "sin", "barnets", "b\u00e4sta", "intresse", "f\u00f6rst"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Familjen", "ska", "ocks\u00e5", "ta", "hand om", "sitt", "samh\u00e4lleliga", "ansvar"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "familjer", "har", "sv\u00e5ra", "relationer", "med", "socialtj\u00e4nsten"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldraansvar", "\u00e4r", "en", "viktig", "sak", "i", "familjen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Samh\u00e4llet", "ska", "st\u00f6dja", "familjen", "i", "n\u00f6dsituationer"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldraskap", "\u00e4r", "en", "sammanh\u00e5llande", "kraft"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4nniskor", "som", "har", "f\u00f6rtrettsamma", "relationer", "med", "socialtj\u00e4nsten", "ska", "s\u00f6ka", "hj\u00e4lp", "hos", "andra", "organisat\u00f6rer"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Familjen", "ska", "s\u00e4tta", "sin", "eget", "h\u00f6ga", "m\u00e5l"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "drabbas", "av", "ekonomisk", "kris", "ska", "s\u00f6ka", "hj\u00e4lp", "till", "ekonomiskt", "st\u00f6d"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnfamiljer", "\u00e4r", "viktiga", "i", "samh\u00e4llet"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "ska", "s\u00e4tta", "sin", "barnets", "h\u00e4lsa", "f\u00f6rst"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Socialtj\u00e4nsten", "erbjuder", "st\u00f6d", "till", "familjer", "med", "s\u00e4rskilda", "behov"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "familjer", "beh\u00f6ver", "ekonomiskt", "st\u00f6d", "f\u00f6r", "att", "ta", "hand", "om", "sitt", "liv"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "drabbas", "av", "s\u00e5ra", "relationer", "med", "socialtj\u00e4nsten", "ska", "s\u00f6ka", "hj\u00e4lp", "hos", "andra"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnets", "b\u00e4sta", "intresse", "ska", "alltid", "komma", "f\u00f6rst", "och", "familjen", "ska", "st\u00f6dja", "sitt", "barn"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "drabbas", "av", "ekonomisk", "sv\u00e5righeter", "ska", "s\u00f6ka", "hj\u00e4lp", "till", "ekonomiskt", "st\u00f6d"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Familjen", "ska", "ta", "hand", "om", "sitt", "samh\u00e4lleliga", "ansvar"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "stort", "antal", "folk", "som", "lever", "i", "n\u00e4ra", "m\u00e5l\u00f6rer", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnkonventionen", "har", "varit", "i", "kraft", "sedan", "1989", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "person", "som", "blir", "f\u00f6dd", "f\u00f6re", "1989", "inte", "f\u00f6r\u00e5r", "r\u00e5tt", "till", "barnpension", "."], "ner_tags": [0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnets", "r\u00e5ttigheter", "m\u00e5ste", "alltid", "f\u00f6res", "i", "f\u00f6rh\u00e5llandet", "p\u00e5", "en", "obalans", "i", "hemmet", "."], "ner_tags": [2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "b\u00e5sta", "av", "v\u00e4rldens", "b\u00e5sta", "skolor", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Polis", "t\u00f6r", "p\u00e5", "att", "skydda", "s\u00e5", "medborgarna", "s\u00e5", "de", "g\u00f6r", "vad", "de", "s\u00e5", "g\u00f6r", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "unga", "flicka", "som", "f\u00f6ds", "i", "Sverige", "har", "r\u00e5tt", "till", "skolg\u00e5ng", "."], "ner_tags": [0, 0, 2, 0, 1, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "h\u00f6gt", "antal", "invandrare", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "b\u00f6r", "inte", "vara", "sv\u00e5rt", "att", "hitta", "jobb", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Ungdomar", "i", "Sverige", "som", "f\u00f6ds", "i", "utlandet", "kan", "f\u00f6rs\u00f6ka", "att", "f\u00e5", "f\u00f6rs\u00f6kning", "i", "Sverige", "."], "ner_tags": [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "stort", "antal", "barn", "som", "lever", "i", "f\u00f6rh\u00e5llanden", "som", "inte", "har", "r\u00e5tt", "till", "barnpension", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "i", "Sverige", "har", "r\u00e5tt", "till", "f\u00f6rs\u00f6kning", "i", "en", "god", "milj\u00f6", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "l\u00e5ng", "tid", "har", "g\u00e5tt", "f\u00f6r", "att", "sverige", "kan", "f\u00f6rs\u00f6ka", "att", "f\u00e5", "b\u00e4ttre", "p\u00e5", "att", "skydda", "barnen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "g\u00f6tt", "antal", "av", "s\u00f6k\u00e4rare", "som", "arbetar", "p\u00e5", "att", "skydda", "barnen", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "b\u00f6r", "inte", "vara", "sv\u00e5rt", "att", "hitta", "en", "jobb", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Barnen", "i", "Sverige", "har", "r\u00e5tt", "till", "f\u00f6rs\u00f6kning", "i", "en", "bra", "milj\u00f6", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "b\u00e5sta", "av", "v\u00e4rldens", "b\u00e5sta", "skolor", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Sverige", "har", "ett", "stort", "antal", "barn", "som", "lever", "i", "f\u00f6rh\u00e5llanden", "som", "inte", "har", "r\u00e5tt", "till", "barnpension", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "b\u00f6r", "inte", "vara", "sv\u00e5rt", "att", "hitta", "jobb", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Polisen", "i", "Sverige", "har", "ett", "viktigt", "uppdrag", "att", "skydda", "s\u00e5", "medborgarna", "s\u00e5", "de", "g\u00f6r", "vad", "de", "s\u00e5", "g\u00f6r", "."], "ner_tags": [3, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "i", "Sverige", "har", "r\u00e5tt", "till", "f\u00f6rs\u00f6kning", "i", "en", "god", "milj\u00f6", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "h\u00e4ller", "p\u00e5", "tredje", "platsen", "i", "Europa", "p\u00e5", "om\u00f6den", "av", "ekonomisk", "utveckling", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "n\u00e5gra", "miljarder", "personer", "som", "lever", "i", "n\u00e4ra", "povertygr\u00e4nsen", "i", "Syrien", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ett", "f\u00f6rbud", "om", "framtidens", "k\u00f6tt", "f\u00f6r", "alla", "f\u00f6rsvarsministrar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "h\u00e4nder", "ofta", "d\u00e5", "man", "tror", "att", "det", "g\u00f6r", "ett", "stort", "intryck", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "internationella", "oljan\u00e4rkektomen", "tvingas", "att", "minskat", "sin", "produktion", "p\u00e5", "grund", "av", "en", "kraftig", "h\u00f6jd\u00e5ck", "i", "Kina", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["M\u00e5nga", "afrikanska", "d\u00f6llarsstaters", "l\u00e4nder", "har", "sv\u00e5rta", "smittsamma", "sjukdomar", "som", "drabbar", "mycket", "m\u00e5nga", "personer", "."], "ner_tags": [0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "globala", "niv\u00e5n", "p\u00e5", "klimatf\u00f6r\u00e5ndringen", "b\u00f6r", "forts\u00e5t", "\u00f6ka", "under", "n\u00e4sta", "decennium", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bostadsbristen", "\u00e4r", "en", "st\u00f6rre", "utmaning", "f\u00f6r", "m\u00e5nga", "l\u00e4nder", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ett", "dagsordning", "som", "b\u00f6r", "sl\u00e5", "p\u00e5", "hjul", "och", "tj\u00e4na", "som", "ett", "alternativ", "till", "flygtransporter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["F\u00f6r", "m\u00e5nga", "\u00e5ldern", "\u00e4r", "en", "sv\u00e5r", "tillstymmelse", "f\u00f6r", "m\u00e5nga", "f\u00f6retag", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["De", "f\u00f6rsta", "satelliterna", "skickades", "upp", "i", "raketerna", "Vostok", "och", "Sputnik", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["F\u00f6r", "m\u00e5nga", "id\u00e9er", "\u00e4r", "sv\u00e5ra", "att", "\u00f6verleva", "i", "samma", "v\u00e4rld", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bristen", "p\u00e5", "f\u00f6rs\u00f6rjningsmedel", "drabbar", "m\u00e5nga", "l\u00e4nder", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "stor", "brist", "p\u00e5", "hus", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatf\u00f6r\u00e4ndringarna", "drabbar", "m\u00e5nga", "l\u00e4nder", "."], "ner_tags": [0, 0, 0, 5, 0, 0]}
+{"tokens": ["Det", "n\u00e4rvarande", "systemet", "\u00e4r", "sv\u00e5rt", "att", "f\u00f6r\u00e4ndra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "st\u00f6rre", "del", "av", "befolkningen", "lever", "i", "n\u00e4ra", "povertygr\u00e4nsen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kriget", "i", "Ukraina", "har", "orsakat", "stora", "sv\u00e5righeter", "f\u00f6r", "m\u00e5nga", "personer", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "globala", "kommunikationen", "har", "f\u00f6rb\u00e4ttrats", "avsev\u00e4rt", "under", "de", "senaste", "\u00e5ren", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "m\u00e5nga", "f\u00f6rslag", "\u00e4r", "sv\u00e5ra", "att", "g\u00f6ra", "verkliga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Trots", "m\u00e5nga", "f\u00f6rs\u00f6k", "har", "ingenting", "gjorts", "f\u00f6r", "att", "f\u00f6rebygga", "klimatf\u00f6r\u00e4ndringarna", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bristen", "p\u00e5", "vatten", "drabbar", "m\u00e5nga", "l\u00e4nder", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Ingen", "st\u00f6rre", "skada", "drabbar", "de", "som", "lever", "i", "hus", "med", "denna", "konstruktion", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e4kemedel", "som", "kan", "hj\u00e4lpa", "samtliga", "olika", "sjukdomar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sammanlagt", "sju", "familjer", "har", "flyttat", "in", "i", "denna", "del", "av", "staden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "har", "varit", "en", "tuff", "process", "att", "hitta", "bostad", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00e4llor", "har", "uppskattat", "att", "antalet", "familjer", "som", "lever", "i", "sm\u00e5", "hus", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "s\u00e4rskild", "h\u00e4lsov\u00e5rdare", "talar", "om", "de", "sv\u00e5ra", "konsekvenser", "som", "kan", "uppkomma", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sedan", "m\u00e5nga", "\u00e5r", "har", "folk", "gjort", "tort", "men", "inte", "haft", "b\u00e5de", "b\u00e5de", "v\u00e4nner", "och", "familjer", "som", "lever", "i", "sm\u00e5", "hus", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "samh\u00e4llsvetare", "menar", "att", "det", "\u00e4r", "inte", "fel", "att", "s\u00e4ga", "att", "det", "\u00e4r", "sv\u00e5rt", "att", "hitta", "en", "bostad", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Efter", "\u00e5rtionden", "av", "att", "hitta", "n\u00e5got", "som", "passar", "har", "de", "som", "s\u00f6kt", "bostad", "f\u00e5tt", "mer", "sv\u00e5rt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Man", "kan", "hitta", "b\u00e4ttre", "resultat", "om", "man", "fors\u00f6ker", "genom", "att", "kombinera", "tidiga", "upps\u00f6kande", "med", "effektivare", "taktiker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "expert", "talar", "om", "n\u00f6dv\u00e4ndigheten", "av", "att", "hitta", "lokala", "l\u00f6sningar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e4get", "p\u00e5", "bostadsmarknaden", "\u00e4r", "inte", "ljus", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "samh\u00e4llsdebatt", "om", "bostadsmarknaden", "har", "varit", "varm", "under", "l\u00e4nge", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "region", "chef", "talar", "om", "satsningar", "p\u00e5", "bostadspolitik", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bostadspolitiken", "\u00e4r", "ett", "viktigt", "omr\u00e5de", "f\u00f6r", "samh\u00e4llet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "expert", "talar", "om", "att", "hitta", "lokala", "l\u00f6sningar", "f\u00f6r", "bostadsbristen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bostadskrisen", "har", "varit", "l\u00e4nge", "."], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["Efter", "\u00e5rtionden", "av", "bostadskris", "har", "folk", "f\u00e5tt", "hopp", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "samh\u00e4llsvetare", "menar", "att", "det", "\u00e4r", "viktigt", "att", "hitta", "lokala", "l\u00f6sningar", "f\u00f6r", "bostadsbristen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e4get", "p\u00e5", "bostadsmarknaden", "\u00e4r", "inte", "en", "g\u00e5ng", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "hitta", "lokala", "l\u00f6sningar", "f\u00f6r", "bostadskrisen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "samh\u00e4llsdebatt", "om", "bostadspolitiken", "har", "varit", "varm", "under", "l\u00e4nge", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "region", "chef", "talar", "om", "satsningar", "p\u00e5", "bostadspolitik", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e4get", "p\u00e5", "bostadsmarknaden", "\u00e4r", "inte", "ljus", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "och", "Tyskland", "har", "inte", "samma", "klimat", ".", "olik", "geografi", "eller", "kultur", "som", "Spanien", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Egypten", "\u00e4r", "en", "av", "v\u00e4rldens", "st\u00f6rsta", "producenter", "av", "socker", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "\u00e4nnu", "ingenting", "som", "tyder", "p\u00e5", "att", "Egypten", "ska", "tvingas", "att", "s\u00e4lja", "utanf\u00f6rs", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "av", "Australiens", "inv\u00e5nare", "har", "f\u00f6rlorat", "h\u00e4star", "grund", "av", "hundar", "som", "haglar", "p\u00e5", "marken."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Norge", "\u00e4r", "ett", "land", "i", "Europa", "som", "har", "en", "starkt", "utvecklad", "ekonomi."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Turkiet", "har", "ett", "m\u00e5ngfaldigt", "kulturellt", "arv", "med", "inslag", "av", "islam", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bolivia", "\u00e4r", "ett", "land", "i", "Sydamerika", "som", "har", "en", "starkt", "utvecklad", "tillverkning", "av", "olja."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Syrien", "\u00e4r", "ett", "land", "i", "V\u00e4stasien", "som", "har", "en", "komplex", "politisk", "situation."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utom", "i", "Nordkorea", "finns", "det", "inget", "som", "kallar", "sig", "f\u00f6retag."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nederl\u00e4nderna", "\u00e4r", "ett", "land", "i", "V\u00e4steuropa", "som", "har", "en", "starkt", "utvecklad", "ekonomi."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Brasilien", "har", "ett", "stort", "utbud", "av", "dans.", "Musik", "\u00e4r", "en", "del", "av", "brasilien", "kultur."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Jemen", "\u00e4r", "ett", "land", "i", "V\u00e4stasien", "som", "har", "en", "komplex", "politisk", "situation."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tyskland", "\u00e4r", "ett", "land", "i", "V\u00e4steuropa", "som", "har", "en", "starkt", "utvecklad", "ekonomi."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Marocko", "har", "ett", "m\u00e5ngfaldigt", "kulturellt", "arv", "med", "inslag", "av", "islam", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Indien", "\u00e4r", "ett", "land", "i", "Sydasien", "som", "har", "en", "starkt", "utvecklad", "ekonomi."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Italien", "\u00e4r", "ett", "land", "i", "V\u00e4steuropa", "som", "har", "en", "starkt", "utvecklad", "ekonomi."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "stort", "utbud", "av", "naturresurser", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Japan", "\u00e4r", "ett", "land", "i", "\u00d6stasien", "som", "har", "en", "starkt", "utvecklad", "teknologi."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovenien", "\u00e4r", "ett", "land", "i", "Europa", "som", "har", "en", "starkt", "utvecklad", "turism."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Australien", "har", "ett", "stort", "utbud", "av", "naturresurser", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kina", "\u00e4r", "ett", "land", "i", "\u00d6stasien", "som", "har", "en", "starkt", "utvecklad", "ekonomi."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "f\u00f6rsta", "dag", "av", "h\u00f6sten", "var", "en", "s\u00f6dra", "vinterd\u00e5r", "som", "sp\u00e5tt", "har", "kommit", "till", "Stockholm", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Stockholms", "stads", "fullm\u00f6gder", "kommer", "att", "t\u00e4mja", "om", "\u00e5r", "och", "f\u00f6r\u00e5", "avsl\u00f6ta", "med", "en", "st\u00f6r", "fest", "p\u00e5", "Skansen", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["I", "Sverige", "lever", "cirka", "500000", "personer", "med", "r\u00f6relsehindragande", "sjukdomar", "."], "ner_tags": [2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["P\u00e4rl\u00f6r", "hos", "v\u00e5r", "h\u00f6stkonung", "Carl", "XVI", "var", "h\u00f6sten", "kungen", "av", "sina", "f\u00f6rsta", "\u00e5r", "p\u00e5", "tronen", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["B\u00f6rje", "Skarfstadh", "arbetar", "som", "kock", "p\u00e5", "Scandic", "Hotell", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kungen", "bes\u00f6ker", "ofta", "Norge", "och", "trivs", "b\u00e5de", "p\u00e5", "socialevenemang", "och", "i", "naturen", "."], "ner_tags": [1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5", "vi", "inte", "gl\u00f6mmer", "bort", "hur", "v\u00e4rlden", "blev", "till", "r\u00f6d", "av", "Gud", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["H\u00f6sten", "v\u00e4r", "\u00e5", "en", "bra", "tid", "att", "ta", "sig", "till", "b\u00f6nan", "och", "resa", "till", "g\u00e5rna", "Stockholm", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["Kungen", "och", "drottningen", "blev", "f\u00f6dda", "p\u00e5", "Bromma", "."], "ner_tags": [1, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Den", "stora", "vinsten", "f\u00f6r", "Sverige", "i", "EU-samtal", "var", "att", "v\u00e4rda", "som", "ett", "h\u00e4r\u00f6gande", "av", "talanger", "och", "stora", "kraft\u00f6rter", "."], "ner_tags": [0, 2, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["G\u00f6teborg", "arbetar", "med", "att", "f\u00f6rl\u00e5", "sitt", "betydande", "andel", "av", "sin", "energi", "fr\u00e5n", "solenergi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["St\u00f6rre", "delar", "av", "Sverige", "ligger", "i", "Norden", "."], "ner_tags": [1, 0, 2, 2, 0, 0, 0]}
+{"tokens": ["P\u00e5", "dessa", "platser", "lever", "cirka", "500000", "personer", "som", "f\u00f6r", "utomhus", "p\u00e5", "h\u00f6sten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "som", "f\u00f6ds", "innan", "kristendomen", "kommer", "fr\u00e5n", "det", "som", "h\u00f6r", "l\u00e4nges", "till", "ett", "omr\u00e5de", "av", "Gud", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["M\u00e5nga", "av", "oss", "har", "inte", "lyckats", "med", "v\u00e4r", "egen", "familj", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5", "vi", "inte", "gl\u00f6mmer", "bort", "hur", "vi", "blev", "f\u00f6dda", "p\u00e5", "jorden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "dag", "dags", "arbete", "f\u00f6r\u00e5r", "en", "bra", "tid", "att", "l\u00e5ngsela", "kunskap", "fr\u00e5n", "tidigare", "generationer", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["B\u00e4sta", "tid", "att", "bes\u00f6ka", "G\u00f6teborg", "\u00e4r", "n\u00e4r", "det", "arbetas", "p\u00e5", "r\u00e5dg\u00e5rdar", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "av", "oss", "har", "inte", "f\u00f6r", "en", "helhetlig", "uppfattning", "av", "v\u00e4r", "v\u00e4rld", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kungen", "v\u00e4ljer", "att", "f\u00f6lja", "den", "gamla", "traditionen", "och", "bli", "kung", "p\u00e5", "onsdagen", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Det", "var", "en", "bra", "tid", "att", "v\u00e4lja", "f\u00f6rst", "upp", "f\u00f6r\u00e5", "de", "st\u00f6rre", "samh\u00e5llen", "fick", "bara", "en", "chans", "att", "f\u00f6rl\u00e5", "sin", "tid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stockholms", "stadshus", "st\u00f6r", "p\u00e5", "Slottskogen", "."], "ner_tags": [1, 1, 0, 0, 0]}
+{"tokens": ["Vi", "har", "tidigare", "inte", "sett", "det", "d\u00e5", "nya", "t\u00e5lam\u00e4ttingen", ".ERP-systemet", "skulle", "vara", "s\u00e5", "bra", "som", "det", "fungerar", "idag", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e5sta", "undervisningsystem", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["F\u00f6r\u00e5ldernas", "moral", "kommer", "att", "kr\u00e4vas", "att", "t\u00e5", "barnen", "inte", "ska", "f\u00f6lja", "samma", "v\u00e4gar", "som", "f\u00f6r\u00e5ldern", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jag", "f\u00f6rs\u00f6ker", "att", "v\u00e4xa", "p\u00e5", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Efter", "60", "\u00e5r", "har", "man", "sv\u00e5rt", "att", "g\u00f6ra", "sig", "sj\u00e5lv", "k\u00f6kande", "p\u00e5", "att", "arbeta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "problem", "med", "s\u00f6kningen", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jag", "har", "f\u00f6ljt", "en", "barnfamilj", "med", "ett", "litet", "barn", "och", "jag", "k\u00e4nner", "inte", "att", "det", "g\u00f6r", "s\u00e5", "mycket", "avvikelse", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "ungdomar", "v\u00e4ljer", "att", "stanna", "kvar", "i", "barnfamiljen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "b\u00e5st\u00e5tt", "klimat", "."], "ner_tags": [1, 0, 0, 0, 0, 0]}
+{"tokens": ["Jag", "tror", "att", "Sverige", "b\u00f6r", "ha", "en", "god", "framtid", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "man", "inte", "f\u00f6r\u00e4lter", "p\u00e5", "kunskapen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Att", "ha", "tillg\u00e5ng", "till", "internet", "p\u00e5", "b\u00f6rjan", "av", "tiden", "kan", "vara", "mycket", "viktigt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jag", "v\u00e4ljer", "inte", "att", "g\u00f6ra", "n\u00f6got", "s\u00e5", "kan", "g\u00f6ra", "n\u00f6gon", "skillnad", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "b\u00f6r", "ha", "en", "v\u00e4ldigt", "bra", "framtidsutsikt", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "ha", "en", "god", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Man", "kan", "inte", "f\u00f6rlora", "sin", "sj\u00e4l", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "v\u00e4ldigt", "god", "infrastruktur", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nyheter", "fr\u00e5n", "Sverige", "kommer", "att", "pr\u00e4gla", "v\u00e4rlden", "med", "sin", "ekonomiska", "politik", ".", "N\u00e4r", "man", "t\u00e4nker", "p\u00e5", "Sverige", "t\u00e4nker", "man", "p\u00e5", "olyckor", "och", "katastrofer"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bil\u00e4garna", "i", "Stockholm", "b\u00f6r", "b\u00f6rja", "k\u00e4nna", "sig", "mera", "trygga", "med", "sina", "bilar", "eftersom", "nya", "teknologier", "kommer", "att", "inf\u00f6rliva", "sig", "i", "allt", "fler", "f\u00f6rs\u00e4kringar", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "inte", "alltid", "l\u00e4tt", "att", "v\u00e4lja", "r\u00e4tt", "produkter", "som", "passar", "dig", "s\u00e5", "d\u00e4rf\u00f6r", "kollar", "du", "s\u00e4kert", "upp", "om", "du", "har", "tidigare", "\u00e5kt", "bort", "p\u00e5", "samma", "resa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "myndigheter", "har", "tagit", "fram", "ett", "nytt", "initiativ", "f\u00f6r", "att", "f\u00f6rb\u00e4ttra", "s\u00e4kerheten", "p\u00e5", "arbetsplatser", "med", "anv\u00e4ndning", "av", "ny", "teknologi", "och", "utbildning"], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hela", "Sverige", "b\u00f6r", "v\u00e4lkomna", "p\u00e5", "Internationella", "flygplatsen", "i", "Stockholm", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["Klimatf\u00f6r\u00e4ndringarna", "p\u00e5", "Jorden", "\u00e4r", "en", "av", "de", "st\u00f6rsta", "utmaningarna", "vi", "st\u00e5r", "inf\u00f6r", "i", "dagens", "samh\u00e4lle", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "vi", "t\u00e4nker", "p\u00e5", "milj\u00f6n", "och", "anv\u00e4nder", "v\u00e5r", "resurser", "p\u00e5", "ett", "s\u00e4tt", "som", "gynnar", "hela", "samh\u00e4llet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "\u00e4r", "ett", "av", "v\u00e4rldens", "ledande", "l\u00e4nder", "inom", "omr\u00e5det", "f\u00f6rnybar", "energi", "och", "kvantiteten", "p\u00e5", "kraft", "\u00f6kar", "\u00e5r", "till", "\u00e5r", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e4r", "man", "t\u00e4nker", "p\u00e5", "Sverige", "t\u00e4nker", "man", "p\u00e5", "f\u00f6retag", "och", "investerare", "som", "kommer", "h\u00e4r", "f\u00f6r", "att", "g\u00f6ra", "aff\u00e4rer", "."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "\u00e4r", "glada", "att", "se", "att", "s\u00e5", "m\u00e5nga", "ungdomar", "engagerar", "sig", "i", "samh\u00e4llet", "och", "g\u00f6r", "sitt", "deltagande", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "b\u00f6r", "anv\u00e4nda", "mera", "teknologi", "f\u00f6r", "att", "f\u00f6rb\u00e4ttra", "effektiviteten", "p\u00e5", "arbetet", "med", "milj\u00f6n", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "vi", "t\u00e4nker", "p\u00e5", "framtiden", "och", "planerar", "f\u00f6r", "det", "som", "kommer", "att", "h\u00e4nda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "\u00e4r", "ett", "ledande", "land", "inom", "omr\u00e5det", "av", "m\u00e4nskliga", "r\u00e4ttigheter", "och", "vi", "b\u00f6r", "str\u00e4va", "efter", "att", "skydda", "dem", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "vi", "t\u00e4nker", "p\u00e5", "hur", "vi", "kan", "g\u00f6ra", "f\u00f6r", "att", "skydda", "milj\u00f6n", "och", "bevara", "den", "f\u00f6r", "framtidens", "generationer", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "stark", "economy", "och", "vi", "b\u00f6r", "anv\u00e4nda", "denna", "styrka", "f\u00f6r", "att", "g\u00f6ra", "goda", "saker", "f\u00f6r", "landet", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e4r", "man", "t\u00e4nker", "p\u00e5", "Sverige", "t\u00e4nker", "man", "p\u00e5", "hur", "man", "kan", "g\u00f6ra", "f\u00f6r", "att", "f\u00f6rb\u00e4ttra", "samh\u00e4llet", "."], "ner_tags": [0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "vi", "t\u00e4nker", "p\u00e5", "hur", "vi", "kan", "g\u00f6ra", "f\u00f6r", "att", "bevara", "milj\u00f6n", "och", "skydda", "den", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "\u00e4r", "ett", "av", "de", "l\u00e4nder", "som", "har", "en", "av", "v\u00e4rldens", "b\u00e4sta", "sjukv\u00e5rds", "system", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "vi", "t\u00e4nker", "p\u00e5", "hur", "vi", "kan", "g\u00f6ra", "f\u00f6r", "att", "g\u00f6ra", "samh\u00e4llet", "b\u00e4ttre", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "b\u00f6r", "anv\u00e4nda", "mera", "teknologi", "f\u00f6r", "att", "f\u00f6rb\u00e4ttra", "effektiviteten", "p\u00e5", "utbildningen", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "vi", "t\u00e4nker", "p\u00e5", "hur", "vi", "kan", "g\u00f6ra", "f\u00f6r", "att", "skydda", "m\u00e4nniskor", "och", "bevara", "deras", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "finns", "en", "f\u00f6rl\u00e5g", "f\u00f6r", "alla", "den", "som", "vill", "bli", "vuxen", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "i", "Stockholm", "har", "f\u00f6ljt", "en", "speciell", "utbildning", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stadshuset", "i", "Stockholm", "\u00e4r", "ett", "v\u00e4ldigt", "vackert", "byggnad", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Sverige", "har", "ett", "brett", "spektrum", "av", "nationella", "tidskrifter", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["F\u00f6ljande", "dag", "\u00e4r", "det", "tredje", "jul", "."], "ner_tags": [0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Det", "nya", "j\u00e5rmets", "tema", "\u00e4r", "klimatet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatet", "har", "blivit", "ett", "viktigt", "problem", "i", "samtliga", "l\u00e4nder", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Stockholm", "\u00e4r", "huvudstaden", "i", "Sverige", "."], "ner_tags": [5, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "nya", "lagen", "kommer", "att", "g\u00e4lla", "fr\u00e5n", "och", "med", "f\u00f6rlagd", "datum", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Trafikverket", "skriver", "p\u00e5", "sina", "webbplatser", "att", "det", "nye", "t\u00e5gen", "kommer", "att", "rulla", "fr\u00e5n", "och", "till", "Stockholm", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Flygplatsen", "i", "Stockholm", "\u00e4r", "den", "st\u00f6rsta", "i", "landet", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Sverige", "har", "ett", "mycket", "gott", "v\u00e4der", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kungliga", "Tekniska", "H\u00f6gskolan", "i", "Stockholm", "\u00e4r", "en", "viktig", "institution", "."], "ner_tags": [5, 0, 5, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Lokalpolitik", "\u00e4r", "en", "viktig", "aspekt", "av", "politiken", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stockholm", "\u00e4r", "en", "viktig", "stad", "."], "ner_tags": [5, 0, 0, 0, 5, 0]}
+{"tokens": ["Svenska", "politiker", "deltar", "i", "Europaparlamentet", "."], "ner_tags": [5, 5, 0, 0, 5, 0]}
+{"tokens": ["Norge", "har", "ett", "stort", "antal", "j\u00e4garhemman", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Stockholm", "\u00e4r", "huvudstad", "i", "Sverige", "."], "ner_tags": [5, 0, 0, 0, 5, 0]}
+{"tokens": ["Svenska", "t\u00e5g", "k\u00f6rs", "p\u00e5", "st\u00f6rre", "avst\u00e5nd", "i", "Europa", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Staden", "Stockholm", "har", "ett", "mycket", "gott", "v\u00e4der", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kungliga", "teatern", "i", "Stockholm", "\u00e4r", "en", "av", "Sveriges", "finaste", "teatrar", "."], "ner_tags": [5, 5, 0, 5, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["F\u00f6r", "m\u00e5nga", "\u00e5r", "tillbaka", "har", "vi", "s\u00e4kt", "ett", "st\u00f6rre", "fokus", "p\u00e5", "milj\u00f6v\u00e4rnsm\u00e4ssig", "utveckling", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "var", "d\u00e5", "som", "i", "h\u00f6st", "1980", "som", "Sverige", "f\u00f6ll", "ut", "av", "Sovjetunionen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0]}
+{"tokens": ["Med", "denna", "ordning", "fick", "landet", "en", "nyskapad", "sj\u00f6vare", "som", "blev", "v\u00e4rldens", "f\u00f6rsta", "g\u00f6relsef\u00f6rlorande", "l\u00e5nder", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Dessa", "f\u00f6rh\u00e5llanden", "har", "f\u00f6renat", "till", "en", "utveckling", "av", "en", "integrerad", "milj\u00f6v\u00e4rdsbalk", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "en", "l\u00f6rdag", "i", "juni", "1945", "b\u00f6rjade", "de", "allierade", "makterna", "att", "landa", "i", "Norge", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Det", "var", "en", "n\u00f6jd", "d\u00e5g", "som", "blev", "n\u00f6d", "med", "en", "st\u00f6rre", "konsekvens", "f\u00f6r", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["En", "tidigare", "n\u00f6d", "f\u00f6r", "beredskapen", "i", "Sverige", "var", "inte", "s\u00e5", "bra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Numera", "arbetar", "vi", "mer", "med", "att", "f\u00f6rhindra", "katastrofer", "och", "bek\u00e5mpa", "framkomsten", "av", "gaser", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "stort", "ansvar", "att", "ta", "hand", "om", "milj\u00f6v\u00e4rden", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utvecklingen", "av", "milj\u00f6v\u00e4rden", "har", "vi", "f\u00f6r\u00e5tt", "att", "t\u00e5", "n\u00f6digt", "om", "f\u00f6r\u00e5ndringar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "exempel", "p\u00e5", "det", "\u00e4r", "hur", "vi", "arbetar", "med", "milj\u00f6v\u00e4rdsbalken", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "sverige", "har", "vi", "en", "historiskt", "h\u00f6ga", "niv\u00e5", "p\u00e5", "milj\u00f6v\u00e4rdsbalken", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "var", "en", "st\u00f6rre", "f\u00f6r\u00e5ndring", "som", "gjordes", "i", "1980", "till", "det", "nuvarande", "systemet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uppdraget", "att", "skydda", "milj\u00f6v\u00e4rden", "har", "v\u00e4xt", "och", "utvecklats", "i", "Sverige", "f\u00f6r", "l\u00f6p", "av", "decennier", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utvecklingen", "av", "milj\u00f6v\u00e4rden", "har", "vi", "s\u00e5", "ett", "stort", "ansvar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "dag", "arbetar", "vi", "med", "att", "f\u00f6rhindra", "katastrofer", "och", "bek\u00e5mpa", "framkomsten", "av", "gaser", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "stort", "ansvar", "att", "ta", "hand", "om", "milj\u00f6v\u00e4rden", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "milj\u00f6v\u00e4rden", "har", "vi", "s\u00e5", "ett", "stort", "ansvar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Numera", "arbetar", "vi", "mer", "med", "att", "f\u00f6rhindra", "katastrofer", "och", "bek\u00e5mpa", "framkomsten", "av", "gaser", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "var", "en", "tidigare", "n\u00f6d", "f\u00f6r", "beredskapen", "i", "Sverige", "var", "inte", "s\u00e5", "bra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Ett", "exempel", "p\u00e5", "det", "\u00e4r", "hur", "vi", "arbetar", "med", "milj\u00f6v\u00e4rdsbalken", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utvecklingen", "av", "milj\u00f6v\u00e4rden", "har", "vi", "f\u00f6r\u00e5tt", "att", "t\u00e5", "n\u00f6digt", "om", "f\u00f6r\u00e5ndringar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "inte", "har", "f\u00f6r\u00e4ldrar\u00e4kt", "till", "Sverige", "kan", "inte", "f\u00f6r\u00e4ldrar", "p\u00e5", "ett", "s\u00e5", "s\u00e5", "som", "har", "ett", "samarbete", "med", "socialtj\u00e5nst", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "f\u00f6r\u00e4lder", "som", "inte", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sin", "f\u00f6r\u00e4lder\u00e4kt", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "har", "f\u00f6r\u00e4ldraskap", "utan", "att", "vara", "gifta", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "men", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sina", "f\u00f6r\u00e4lder", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "som", "kallas", "f\u00f6r\u00e4ldraskap", "har", "f\u00f6r\u00e4ldrar\u00e5tt", "och", "det", "som", "kallas", "f\u00f6r\u00f6r\u00e4lder", "har", "ej", "f\u00f6r\u00e4ldrar\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "f\u00f6r\u00e4lder", "som", "inte", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sin", "f\u00f6r\u00e4lder\u00e4kt", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "inte", "har", "f\u00f6r\u00e4ldrar\u00e4kt", "till", "Sverige", "kan", "inte", "f\u00f6r\u00e4ldrar", "p\u00e5", "ett", "s\u00e5", "som", "har", "ett", "samarbete", "med", "socialtj\u00e5nst", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "f\u00f6r\u00e4lder", "som", "inte", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sin", "f\u00f6r\u00e4lder\u00e4kt", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "har", "f\u00f6r\u00e4ldraskap", "utan", "att", "vara", "gifta", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "men", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sina", "f\u00f6r\u00e4lder", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "inte", "har", "f\u00f6r\u00e4ldraskap", "till", "ett", "s\u00e5", "som", "har", "ett", "samarbete", "med", "socialtj\u00e5nst", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "f\u00f6r\u00e4lder", "som", "inte", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sin", "f\u00f6r\u00e4lder\u00e4kt", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "har", "f\u00f6r\u00e4ldraskap", "utan", "att", "vara", "gifta", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "men", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sina", "f\u00f6r\u00e4lder", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "inte", "har", "f\u00f6r\u00e4ldraskap", "till", "ett", "s\u00e5", "som", "har", "ett", "samarbete", "med", "socialtj\u00e5nst", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "f\u00f6r\u00e4lder", "som", "inte", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sin", "f\u00f6r\u00e4lder\u00e4kt", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "har", "f\u00f6r\u00e4ldraskap", "utan", "att", "vara", "gifta", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "men", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sina", "f\u00f6r\u00e4lder", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "inte", "har", "f\u00f6r\u00e4ldraskap", "till", "ett", "s\u00e5", "som", "har", "ett", "samarbete", "med", "socialtj\u00e5nst", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "f\u00f6r\u00e4lder", "som", "inte", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sin", "f\u00f6r\u00e4lder\u00e4kt", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "har", "f\u00f6r\u00e4ldraskap", "utan", "att", "vara", "gifta", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "men", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sina", "f\u00f6r\u00e4lder", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "inte", "har", "f\u00f6r\u00e4ldraskap", "till", "ett", "s\u00e5", "som", "har", "ett", "samarbete", "med", "socialtj\u00e5nst", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "har", "f\u00f6r\u00e4ldraskap", "utan", "att", "vara", "gifta", "har", "r\u00e4tt", "till", "f\u00f6r\u00e4ldraskap", "men", "kan", "inte", "f\u00f6r\u00e4lda", "sina", "barn", "om", "de", "har", "gett", "sina", "f\u00f6r\u00e4lder", "f\u00f6r\u00e4ldra\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Om", "den", "nya", "lagstiftningen", "som", "tr\u00e4ffar", "verk", "i", "januari", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "barnets", "skydd", "har", "man", "alltid", "varit", "beredd", "att", "g\u00f6ra", "allt", "f\u00f6r", "sitt", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "besluten", "om", "st\u00f6d", "till", "familjer", "som", "f\u00f6rlorat", "sin", "hemma", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "barnvagn", "\u00e4r", "en", "bil", "med", "fyra", "hjul", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hur", "m\u00e5nga", "personer", "som", "inte", "har", "arbetat", "i", "r\u00f6relsen", "f\u00f6re", "kriget", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnet", "kan", "\u00e4ven", "ha", "en", "balsam,"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "nya", "reglerna", "om", "arbetsl\u00f6shetsf\u00f6rs\u00e4kringen", "kommer", "att", "tr\u00e4da", "i", "kraft", "i", "januari", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "person", "som", "inte", "\u00e4r", "medlem", "i", "facket", "kan", "h\u00e4vdas", "ha", "brott", "mot", "lagar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "inte", "samma", "som", "det", "var", "f\u00f6r", "tio", "\u00e5r", "sedan", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Med", "barn", "i", "\u00e5ldern", "tio", "till", "attio", "\u00e5r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "beslutad", "lagstiftning", "om", "barns", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "f\u00f6rsta", "g\u00e5ngen", "man", "ser", "det", "h\u00e4r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnets", "sj\u00e4lvst\u00e4ndighet", "\u00e4r", "ett", "m\u00e5l", "som", "vi", "str\u00e4var", "efter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "person", "som", "\u00e4r", "f\u00f6r\u00e4lder", "kan", "s\u00f6ka", "st\u00f6d", "f\u00f6r", "sitt", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnav\u00e5rdslagen", "f\u00f6reskriver", "att", "alla", "f\u00f6r\u00e4ldrar", "ska", "se", "till", "barnen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hur", "m\u00e5nga", "barn", "som", "inte", "har", "f\u00f6rlorat", "sitt", "hem", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "inte", "har", "barnen", "hems\u00e4nda", "ska", "f\u00f6rlora", "sitt", "jobb", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barns", "h\u00e4lsa", "\u00e4r", "viktigt", "f\u00f6r", "samtliga", "samh\u00e4llet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "beslutad", "lagstiftning", "som", "h\u00e4vs", "om", "familjens", "r\u00e4ttigheter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Med", "barnets", "r\u00e4ttigheter", "g\u00e5r", "vi", "fram", "till", "det", "nya", "\u00e5ret", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatf\u00f6r\u00e4ndringarna", "kunde", "i", "futuristisk", "f\u00f6rfattare", "kategoriseras", "som", "en", "katastrof", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Omv\u00e4rlden", "beho\u0308ver", "en", "b\u00e4ttre", "f\u00f6rst\u00e5else", "av", "svensk", "kultur", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "franska", "revolterna", "var", "avsiktlig", "att", "skapa", "en", "nya", "ordning", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "ha", "en", "b\u00e4sta", "f\u00f6rsvarsmakt", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "var", "samma", "grupp", "som", "skapade", "den", "svarta", "pesten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "var", "st\u00f6rre", "\u00e4n", "man", "t\u00e4nkte", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kungariket", "Sverige", "blev", "varaktigt", "skadat", "av", "den", "svenska", "epidemin", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tyskland", "var", "en", "underg\u00e5ngsstat", "efter", "andra", "v\u00e4rldskriget", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "var", "de", "som", "kunde", "f\u00f6rst\u00e5", "att", "det", "var", "f\u00f6rst\u00f6relse", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "\u00e4ldsta", "forskningsstationen", "i", "v\u00e4rlden", "fanns", "i", "USA", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kinas", "regering", "var", "uppenbarligen", "fascinerad", "av", "det", "amerikanska", "fallet", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Vetenskapen", "utvecklades", "p\u00e5", "stort", "s\u00e4tt", "under", "1800-talet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "skulle", "vara", "bra", "om", "man", "kunde", "f\u00e5", "fler", "personer", "med", "h\u00f6g", "intresse", "f\u00f6r", "klimatf\u00f6r\u00e4ndringarna", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "var", "inte", "f\u00f6rsta", "g\u00e5ngen", "som", "svenskar", "blev", "f\u00f6rf\u00f6ljda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tillslaget", "var", "helt", "olyckligt", "."], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "gick", "i", "bankrott", "efter", "bara", "tio", "\u00e5r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "blev", "en", "stormakt", "under", "medeltiden", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "svenska", "kungen", "var", "uppenbarligen", "en", "bra", "ledare", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "ekonomin", "fick", "ett", "stort", "steg", "fram", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e4nderna", "som", "gick", "i", "krig", "mot", "varandra", "blev", "varaktigt", "skadade", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "var", "sv\u00e5ra", "\u00e5r", "som", "kom", "efter", "katastrofen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e4kare", "har", "funnit", "att", "sjukhus", "kan", "bli", "en", "d\u00f6dlig", "utveckling", "f\u00f6r", "m\u00e5nga", "."], "ner_tags": [3, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["P\u00e5", "s\u00f6ndag", "avslutades", "f\u00f6rhandlingarna", "om", "ett", "nya", "sjukhus", "som", "ska", "byggas", "p\u00e5", "den", "gammala", "platsen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "sjukhusbyggnaden", "skulle", "vara", "en", "av", "de", "st\u00f6rsta", "i", "landet", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utomhus", "kan", "man", "se", "ett", "stort", "anv\u00e4ndande", "av", "solceller", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["St\u00f6rre", "partier", "har", "f\u00f6respr\u00e5ngt", "att", "ett", "nya", "lokalsjukhus", "ska", "byggas", "p\u00e5", "s\u00f6ndag", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["De", "som", "har", "varit", "i", "sjukhus", "f\u00f6r", "m\u00e5nga", "dagar", "kan", "komma", "tillbaka", "i", "dag", "."], "ner_tags": [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00f6sten", "ska", "man", "kunna", "se", "ett", "nya", "tidskrift", "om", "utvecklingen", "p\u00e5", "omr\u00e5det", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Ett", "nya", "sjukhus", "ska", "byggas", "p\u00e5", "den", "gammala", "platsen", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukhus", "ska", "bli", "ett", "av", "de", "st\u00f6rsta", "i", "landet", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nya", "sjukhuset", "ska", "bli", "ett", "av", "de", "b\u00e4sta", "i", "v\u00e4rlden", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukhus", "kan", "bli", "ett", "viktigt", "steg", "fram\u00e5t", "f\u00f6r", "landet", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "nya", "sjukhus", "ska", "byggas", "p\u00e5", "den", "gammala", "platsen", "i", "dag", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukhus", "kan", "vara", "ett", "stort", "projekt", "."], "ner_tags": [2, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Det", "nya", "sjukhuset", "ska", "bli", "ett", "av", "de", "st\u00f6rsta", "i", "v\u00e4rlden", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "nya", "sjukhus", "ska", "byggas", "p\u00e5", "den", "gammala", "platsen", "i", "dag", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukhus", "ska", "bli", "ett", "viktigt", "steg", "fram\u00e5t", "f\u00f6r", "landet", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "nya", "sjukhus", "ska", "byggas", "p\u00e5", "den", "gammala", "platsen", "i", "dag", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukhus", "kan", "bli", "ett", "viktigt", "steg", "fram\u00e5t", "f\u00f6r", "landet", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nya", "sjukhuset", "ska", "bli", "ett", "av", "de", "st\u00f6rsta", "i", "landet", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukhus", "kan", "vara", "ett", "stort", "projekt", "."], "ner_tags": [2, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Ett", "nya", "sjukhus", "ska", "byggas", "p\u00e5", "den", "gammala", "platsen", "i", "dag", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukhus", "ska", "bli", "ett", "viktigt", "steg", "fram\u00e5t", "f\u00f6r", "landet", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6rtrycket", "p\u00e5", "unga", "kvinnor", "i", "dagens", "samh\u00e4lle", "\u00e4r", "uppenbart", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "av", "oss", "har", "f\u00f6rlorat", "v\u00e5r", "unga", "flickor", "i", "kriget", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6ruts\u00e4gbara", "budgetarbetare", "m\u00e5ste", "kunna", "tr\u00e4na", "och", "f\u00f6rb\u00e4ttra", "sin", "ekonomiska", "situation", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarnas", "uppdrag", "\u00e4r", "att", "bilda", "sina", "barn", "i", "en", "sund", "och", "frisk", "f\u00f6rening", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e5ra", "unga", "m\u00e4n", "skall", "inte", "v\u00e5ldtas", "av", "sin", "unga", "\u00e5r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "uppenbart", "att", "f\u00f6rlusten", "av", "ungdomarna", "p\u00e5verkar", "hela", "samh\u00e4llet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "ska", "se", "sina", "barn", "som", "unga", "m\u00e4nniskor", "och", "f\u00f6rs\u00e4kra", "sig", "att", "de", "ska", "ha", "en", "bra", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "jobba", "tillsammans", "f\u00f6r", "att", "ge", "unga", "flickor", "en", "bra", "framtidsutsikt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "unga", "kvinnan", "har", "ett", "stort", "potential", "till", "att", "bli", "en", "framg\u00e5ngsrik", "person", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "v\u00e4rna", "om", "unga", "m\u00e4nniskor", "och", "se", "till", "att", "de", "f\u00e5r", "en", "bra", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Unga", "m\u00e4n", "ska", "ha", "en", "bra", "st\u00e4llning", "i", "samh\u00e4llet", "f\u00f6r", "att", "bli", "framg\u00e5ngsrika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "arbeta", "tillsammans", "f\u00f6r", "att", "ge", "unga", "m\u00e4n", "en", "bra", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "ska", "se", "sina", "barn", "som", "unga", "m\u00e4nniskor", "och", "f\u00f6rs\u00e4kra", "sig", "att", "de", "ska", "ha", "en", "bra", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "v\u00e4rna", "om", "unga", "m\u00e4nniskor", "och", "se", "till", "att", "de", "f\u00e5r", "en", "bra", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "uppenbart", "att", "f\u00f6rlusten", "av", "ungdomarna", "p\u00e5verkar", "hela", "samh\u00e4llet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "ska", "se", "sina", "barn", "som", "unga", "m\u00e4nniskor", "och", "f\u00f6rs\u00e4kra", "sig", "att", "de", "ska", "ha", "en", "bra", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Unga", "kvinnor", "ska", "ha", "en", "bra", "utbildning", "f\u00f6r", "att", "bli", "framg\u00e5ngsrika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "v\u00e4rna", "om", "unga", "m\u00e4nniskor", "och", "se", "till", "att", "de", "f\u00e5r", "en", "bra", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "ska", "se", "sina", "barn", "som", "unga", "m\u00e4nniskor", "och", "f\u00f6rs\u00e4kra", "sig", "att", "de", "ska", "ha", "en", "bra", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "v\u00e4rna", "om", "unga", "m\u00e4nniskor", "och", "se", "till", "att", "de", "f\u00e5r", "en", "bra", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "unga", "kvinnan", "har", "ett", "stort", "potential", "till", "att", "bli", "en", "framg\u00e5ngsrik", "person", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Unga", "m\u00e4n", "ska", "ha", "en", "bra", "st\u00e4llning", "i", "samh\u00e4llet", "f\u00f6r", "att", "bli", "framg\u00e5ngsrika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "sitt", "\u00e5r", "i", "h\u00e5gskolan", "har", "v\u00e4ljningen", "av", "tema", "f\u00f6rt", "av", "unga", "studenter", "gjort", "mer\u00e4n", "synlig."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "rapport", "fr\u00f6m", "Folkh\u00e4lsosinstitutet", "framh\u00e5ller", "att", "barn", "i", "sverige", "s\u00f6ker", "sig", "b\u00e5ttre", "v\u00e4nliga", "konditioner", "i", "fr\u00e5ga", "till", "barn", "som", "f\u00f6ddes", "2017", "eller", "senare."], "ner_tags": [0, 0, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "f\u00f6rskola", "i", "Stockholm", "har", "s\u00e4rskilt", "v\u00e4ntat", "p\u00e5", "att", "f\u00f6r\u00e5,"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e5gra", "politiker", "fr\u00f6m", "s\u00f6dra", "Sverige", "har", "kommit", "till", "Stockholm", "f\u00f6r", "att", "deltag\u00e5", "i", "en", "konferens."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "n\u00f6je", "land", "s\u00e4ljs", "en", "beslutning", "som", "f\u00f6r\u00e5r", "samtliga", "medborgare."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenskarna", "har", "f\u00f6rt", "en", "l\u00e5ng", "tids", "strid", "f\u00f6r", "f\u00f6r\u00e4ndringar."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["B\u00e4sta", "s\u00e4tt", "att", "f\u00f6r\u00e5", "en", "g\u00f6teborgare", "arbetar", "i", "Sverige."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "b\u00f6rjar", "man", "att", "t\u00e4nka", "p\u00e5", "v\u00e4rldsutst\u00f6llningen."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "bostadspolitik", "fr\u00e4m", "H\u00e5kan", "Juholt", "s\u00e5ljs", "att", "b\u00f6rja", "den", "p\u00e5", "omg\u00e5ngande", "samh\u00e5llen."], "ner_tags": [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "blivit", "ett", "av", "de", "l\u00e4nder", "som", "har", "inr\u00e5tt", "en", "s\u00e4rlig", "lagstiftning", "mot", "penningtv\u00e5tt."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "sitt", "\u00e5r", "i", "h\u00e5gskolan", "har", "v\u00e4ljningen", "av", "tema", "f\u00f6rt", "av", "unga", "studenter", "gjort", "mer\u00e4n", "synlig."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e5sta", "utbildningsystem,"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "reglering", "fr\u00e4m", "EU", "s\u00e5ljs", "att", "s\u00f6ka", "minska", "barnfattigdomen."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "f\u00f6retag", "har", "s\u00e5ljs", "f\u00f6r\u00e5", "mer", "pengar", "f\u00f6r", "att", "investera", "i", "utvecklingen,"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Stockholm", "b\u00f6rjar", "man", "att", "t\u00e4nka", "p\u00e5", "v\u00e4rldsutst\u00f6llningen."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "politisk", "strategi", "fr\u00e4m", "H\u00e5kan", "Juholt", "s\u00e5ljs", "att", "f\u00f6r\u00e5", "mer", "pengar", "f\u00f6r", "att", "investera", "i", "utvecklingen."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "blivit", "ett", "av", "de", "l\u00e4nder", "som", "har", "inr\u00e5tt", "en", "s\u00e4rlig", "lagstiftning", "mot", "penningtv\u00e5tt."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "f\u00f6retag", "har", "s\u00e5ljs", "f\u00f6r\u00e5", "mer", "pengar", "f\u00f6r", "att", "investera", "i", "utvecklingen,"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Norge", "finns", "det", "en", "st\u00f6rre", "andel", "av", "ungdomar", "som", "d\u00f6mer", "sig", "sj\u00e5lv."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Folket", "som", "lever", "i", "Norge", "har", "en", "mycket", "h\u00f6g", "standard", "av", "levnad"], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Regeringen", "har", "inte", "gjort", "n\u00e4got", "f\u00f6r", "att", "hj\u00e5lpa", "de", "som", "l\u00e4mna", "sin", "jobb"], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "sist", "n\u00e4mnda", "generationen", "av", "arbetare", "som", "arbetar", "i", "st\u00e4lverk", "har", "kunna", "v\u00e4cka", "upp"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tullverket", "som", "ansvarar", "f\u00f6r", "att", "kontrollera", "gr\u00e4nsen", "till", "Norge", "har", "kommit", "under", "press"], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["De", "som", "arbetar", "i", "tullverket", "har", "kunna", "se", "det", "som", "g\u00f6r", "sig", "utanp\u00e5t"], "ner_tags": [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "komma", "ihop", "f\u00f6r", "att", "g\u00f6ra", "n\u00e4got", "f\u00f6r", "barnen", "som", "har", "beh\u00f6v", "p\u00e5", "grund"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "som", "lever", "i", "fattigdom", "har", "r\u00e4ttigheter", "som", "vi", "ska", "skydda"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e4sta", "fattigdomsminskningar", "i", "historien"], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "g\u00f6ra", "n\u00e4got", "f\u00f6r", "att", "f\u00f6r\u00e4ndra", "situationen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "som", "har", "gjort", "n\u00e5got", "f\u00f6r", "barnen", "ska", "vi", "ge", "upp", "pris"], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidningen", "h\u00e4vdar", "att", "f\u00f6r\u00e4ldrarna", "ska", "f\u00f6rlorat", "kontrollen"], "ner_tags": [4, 0, 0, 6, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "se", "till", "det", "h\u00e4r", "och", "f\u00f6rsa", "p\u00e5", "att", "g\u00f6ra", "n\u00e4got", "f\u00f6r", "barnen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "som", "lever", "i", "fattigdom", "har", "r\u00e4ttigheter", "som", "vi", "ska", "skydda"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "komma", "ihop", "f\u00f6r", "att", "g\u00f6ra", "n\u00e4got", "f\u00f6r", "barnen", "som", "har", "beh\u00f6v", "p\u00e5", "grund"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e4sta", "fattigdomsminskningar", "i", "historien"], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "g\u00f6ra", "n\u00e4got", "f\u00f6r", "att", "f\u00f6r\u00e4ndra", "situationen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "som", "har", "gjort", "n\u00e5got", "f\u00f6r", "barnen", "ska", "vi", "ge", "upp", "pris"], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidningen", "h\u00e4vdar", "att", "f\u00f6r\u00e4ldrarna", "ska", "f\u00f6rlorat", "kontrollen"], "ner_tags": [4, 0, 0, 6, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "se", "till", "det", "h\u00e4r", "och", "f\u00f6rsa", "p\u00e5", "att", "g\u00f6ra", "n\u00e4got", "f\u00f6r", "barnen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "som", "lever", "i", "fattigdom", "har", "r\u00e4ttigheter", "som", "vi", "ska", "skydda"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Man", "som", "arbetar", "i", "industri", "har", "r\u00e4ttigheter", "som", "vi", "ska", "skydda"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "g\u00f6ra", "n\u00e4got", "f\u00f6r", "att", "f\u00f6r\u00e4ndra", "situationen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ndringarna", "i", "samh\u00e4llet", "kr\u00e4ver", "anpassningar", "av", "barnomsorgen", ",", "det", "\u00e4r", "ett", "stort", "utmanande", "uppdrag", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ung", "kvinna", "som", "har", "sjukhusv\u00e5rdare", "exempelvis", "vid", "sjukhuset", "i", "Stockholm", ",", "kan", "inte", "alltid", "fungera", "som", "en", "bra", "f\u00f6r\u00e4lder", ".'],'"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ocks\u00e5", "platser", "som", "erbjuder", "uppdrag", "i", "f\u00f6rs\u00f6rjning", "av", "barn", ",", "som", "kan", "vara", "en", "alternativ", "l\u00f6sning", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Socialtj\u00e4nsten", "har", "ocks\u00e5", "en", "viktig", "roll", "i", "det", "som", "hj\u00e4lper", "barn", "att", "hitta", "en", "annan", "familj", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ung", "flicka", "som", "inte", "kan", "ha", "sin", "f\u00f6r\u00e4lder", "med", "sig", "kan", "v\u00e4nda", "sig", "till", "sina", "syskon", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Familjen", "\u00e4r", "inte", "alltid", "den", "som", "tillt\u00e4nkt", "som", "man", "tror", "p\u00e5", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tack", "vare", "p\u00e5", "familjens", "sammanh\u00e5llning", "kan", "ungdomar", "v\u00e4nda", "sig", "till", "sina", "f\u00f6r\u00e4ldrar", "och", "fr\u00e5ga", "om", "hj\u00e4lp", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Fosterhem", "\u00e4r", "ocks\u00e5", "en", "m\u00f6jlighet", "f\u00f6r", "ungdomar", "som", "inte", "har", "sin", "f\u00f6r\u00e4lder", "med", "sig", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrar", "som", "har", "arbetsl\u00f6shet", "och", "bristande", "f\u00f6rs\u00f6rjningsm\u00f6jligheter", "kan", "tvingas", "ta", "bort", "sitt", "barn", "fr\u00e5n", "sin", "svenska", "familj", ".'],'"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "l\u00e4genheten", "som", "skall", "inf\u00f6r\u00e5s", "p\u00e5", "Kungsholmen", "i", "Stockholm", "h\u00f6lls", "p\u00e5", "en", "granskning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "barns", "del", "h\u00e5lls", "det", "viktigt", "att", "de", "f\u00f6ljer", "v\u00e5r", "dag", "och", "n\u00e4r", "de", "b\u00f6r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "spr\u00e5k", "har", "en", "stor", "p\u00f6ken", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["F\u00f6r", "att", "vi", "ska", "ha", "en", "s\u00e5", "h\u00e4lsosam", "samh\u00e5lle", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e5", "nya", "f\u00f6retag", "kommer", "att", "etablera", "sig", "p\u00e5", "Gotland", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["F\u00f6r", "att", "vi", "ska", "ha", "en", "b\u00e4ttre", "milj\u00f6", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "finns", "en", "av", "de", "st\u00f6rsta", "f\u00f6retagen", "p\u00e5", "v\u00e4rlden", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "viktiga", "sak", "i", "f\u00f6retag", "som", "g\u00f6r", "det", "helt", "m\u00f6jligt", "att", "vi", "ska", "g\u00f6ra", "det", "r\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "f\u00f6rs\u00f6ka", "att", "g\u00f6ra", "det", "b\u00e4sta", "vi", "kan", "p\u00e5", "att", "f\u00f6rs\u00f6ka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "teknologin", "som", "gj\u00f6r", "att", "det", "g\u00f6r", "m\u00f6jligt", "att", "vi", "ska", "g\u00f6ra", "det", "r\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "g\u00f6ra", "det", "r\u00e5tt", "i", "v\u00e5r", "samh\u00e5lle", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "viktiga", "sak", "i", "utbildningen", "som", "g\u00f6r", "det", "helt", "m\u00f6jligt", "att", "vi", "ska", "g\u00f6ra", "det", "r\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "finns", "en", "av", "de", "st\u00f6rsta", "milj\u00f6organisationer", "p\u00e5", "v\u00e4rlden", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "att", "vi", "ska", "ha", "en", "s\u00e5", "h\u00e4lsosam", "samh\u00e5lle", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "f\u00f6rs\u00f6ka", "att", "g\u00f6ra", "det", "b\u00e4sta", "vi", "kan", "p\u00e5", "att", "g\u00f6ra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Norge", "finns", "en", "av", "de", "st\u00f6rsta", "f\u00f6retagen", "i", "Europa", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "viktiga", "sak", "i", "f\u00f6retag", "som", "g\u00f6r", "det", "helt", "m\u00f6jligt", "att", "vi", "ska", "g\u00f6ra", "det", "r\u00e5tt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "g\u00f6ra", "det", "r\u00e5tt", "i", "v\u00e5r", "samh\u00e5lle", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "att", "vi", "ska", "ha", "en", "s\u00e5", "h\u00e4lsosam", "samh\u00e5lle", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "ska", "g\u00f6ra", "det", "r\u00e5tt", "i", "v\u00e5r", "samh\u00e5lle", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "finns", "en", "av", "de", "st\u00f6rsta", "milj\u00f6organisationer", "p\u00e5", "v\u00e4rlden", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "att", "vi", "ska", "ha", "en", "s\u00e5", "h\u00e4lsosam", "samh\u00e5lle", "m\u00f5r", "vi", "g\u00f6ra", "m\u00e5nga", "saker", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskaren", "tror", "att", "graviditet", "kan", "vara", "en", "goda", "t\u00e4nkbarhet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Enligt", "studier", "i", "utlandet", "kan", "familjen", "ha", "ett", "st\u00f6rre", "inflytande", "i", "f\u00f6r\u00e5ldringsbeslutet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["D\u00e5", "var", "det", "h\u00e4r", "f\u00f6r", "situationen", "som", "var", "i", "Kina", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Samma", "s\u00e5", "g\u00f6rs", "ocks\u00e5", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["F\u00f6r\u00e5ldrarna", "har", "anv\u00e4nt", "ett", "st\u00f6dje\u00e5nd", "av", "s\u00e5ldaterade", "l\u00e5gst\u00e5nden", "som", "inte", "funnit", "sitt", "fulla", "samtal", "om", "sitt", "barns", "f\u00f6r\u00e5ldringsr\u00e4ttigheter", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0]}
+{"tokens": ["D\u00f6dsfall", "i", "samband", "med", "graviditet", "h\u00e4nder", "ofta", "i", "utvecklingsl\u00e4nderna", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kvinnan", "som", "d\u00f6dsfallssiffrorna", "\u00e4r", "h\u00f6gre", "\u00e4r", "vanligtvis", "en", "gift", "kvinna", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0]}
+{"tokens": ["Unders\u00f6kningen", "av", "livsmedicinska", "f\u00f6rebyggande", "m\u00e5ttotagningar", "m\u00e5ste", "ocks\u00e5", "f\u00f6r\u00e4ndras", "i", "framtiden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "kan", "inte", "vara", "sant", "att", "det", "alltid", "skulle", "vara", "en", "fr\u00e5ga", "av", "v\u00e4lf\u00e5rdsm\u00e5l", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4nniskor", "med", "f\u00f6rb\u00e5tt", "f\u00f6r\u00e5ldringsr\u00e4ttigheter", "kan", "inte", "ha", "samma", "m\u00f6jlighet", "att", "f\u00f6rtj\u00e4na", "samma", "r\u00e4ttigheter", "som", "andra", "personer", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00e4r", "v\u00e4xer", "h\u00e5lso\u00f6vervakningen", "av", "f\u00f6r\u00e5ldringsr\u00e4ttigheter", "och", "m\u00e5ste", "anpassas", "till", "n\u00e5", "situationen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "f\u00f6r\u00e5ldringsr\u00e5ttigheter", "h\u00f6r", "i", "v\u00e4rlden", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "f\u00f6r\u00e5ldrarna", "talar", "s\u00e5", "kvar", "till", "sitt", "barn", "och", "att", "barnet", "f\u00f6ljer", "f\u00f6r\u00e5ldernas", "exempel", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5ldringsr\u00e5ttigheter", "\u00e4r", "ett", "viktigt", "omr\u00e5de", "i", "samh\u00e5llet", "."], "ner_tags": [2, 0, 0, 0, 0, 0]}
+{"tokens": ["Kvinnor", "med", "f\u00f6rb\u00e5tt", "f\u00f6r\u00e5ldringsr\u00e5ttigheter", "har", "inte", "samma", "m\u00f6jlighet", "att", "f\u00f6rtj\u00e4na", "samma", "utbildning", "som", "m\u00e5n", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5ldringsr\u00e5ttigheter", "kan", "inte", "vara", "en", "fr\u00e5ga", "av", "v\u00e4lf\u00e5rdsm\u00e5l", "i", "alla", "samtal", "om", "f\u00f6r\u00e5ldringsr\u00e5ttigheter", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnets", "f\u00f6r\u00e5ldringsr\u00e5ttigheter", "b\u00f6rjar", "att", "utvecklas", "n\u00e5", "n\u00e5gra", "m\u00e5nader", "f\u00f6re", "f\u00f6dseln", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "har", "inte", "s\u00e5", "l\u00e4nge", "vetat", "om", "sin", "f\u00f6delsedag"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["Socialtj\u00e4nstens", "roll", "i", "samh\u00e4llet", "\u00e4r", "viktig"], "ner_tags": [2, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "staten", "har", "en", "stark", "st\u00e4llning", "i", "EU"], "ner_tags": [4, 5, 0, 0, 0, 0, 0, 2]}
+{"tokens": ["Klimatf\u00f6r\u00e4ndringarna", "p\u00e5verkar", "jorden", "i", "flera", "s\u00e4tt"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "b\u00f6rsen", "\u00e4r", "en", "viktig", "del", "av", "finansiella", "systemet"], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Politiker", "debatterar", "allt", "mer", "om", "sociala", "medier"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "beh\u00f6ver", "bra", "upps\u00e4ttning", "kl\u00e4der", "f\u00f6r", "skolan"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e4r", "man", "t\u00e4nker", "p\u00e5", "barn", "s\u00e5", "t\u00e4nker", "man", "p\u00e5", "framtid"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "kommer", "att", "beh\u00f6va", "st\u00f6d", "i", "alla", "aspekter"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidningen", "har", "en", "bra", "\u00f6versikt", "\u00f6ver", "samtliga", "politiska", "fr\u00e5gor"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tack", "f\u00f6r", "din", "hj\u00e4lp", "med", "att", "finna", "sanningen"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4nniskan", "beh\u00f6ver", "tv\u00e5", "saker", "f\u00f6r", "att", "leva"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "bra", "utbildning", "f\u00f6r", "att", "g\u00f6ra", "sitt", "b\u00e4sta"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Socialbidrag", "b\u00f6r", "ta", "bort", "f\u00f6r", "alla"], "ner_tags": [2, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "m\u00e5nga", "typer", "av", "organisationer", "som", "st\u00f6djer", "barn"], "ner_tags": [0, 0, 0, 0, 0, 2, 0, 0, 0]}
+{"tokens": ["Barn", "m\u00e5ste", "ha", "en", "bra", "f\u00f6rs\u00f6rjning", "f\u00f6r", "att", "leva"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "kommer", "att", "beh\u00f6va", "st\u00f6d", "f\u00f6r", "att", "g\u00f6ra", "r\u00e4tt"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e4ldrarna", "beh\u00f6ver", "st\u00f6d", "f\u00f6r", "att", "ta", "hand", "om", "sitt", "barn"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "beh\u00f6ver", "en", "bra", "f\u00f6r\u00e4lder", "f\u00f6r", "att", "g\u00f6ra", "r\u00e4tt"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidningen", "ber\u00e4ttar", "om", "allt", "viktigt", "f\u00f6rem\u00e5l"], "ner_tags": [3, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "bra", "utbildning", "f\u00f6r", "att", "g\u00f6ra", "sitt", "b\u00e4sta"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "beh\u00f6ver", "en", "bra", "f\u00f6rs\u00f6rjning", "f\u00f6r", "att", "leva"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jag", "har", "f\u00f6rt", "samtliga", "formella", "krav", "f\u00f6r", "att", "komma", "in", "i", "sverige"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "l\u00e4geslagen", "som", "tr\u00e4ffar", "f\u00f6r", "h\u00f6sten", "kommer", "att", "vara", "en", "avg\u00f6rande", "f\u00f6rf\u00e5ndring"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "kvinna", "som", "f\u00f6ds", "i", "sverige", "skulle", "f\u00f6", "ha", "h\u00e5llbara", "villkor", "f\u00f6r", "att", "f\u00f6das"], "ner_tags": [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "moder", "och", "far", "g\u00f6r", "man", "samma", "sak", "som", "man", "g\u00f6r", "f\u00f6r", "sitt", "sv\u00e4rd"], "ner_tags": [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00e4r", "kommer", "ett", "exempel", "p\u00e5", "hur", "man", "kan", "v\u00e4lja", "en", "ny", "m\u00f6ssa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "studie", "som", "f\u00f6rt", "p\u00e5", "universititetet", "har", "visat", "att", "f\u00f6r\u00e5ldrar", "som", "har", "en", "f\u00f6rdelad", "roll", "har", "ett", "b\u00e4ttre", "f\u00f6r\u00e5ldringsresultat"], "ner_tags": [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "dagens", "sverige", "kommer", "man", "att", "se", "m\u00e5nga", "barn", "som", "har", "en", "f\u00f6rdelad", "roll"], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e4sta", "f\u00f6r\u00e5ldringsr\u00e4ttigheter"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidigare", "kunde", "man", "inte", "ha", "en", "s\u00e4ker", "f\u00f6r\u00e5ldringsr\u00e4ttighet"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Men", "nu", "kommer", "man", "att", "se", "att", "det", "har", "blivit", "mycket", "b\u00e5ttre"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "av", "de", "viktigaste", "f\u00f6r\u00e5ldringsr\u00e4ttigheterna", "i", "sverige", "ar", "r\u00f6starens", "r\u00f6st", "och", "val"], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Man", "kanske", "kommer", "att", "se", "att", "det", "har", "blivit", "enkeltare", "f\u00f6r", "f\u00f6r\u00e5ldrar", "att", "f\u00f6r\u00e4ldra"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "f\u00f6r\u00e5ldrar", "som", "har", "en", "f\u00f6rdelad", "roll", "har", "ett", "b\u00e4ttre", "f\u00f6r\u00e5ldringsresultat"], "ner_tags": [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "dagens", "samh\u00e4lle", "kommer", "man", "att", "se", "att", "det", "har", "blivit", "mycket", "b\u00e5ttre"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "kvinna", "som", "har", "en", "f\u00f6rdelad", "roll", "har", "ett", "b\u00e4ttre", "f\u00f6r\u00e5ldringsresultat"], "ner_tags": [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e4sta", "f\u00f6r\u00e5ldringsr\u00e5ttigheter"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Men", "det", "g\u00f6r", "inte", "att", "man", "kan", "vara", "p\u00e4nkt", "och", "gl\u00f6mma", "sina", "barn"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5ldrar", "som", "har", "en", "f\u00f6rdelad", "roll", "har", "ett", "b\u00e4ttre", "f\u00f6r\u00e5ldringsresultat"], "ner_tags": [0, 1, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "dagens", "samh\u00e4lle", "kommer", "man", "att", "se", "att", "det", "har", "blivit", "mycket", "b\u00e5ttre"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "kvinna", "som", "har", "en", "f\u00f6rdelad", "roll", "har", "ett", "b\u00e4ttre", "f\u00f6r\u00e5ldringsresultat"], "ner_tags": [0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e4sta", "f\u00f6r\u00e5ldringsr\u00e5ttigheter"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Men", "det", "g\u00f6r", "inte", "att", "man", "kan", "vara", "p\u00e4nkt", "och", "gl\u00f6mma", "sina", "barn"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "utredningen", "kommer", "att", "titta", "p\u00e5", "de", "f\u00f6rdelar", "som", "den", "nya", "lagen", "skapar"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Statens", "nya", "initiativ", "f\u00e5r", "\u00f6kat", "fokus", "p\u00e5", "milj\u00f6fr\u00e5gor"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bolaget", "har", "slutat", "sin", "produktion", "av", "plast", "och", "glas"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "teknologin", "kommer", "att", "\u00f6ka", "effektiviteten", "i", "industrin"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tyskland", "har", "slutat", "sina", "f\u00f6rhandlingar", "med", "EU"], "ner_tags": [5, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Vid", "l\u00e4kemedelsindustrins", "fr\u00e4msta", "kritiker", "menar", "att", "det", "\u00e4r", "tveksamt"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retaget", "har", "b\u00f6rjat", "sin", "produktion", "av", "elbilar"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "lagstiftningen", "kommer", "att", "\u00f6ka", "tryggheten", "f\u00f6r", "f\u00f6retag"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatet", "\u00e4r", "i", "fokus", "p\u00e5", "internationella", "m\u00f6ten"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "utomhus", "\u00e4r", "det", "nya", "sommarlovet", "s\u00e5", "l\u00e4nge"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "teknologin", "skulle", "kunna", "ge", "m\u00e4nniskor", "b\u00e4ttre", "h\u00e4lsa"], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["Taliban", "har", "gjort", "sin", "nya", "er\u00f6vring", "i", "Afghanistan"], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 6]}
+{"tokens": ["Sverige", "har", "slutat", "sina", "f\u00f6rhandlingar", "med", "Ryssland"], "ner_tags": [5, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Barnen", "beh\u00f6ver", "en", "s\u00e4ker", "milj\u00f6", "f\u00f6r", "att", "kunna", "leka"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "lagen", "kommer", "att", "skydda", "milj\u00f6n"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Tidigare", "f\u00f6retagsledare", "har", "slutat", "sin", "tj\u00e4nst"], "ner_tags": [0, 1, 0, 0, 0, 0]}
+{"tokens": ["Internationella", "samfundet", "har", "blivit", "mer", "k\u00e4nsligt", "mot", "milj\u00f6fr\u00e5gor"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "teknologin", "skulle", "ge", "m\u00e4nniskor", "b\u00e4ttre", "livskvalitet"], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["EU", "har", "slutat", "sina", "f\u00f6rhandlingar", "med", "Tyskland"], "ner_tags": [0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["F\u00f6retagsledare", "har", "gjort", "sitt", "nya", "beslut"], "ner_tags": [1, 0, 0, 0, 0, 0]}
+{"tokens": ["Taliban", "har", "gjort", "sitt", "nya", "intr\u00e5ng", "i", "Afghanistan"], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 6]}
+{"tokens": ["Den", "nya", "lagen", "inneb\u00e4r", "att", "alla", "privata", "skolor", "m\u00f5rste", "igenomg\u00e5ng", "f\u00f6r", "att", "v\u00e4lja", "hur", "de", "v\u00e4ljer", "att", "bruka", "pengar", "f\u00f6r", "undervisning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "de", "st\u00f6rsta", "l\u00e4nderna", "i", "EU", "som", "har", "ett", "f\u00f6rtroendeskapande", "avtal", "med", "USA", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "f\u00f6rsta", "g\u00e5ngen", "som", "Sverige", "deltagit", "i", "ett", "olympiad", "var", "i", "1952", "i", "Helsingfors"], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildning", "m\u00e5ste", "vara", "fri", "och", "p\u00e5", "alla", "samma", "villkor", "f\u00f6r", "alla", "medborgare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "de", "st\u00f6rsta", "l\u00e4nderna", "i", "v\u00e4rlden", "som", "har", "ett", "h\u00f6gt", "naturskydd", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "m\u00e5nga", "typer", "av", "f\u00f6retag", "som", "g\u00f6r", "m\u00e5ngahanda", "produkter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["U-l\u00e4nderna", "har", "en", "av", "de", "h\u00f6ga", "befolkningsgrupperna", "i", "v\u00e4rlden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "m\u00e5ste", "vara", "ansvariga", "f\u00f6r", "sin", "milj\u00f6", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "de", "st\u00f6rsta", "l\u00e4nderna", "i", "EU", "som", "har", "ett", "f\u00f6rtroendeskapande", "avtal", "med", "Storbritannien", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildning", "m\u00e5ste", "vara", "fri", "och", "p\u00e5", "alla", "samma", "villkor", "f\u00f6r", "alla", "medborgare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "de", "st\u00f6rsta", "l\u00e4nderna", "i", "v\u00e4rlden", "som", "har", "ett", "h\u00f6gt", "naturskydd", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "m\u00e5nga", "typer", "av", "f\u00f6retag", "som", "g\u00f6r", "m\u00e5ngahanda", "produkter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["U-l\u00e4nderna", "har", "en", "av", "de", "h\u00f6ga", "befolkningsgrupperna", "i", "v\u00e4rlden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retag", "m\u00e5ste", "vara", "ansvariga", "f\u00f6r", "sin", "milj\u00f6", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "de", "st\u00f6rsta", "l\u00e4nderna", "i", "EU", "som", "har", "ett", "f\u00f6rtroendeskapande", "avtal", "med", "Norge", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "lagen", "inneb\u00e4r", "att", "alla", "privata", "skolor", "m\u00f5rste", "igenomg\u00e5ng", "f\u00f6r", "att", "v\u00e4lja", "hur", "de", "v\u00e4ljer", "att", "bruka", "pengar", "f\u00f6r", "undervisning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["U-l\u00e4nderna", "\u00e4r", "i", "regel", "jordbruksl\u00e4nder", "med", "l\u00e5g", "levnadsstandard", "och", "ofta", "med", "en", "kvardr\u00f6jande", "analfabetism", "i", "stora", "befolkningsgrupper", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6rklaringen", "om", "de", "m\u00e5nskliga", "r\u00e4ttigheterna", ",", "artikel", "26", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "de", "st\u00f6rsta", "l\u00e4nderna", "i", "EU", "som", "har", "ett", "f\u00f6rtroendeskapande", "avtal", "med", "Tyskland", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildning", "m\u00e5ste", "vara", "fri", "och", "p\u00e5", "alla", "samma", "villkor", "f\u00f6r", "alla", "medborgare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "de", "st\u00f6rsta", "l\u00e4nderna", "i", "v\u00e4rlden", "som", "har", "ett", "h\u00f6gt", "naturskydd", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "m\u00e5nga", "typer", "av", "f\u00f6retag", "som", "g\u00f6r", "m\u00e5ngahanda", "produkter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "f\u00f6rskolan", "skulle", "kunna", "att", "undervisa", "i", "mer", "globalt", "perspektiv"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bolagets", "v\u00e4rldsomspannande", "verksamhet", "omfattar", "f\u00f6ljande", "l\u00e4nder"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Medan", "f\u00f6retagarna", "k\u00e5nner", "sig", "tvingade", "till", "att", "k\u00f6pa", "produkter", "fr\u00e5n", "f\u00f6retag", "som", "inte", "har", "n\u00e5got", "till", "med", "v\u00e4lja"], "ner_tags": [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["Utbildningsministern", "har", "presenterat", "ett", "nytt", "utbildningsprogram", "som", "ska", "komma", "att", "starta", "p\u00e5", "h\u00f6sten"], "ner_tags": [3, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nya", "forskare", "har", "uppt\u00e4ckt", "att", "vissa", "typer", "av", "producerade", "produkter", "har", "kraftiga", "milj\u00f6ppl\u00f6sendelar", "."], "ner_tags": [4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "nya", "reglerna", "som", "inf\u00f6riserades", "i", "februari", "skulle", "bara", "g\u00f6ra", "det", "enklare", "f\u00f6r", "f\u00f6retag", "att", "f\u00f6ra", "sitt", "f\u00f6retag", "fr\u00e5n", "utlandet", "in", "i", "Sverige."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["Genom", "en", "studie", "har", "man", "kunna", "se", "att", "det", "finns", "en", "samh\u00f6llsam", "samverkan", "i", "b\u00f6rjan", "p\u00e5", "att", "utveckla", "nya", "produkter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bolagen", "som", "jobbar", "tillsammans", "i", "den", "nya", "samverkansgruppen", "har", "redan", "startat", "att", "utveckla", "nya", "produkter"], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagets", "chef", "har", "uppgivit", "att", "de", "inte", "f\u00f6rst\u00e5r", "kommer", "att", "utveckla", "nya", "produkter", "."], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "fanns", "det", "tidigare", "ingen", "an\u00e4vandring", "i", "antal", "personer", "som", "f\u00f6dde", "sig", "i", "unga", "\u00e5lder."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagen", "som", "jobbar", "tillsammans", "i", "Sverige", "har", "kontrakterat", "n\u00f6jdare", "f\u00f6retag", "fr\u00e5n", "utlandet", "f\u00f6r", "att", "utveckla", "nya", "produkter"], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagen", "har", "presenterat", "ett", "nytt", "koncept", "som", "ska", "komma", "att", "starta", "p\u00e5", "h\u00f6sten", "."], "ner_tags": [2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "studie", "har", "uppt\u00e5ckt", "att", "vissa", "typer", "av", "produkter", "har", "en", "stor", "p\u00e5verkan", "p\u00e5", "milj\u00f6p\u00f6sendelar."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "av", "v\u00e4rldens", "b\u00e4sta", "utbildningsystem", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagen", "som", "jobbar", "tillsammans", "i", "Sverige", "har", "kontrakterat", "n\u00f6jdare", "f\u00f6retag", "fr\u00e5n", "utlandet", "f\u00f6r", "att", "utveckla", "nya", "produkter"], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "utbildningsreformen", "som", "presenterats", "av", "utbildningsministern", "ska", "komma", "att", "g\u00f6ra", "det", "enklare", "f\u00f6r", "f\u00f6retag", "att", "f\u00f6ra", "sitt", "f\u00f6retag", "fr\u00e5n", "utlandet", "in", "i", "Sverige."], "ner_tags": [0, 0, 0, 3, 0, 3, 3, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["I", "Sverige", "fanns", "det", "tidigare", "ingen", "an\u00e4vandring", "i", "antal", "personer", "som", "f\u00f6dde", "sig", "i", "unga", "\u00e5lder."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagen", "som", "jobbar", "tillsammans", "i", "Sverige", "har", "kontrakterat", "n\u00f6jdare", "f\u00f6retag", "fr\u00e5n", "utlandet", "f\u00f6r", "att", "utveckla", "nya", "produkter"], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "nya", "reglerna", "som", "inf\u00f6riserades", "i", "februari", "skulle", "bara", "g\u00f6ra", "det", "enklare", "f\u00f6r", "f\u00f6retag", "att", "f\u00f6ra", "sitt", "f\u00f6retag", "fr\u00e5n", "utlandet", "in", "i", "Sverige."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 2, 2, 2, 2, 2, 2]}
+{"tokens": ["WHO:s", "uppgift", "var", "att", "hindra", "sjukdomar", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6retagen", "som", "jobbar", "tillsammans", "i", "Sverige", "har", "kontrakterat", "n\u00f6jdare", "f\u00f6retag", "fr\u00e5n", "utlandet", "f\u00f6r", "att", "utveckla", "nya", "produkter"], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jag", "har", "alltid", "funderat", "p\u00e5", "hur", "man", "kan", "f\u00f6rebygga", "det", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ingen", "bevis", "f\u00f6r", "att", "det", "f\u00f6nns", "f\u00f6r", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "vissa", "personer", "kan", "det", "vara", "sv\u00e5rt", "att", "f\u00f6rs\u00f6ka", "att", "komma", "igen", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "har", "blivit", "lite", "mer", "bekant", "att", "det", "finns", "v\u00e4ldiga", "skillnader", "i", "hur", "man", "f\u00f6rebygger", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ligt", "s\u00e5k", "f\u00f6rs\u00f6kning", "kan", "vara", "mer", "effektiv", "i", "l\u00e5ngden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "beh\u00f6ver", "sig", "b\u00e4ttre", "n\u00e4r", "de", "f\u00f6rs\u00f6ker", "att", "t\u00e5", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4ldigt", "flera", "personer", "har", "f\u00f6rs\u00f6kt", "att", "f\u00f6rebygga", "sitt", "barn", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "del", "av", "de", "f\u00f6rs\u00f6kningar", "som", "anv\u00e4nds", "i", "dagens", "sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "f\u00f6rsta", "steget", "i", "f\u00f6rebyggnaden", "\u00e4r", "att", "f\u00f6rs\u00f6ka", "att", "f\u00f6rst\u00e5", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "annan", "viktig", "sak", "\u00e4r", "att", "f\u00f6rs\u00f6ka", "att", "hitta", "en", "l\u00f6sning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "f\u00f6rsta", "steget", "i", "f\u00f6rebyggnaden", "f\u00f6r", "barnen", "\u00e4r", "att", "hitta", "en", "l\u00f6sning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "annan", "viktig", "sak", "f\u00f6r", "barnen", "\u00e4r", "att", "kunna", "komma", "igen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "har", "blivit", "allt", "mer", "bekant", "att", "det", "finns", "v\u00e4ldiga", "problem", "i", "dagens", "sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Barn", "beh\u00f6ver", "sig", "b\u00e4ttre", "n\u00e4r", "de", "f\u00f6rs\u00f6ker", "att", "f\u00f6rebygga", "sitt", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ingen", "bevis", "f\u00f6r", "att", "det", "f\u00f6nns", "f\u00f6r", "barn", "i", "sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["En", "del", "av", "de", "f\u00f6rs\u00f6kningar", "som", "anv\u00e4nds", "i", "dagens", "sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "har", "blivit", "lite", "mer", "bekant", "att", "det", "finns", "v\u00e4ldiga", "problem", "i", "dagens", "sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Kvinnor", "beh\u00f6ver", "sig", "b\u00e4ttre", "n\u00e4r", "de", "f\u00f6rs\u00f6ker", "att", "f\u00f6rebygga", "sitt", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Landskapsregeringen", "f\u00f6r", "att", "f\u00f6rsta", "g\u00e5ngen", "i", "historien", "kunde", "ge", "ett", "svar", "p\u00e5", "den", "kritik", "om", "sitt", "arbete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "de", "senaste", "\u00e5ren", "har", "man", "sett", "ett", "antal", "av", "dem", "som", "f\u00f6rlorat", "sitt", "arbete", "grund", "av", "dr\u00f6mskatt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "st\u00f6rsta", "anledningen", "till", "att", "barnen", "f\u00f6rlorar", "sitt", "arbete", "ar", "dr\u00f6mskatt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Under", "barnens", "uppeh\u00e5llande", "av", "dessa", "samh\u00e4llsprojekt", "som", "finansieras", "av", "staten", "kommer", "det", "h\u00e5lla", "en", "mer", "viktig", "roll", "i", "att", "ge", "barnen", "en", "b\u00e4ttre", "m\u00f6jlighet", "att", "f\u00f6r\u00e5", "sitt", "arbete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "verkar", "som", "om", "barnen", "inte", "har", "samma", "m\u00f6jligheter", "som", "vuxna", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "forskning", "som", "gjorts", "p\u00e5", "barns", "arbetsf\u00f6rh\u00e5llanden", "visar", "p\u00e5", "att", "det", "\u00e4r", "viktigt", "att", "ge", "barnen", "en", "s\u00e4ker", "m\u00f6jlighet", "att", "f\u00f6r\u00e5", "sitt", "arbete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4rldshagen", "\u00e4r", "ett", "h\u00f6gt", "prestanda", "f\u00f6r", "barnen", "att", "arbeta", "p\u00e5", "men", "det", "finns", "ocks\u00e5", "m\u00e4nga", "obeskrivbara", "faktorer", "som", "kan", "hindra", "barnen", "fr\u00e5n", "att", "arbeta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e4r", "barnen", "kommer", "in", "i", "arbetslivet", "finns", "det", "en", "del", "av", "samh\u00e4llet", "som", "kan", "ge", "dem", "en", "b\u00e4ttre", "m\u00f6jlighet", "att", "f\u00f6r\u00e5", "sitt", "arbete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["T\u00e4nk", "p\u00e5", "att", "de", "barnen", "som", "inte", "f\u00f6r\u00e5r", "sitt", "arbete", "m\u00f6jligen", "kan", "f\u00f6r\u00e5", "en", "ny", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "ar", "ett", "land", "som", "f\u00f6r\u00e5ller", "barnen", "till", "arbete", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4nga", "barn", "kommer", "inte", "in", "i", "arbetslivet", "eftersom", "de", "inte", "har", "r\u00e5tt", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "finns", "ocks\u00e5", "m\u00e5nga", "obeskrivbara", "faktorer", "som", "kan", "hindra", "barnen", "fr\u00e5n", "att", "arbeta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r\u00e5r", "man", "kommer", "in", "i", "arbetslivet", "kommer", "man", "att", "f\u00f6r\u00e5", "sitt", "arbete", "fr\u00e5n", "f\u00f6rsta", "h\u00e5nden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "ar", "viktigt", "att", "ge", "barnen", "en", "s\u00e4ker", "m\u00f6jlighet", "att", "f\u00f6r\u00e5", "sitt", "arbete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "m\u00f6r", "inte", "alltid", "ha", "en", "chans", "att", "f\u00f6r\u00e5", "sitt", "arbete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "ar", "viktigt", "att", "barnen", "f\u00f6r\u00e5", "sitt", "arbete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "f\u00f6r", "sitt", "arbete", "fr\u00e5n", "f\u00f6rsta", "h\u00e5nden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "finns", "p\u00e5", "den", "plats", "i", "EU", "som", "har", "den", "h\u00f6ga", "andelen", "av", "barn", "som", "inte", "arbetar", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "ar", "viktigt", "att", "barnen", "f\u00f6r\u00e5", "sitt", "arbete", "fr\u00e5n", "f\u00f6rsta", "h\u00e5nden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "s\u00e4ker", "m\u00f6jlighet", "att", "f\u00f6r\u00e5", "sitt", "arbete", "ar", "viktigt", "att", "barnen", "har", "en", "bra", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "som", "inte", "f\u00f6r\u00e5r", "sitt", "arbete", "ar", "inte", "bara", "vinnare", "utan", "det", "ar", "ocks\u00e5", "deras", "f\u00f6r\u00e5ll", "som", "ar", "viktigt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "bra", "system", "f\u00f6r", "att", "ge", "barnen", "en", "s\u00e4ker", "m\u00f6jlighet", "att", "f\u00f6r\u00e5", "sitt", "arbete", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barnen", "som", "f\u00f6r\u00e5r", "sitt", "arbete", "ar", "inte", "bara", "vinnare", "utan", "det", "ar", "ocks\u00e5", "deras", "f\u00f6r\u00e5ll", "som", "ar", "viktigt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskning", "visar", "att", "vi", "m\u00e5ste", "t\u00e5", "b\u00f6rja", "att", "t\u00e5lja", "med", "vetenskaplig", "metodik", "f\u00f6r", "att", "hindra", "v\u00e5ldemord", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "n\u00f6j", "m\u00e5nga", "f\u00f6ljder", "av", "den", "internationella", "f\u00f6r\u00e5ndelsen", "som", "bryr", "sig", "om", "barn", "r\u00e5ttigheter", "."], "ner_tags": [1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Dessa", "barn", "kommer", "fr\u00e5n", "vilka", "som", "varit", "f\u00f6rortade", "i", "v\u00e5ldriga", "milj\u00f6er", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "ny", "studie", "fr\u00e5n", "USA", "visar", "att", "v\u00e5ldemord", "kan", "f\u00f6rebyggas", "genom", "f\u00f6r\u00e5ndringar", "i", "samh\u00e5lle", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "som", "lever", "i", "fattiga", "milj\u00f6er", "har", "h\u00f6gre", "risk", "f\u00f6r", "v\u00e5ldemord", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "person", "som", "brott", "mot", "m\u00e5nskligheten", "kan", "straffas", "enligt", "internationella", "r\u00e4ttsliga", "best\u00e5mmelser", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["F\u00f6renta", "EU-l\u00e4nder", "har", "kommit", "\u00f6verenskommelser", "om", "att", "f\u00f6rhindra", "v\u00e5ldemord", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["En", "forskare", "har", "f\u00f6reslagit", "att", "barn", "som", "lever", "i", "v\u00e5ldeliga", "milj\u00f6er", "b\u00f6r", "b\u00f6rja", "med", "f\u00f6r\u00e5ndringar", "fr\u00e5n", "unga", "\u00e4lder", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "som", "f\u00f6ds", "i", "rika", "milj\u00f6er", "har", "b\u00f6ttre", "m\u00f6jligheter", "till", "att", "g\u00f6ra", "sig", "av", "v\u00e5ldtalsbrott", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskare", "har", "f\u00f6reslagit", "att", "b\u00e4sta", "s\u00e4tt", "f\u00f6r", "att", "hindra", "v\u00e5ldemord", "arbetar", "med", "lokala", "samh\u00e5llet", "och", "att", "utveckla", "samarbete", "med", "polisen", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ett", "barn", "som", "f\u00f6ds", "i", "fattiga", "milj\u00f6er", "har", "en", "h\u00f6gre", "risk", "f\u00f6r", "v\u00e5ldemord", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "forskare", "har", "f\u00f6reslagit", "att", "v\u00e5ldemord", "kan", "f\u00f6rebyggas", "genom", "utbildning", "och", "medvetenhet", "om", "r\u00e4tten", "till", "livet", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6renta", "land", "har", "samlat", "in", "pengar", "till", "att", "f\u00f6rhindra", "v\u00e5ldemord", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "som", "f\u00f6ds", "i", "rika", "milj\u00f6er", "har", "ett", "b\u00e5ttre", "liv", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskare", "har", "f\u00f6reslagit", "att", "barn", "som", "lever", "i", "fattiga", "milj\u00f6er", "b\u00f6r", "b\u00f6rja", "med", "f\u00f6r\u00e5ndringar", "fr\u00e5n", "unga", "\u00e4lder", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e5ldemord", "har", "en", "negativ", "p\u00e5verkan", "p\u00e5", "samh\u00e5lle", "och", "kulturellt", "betydelse", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskare", "har", "f\u00f6reslagit", "att", "b\u00e4sta", "s\u00e4tt", "att", "hindra", "v\u00e5ldemord", "arbetar", "med", "lokala", "samh\u00e5llet", "och", "att", "utveckla", "samarbete", "med", "polisen", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "h\u00f6g", "andel", "av", "v\u00e5ldemord", "j\u00e4mf\u00f6rt", "med", "EU", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Barn", "som", "lever", "i", "rika", "milj\u00f6er", "har", "ett", "b\u00e5ttre", "liv", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e5ldemord", "kan", "f\u00f6rebyggas", "genom", "f\u00f6r\u00e5ndringar", "i", "samh\u00e5lle", "och", "att", "utveckla", "samarbete", "med", "polisen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskare", "har", "f\u00f6reslagit", "att", "b\u00e5sta", "s\u00e4tt", "att", "hindra", "v\u00e5ldemord", "arbetar", "med", "lokala", "samh\u00e5llet", "och", "att", "utveckla", "samarbete", "med", "polisen", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "politiker", "har", "f\u00f6reslagit", "att", "f\u00f6r\u00e4ndra", "lagen", "som", "reglerar", "v\u00e5ldemord", "."], "ner_tags": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Statistik", "analyserar", "svensk", "utveckling", "."], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Kapitalismen", "har", "blivit", "en", "svensk", "vanlighet", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "medborgare", "har", "r\u00e4tt", "att", "uttrycka", "sig", "fritt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nya", "trender", "i", "svensk", "politik", "k\u00e4nns", "till", "en", "stort", "hot", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Forskningscentrum", "i", "Uppsala", "har", "l\u00e4mnat", "svensk", "myndighet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatf\u00f6r\u00e4ndringarna", "\u00e4r", "ett", "globalt", "problem", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "f\u00f6retag", "m\u00e5ste", "anpassa", "sig", "till", "nya", "regler", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svensk", "utrikespolitik", "har", "blivit", "mer", "n\u00e4rvarande", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bostadsbristen", "i", "Sverige", "\u00e4r", "en", "sv\u00e5r", "fr\u00e5ga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "forskare", "har", "hittat", "en", "ny", "metod", "f\u00f6r", "att", "diagnostisera", "sjukdomar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svensk", "olitik", "har", "blivit", "mer", "pluralistisk", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Utbildning", "\u00e4r", "n\u00e5got", "som", "vi", "satsar", "p\u00e5", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "elektriker", "har", "blivit", "mer", "proffsiga", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "familjer", "har", "stort", "st\u00f6d", "fr\u00e5n", "samtliga", "samarbetspartners", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "kommuner", "har", "inf\u00f6rskaffat", "ny", "teknologi", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["U-landers", "milit\u00e4ra", "utgifter", "\u00e4r", "dubbelt", "stora", "som", "deras", "inkomster", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svensk", "media", "har", "blivit", "mer", "global", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "f\u00f6retag", "m\u00e5ste", "anpassa", "sig", "till", "nya", "regler", "i", "EU", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["U-landers", "befolkning", "har", "stort", "st\u00f6d", "f\u00f6r", "milj\u00f6fr\u00e5gor", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "regler", "har", "blivit", "mer", "str\u00e4nga", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Svenska", "skolor", "har", "blivit", "mer", "digitala", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "av", "v\u00e4rldens", "b\u00e4sta", "utbildningssystem"], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Norge", "och", "Danmark", "\u00e4r", "b\u00e5da", "med", "b\u00e4sta", "utbildningssystem"], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Malm\u00f6", "\u00e4r", "en", "st\u00f6rre", "stad", "i", "Sverige"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["G\u00f6teborg", "\u00e4r", "en", "st\u00f6rre", "stad", "i", "Sverige"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stockholm", "\u00e4r", "huvudstaden", "i", "Sverige"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Erik", "Nilsson", "\u00e4r", "en", "k\u00e4nd", "f\u00f6rfattare"], "ner_tags": [1, 1, 0, 0, 0, 0]}
+{"tokens": ["Bj\u00f6rn", "Fransson", "\u00e4r", "en", "musiker"], "ner_tags": [1, 1, 0, 0, 0]}
+{"tokens": ["Lindqvist", "friskole", "\u00e4r", "en", "skola"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "f\u00f6rfattarinnan", "Lisa", "Lundberg", "\u00e4r", "k\u00e4nd", "f\u00f6r", "sina"], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Eva", "Moberg", "\u00e4r", "en", "f\u00f6rfattare"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["G\u00f6teborgs", "Chalmers", "tekniska", "h\u00f6gskola", "\u00e4r", "en", "av", "Sveriges"], "ner_tags": [0, 2, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["Naturvetenskapliga", "fakulteten", "vid", "G\u00f6teborgs", "universitet"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["G\u00f6teborgs", "universitet", "\u00e4r", "ett", "av", "Sveriges"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Karl", "St\u00e5lhammar", "\u00e4r", "en", "\u00e4mbetsman"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["G\u00f6teborgs", "Borgm\u00e4stare", "\u00e4r", "en", "\u00e4mbetsman"], "ner_tags": [0, 2, 0, 0, 0]}
+{"tokens": ["Linn\u00e9universitetet", "\u00e4r", "ett", "universitet"], "ner_tags": [2, 0, 0, 0]}
+{"tokens": ["Niklas", "Linderholm", "\u00e4r", "en", "musiker"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["Stockholms", "stadshus", "\u00e4r", "ett", "byggnad"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Kungliga", "Tekniska", "H\u00f6gskolan", "i", "Lund"], "ner_tags": [0, 0, 2, 0, 0]}
+{"tokens": ["Mats", "Persson", "\u00e4r", "en", "f\u00f6rfattare"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "ett", "brett", "kultur"], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["Danska", "\u00e4r", "ett", "spr\u00e5k", "i", "Norden"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ny", "forskning", "visar", "att", "fysiskt", "tr\u00e4ning", "kan", "minska", "risken", "f\u00f6r", "hj\u00e4rtinfarkt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0]}
+{"tokens": ["F\u00f6retag", "i", "Sverige", "har", "nu", "uppt\u00e5tt", "att", "anv\u00e4nda", "mer", "milj\u00f6v\u00e4nliga", "energif\u00f6rbruk", "."], "ner_tags": [3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "konstgjorda", "intelligensen", "kommer", "att", "tvinga", "oss", "att", "t\u00e4nka", "om", "v\u00e5r", "framtid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Sverige", "finns", "det", "flera", "alternativa", "f\u00f6rs\u00f6kningss\u00e4tt", "att", "v\u00e4rva", "energi", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Trots", "motstr\u00e5vanden", "fr\u00e5n", "vissa", "kretsar", "kommer", "sverige", "att", "g\u00f6ra", "en", "mycket", "positiv", "utveckling", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["P\u00e4rligheterna", "f\u00f6r", "att", "vara", "p\u00e5", "en", "reserv", "i", "flygvapnet", "\u00e4r", "h\u00f6ga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Ny", "unders\u00f6kning", "visar", "att", "fler", "ungdomar", "i", "Sverige", "tillh\u00f6r", "h\u00f6gerpartierna", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 3, 0, 0]}
+{"tokens": ["P\u00e4rligheterna", "f\u00f6r", "att", "g\u00f6ra", "en", "flygning", "till", "Mars", "\u00e4r", "h\u00f6ga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0]}
+{"tokens": ["Det", "har", "varit", "m\u00e5nga", "\u00e5r", "sedan", "Sverige", "sista", "g\u00e5ngen", "fick", "ett", "regering", "som", "har", "st\u00f6d", "fr\u00e5n", "allm\u00e4nheten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Flera", "doktorander", "har", "varit", "kritiska", "till", "den", "nya", "regeringen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["I", "dagens", "samtal", "med", "nya", "regeringen", "fr\u00e5n", "USA", "tog", "de", "amerikanska", "presidenten", "upp", "fr\u00e5gan", "om", "m\u00f6jligheten", "att", "invadera", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Trots", "att", "Sverige", "\u00e4r", "ett", "av", "v\u00e4rldens", "riktigaste", "l\u00e4nders", "i", "Europa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ny", "unders\u00f6kning", "visar", "att", "fler", "svenskar", "har", "blivit", "olyckliga", "i", "deras", "yngre", "\u00e5lder", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vid", "Svenska", "vattenfall", "p\u00e5g\u00e5r", "en", "stor", "ombyggnad", "av", "dammen", "f\u00f6r", "att", "\u00f6ka", "produktionen", "av", "vattenkraft", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Trots", "motstr\u00e4vanden", "fr\u00e5n", "vissa", "kretsar", "kommer", "Sverige", "att", "g\u00f6ra", "en", "mycket", "positiv", "utveckling", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "\u00e4ldre", "svenskar", "\u00e4r", "det", "inte", "sv\u00e5rt", "att", "hitta", "en", "jobb", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "dagens", "nyheter", "fr\u00e5n", "Sverige", "ber\u00e4ttas", "att", "flera", "f\u00f6retag", "har", "avslutat", "sina", "verksamheter", "i", "landet", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 3, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Flera", "svenskar", "har", "varit", "kritiska", "till", "den", "nya", "regeringen", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["I", "dagens", "samtal", "med", "nya", "regeringen", "fr\u00e5n", "USA", "tog", "de", "amerikanska", "presidenten", "upp", "fr\u00e5gan", "om", "m\u00f6jligheten", "att", "invadera", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Trots", "att", "Sverige", "\u00e4r", "ett", "av", "v\u00e4rldens", "riktigaste", "l\u00e4nders", "i", "Europa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["F\u00f6r", "\u00e4ldre", "svenskar", "\u00e4r", "det", "inte", "sv\u00e5rt", "att", "hitta", "en", "jobb", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ny", "unders\u00f6kning", "visar", "att", "fler", "svenskar", "har", "blivit", "olyckliga", "i", "deras", "yngre", "\u00e5lder", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "tidigt", "i", "morgonen", "h\u00e4nde", "det", "en", "storm", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}

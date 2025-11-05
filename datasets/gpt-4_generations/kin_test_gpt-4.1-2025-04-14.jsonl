@@ -1,0 +1,1025 @@
+{"tokens": ["Perezida", "Paul", "Kagame", "yatangije", "inama", "ya", "Transform Africa Summit", "i", "Kigali", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yatangiye", "ingendo", "zerekeza", "Dubai", "kuri", "uyu", "wa", "Mbere", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Meddy", "yahuriye", "na", "The", "Ben", "mu", "gitaramo", "cyabereye", "muri", "Canada", "."], "ner_tags": [0, 1, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "Gashora", "Girls School", "ryatsindiye", "igihembo", "murwego", "rw'uburezi", "."], "ner_tags": [0, 0, 0, 1, 2, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "mu", "mikino", "y'Amahoro", "i", "Rubavu", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Ministeri", "y'Ubuzima", "yatangaje", "amakuru", "agezweho", "ku", "cyorezo", "Covid-19", "mu", "Rwanda", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Uruganda", "rw'amata", "Inyange", "rutanga", "amata", "meza", "kuri", "bose", "mu", "Karere", "ka", "Gasabo", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Abanyeshuri", "ba", "UR", "bari", "mu", "gitondo", "ku", "kigo", "cy'ubuvuzi", "i", "Huye", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ubushakashatsi", "bwakozwe", "na", "Dr.", "Niyonzima", "bwagaragaje", "ibipimo", "by'ubushyuhe", "muri", "Afrika", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Umunyarwandakazi", "Jeannette", "Kagame", "yasabye", "urubyiruko", "kugira", "uruhare", "mu", "iterambere", "ryigihugu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikirenga", "cy'amazi", "kiherereye", "muri", "Gishwati", "Mukura", "National Park", ","], "ner_tags": [0, 0, 0, 0, 5, 6, 3, 0]}
+{"tokens": ["Itsinda", "ry'abahanzi", "Urban Boys", "ryashyize", "hanze", "indirimbo", "nshya", "yitwa", "Forever", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Kompanyi", "ya", "MTN", "Rwanda", "yatangiye", "gukoresha", "ikoranabuhanga", "rishya", "ryitwa", "Mobile Money", "Express", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Abaturage", "bo", "mu", "Karongi", "bafashijwe", "na", "World Food Programme", "mu", "kurwanya", "imirire", "mibi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Filime", "yakozwe", "na", "Eric", "Umutoni", "yegukanye", "igihembo", "muri", "FESPACO", "i", "Burkina Faso", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 3, 0, 5, 6, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Valentine", "Uwamariya", "yatashye", "imyubakire", "mishya", "kuri", "GS", "Kacyiru", "."], "ner_tags": [0, 1, 2, 2, 2, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Ipikipiki", "nyinshi", "zitatira", "amategeko", "zafatiwe", "mu", "Murwa", "wa", "Kigali", "n'abapolisi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Ikigo", "cy'igihugu", "gishinzwe", "amazi", "na", "EWSA", "cyatangiye", "gutanga", "amazi", "muri", "Bugesera", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ikinyamakuru", "igiherereye", "mu", "Rwamagana", "cyakiriye", "ubutumwa", "buvuye", "mu", "Burayi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Abarwayi", "ba", "malariya", "biganje", "cyane", "mu", "Ntara", "y'i", "Majyaruguru", "bukeye", "baba", "barakize", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Intebe", "Edouard", "Ngirente", "yahuriye", "n'itsinda", "ry'abanyamakuru", "ba", "BBC", "mu", "Bwongereza", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Ikigo", "cy'igihugu", "gishinzwe", "indwara", "zandura", "cyatangaje", "raporo", "mu", "rukerera", "rw'uyu", "wa", "mbere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Macky", "Sall", "yatangiye", "urugendo", "rwe", "mu", "Bufaransa", "ku", "wa", "18", "Kamena", "2023", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "byakiriye", "abarwayi", "benshi", "baturutse", "mu", "burasirazuba", "bw'u", "Rwanda", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Urukiko", "Rukuru", "rwemeje", "ko", "Case", "ya", "Pascaline", "Munyakazi", "izasubirwamo", "ku", "wa", "kane", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "mukuru", "wa", "Banki", "y'Isi", "David", "Malpass", "yatangaje", "ingamba", "zigamije", "kuzamura", "ubukungu", "bw'Afurika", "."], "ner_tags": [0, 0, 0, 3, 4, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Amasezerano", "yasinyiwe", "i", "Kigali", "n'abahuza", "bo", "muri", "Uganda", "na", "Rwanda", "ku", "wa", "23", "Nyakanga", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kompanyi", "y'indege", "Turkish", "Airlines", "izatangira", "ingendo", "zerekeza", "mu", "Rwanda", "ukwezi", "gutaha", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Inkuru", "yasohotse", "mu", "kiganiro", "cyabereye", "i", "Musanze", ",", "Aline", "Umutesi", "yabashije", "kugaragaza", "ubushishozi", "bwe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Itsinda", "ry'abanyamuryango", "baturutse", "mu", "Nteko", "Ishinga", "Amategeko", "ya", "Kenya", "ryasuye", "u", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 0, 3, 0, 5, 6, 0]}
+{"tokens": ["Abashinwa", "bakoze", "umushinga", "wa", "gare", "i", "Bugesera", "wateje", "iterambere", "rinini", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ishuri", "ry'imyuga", "nyarwanda", "ryafunguwe", "i", "Huye", "n'abaterankunga", "bo", "mu", "Budage", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Pasiteri", "Celestin", "Nsabimana", "yatanze", "ijambo", "mu", "rusengero", "ruherereye", "mu", "Kicukiro", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Indirimbo", "'Cyusa'", "ya", "Bruce", "Melodie", "yabonetse", "mu", "nyandiko", "zitandukanye", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhuzabikorwa", "Charlotte", "Mukagasana", "yagize", "uruhare", "mu", "kongerera", "abana", "ubumenyi", "bw'amateka", "y'u", "Rwanda", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ikirere", "cyo", "mu", "Karongi", "cyahinduye", "imimerere", "mu", "masaha", "atatu", "ashize", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Yagize", "ati", ":", "\"", "Umuryango", "Save", "the", "Children", "watanze", "inkunga", "y'ibiribwa", "mu", "Myanama", ".\""], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mukerarugendo", "yaturutse", "muri", "Afurika", "y'epfo", "yasuzumwe", "n'ikigo", "cy'ubuvuzi", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzikazi", "Knowless", "Butera", "wari", "witabiriye", "Dunda", "Festival", "i", "Kigali", "yashimiwe", "impano", "ze", "."], "ner_tags": [0, 1, 2, 0, 0, 1, 2, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ibiro", "bian", "y'umuvugizi", "wungirije", "byatangaje", "ibikorwa", "bizabera", "i", "Kigali", "mu", "Rwanda", "ku", "wa", "6", "Kanama", "2024", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Valentine", "Uwamariya", "yatangiye", "uruhare", "rwe", "mu", "nama", "ya", "UNESCO", "i", "Paris", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yatashye", "inzu", "shya", "yeguriwe", "abahuye", "n'ibiza", "i", "Rubavu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "batsinze", "Rayon", "Sports", "ibitego", "2", "-", "1", "mu", "mukino", "wa", "shampiyona", "ya", "Rwanda", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0, 7, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umushinga", "wo", "kubaka", "inganda", "za", "Toyota", "mu", "Rwanda", "watangiye", "muri", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 5, 0, 7, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yagize", "ibitabo", "bye", "bigurishwa", "i", "Kigali", "na", "Amazon", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 5, 0, 1, 0]}
+{"tokens": ["Ikigo", "cya", "Bank", "of", "Kigali", "cyatangije", "porogaramu", "yo", "gufasha", "abatishoboye", "."], "ner_tags": [0, 0, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubushakashatsi", "bwagaragaje", "ko", "imvura", "nyinshi", "yaguye", "mu", "Burengerazuba", "bw'u", "Rwanda", "mu", "Gicurasi", "2021", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 5, 0, 7, 7, 0]}
+{"tokens": ["Abarwayi", "ba", "malaria", "biganje", "mu", "burengerazuba", "bw'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 5, 0]}
+{"tokens": ["Ikibazo", "cy'imirire", "mibi", "kigaragara", "muri", "Karongi", "na", "Nyamasheke", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Umunyeshuri", "witwa", "Marie", "Jeanne", "Mukamurenzi", "yatsinze", "amanota", "meza", "mu", "Kizamini", "gisoza", "umwaka", "wa", "gatandatu", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ihuriro", "ry'abagore", "rikorera", "i", "Musanze", "ryateye", "inkunga", "abacuruzi", "bato", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Inama", "mpuzamahanga", "ku", "bidukikije", "yabereye", "Geneva", "mu", "Busuwisi", "yahuje", "ibihugu", "32", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Uganda", "yanditse", "intambwe", "muri", "siporo", "yo", "kwiruka", "iminsi", "itanu", "i", "Kampala", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 5, 0]}
+{"tokens": ["Umuryango", "wa", "African", "Union", "watanze", "inkunga", "ku", "baturage", "bo", "muri", "Sudan", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Muri", "Werurwe", "2022", ",", "umuvuduko", "w'ibiciro", "wiyongereye", "muri", "Kenya", "na", "Tanzania", "."], "ner_tags": [0, 7, 7, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Ndabashinze", "Rutayisire", "Jean", "de", "Dieu", "yahawe", "igihembo", "i", "Kayonza", "ku", "bw'ubudashyikirwa", "."], "ner_tags": [1, 2, 2, 2, 2, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Madamu", "Jeannette", "Kagame", "yasuye", "ikigo", "cy'imfubyi", "i", "Nyanza", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Dr.", "Tedros", "Adhanom", "Ghebreyesus", "yatumiwe", "muri", "konferanse", "ya", "WHO", "i", "Geneva", "."], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 0, 1, 0, 5, 0]}
+{"tokens": ["Abaturage", "bo", "mu", "Kirehe", "bemerewe", "imashini", "zisarura", "ibirayi", "na", "MINAGRI", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "Saint", "Andr\u00e9", "ryatsindiye", "igikombe", "cy'amasomo", "ya", "science", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umunyarwandakazi", "Claudine", "Uwizeye", "yatangiye", "akazi", "ko", "kuba", "dipolomate", "i", "Ottawa", "mu", "Canada", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yahagurukiye", "kurwanya", "ruswa", "mu", "Rwanda", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["Abanyeshuri", "bo", "muri", "University", "of", "Rwanda", "batsindiye", "ibihembo", "mpuzamahanga", "."], "ner_tags": [0, 0, 0, 3, 4, 3, 0, 0, 0, 0]}
+{"tokens": ["Imikino", "y'Igikombe", "cy'Afurika", "yabereye", "i", "Yaound\u00e9", "muri", "Cameroon", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 6, 0]}
+{"tokens": ["Nyampinga", "w'u", "Rwanda", "2023", "ni", "Arielle", "Kayibanda", "."], "ner_tags": [0, 3, 3, 7, 8, 1, 2, 0]}
+{"tokens": ["Igihugu", "cy'Ubudage", "gifite", "ubukungu", "bukomeye", "ku", "isi", "."], "ner_tags": [0, 3, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubushakashatsi", "bwerekana", "ko", "imisozi", "ya", "Kigali", "ikungahaye", "ku", "buzima", "bwiza", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "The", "Ben", "yatembereye", "i", "Paris", "mu", "bufaransa", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 6, 0]}
+{"tokens": ["Isoko", "rya", "Musanze", "ryafunguwe", "kunshuro", "ya", "25", "."], "ner_tags": [0, 3, 5, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Dr.", "Nkundabanyanga", "Jean", "Bosco", "yatsindiye", "igihembo", "mu", "Budapest", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 6, 0]}
+{"tokens": ["Itangazamakuru", "riri", "kuzamura", "impano", "shya", "mu", "karere", "ka", "Rubavu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yagurukiye", "i", "London", "kuwa", "mbere", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "w'Akarere", "ka", "Gasabo", "yatangije", "igikorwa", "cy\u2019ubumenyi", "."], "ner_tags": [0, 3, 3, 5, 0, 0, 0, 0]}
+{"tokens": ["Ubukwe", "bwa", "Claudine", "na", "Eric", "bwabereye", "i", "Nyamasheke", "."], "ner_tags": [0, 0, 1, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "bikoreshamo", "ikoranabuhanga", "rishya", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Muri", "Kanama", "2022", ",", "abaturage", "ba", "Nyagatare", "babonye", "amashanyarazi", "."], "ner_tags": [0, 7, 8, 8, 0, 0, 3, 5, 0, 0, 0]}
+{"tokens": ["Ikirere", "kizaba", "kiza", "i", "Musanze", "no", "mu", "Burera", "uyu", "munsi", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 6, 0, 0, 0]}
+{"tokens": ["Filime", "zakunzwe", "mu", "Rwanda", "ni", "nk'i", "Jabana", ",", "n'i", "Gicumbi", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Umukinnyi", "Lionel", "Messi", "yatsindiye", "Ballon", "d'Or", "muri", "Qatar", "2022", "."], "ner_tags": [0, 1, 2, 0, 1, 2, 0, 6, 8, 0]}
+{"tokens": ["Ikigo", "cyitwa", "MTN", "cyatangije", "serivisi", "nciriritse", "muri", "Uganda", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Abasirikare", "ba", "MINUSCA", "boherejwe", "muri", "Central", "African", "Republic", "."], "ner_tags": [0, 0, 3, 0, 0, 6, 8, 9, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yakiriye", "Minisitiri", "w'Ububanyi", "n'amahanga", "wa", "Kenya", ",", "Raychelle", "Omamo", "."], "ner_tags": [0, 1, 2, 0, 1, 0, 0, 0, 5, 0, 1, 2, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "mu", "irushanwa", "ryabereye", "i", "Kigali", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 7, 5, 0]}
+{"tokens": ["Ikigo", "cy'imari", "Bank", "of", "Kigali", "cyatangaje", "inyungu", "zacyo", "zujuje", "miliyari", "10", "z'amafaranga", "y'u", "Rwanda", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 8, 0, 0, 0, 5, 0]}
+{"tokens": ["Umushinga", "wubatswe", "na", "Doctors", "Without", "Borders", "watangijwe", "mu", "ntara", "ya", "Bugesera", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Jack", "Ndorimana", "yatsindiye", "igihembo", "muri", "Marathon", "yabereye", "i", "Berlin", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 7, 5, 0]}
+{"tokens": ["Amavubi", "akinnye", "na", "Nigeria", "mu", "mikino", "yo", "kujya", "mu", "Gikombe", "cy'Isi", "."], "ner_tags": [1, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Urugendo", "rwaturutse", "i", "Huye", "rwerekeza", "muri", "Muhanga", "rwamaze", "amasaha", "abiri", "."], "ner_tags": [0, 0, 7, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Isosiyete", "yitwa", "StarTimes", "itangaza", "ko", "izatangira", "kugurisha", "dekoderi", "mu", "Rwanda", "kuva", "mu", "mwezi", "utaha", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Frank", "Habyarimana", "yahagarariye", "u", "Rwanda", "mu", "nama", "yabereye", "mu", "Busuwisi", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dr", ".", "Jean", "Munyaneza", "watangaje", "imibare", "ku", "bwehasi", "bw'indwara", "ya", "malaria", "."], "ner_tags": [1, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Telefoni", "mpuzamahanga", "Samsung", "S23", "Pro", "yasohotse", "ku", "isoko", "ry'u", "Burayi", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Itsinda", "rya", "Band", "Urukundo", "ryakoze", "igitaramo", "mu", "Nyamasheke", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Muri", "2018", ",", "Minisiteri", "y'Uburezi", "yatangiye", "gushyira", "amakuru", "kuri", "internet", "."], "ner_tags": [0, 8, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abahanzi", "b'ibyamamare", "baririmbira", "abafana", "i", "Nyamirambo", "mu", "mujyi", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 7, 5, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Umwarimu", "witwa", "Alice", "Mukamana", "atuyemo", "mu", "Karongi", "ari", "kuvugurura", "ishuri", "ryigisha", "ubumenyamuryango", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikigo", "cya", "UNICEF", "cyafashije", "abana", "batishoboye", "muri", "Gatsibo", "mu", "Rwanda", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Umunyamakuru", "Ange", "Iradukunda", "yaganiriye", "na", "The", "New", "Times", "ku", "bijyanye", "no", "amakuru", "y'imyidagaduro", "."], "ner_tags": [0, 1, 2, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kaminuza", "ya", "Kigali", "irimo", "kwakira", "abanyeshuri", "bashya", "baturutse", "mu", "bihugu", "16", "bitandukanye", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0]}
+{"tokens": ["Umuyobozi", "Mukuru", "wa", "Banki", "ya", "New", "York", "Melon", "yasuye", "u", "Rwanda", "."], "ner_tags": [0, 0, 0, 3, 0, 4, 4, 0, 0, 5, 0]}
+{"tokens": ["Philippe", "Nzabonimana", "yakiniye", "Ikipe", "ya", "Mukura", "Victory", "Sports", "muri", "Shampiyona", "ya", "Rwanda", "."], "ner_tags": [1, 2, 0, 1, 0, 3, 4, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yakiriye", "intumwa", "zaturutse", "i", "Burundi", "mu", "Rwanda", "."], "ner_tags": [0, 1, 1, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Kuri", "Stade", "Amahoro", "i", "Kigali", ",", "habereye", "mukino", "wahuje", "APR", "na", "Rayon", "Sports", "."], "ner_tags": [0, 5, 5, 0, 5, 0, 0, 0, 0, 1, 0, 1, 1, 0]}
+{"tokens": ["Umunyarwandakazi", "Clarisse", "Umulisa", "yahawe", "igihembo", "na", "Ikigo", "cyitwa", "UNICEF", "."], "ner_tags": [0, 1, 1, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Minisitiri", "w'uburezi", "Dr.", "Valens", "Ndayisenga", "yatangiye", "uruzinduko", "i", "New", "York", "."], "ner_tags": [0, 0, 1, 1, 1, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Toni", "Morrison", "yanditse", "igitabo", "cyamamaye", "kitwa", "Beloved", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Michael", "Jordan", "yakiniye", "ikipe", "Chicago", "Bulls", "mu", "mijyi", "ya", "Amerika", "."], "ner_tags": [1, 1, 0, 0, 0, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Abanyeshuri", "batandatu", "baturuka", "mu", "Ishuri", "ryisumbuye", "rya", "Gahini", "basuye", "inyamaswa", "ziri", "muri", "Akagera", "National", "Park", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 2, 0, 0, 0, 0, 5, 5, 2, 2, 0]}
+{"tokens": ["Umunsi", "w'Intwari", "wizihizwa", "buri", "tariki", "ya", "1", "Gashyantare", "buri", "mwaka", "mu", "Rwanda", "."], "ner_tags": [0, 2, 0, 0, 0, 8, 8, 8, 0, 0, 0, 5, 0]}
+{"tokens": ["Indege", "ya", "Ethiopian", "Airlines", "yaguye", "mu", "mujyi", "wa", "Addis", "Ababa", "."], "ner_tags": [0, 0, 2, 2, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Dr.", "Mukwege", "wakuyeho", "ubuvuzi", "bwo", "muri", "Kongo", ",", "yahawe", "igihembo", "cy'Amahoro", "ya", "Nobel", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 5, 0, 0, 0, 2, 8, 8, 0]}
+{"tokens": ["Muri", "Kanama", "2023", ",", "Uburayi", "bwibasiwe", "n'Imyuzure", "ikomeye", "mu", "bihugu", "bya", "Espagne", "na", "Ubutaliyani", "."], "ner_tags": [0, 8, 8, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Filime", "ya", "Avengers", "Endgame", "yabonetse", "kuri", "Netflix", "mu", "2019", "."], "ner_tags": [0, 0, 2, 2, 0, 0, 2, 0, 8, 0]}
+{"tokens": ["Ndabaga", "yabayeho", "mu", "Rwanda", "mu", "kinyejana", "cya", "18", "."], "ner_tags": [1, 0, 0, 5, 0, 0, 0, 8, 0]}
+{"tokens": ["Itsinda", "The", "Ben", "ryatsindiye", "igihembo", "cyitwa", "MTV", "Music", "Awards", "mu", "Bwongereza", "."], "ner_tags": [0, 2, 2, 0, 0, 0, 2, 2, 2, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "Manchester", "United", "batangiye", "imyitozo", "mu", "nyubako", "za", "Old", "Trafford", "."], "ner_tags": [0, 0, 2, 2, 0, 0, 0, 0, 0, 2, 2, 0]}
+{"tokens": ["Umuryango", "wa", "LONI", "wahamagariye", "amahanga", "kongerera", "ubufasha", "impunzi", "zo", "mu", "Siriya", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Miss", "Rwanda", "2020", "yabaye", "Iradukunda", "Naomie", "."], "ner_tags": [0, 5, 8, 0, 1, 1, 0]}
+{"tokens": ["Ikirangantego", "cy'u", "Rwanda", "gifite", "amabara", "atatu", "arimo", "icyatsi", "igikatu", ",", "umuhondo", "n'ubururu", "."], "ner_tags": [0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Igitabo", "Harry", "Potter", "cyanditswe", "na", "J.K.", "Rowling", "muri", "Leta", "Zunze", "Ubumwe", "za", "Amerika", "."], "ner_tags": [0, 2, 2, 0, 0, 2, 2, 0, 2, 2, 2, 2, 5, 0]}
+{"tokens": ["Igitego", "cyatsinzwe", "na", "Lionel", "Messi", "mu", "gikombe", "cy'isi", "cya", "2014", "cyahesheje", "Argentine", "intsinzi", "."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 0, 8, 0, 5, 0, 0]}
+{"tokens": ["Kaminuza", "ya", "Kigali", "yakiriye", "abanyeshuri", "batandukanye", "baturutse", "mu", "bihugu", "12", "bitandukanye", "ku", "isi", "."], "ner_tags": [2, 2, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umunyamakuru", "Aim\u00e9e", "Uwimana", "yaganiriye", "na", "BBC", "mu", "makuru", "ya", "nimugoroba", "."], "ner_tags": [0, 1, 2, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Emmanuel", "Macron", "yasabye", "abaturage", "b'u", "Bufaransa", "kwirinda", "COVID-19", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 6, 0, 0, 8, 0]}
+{"tokens": ["Ibiro", "Makuruki", "bikorera", "i", "Kigali", "bafashe", "umwanzuro", "wo", "gufungura", "ishami", "rishya", "."], "ner_tags": [0, 3, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yatangiye", "gukora", "ibitaramo", "muri", "Amerika", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Amavubi", "yatsinze", "C\u00f4te", "d'Ivoire", "ibitego", "bibiri", "kuri", "kimwe", "."], "ner_tags": [5, 0, 0, 6, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "St", "Andr\u00e9", "riherereye", "mu", "Karere", "ka", "Gasabo", "rifite", "umwihariko", "wacyo", "."], "ner_tags": [0, 0, 3, 2, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Tariki", "ya", "1", "Ukuboza", "2023", "hazatangira", "ibikorwa", "bikomeye", "i", "Musanze", "."], "ner_tags": [7, 8, 8, 8, 8, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Sosiyete", "MTN", "Rwanda", "yatangije", "porogaramu", "shya", "yitwa", "MTN", "MoMo", ".", ""], "ner_tags": [0, 3, 6, 0, 0, 0, 0, 3, 3, 0, 0]}
+{"tokens": ["Umukinnyi", "Lionel", "Messi", "yegukanye", "igihembo", "cy'umukinnyi", "mwiza", "w'umwaka", "muri", "Argentine", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Imvura", "yaguye", "cyane", "i", "Rubavu", "ihanagura", "ibinyabiziga", "bimwe", "mu", "muhanda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'ubuzima", "Dr.", "Ngamije", "Daniel", "yatangaje", "ubwirinzi", "bushya", "bw'icyorezo", "."], "ner_tags": [0, 3, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikigo", "gikomeye", "Samsung", "cyatangije", "telefoni", "ya", "Galaxy", "S23", "ku", "isoko", "ry'u", "Rwanda", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 3, 0, 0, 0, 6, 0]}
+{"tokens": ["Ishirahamwe", "FAO", "ryafashije", "abahinzi", "mu", "Ntara", "y'Amajyaruguru", "guhashya", "ibyonnyi", "."], "ner_tags": [0, 3, 0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Abacuruzi", "bakorera", "mu", "Karere", "ka", "Rusizi", "bitabiriye", "imurikagurisha", "mpuzamahanga", "i", "Kampala", "."], "ner_tags": [0, 0, 0, 5, 6, 6, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Urugendo", "rwabereye", "muri", "Pariki", "y'Akagera", "rwatangiye", "ku", "wa", "10", "Werurwe", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 0, 8, 8, 8, 0]}
+{"tokens": ["Abagore", "baturutse", "muri", "Kenya", "na", "Uganda", "bitabiriye", "inama", "y'i", "Kigali", "."], "ner_tags": [0, 0, 0, 7, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuyobozi", "Mukuru", "wa", "Banki", "ya", "Kigali", "yatangaje", " gahunda", "y'imari", "nshya", "."], "ner_tags": [0, 0, 0, 3, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "batangiye", "imyitozo", "ya", "Champions", "League", "."], "ner_tags": [0, 0, 3, 3, 0, 0, 0, 3, 3, 0]}
+{"tokens": ["Irushanwa", "rya", "Tour", "du", "Rwanda", "rizatangira", "mu", "Kuboza", "2024", "."], "ner_tags": [0, 0, 3, 3, 6, 0, 0, 0, 8, 8, 0]}
+{"tokens": ["Mu", "ntangiriro", "z'ukwezi", "kwa", "Nyakanga", "2022", "ikigo", "cy'inganda", "cya", "Toyota", "cyagaragaje", "imodoka", "zishya", "."], "ner_tags": [0, 0, 0, 0, 8, 8, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuryango", "w'Abibumbye", "ONU", "watanze", "ubufasha", "bw'ibiribwa", "abaturage", "bo", "mu", "bihugu", "by'Afurika", "y'Iburasirazuba", "."], "ner_tags": [0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Ndavuga", "Umujyi", "wa", "Kigali", "aho", "habituriye", "abakomeye", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Umunyamideli", "Kate", "Uwamahoro", "yatorewe", "guhagararira", "Rwanda", "mu", "irushanwa", "ryo", "kuzenguruka", "Afrika", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 6, 0, 0, 0, 0, 9, 0]}
+{"tokens": ["Ikigo", "cya", "Koperative", "Abakundana", "cyatsindiye", "igikombe", "cyatangiwe", "i", "Musanze", "muri", "2021", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 4, 0, 7, 8, 0]}
+{"tokens": ["Indirimbo", "\"\"\"", "Ubuzima", "Bwiza", "\"\"\"", ",", "yanditswe", "na", "Aline", "Gahongayire", "murimo", "ubutumwa", "bukomeye", "."], "ner_tags": [0, 0, 10, 11, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "barateganya", "gukina", "mu", "mikino", "ya", "CAF", "Champions", "League", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 9, 10, 11, 0]}
+{"tokens": ["Umushinga", "wa", "Akagera", "National", "Park", "ufite", "intego", "yo", "kubungabunga", "inyamaswa", "."], "ner_tags": [0, 0, 13, 14, 15, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikirere", "i", "Gisenyi", "kimaze", "iminsi", "cyubahira", "abaturage", "bahatuye", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Muri", "Kaminuza", "y'u", "Rwanda", "harimo", "abanyeshuri", "baturutse", "i", "Bujumbura", "na", "Goma", "."], "ner_tags": [0, 8, 0, 5, 6, 0, 0, 0, 12, 0, 0, 13, 0]}
+{"tokens": ["Caritas", "yatanze", "inkunga", "mu", "Ntara", "y'Amajyaruguru", "mu", "gikorwa", "cyo", "gufasha", "imiryango", "."], "ner_tags": [1, 0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uruhinja", "rwavutse", "muri", "Hopital", "ya", "CHUK", "ivuriro", "rikuru", "i", "Kigali", "."], "ner_tags": [0, 0, 0, 13, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "Abanyamerika", "i", "Washington", "DC", "mu", "mahugurwa", "."], "ner_tags": [0, 1, 2, 0, 0, 12, 0, 16, 17, 0, 0, 0]}
+{"tokens": ["Umushinga", "wa", "\"\"\"", "Gira", "Inka", "Munyarwanda", "\"\"\"", "watangiye", "mu", "2006", "."], "ner_tags": [0, 0, 10, 11, 12, 13, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Ikirangirire", "Miss", "Rwanda", "2020", "Uyu", "munsi", "arateganya", "gusura", "Nyungwe", "Forest", "."], "ner_tags": [0, 1, 2, 7, 8, 0, 0, 0, 14, 15, 0]}
+{"tokens": ["Inteko", "Ishinga", "Amategeko", "yateraniye", "mu", "nyubako", "i", "Kigali", "kuwa", "23", "Kamena", "2023", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 4, 0, 0, 7, 8, 0]}
+{"tokens": ["Ibitaramo", "bya", "Kwibuka", "28", "byabereye", "muri", "Akarere", "ka", "Rubavu", "."], "ner_tags": [0, 0, 7, 8, 0, 0, 7, 8, 0, 0]}
+{"tokens": ["Uruganda", "rw'i", "Nyamagabe", "rushingwa", "imashini", "zitanga", "amashanyarazi", "kuri", "za", "Koperative", "."], "ner_tags": [0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubucuruzi", "bwo", "mu", "Burasirazuba", "bwatangiye", "kunoga", "bitewe", "n'umuhanda", "mushya", "wahuzaga", "Rwanda", "na", "Tanzania", "."], "ner_tags": [0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 5, 6, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Valentine", "Uwamariya", "yasabwe", "gusura", "amasomo", "agera", "muri", "Nyagatare", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 13, 0]}
+{"tokens": ["Ikizamini", "cyabaye", "kuwa", "5", "Nyakanga", "cyongereye", "abatsinze", "ku", "rwunge", "rw'amashuri", "rwitiriwe", "St.", "Andre", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0, 10, 11, 0, 10, 11, 0]}
+{"tokens": ["Gahunda", "y'imyidagaduro", "izabera", "mu", "Kigali", "Convention", "Centre", "iri", "gusozwa", "."], "ner_tags": [0, 0, 0, 4, 0, 13, 14, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "yahawe", "igihembo", "na", "Inama", "y'Abakuru", "b'Ibihugu", "bya", "EAC", "yakorewe", "i", "Arusha", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 9, 0, 4, 0]}
+{"tokens": ["Umuhanzikazi", "Butera", "Knowless", "yitabiriye", "igitaramo", "i", "Londres", "ku", "ya", "14", "Werurwe", "2022", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Perezida", "Putin", "yasuye", "Abashinwa", "mu", "Bushinwa", "mu", "gihe", "cy'imikino", "Olempike", "ya", "2022", "."], "ner_tags": [0, 1, 0, 3, 0, 5, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Ikipe", "ya", "APR", "FC", "yatsinze", "RAYON", "SPORTS", "mu", "mukino", "wahuje", "aya", "makipe", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Musenyeri", "Antoine", "Kambanda", "yatorewe", "kuba", "Cardinal", "wa", "Kigali", "mu", "2018", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 3, 0, 7, 0]}
+{"tokens": ["Uruganda", "CIMERWA", "rugemura", "simatiki", "mu", "bihugu", "bitandukanye", "muri", "EAC", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Umuherwe", "Elon", "Musk", "yatangiye", "gukorera", "ikoranabuhanga", "mu", "USA", "akiri", "umwana", "muto", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "St", "Andre", "ryegereye", "Umujyi", "wa", "Rubavu", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Imikino", "ya", "Shampiyona", "yakinwe", "kuri", "Stade", "Amahoro", "i", "Kigali", "."], "ner_tags": [0, 0, 1, 0, 0, 1, 2, 0, 3, 0]}
+{"tokens": ["Umunyarwanda", "Ivan", "Mugisha", "yegukanye", "umudari", "mu", "isiganwa", "risozwa", "i", "Goma", "DRC", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 1, 2, 0]}
+{"tokens": ["Banki", "ya", "Kigali", "yashinzwe", "mu", "1966", "ikaba", "ari", "imwe", "mu", "zambere", "nini", "mu", "Rwanda", "."], "ner_tags": [0, 0, 1, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Amakuru", "ya", "BBC", "avugwa", "kuri", "radiyo", "no", "kuri", "televiziyo", "munsi", "yizina", "Yoruba", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Abakinnyi", "ba", "Lionel", "Messi", "na", "Neymar", "batsindiye", "Paris", "SG", "igikombe", "mu", "Bufaransa", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0, 3, 4, 0, 0, 5, 0]}
+{"tokens": ["Iserukiramuco", "KigaliUp", "riba", "buri", "mwaka", "i", "Kigali", "rigahuza", "abahanzi", "bo", "mu", "karere", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uruzinduko", "rwakozwe", "na", "Antony", "Blinken", "mu", "burengerazuba", "bwa", "Afrika", "bwagaragayemo", "inama", "nyinshi", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Filime", "ya", "James", "Bond", "izatangazwa", "bwambere", "i", "New", "York", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Igitaramo", "cyabereye", "i", "Remera", "RWANDA", "Arena", "cyitabiriwe", "n'abantu", "ibihumbi", "10", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Akanama", "k'Umuryango", "w'Abibumbye", "gashinzwe", "umutekano", "kateranye", "i", "New", "York", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Dr", "Tedros", "Adhanom", "Ghebreyesus", "yatangaje", "amakuru", "mashya", "ku", "bwoko", "bushya", "bwa", "Covid-19", "."], "ner_tags": [0, 1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ikigo", "NASA", "cyatangije", "ubushakashatsi", "bwo", "kohereza", "ikoranabuhanga", "ku", "rukiko", "rw'ikirere", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umushinga", "Akagera", "Power", "uzatanga", "amashanyarazi", "mu", "bice", "bitandukanye", "by'u", "Burasirazuba", "bw'u", "Rwanda", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 3, 4, 0, 5, 4, 0]}
+{"tokens": ["Ikirori", "cyabereye", "mu", "mujyi", "wa", "Cape", "Town", "muri", "Afurika", "yepfo", "cyaranzwe", "n'abantu", "benshi", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yitabiriye", "inama", "i", "Addis", "Ababa", "Etiyopiya", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Umujyi", "wa", "Kigali", "wakiriye", "inama", "mpuzamahanga", "yateguwe", "na", "UNESCO", "ku", "burezi", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0, 7, 0, 0, 0]}
+{"tokens": ["Uruganda", "CIMERWA", "rwatangiye", "gukora", "mu", "1970", "ruherereye", "mu", "Karere", "ka", "Rusizi", "."], "ner_tags": [0, 1, 0, 0, 0, 8, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Amafaranga", "yagenewe", "umushinga", "wa", "Banki", "y'Isi", "yatangijwe", "mu", "Burundi", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 0, 0, 6, 0]}
+{"tokens": ["Ishyaka", "RPF", "Inkotanyi", "ryatangiye", "kurwanira", "ubwigenge", "mu", "wowe", "2007", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 8, 0, 8, 0]}
+{"tokens": ["Ibitaro", "bya", "CHUK", "byakiriye", "abantu", "bakomeretse", "mu", "mpanuka", "i", "Nyamirambo", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Impuzamashyirahamwe", "CAF", "yatangaje", "ko", "igikombe", "cy'Afurika", "kizabera", "muri", "C\u00f4te", "d'Ivoire", "2023", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 3, 4, 0, 3, 4, 8, 0]}
+{"tokens": ["Dr.", "Diane", "Gashumba", "yatorewe", "kuba", "umuyobozi", "w'Umuryango", "w'Abibumbye", "muri", "Sante", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Umunyeshuri", "wo", "muri", "kaminuza", "ya", "Harvard", "yatsindiye", "buruse", "ikomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Rwatubyaye", "Abdul", "yasinyiye", "ikipe", "ya", "Sherrif", "Tiraspol", "muri", "Moldova", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 1, 2, 0, 6, 0]}
+{"tokens": ["Inama", "yabereye", "i", "Bruxelles", ",", "U Bubiligi", ",", "yitabiriwe", "na", "ba", "Minisitiri", "batandukanye", "bahagarariye", "ibihugu", "12", "."], "ner_tags": [0, 0, 0, 5, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Umukino", "wahuje", "APR", "FC", "na", "Rayon", "Sports", "wabereye", "ku", "Stade", "Amahoro", "i", "Kigali", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Ambasaderi", "Maria", "Fernanda", "Espinosa", "yahuriye", "mu", "bikorwa", "na", "AU", "i", "Addis", "Ababa", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 3, 0, 5, 6, 0]}
+{"tokens": ["Igiterane", "cyabereye", "muri", "Paruwasi", "ya", "Remera", "cyitabiriwe", "n'abakirisitu", "barenga", "1000", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Sosiyete", "MTN", "Rwanda", "yatanze", "ubufasha", "bwo", "gufasha", "abaturage", "bo", "mu", "Karongi", "bahuye", "n'ibiza", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Filime", "ya", "Christopher", "Nolan", "\"", "Oppenheimer", "\"", "yahawe", "ibihembo", "bitanu", "mu", "marushanwa", "ya", "Oscars", "2024", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Ikigo", "cy'Igihugu", "cy'Itangazamakuru", "RBA", "cyatumije", "inama", "y'abanyamakuru", "i", "Kigali", "kuva", "ku", "wa", "12", "Werurwe", "2022", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 5, 0, 0, 0, 8, 0, 8, 0]}
+{"tokens": ["Umuyobozi", "wungirije", "wa", "Banki", "ya", "Kigali", "yatsindiye", "igihembo", "mpuzamahanga", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 0, 0]}
+{"tokens": ["Iyi", "mpano", "yagaragaye", "mu", "marushanwa", "ya", "East", "Africa's", "Got", "Talent", "muri", "Kenya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 2, 2, 0, 6, 0]}
+{"tokens": ["Radiyo", "y'abaturage", "Radio", "Izuba", "iherereye", "mu", "Karere", "ka", "Ngoma", "yatangijwe", "mu", "2008", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0, 5, 0, 0, 8, 0]}
+{"tokens": ["Imurikagurisha", "ryafunguwe", "i", "Gikondo", "ryitabirwa", "n'abacuruzi", "baturutse", "mu", "bihugu", "birenga", "20", "ku", "isi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Umuyobozi", "Mukuru", "wa", "Banki", "ya", "Kigali", "yatangaje", "ko", "bazafungura", "ishami", "rishya", "i", "Nyabugogo", "mu", "cyumweru", "gitaha", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Stella", "Nirere", "yabaye", "umuyobozi", "wa", "Kaminuza", "ya", "Rwanda", "ishami", "ry'i", "Huye", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "batsinze", "Rayon", "Sports", "mu", "mukino", "wabaye", "i", "Nyamirambo", "."], "ner_tags": [0, 0, 3, 4, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Ingabo", "za", "MINUSCA", "zoherejwe", "kongera", "umutekano", "mu", "Burundi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Patrick", "Nsengiyumva", "umunyeshuri", "wa", "GS", "Saint", "Bernadette", "ya", "Kicukiro", "yatoranijwe", "mu", "bahize", "mu", "kizamini", "."], "ner_tags": [1, 2, 0, 0, 3, 4, 4, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Koperative", "Duterimbere", "yatanze", "inguzanyo", "ku", "muryango", "wa", "Nshuti", "Valens", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 5, 1, 2, 0]}
+{"tokens": ["Aline", "Murangira", "yitabiriye", "inama", "mpuzamahanga", "ya", "UNESCO", "yabereye", "i", "Paris", "mu", "Bufaransa", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Umushinga", "Akarere", "ka", "Gasabo", "watangijwe", "nyuma", "yo", "gusinya", "amasezerano", "na", "JICA", "."], "ner_tags": [0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Musanze", "ni", "kamwe", "mu", "turere", "tukorerwamo", "ubushakashatsi", "bw'ibikomoka", "ku", "biribwa", "n'ikigo", "IFPRI", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Indirimbo", "yitwa", "\"\"Agasaza\"\"", "ya", "Mani", "Martin", "yatumye", "yegukana", "igihembo", "muri", "Kigali", "Music", "Awards", "."], "ner_tags": [0, 0, 7, 8, 1, 2, 0, 0, 0, 0, 5, 3, 4, 0]}
+{"tokens": ["Uwizeye", "Diane", "yatsindiye", "buruse", "yo", "kwiga", "i", "Harvard", "University", "mu", "Ishami", "ry'Amategeko", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 3, 4, 0, 0, 3, 4, 0]}
+{"tokens": ["Minisiteri", "y'Uburezi", "yatanze", "amakuru", "ku", "micungire", "y'imashini", "muri", "NYARUGENGE", "District", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 5, 3, 4, 0]}
+{"tokens": ["Imvura", "nyinshi", "yaguye", "mu", "Kirehe", "ikangiza", "amasoko", "n'ibitaro", "bya", "Murambi", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abanyeshuri", "ba", "GS", "Nduba", "batsindiye", "ibikorwa", "mu", "marushanwa", "ya", "East", "African", "Science", "Fair", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 3, 4, 4, 4, 4, 0]}
+{"tokens": ["Polisi", "y'u", "Rwanda", "yataye", "muri", "yombi", "abantu", "bakekwaho", "ubujura", "i", "Rubavu", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Alexander", "Ndahiro", "yashimiwe", "n'abayobozi", "ba", "Minisiteri", "y'Ubuzima", "kubera", "imidagaduro", "yakoze", "i", "Kigali", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abaganga", "ba", "Kanombe", "Military", "Hospital", "bitabiriye", "amahugurwa", "ya", "WHO", "."], "ner_tags": [0, 0, 5, 3, 4, 0, 0, 3, 4, 0]}
+{"tokens": ["Uruganda", "CIMERWA", "rufite", "amahirwe", "yo", "kongera", "umusaruro", "mu", "ntara", "y'Iburengerazuba", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Musenyeri", "Antoine", "Kambanda", "yatangiye", "gusura", "paruwasi", "zitandukanye", "i", "Byumba", "mu", "cyumweru", "gishize", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Serivisi", "shya", "ya", "MTN", "Rwanda", "izafasha", "abaturage", "kohereza", "amafaranga", "mu", "bihugu", "by'Afurika", "y'Iburasirazuba", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Nsabimana", "Jean", "Claude", "yabaye", "Umuyobozi", "w'Akarere", "ka", "Nyaruguru", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Perezida", "Kagame", "yasuye", "abaturage", "bo", "mu", "Karere", "ka", "Rubavu", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Imvura", "nyinshi", "yaguye", "i", "Kayonza", ",", "yangije", "imihanda", "n'ibikorwa", "rezo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Amafaranga", "yo", "kwiga", "mu", "Ishuri", "ryisumbuye", "ya", "Saint", "Andr\u00e9", "yaragabanutse", "uyu", "mwaka", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Umunyarwandakazi", "Marie", "Mukamabera", "yaguze", "itike", "yo", "kujya", "i", "London", "kuri", "British", "Airways", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 2, 2, 0]}
+{"tokens": ["Yitabiriye", "inama", "ya", "United", "Nations", "i", "New", "York", "kuva", "kuwa", "17", "Kamena", "2023", "."], "ner_tags": [0, 0, 0, 2, 2, 0, 2, 2, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Igitaramo", "cyo", "kwibuka", "cyabereye", "mu", "Nzu", "y'Urubyiruko", "ya", "Remera", "ku", "itariki", "ya", "7", "Mata", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 2, 0, 0, 0, 0, 8, 8, 0]}
+{"tokens": ["Abakinnyi", "b'Amavubi", "barimo", "Kwizera", "Olivier", "bitwaye", "neza", "mu", "mukino", "waberaga", "i", "Cairo", "."], "ner_tags": [0, 3, 4, 4, 1, 2, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Ministeri", "y'ubuzima", "yasabye", "abaturage", "kwirinda", "malariya", "mu", "burasirazuba", "bw'u", "Rwanda", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yakoze", "urugendo", "rwambere", "ija", "i", "Lusaka", "muri", "Zambia", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 2, 0, 5, 0]}
+{"tokens": ["Gitifu", "wa", "Gisozi", "yatangaje", "icyemezo", "cyo", "gufunga", "utubari", "twose", "kugira", "hato", "hatagira", "ikibazo", "cy'uburwayi", "bwakwira", "."], "ner_tags": [0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yakoze", "indirimbo", "yise", "\"", "Saa", "Moya", "\"", "yashimwe", "n'abafana", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Urubyiruko", "rwo", "mu", "Murenge", "wa", "Kinoni", "rwateguye", "amarushanwa", "yo", "kwiruka", "."], "ner_tags": [0, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abashakashatsi", "baturutse", "mu", "Bufaransa", "baje", "gukora", "ubushakashatsi", "ku", "miti", "ivura", "malariya", "yo", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ikigo", "cyitwa", "Karongi", "Resort", "cyakiriye", "abashyitsi", "baturutse", "muri", "Canada", "na", "Kenya", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Urubuga", "rwa", "Twitter", "rwatangaje", "amakuru", "yerekeye", "umutekano", "w'Abanya", "Ukraine", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Abanyeshuri", "babiri", "bo", "mu", "Musanze", "batwaye", "igihembo", "mu", "amarushanwa", "ya", "Science", "Olympiad", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 2, 2, 0]}
+{"tokens": ["Itangazo", "ryatanzwe", "n'ikigo", "Rwanda", "Revenue", "Authority", "risaba", "abantu", "kwishyura", "imisoro", "ku", "gihe", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Icyumweru", "cyahariwe", "umuryango", "wa", "Commonwealth", "cyatangiye", "mu", "Rwanda", "tariki", "ya", "15", "Gicurasi", "2022", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 5, 0, 0, 0, 8, 8, 0]}
+{"tokens": ["Abagize", "Parlement", "bitabiriye", "inama", "yabereye", "i", "Kigali", "ku", "wa", "kabiri", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 2, 0, 0, 0]}
+{"tokens": ["Amafoto", "ya", "Kiyovu", "Sports", "yaciye", "ku", "mbuga", "nkoranyambaga", "zitandukanye", "mu", "Rwanda", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yahuriye", "i", "New", "York", "na", "Ban", "Ki-moon", "mu", "nama", "y'Umuryango", "w'Abibumbye", "."], "ner_tags": [1, 2, 2, 0, 0, 5, 6, 0, 2, 2, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Abana", "b'i", "Musanze", "bagize", "amahirwe", "yo", "gusura", "ingoro", "y'amateka", "y'u", "Rwanda", "ku", "wa", "Kane", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 7, 0]}
+{"tokens": ["Umutwe", "wa", "Red", "Cross", "wakoreye", "inkingo", "mu", "karere", "ka", "Rubavu", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Me", "Jean", "Claude", "yatsindiye", "igikombe", "cy'umwaka", "wa", "2023", "mu", "rukundo", "."], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 7, 0, 0, 0]}
+{"tokens": ["Indirimbo", "ya", "Knowless", "yakoreshwa", "mu", "birori", "by'i", "Kigali", "Concerts", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Papa", "Fran\u00e7ois", "yasuye", "umuryango", "w'i", "Gikondo", "."], "ner_tags": [2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "muri", "shampiyona", "y'umupira", "w'amaguru", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubuvuzi", "bwa", "COVID-19", "bwateye", "imbogamizi", "mu", "bihugu", "bya", "Afurika", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Urugendo", "rw'Intore", "zaturutse", "mu", "turere", "turindwi", "tw'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Amafoto", "yaraye", "asohotse", "agaragaza", "Nyungwe", "National", "Park", "yuzuye", "isura", "nshya", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 6, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Uwamariya", "Valentine", "yatangije", "porogaramu", "muri", "Kaminuza", "y'u", "Rwanda", "."], "ner_tags": [1, 3, 2, 2, 2, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ambasaderi", "w'u", "Bufaransa", "yasuye", "umushinga", "wa", "Gicumbi", "."], "ner_tags": [3, 4, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Iserukiramuco", "ryabereye", "muri", "BK", "Arena", "rikurikirwa", "n'abantu", "ibihumbi", "30", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Radiyo", "Rwanda", "yavuze", "amakuru", "ya", "Manchester", "United", "yarebwe", "na", "benshi", "."], "ner_tags": [3, 4, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Yakomereje", "amasomo", "ye", "muri", "Harvard", "University", "muri", "USA", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 5, 6, 0]}
+{"tokens": ["Umuhanzikazi", "Aline", "Gahongayire", "yari", "mu", "gitaramo", "kimaze", "imyaka", "10", "kibera", "mu", "Rusizi", "."], "ner_tags": [0, 2, 2, 0, 0, 0, 0, 0, 7, 0, 0, 0, 5, 0]}
+{"tokens": ["Imvura", "yaguye", "i", "Ngororero", "yangije", "ibikorwa", "remera", "b'abaturage", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["U Burundi", "bwatangaje", "ko", "bugiye", "gufungura", "imipaka", "na", "Rwanda", "mu", "cyumweru", "gitaha", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Koperative", "Abahinzi", "ba", "Kawa", "ya", "Nyamiyaga", "yegukanye", "igikombe", "kurusha", "izindi", "muri", "2022", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Umunyarwandakazi", "wakoze", "filime", "iherutse", "kwegukana", "ibihembo", "muri", "Cannes", "Film", "Festival", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["RIB", "yashyikirije", "Urukiko", "rukuru", "dosiye", "y'umukozi", "wa", "Rwanda", "Revenue", "Authority", "ukekwaho", "ruswa", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 5, 6, 6, 0, 0]}
+{"tokens": ["Perezida", "Kagame", "yakiriye", "intumwa", "ya", "ONU", "i", "Kigali", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "batsinze", "Rayon", "Sports", "mu", "mukino", "wabaye", "i", "Nyamirambo", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Inama", "ya", "EAC", "izabera", "muri", "Kenya", "ku", "wa", "24", "Kamena", "."], "ner_tags": [0, 5, 6, 0, 0, 5, 0, 0, 7, 8, 0]}
+{"tokens": ["Dr.", "Uwamahoro", "Jeanne", "yavuze", "ko", "ariho", "ahagarariye", "abanyarwanda", "muri", "Canada", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "Karubanda", "ryatsindiye", "igikombe", "mu", "mujyi", "wa", "Huye", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ikirunga", "cyi", "Nyiragongo", "cyongeye", "kwaduka", "mu", "ntara", "ya", "Kivu", "y'Amajyaruguru", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Umuhanzi", "The", "Ben", "azataramira", "i", "Rubavu", "kuwa", "28", "Nyakanga", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Imodoka", "zitwara", "abagenzi", "zizatangira", "gukora", "muri", "Kigali", "guhera", "ku", "wa", "Mbere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Abashakashatsi", "bo", "muri", "imfura", "bank", "bavuze", "ko", "ubukungu", "bw'u", "Rwanda", "bukomeje", "ku", "zamuka", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Filimi", "ye", "yitwa", "\"\"Igikomangoma\"\"", "yatsindiye", "igihembo", "i", "Hollywood", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Sosiyete", "ya", "MTN", "yatangaje", "ko", "izarushaho", "kwegereza", "abaturage", "serivisi", "i", "Rusizi", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abayobozi", "baturutse", "mu", "bihugu", "bitandukanye", "by'Afurika", "bitabiriye", "inama", "ya", "AU", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 6, 0, 0, 5, 6, 0]}
+{"tokens": ["Ikipe", "ya", "Manchester", "United", "yatsinzwe", "na", "Chelsea", "i", "Londres", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Umunyarwandakazi", "Niwe", "Murekatete", "yahawe", "igihembo", "na", "ONU", "i", "Geneva", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Isoko", "ry'imigabane", "ry'i", "Kigali", "ryashinzwe", "mu", "2008", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Abaganga", "ba", "CHUK", "barahejwe", "amahugurwa", "n'abaturutse", "mu", "Bufaransa", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abanyeshuri", "bigira", "mu", "Ihuriro", "rya", "Tekiniki", "n'Amashanyarazi", "baturutse", "muri", "Uganda", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Cinema", "Hobe", "International", "yashyizeho", "amashusho", "mashya", "i", "Musanze", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Marathon", "ya", "Kigali", "izaba", "kuwa", "15", "Ukuboza", "2024", "."], "ner_tags": [0, 5, 6, 0, 0, 7, 8, 0, 0]}
+{"tokens": ["Abadepite", "ba", "Pariki", "y'Akagera", "basuye", "abaturage", "bo", "muri", "Gatsibo", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "intara", "y'Iburengerazuba", "mu", "Rwanda", "ku", "wa", "23", "Kamena", "2023", "."], "ner_tags": [0, 1, 2, 0, 0, 7, 0, 7, 0, 0, 0, 7, 0, 0]}
+{"tokens": ["Andi", "makuru", "avuga", "ko", "Banki", "Nkuru", "y'u", "Rwanda", "yashyizeho", "igiciro", "gishya", "cy'amadolari", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 7, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "Rayon", "Sports", "batsinze", "APR", "FC", "ibitego", "3", "ku", "1", "muri", "Stade", "Amahoro", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 6, 7, 0]}
+{"tokens": ["Kuri", "uyu", "wa", "Kane", ",", "Umuryango", "w'Abibumbye", "watangaje", "inkunga", "ya", "milioni", "eshanu", "ku", "muryango", "w'abacitse", "kw'icumu", "."], "ner_tags": [0, 0, 0, 7, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Gaspard", "Tuyisenge", "yatangiye", "akazi", "gashya", "mu", "2024", "."], "ner_tags": [1, 2, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikigo", "cya", "Bralirwa", "cyatangaje", "ko", "kinjije", "miliyari", "30", "mu", "gihembwe", "gishize", "."], "ner_tags": [3, 4, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abaturage", "bo", "mu", "Karongi", "barishimira", "amazi", "mashya", "bahawe", "biturutse", "ku", "nkunga", "ya", "UNICEF", "."], "ner_tags": [0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Filime", "yitwa", "'Father", "Raphael'", ",", "yakinwe", "mu", "nyubako", "ya", "Kigali", "Convention", "Centre", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 7, 8, 9, 0]}
+{"tokens": ["Urukiko", "Rw'Ikirenga", "rwatangiye", "gusuzuma", "ikirego", "cyatanzwe", "n'uwitwa", "Jean-Paul", "Niyonzima", "ku", "itariki", "ya", "15", "Gashyantare", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Sosiyete", "y'Itangazamakuru", "RSA", "yahawe", "igihembo", "n'ishyirahamwe", "ry'Abanyamakuru", "b'Abanyarwanda", "."], "ner_tags": [3, 4, 1, 2, 0, 0, 5, 6, 0]}
+{"tokens": ["Ikirere", "mu", "Rwanda", "kirateguza", "imvura", "nyinshi", "mu", "mpera", "za", "Werurwe", "2019", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 0, 0, 7, 0, 0]}
+{"tokens": ["Aya", "mafaranga", "yavuye", "mu", "mushinga", "wa", "Global", "Fund", "ufasha", "kurwanya", "Malariya", "na", "SIDA", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["Ku", "gisabwa", "n'ubuyobozi", "bw'Akarere", "ka", "Huye", ",", "bagiye", "kwongera", "imihanda", "ibiri", "."], "ner_tags": [0, 0, 0, 3, 4, 7, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Claire", "Nkindi", "yatorewe", "kuba", "umuyobozi", "mukuru", "wa", "Kaminuza", "y'u", "Rwanda", "."], "ner_tags": [1, 2, 1, 2, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Kampanyi", "ya", "MTN", "Rwanda", "yatangije", "serivisi", "nshya", "muri", "Kanama", "uyu", "mwaka", "."], "ner_tags": [3, 4, 1, 2, 0, 0, 0, 7, 0, 0, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "Yahagurutse", "i", "Kigali", "ijya", "mu", "Londres", "ku", "wa", "26", "Nyakanga", "."], "ner_tags": [0, 0, 1, 2, 0, 7, 0, 0, 7, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Nyuma", "y'inama", "yabereye", "i", "Bruxelles", ",", "Perezida", "w'u", "Burundi", "yasabye", "ubufatanye", "mu", "bikorwa", "by iterambere", "."], "ner_tags": [0, 0, 0, 0, 7, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yasohoye", "indirimbo", "ye", "muri", "Mata", "2021", "ikundwa", "n'abatari", "bacye", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0]}
+{"tokens": ["Igihugu", "cya", "Uganda", "cyemereye", "u", "Rwanda", "gufungura", "umupaka", "wa", "Gatuna", "tariki", "ya", "31", "Mutarama", "."], "ner_tags": [3, 4, 7, 0, 7, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "Saint", "Andre", "ryabaye", "iryambere", "muri", "Examen", "National", "2018", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Umuyobozi", "mukuru", "wa", "Banki", "nkuru", "y'u", "Rwanda", "yatangaje", "ko", "ubukungu", "bukomeje", "kwiyongera", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ingabire", "Alice", "yatangiye", "akazi", "gashya", "mu", "kigo", "cyitwa", "SOMA", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Perezida", "Kagame", "yahuye", "na", "Ant\u00f3nio", "Guterres", "i", "New", "York", "."], "ner_tags": [0, 1, 0, 0, 1, 2, 0, 5, 6, 0]}
+{"tokens": ["Iki", "gikorwa", "cyabereye", "muri", "stade", "Amahoro", "ku", "wa", "27", "Kamena", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 7, 8, 9, 0]}
+{"tokens": ["Umunyeshuri", "witwa", "Eric", "Mugenzi", "watsinze", "ibizamini", "bya", "Internationale", "Science", "Olympiad", "ku", "rusha", "bose", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 3, 4, 5, 0, 0, 0, 0]}
+{"tokens": ["Imvura", "ikomeye", "yibasiye", "akarere", "ka", "Rusizi", "mu", "burengerazuba", "bw'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 6, 6, 4, 5, 0]}
+{"tokens": ["Muri", "Kanama", "habaye", "imurikagurisha", "risozwa", "n'umuhanzi", "Bruce", "Melodie", "."], "ner_tags": [0, 7, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Ubushinjacyaha", "bwatanze", "ikirego", "mu", "rukiko", "rwisumbuye", "rw'i", "Gasabo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Valentine", "Uwamariya", "yavuze", "ko", "imihigo", "izashyirwa", "mu", "bikorwa", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uko", "umwaka", "utaha", "uzagenda", ",", "abahanga", "ba", "UNESCO", "bazatanga", "amahugurwa", "kuri", "abarezi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mukerarugendo", "yahagurutse", "i", "Kigali", "ajya", "i", "Musanze", "mu", "masaha", "atatu", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Abahanzi", "ba", "Kenya", "basuye", "u", "Rwanda", "mu", "kiganiro", "cyiswe", "Icyerekezo", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Amashuri", "yisumbuye", "yo", "mu", "Karongi", "yabonye", "ibikoresho", "bishya", "biturutse", "mu", "bufatanye", "na", "UNICEF", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Inama", "mpuzamahanga", "ya", "Forum", "on", "Internet", "Freedom", "yabereye", "i", "Kampala", "mu", "Uganda", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Mahoro", "Patrick", "yabaye", "umunyamabanga", "wungirije", "murwego", "rw'uburezi", "ho", "muri", "Burundi", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuryango", "wita", "ku", "bana", "b'impunzi", "AAR", "watanze", "ubufasha", "muri", "Kirehe", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Abaturage", "ba", "Rubavu", "bafashijwe", "n'umushinga", "Green", "Future", "."], "ner_tags": [0, 0, 5, 0, 0, 3, 4, 0]}
+{"tokens": ["Cecile", "Kayirebwa", "ageze", "i", "Brussels", "mu", "Bubiligi", "ahafite", "igitaramo", "."], "ner_tags": [1, 2, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Umufaransa", "Fran\u00e7ois", "Hollande", "ari", "mu", "Rwanda", "kugira", "ibiganiro", "na", "Perezida", "Kagame", "."], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Abaganga", "baturutse", "Ku", "mugabane", "w'u", "Burayi", "batangiye", "gukora", "igihekane", "na", "CHUK", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 5, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Umuyobozi", "w'akarere", "ka", "Gasabo", "yatangije", "igikorwa", "cy'ubukangurambaga", "ku", "isuku"], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Rwanda", "ntirwabonye", "imilinyi", "igera", "kwa", "mukerarugendo", "uyu", "mwaka"], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uruganda", "Cimerwa", "rwashinzwe", "mu", "Karongi", "muri", "1969"], "ner_tags": [0, 1, 0, 0, 5, 0, 7]}
+{"tokens": ["Inama", "ya", "ONU", "izabera", "i", "New", "York", "ku", "italiki", "ya", "27", "Kamena", "2024"], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 7, 7, 7]}
+{"tokens": ["Umuyobozi", "mukuru", "wa", "Banki", "Nkuru", "y'u", "Rwanda", "ni", "John", "Rwangombwa"], "ner_tags": [0, 0, 0, 1, 2, 0, 5, 0, 1, 2]}
+{"tokens": ["Perezida", "Kagame", "yahuye", "na", "Cyril", "Ramaphosa", "i", "Pretoria"], "ner_tags": [0, 1, 2, 0, 1, 2, 0, 5]}
+{"tokens": ["Ikipe", "ya", "APR", "yegukanye", "igikombe", "cy'umupira", "w'amaguru", "mu", "Rwanda"], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Amavubi", "azakina", "n'ikipe", "ya", "Uganda", "mu", "mikino", "yo", "kwibuka"], "ner_tags": [1, 2, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kaminuza", "ya", "Kigali", "yatangiye", "gushyira", "hanze", "abanyeshuri", "bayo", "ba", "2023"], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 7]}
+{"tokens": ["Sosiyete", "MTN", "Rwanda", "yatangiye", "gukwirakwiza", "5G", "mu", "mijyi", "itandukanye"], "ner_tags": [0, 1, 2, 0, 0, 7, 0, 0, 0]}
+{"tokens": ["Iyi", "nyubako", "yubatswe", "na", "Kigaliconstruction", "Ltd", "mu", "2020"], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 7]}
+{"tokens": ["Muri", "Filime", "Nyarwanda", "izwi", "ku", "izina", "The", "Mercy", "yagaragayemo", "abakinnyi", "beza"], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Kabeho", "Jean", "Claude", "yasoje", "amasomo", "ye", "mu", "Bufaransa"], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 5]}
+{"tokens": ["Ibi", "bitangazwa", "na", "Minisiteri", "y'Ubuzima", "mu", "itangazo", "ryayo"], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Umushinga", "Gira", "Inka", "watangijwe", "na", "Guverinoma", "y'u", "Rwanda"], "ner_tags": [0, 1, 2, 0, 0, 1, 2, 0, 5]}
+{"tokens": ["Europa", "League", "izatangira", "ku", "wa", "16", "Nzeri", "2024"], "ner_tags": [6, 6, 0, 0, 0, 7, 7, 7]}
+{"tokens": ["Abahanzi", "barimo", "Bruce", "Melodie", "bazahurira", "muri", "Kigali", "Arena"], "ner_tags": [0, 0, 1, 2, 0, 0, 5, 6]}
+{"tokens": ["Itsinda", "ry'abacuranzi", "ryaturutse", "mu", "Budage", "ryasusurukije", "abaturage", "ba", "Musanze"], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 5]}
+{"tokens": ["Ikirere", "cy'i", "Rubavu", "cyarahindutse", "bikomeye", "ku", "wa", "7", "Kamena"], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 7, 7]}
+{"tokens": ["Abanditsi", "bo", "mu", "Muryango", "w'Abanyamakuru", "b'u", "Rwanda", "batumiwe", "mu", "Nama"], "ner_tags": [0, 0, 0, 1, 2, 0, 1, 2, 0, 0, 6]}
+{"tokens": ["Ubutaka", "bufite", "metero", "200", "buri", "ku", "Muhima", "bwaraguzwe", "na", "Kigali", "Real", "Estate"], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 1, 2, 2]}
+{"tokens": [" Perezida ", " Paul ", " Kagame ", " yatangije ", " inama ", " ya ", " Commonwealth ", " i ", " Kigali ", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 5, 0, 6, 0]}
+{"tokens": [" Ibitaro ", " bya ", " King ", " Faisal ", " byahawe ", " ibikoresho ", " n'ikigo ", " John ", " Hopkins ", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 1, 2, 0]}
+{"tokens": [" Marie ", " Claire ", " Umutoni ", " yize ", " muri ", " Kaminuza ", " ya ", " Makerere ", " muri ", " Uganda ", "."], "ner_tags": [1, 2, 2, 0, 0, 5, 0, 6, 0, 5, 0]}
+{"tokens": [" Ikinyamakuru ", " The ", " New ", " Times ", " cyashinzwe ", " mu ", " 1995 ", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 7, 8, 0]}
+{"tokens": [" Abakinnyi ", " ba ", " APR ", " FC ", " batsinze ", " Rayon ", " Sports ", " igitego ", " kimwe ", " kuri ", " stade ", " Amahoro ", "."], "ner_tags": [0, 0, 3, 4, 0, 3, 4, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": [" Inama ", " mpuzamahanga ", " ku ", " mihindagurikire ", " y'ibihe ", " yabereye ", " i ", " Paris ", " mu ", " Bufaransa ", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": [" Uwimana ", " Jean ", " de ", " Dieu ", " yegukanye ", " irushanwa ", " rya ", " Miss ", " Supranational ", " Rwanda ", " 2021 ", "."], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 1, 2, 5, 8, 0]}
+{"tokens": [" Uruganda ", " rwa ", " Bralirwa ", " rwatangaje ", " inyungu ", " mu ", " mwaka ", " wa ", " 2022 ", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": [" Umunyamategeko ", " Me ", " Habimana ", " Aimable ", " yahawe ", " igihembo ", " na ", " UN ", " mu ", " New ", " York ", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 0, 1, 2, 0]}
+{"tokens": [" Umunsi ", " mpuzamahanga ", " w'abagore ", " wizihizwa ", " tariki ", " ya ", " 8 ", " Werurwe ", " buri ", " mwaka ", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0]}
+{"tokens": [" Nyiransabimana ", " yasuye ", " Pariki ", " y'Igihugu ", " ya ", " Akagera ", "."], "ner_tags": [1, 0, 0, 0, 0, 6, 0]}
+{"tokens": [" Ambasade ", " y'u ", " Budage ", " yashyizeho ", " gahunda ", " nshya ", " igamije ", " gufasha ", " urubyiruko ", " mu ", " Rwanda ", "."], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": [" Ishyaka ", " RPF ", " Inkotanyi ", " ryatangiye ", " ibikorwa ", " byo ", " kwibuka ", " ku ", " rwibutso ", " rwa ", " Gisozi ", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": [" Lionel ", " Messi ", " yashyikirijwe ", " igihembo ", " Ballon ", " d'Or ", " i ", " Paris ", " na ", " FIFA ", "."], "ner_tags": [1, 2, 0, 0, 1, 2, 0, 5, 0, 3, 0]}
+{"tokens": [" Ikirere ", " cyabaga ", " gishyushye ", " cyane ", " muri ", " Kanama ", " 2023 ", " mu ", " Rwanda ", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 0, 0, 5, 0]}
+{"tokens": [" Umuryango ", " UNICEF ", " wasuye ", " imishinga ", " mu ", " Ntara ", " y'Amajyepfo ", " y'u ", " Rwanda ", "."], "ner_tags": [0, 3, 0, 0, 0, 5, 6, 5, 6, 0]}
+{"tokens": [" Perezida ", " wa ", " Tanzania ", " Samia ", " Suluhu ", " Hassan ", " yageze ", " i ", " Kigali ", "."], "ner_tags": [0, 0, 5, 1, 2, 2, 0, 0, 6, 0]}
+{"tokens": [" Abana ", " bo ", " muri ", " Gikondo ", " bahawe ", " inkweto ", " na ", " SOS ", " Children's ", " Villages ", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 3, 1, 2, 0]}
+{"tokens": [" Ikirango ", " cy'u ", " Rwanda ", " cyatoranyijwe ", " mu ", " rushanwa ", " muri ", " Werurwe ", " 2019 ", "."], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": [" Iserukiramuco ", " rya ", " Pan ", " African ", " Film ", " Festival ", " rizabera ", " i ", " Los ", " Angeles ", " muri ", " Leta ", " Zunze ", " Ubumwe ", " za ", " Amerika ", "."], "ner_tags": [0, 0, 1, 2, 2, 2, 0, 0, 0, 1, 2, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Paul", "Kagame", "yasuye", "Umujyi", "wa", "Paris", "mu", "Bufaransa", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Ibikorwa", "by'iterambere", "birakorerwa", "mu", "Karere", "ka", "Ngoma", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mukansanga", "Salma", "azayobora", "umukino", "wa", "CAN", "2023", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["Sosiyete", "ya", "MTN", "yatanze", "ubufasha", "mu", "Musanze", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Rayon", "Sports", "izakina", "na", "APR", "ku", "wa", "Gatandatu", "."], "ner_tags": [3, 2, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Abanyarwanda", "barizihiza", "Kwibuka", "jenoside", "yakorewe", "Abatutsi", "kuwa", "7", "Mata", "."], "ner_tags": [4, 0, 3, 0, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["Itsinda", "rya", "The", "Ben", "ryatumiwe", "mu", "bitaramo", "i", "Kampala", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Amakipe", "yo", "muri", "Kigali", "yatsindiye", "gukina", "Finale", "ya", "CECAFA", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umunyamideri", "Vanessa", "uririmba", "indirimbo", "nyinshi", "azajya", "asura", "abana", "b'inshuti", "mu", "Burundi", "."], "ner_tags": [4, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Inama", "mpuzamahanga", "izabera", "i", "Nairobi", "mu", "Kenya", "kuva", "kuwa", "12", "Kamena", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Abarwayi", "ba", "COVID-19", "bakomeje", "kugaragara", "mu", "Turere", "twa", "Rubavu", "na", "Rutsiro", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Ikigo", "giherereye", "i", "Remera", "cyakiriye", "abanyeshuri", "baturutse", "mu", "Rwanda", "na", "Uganda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Agace", "ka", "Nyamagabe", "kazakirwa", "n'umukuru", "w'intara", "ya", "Gisagara", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Inteko", "Ishinga", "Amategeko", "yemeje", "itegeko", "rishya", "ryerekeye", "uburenganzira", "bw'abagore", "mu", "Rwanda", "."], "ner_tags": [3, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umunyarwenya", "Atome", "yagaragaye", "mu", "myigaragambyo", "i", "Bruxelles", "."], "ner_tags": [4, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umunyeshuri", "witwa", "Jean", "d'Amour", "Twahirwa", "yatsinze", "ikizamini", "i", "Kigali", "."], "ner_tags": [4, 0, 1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Imikino", "Olempike", "izabera", "mu", "Ubuyapani", "mu", "2024", "."], "ner_tags": [3, 3, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yatangiriye", "ingendo", "i", "Lusaka", "na", "Johannesburg", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Abaturage", "ba", "Gakenke", "batangiye", "gukingirwa", "COVID-19", "bitewe", "n'inkunga", "ya", "UNICEF", "."], "ner_tags": [0, 0, 5, 0, 0, 3, 0, 0, 3, 0]}
+{"tokens": ["Kwizihiza", "Umunsi", "w'Abana", "ni", "umugenzo", "ukomeye", "muri", "Kenya", "na", "Tanzania", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Itsinda", "ry'abanyeshuri", "baturutse", "mu", "Ishuri", "ryisumbuye", "rya", "Groupe", "Scolaire", "Officiel", "de", "Butare", "bisangiye", "ibitekerezo", "."], "ner_tags": [0, 0, 0, 0, 3, 2, 0, 1, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "igihugu", "cya", "Senegal", "mu", "ruzinduko", "rw'akazi", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yakoze", "igitaramo", "i", "Huye", "ku", "wa", "6", "Kamena", "2022", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Ikigo", "cy\u2019igihugu", "gisaba", "abaturage", "kwirinda", "Covid", "-", "19", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Umunyeshuri", "witwa", "Aline", "Mukamana", "yatsinze", "ikizamini", "cya", "WDA", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Urukiko", "Rw'Ikirenga", "rwatangaje", "ko", "umwanzuro", "wo", "kurenganura", "uwitwa", "Habimana", "wamaze", "gufatwa", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Isosiyete", "MTN", "Rwanda", "yatangiye", "gukorana", "n'abacuruzi", "ba", "E-commerce", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Imyigaragambyo", "yari", "yabereye", "i", "Paris", "yitabiriwe", "n\u2019abantu", "baturutse", "mu", "bihugu", "bitandukanye", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "b\u2019ikipe", "ya", "APR", "FC", "bateye", "imbamutima", "abakunzi", "b\u2019umupira", "w\u2019amaguru", "mu", "gihugu", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w\u2019Uburezi", "Dr.", "Valentin", "Ahishakiye", "yatangije", "umushinga", "mushya", "mu", "Karongi", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuyobozi", "wa", "Banki", "ya", "Kigali", "yaganiriye", "n\u2019abanyamakuru", "ku", "kwagura", "serivisi", "zatanzwe", "mu", "kwaka", "inguzanyo", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Igitaramo", "cya", "Kigali", "Jazz", "Junction", "cyitabiriwe", "n\u2019abahanzi", "baturutse", "mu", "Burundi", "no", "mu", "Ghana", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Muri", "Mutarama", "2024", ",", "Abanyarwanda", "batandukanye", "basuye", "ikiyaga", "cya", "Kivu", "."], "ner_tags": [0, 7, 8, 8, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ishyirahamwe", "ry\u2019abagore", "b\u2019abanyamakuru", "rishyikirije", "inkunga", "abatuye", "i", "Musanze", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ikigo", "gishinzwe", "ubwikorezi", "RURA", "cyatangaje", "ibiciro", "bishya", "hona", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abanyeshuri", "ba", "INES", "Ruhengeri", "batsindiye", "igihembo", "mpuzamahanga", "cyatangiwe", "i", "Geneva", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Urubuga", "rwa", "Irembo", "rwatangiye", "gutanga", "serivisi", "z\u2019ikoranabuhanga", "mu", "2020", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Minisiteri", "y\u2019Ubuzima", "yatangaje", "amakuru", "ku", "ndwara", "ya", "Ebola", "yagaragaye", "mu", "Uganda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Amarushanwa", "ya", "Basketball", "Africa", "League", "yagaruriye", "abakunzi", "b\u2019imikino", "ibyishimo", "i", "Kigali", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umwanditsi", "witwa", "Eric", "Niyomugabo", "yasohoye", "igitabo", "gishya", "cyitwa", "\"\"Inzozi", "zanjye", "\"\"", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yaguye", "i", "Nairobi", "ku", "mugoroba", "wo", "ku", "wa", "12", "Mata", "2023", "."], "ner_tags": [0, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Imurikagurisha", "mpuzamahanga", "rya", "Kigali", "ryasojwe", "ku", "itariki", "ya", "28", "Nyakanga", "2023", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "igihugu", "cy'u", "Bushinwa", "mu", "ruzinduko", "rw'iminsi", "itatu", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Sosiyete", "RwandAir", "yatangiye", "ingendo", "zerekeza", "i", "Londres", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ikigo", "cy','Amashuri", "mukuru", "ya", "INES-Ruhengeri", "cyinjiranye", "imishinga", "mishya", "mu", "korohereza", "abanyeshuri", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uruhare", "rw','Umuryango", "Mpuzamahanga", "wita", "ku", "Bana", "(UNICEF)", ",", "rurashimirwa", "mu", "gutanga", "inkunga", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Muri", "Nyakanga", "2022", ",", "hasinywe", "amasezerano", "hagati", "ya", "Bralirwa", "na", "Konka", "."], "ner_tags": [7, 7, 0, 0, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Ibikorwa", "byabereye", "mu", "karere", "ka", "Huye", "byitabirwa", "n'abaturage", "bava", "mu", "midugudu", "ya", "Rugari", "na", "Rusatira", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Abahanzi", "nyarwanda", "The", "Ben", "na", "Bruce", "Melodie", "bazataramira", "i", "Kigali", "muri", "KCEV", "Arena", "."], "ner_tags": [0, 0, 2, 2, 0, 2, 2, 0, 5, 0, 4, 4, 0]}
+{"tokens": ["Dr.", "Diane", "Gashumba", "yatorewe", "kuba", "intumwa", "idashobora", "gusimburwa", "mu", "nteko", "ya", "Perezida", "Macky", "Sall", "wa", "Senegal", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0, 5, 0, 0, 0]}
+{"tokens": ["Abanyeshuri", "bigira", "mu", "i", "Burasirazuba", "bagiye", "gutangira", "ibizamini", "by'amasomo", "ya", "MATEKA", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Filime", "ikomeye", "ya", "Marvel", "yiswe", "Black", "Panther", "yarebwe", "n'abanyarwanda", "batari", "bake", "i", "Kigali", "na", "Butare", "."], "ner_tags": [0, 0, 0, 4, 0, 2, 2, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Ibitaramo", "bya", "Jazz", "Festival", "byabereye", "muri", "Kigali", "Convention", "Centre", "."], "ner_tags": [0, 0, 4, 4, 0, 0, 5, 4, 4, 0]}
+{"tokens": ["Amafaranga", "yohererejwe", "avuye", "mu", "Budage", "yagenewe", "gufasha", "ikigo", "cya", "SOS", "Children's", "Village", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 4, 4, 0]}
+{"tokens": ["Uyu", "mwana", "yanditswe", "kuri", "listi", "y'izina", "rya", "Abramovic", ","], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Ku", "wa", "29", "Kamena", "2019", ",", "Airtel", "Rwanda", "yatangije", "ikamapagne", "yise", "\"", "Iguriro", "Internet", "\"", "."], "ner_tags": [0, 0, 7, 7, 0, 0, 3, 4, 0, 0, 0, 4, 4, 0, 0]}
+{"tokens": ["Abaturage", "bo", "mu", "Ntara", "y'Amajyaruguru", "bagiye", "kugirirwa", "amahugurwa", "yateguwe", "na", "MINEDUC", "na", "REB", "."], "ner_tags": [0, 0, 0, 7, 7, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Mu", "gihe", "cy'ibarura", "rusange", ",", "Ikigo", "gishinzwe", "ibarurishamibare", "(NISR)", "cyatangaje", "ko", "rizakorwa", "ku", "taarifa", "ya", "17", "Nyakanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 7, 7, 0]}
+{"tokens": ["Umupira", "w'amaguru", "wahuzaga", "APR", "FC", "na", "RAYON", "SPORTS", "wuzuye", "abafana", "i", "Kigali", "."], "ner_tags": [0, 0, 2, 2, 0, 2, 2, 0, 0, 5, 0]}
+{"tokens": ["Umunyamabanga", "Mukuru", "wa", "East", "African", "Community", "(EAC)", "yatangaje", "inama", "izabera", "i", "Arusha", "muri", "Tanzania", "."], "ner_tags": [0, 0, 0, 4, 4, 4, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Indirimbo", "\"", "Turi", "Kumwe", "\"", "ya", "Meddy", "yabaye", "iyambere", "ku", "rubuga", "rwa", "YouTube", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Umuryango", "Save", "the", "Children", "waraye", "utanga", "impano", "mu", "kigo", "cy'amashuri", "cya", "Karama", "."], "ner_tags": [3, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ibiro", "bya", "Minisitiri", "w'Ububanyi", "n'Amahanga", "ba", "Burundi", "byatangaje", "ihagarikwa", "ry'ubucuti", "na", "Rwanda", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 5, 0, 0, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "umujyi", "wa", "Rubavu", "ku", "wa", "Mbere", "."], "ner_tags": [3, 1, 1, 0, 0, 0, 4, 0, 0, 0]}
+{"tokens": ["Umushinga", "CIMERWA", "wo", "kubaka", "uruganda", "rushya", "watewemo", "inkunga", "n'ikigo", "cyitwa", "World", "Bank", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "biri", "mu", "Karere", "ka", "Gasabo", ".", ""], "ner_tags": [0, 0, 1, 1, 0, 0, 0, 4, 0, 0]}
+{"tokens": ["Isoko", "ry'u", "Rwanda", "ryari", "rya", "cyumweru", "ryafunguriwe", "i", "Nyabugogo", "."], "ner_tags": [0, 4, 4, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Abanyeshuri", "baturutse", "mu", "bihugu", "bitandukanye", "bakiriye", "ku", "Rubuga", "rw'Ikoranabuhanga", "ryitwa", "e-learning", "Platform", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Imikino", "ya", "Gikombe", "cy'Isi", "izabera", "mu", "Burusiya", "mu", "2026", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Uruganda", "rwa", "Inyange", "rwatangaje", "amahirwe", "yo", "gukora", "ku", "masoko", "yo", "muri", "East", "Africa", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Minisitiri", "Sezibera", "yahuye", "n'abaturarwanda", "haba", "i", "Kigali", "no", "i", "New", "York", "."], "ner_tags": [3, 1, 0, 0, 0, 0, 4, 0, 0, 5, 6, 0]}
+{"tokens": ["Shampiyona", "ya", "Basketball", "izatangira", "ku", "wa", "15", "Kamena", "2024", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 7, 8, 7, 8, 0]}
+{"tokens": ["Ubucuruzi", "bwahuje", "INTARE", "y'i", "Huye", "n'andi", "makipe", "mu", "marushanwa", "ya", "Primus", "National", "League", "."], "ner_tags": [0, 0, 3, 0, 4, 0, 0, 0, 0, 0, 1, 1, 2, 0]}
+{"tokens": ["Muri", "Kaminuza", "ya", "Rwanda", "harigishwa", "amasomo", "atandukanye", "afasha", "abanyeshuri", "."], "ner_tags": [0, 3, 0, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "w'Akarere", "ka", "Rwamagana", "yataye", "akazi", "kugira", "ngo", "ajye", "kwiga", "mu", "Bufaransa", "."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Imurikagurisha", "risoza", "muri", "Expo", "Grounds", "i", "Gikondo", "kuri", "20", "Nzeli", "."], "ner_tags": [0, 0, 0, 1, 2, 4, 0, 0, 7, 8, 0]}
+{"tokens": ["Amasezerano", "yashyizweho", "umukono", "n'umuyobozi", "wa", "MTN", "Rwanda", "mu", "nyungu", "z'ubukungu", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Indirimbo", "ya", "The", "Ben", "n'itsinda", "ryiswe", "Sauti", "Sol", "yashyizwe", "ahagaragara", "kuwa", "5", "Kanama", ".", ".", ""], "ner_tags": [0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 7, 8, 0, 0, 0]}
+{"tokens": ["Inteko", "Ishinga", "Amategeko", "ya", "Uganda", "yatanze", "itwaro", "ku", "gisirikare", "."], "ner_tags": [0, 1, 1, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikiganiro", "cyatambutse", "kuri", "Televiziyo", "Rwanda", "cyagaragaje", "iterambere", "mu", "buhinzi", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuganga", "wo", "mu", "Bushinwa", "yaje", "kugirira", "imwe", "mu", "nkambi", "za", "Kiziba", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Abakinnyi", "b'ikipe", "APR", "FC", "bitabiriye", "amarushanwa", "ya", "CAF", "Champions", "League", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 0, 1, 1, 2, 0]}
+{"tokens": ["Imodoka", "nziza", "z'ikigo", "cya", "Toyota", "zahageze", "ku", "wa", "12", "Nyakanga", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 7, 8, 7, 8, 0]}
+{"tokens": ["Abayobozi", "baturutse", "mu", "bihugu", "bitandukanye", "bahuriye", "i", "Kigali", "mu", "nama", "ku", "bijyanye", "n'imihindagurikire", "y'ibihe", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ingabo", "za", "MONUSCO", "zatangiye", "imirimo", "yazo", "mu", "burasirazuba", "bw'u", "Congo", ","], "ner_tags": [0, 0, 9, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yashyize", "ahagaragara", "indirimbo", "yitwa", "'Saa", "Moya'", "ku", "wa", "kanama", "12", ","], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yagiriye", "uruzinduko", "mu", "Bugesera", "kugira", "ngo", "asukure", "ibikorwa", "by'iterambere", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hatumijwe", "inama", "mpuzamahanga", "izabera", "i", "Nairobi", ",", "Kenya", "kuri", "werurwe", "25", "."], "ner_tags": [0, 0, 0, 0, 11, 12, 0, 5, 6, 0, 7, 8, 0]}
+{"tokens": ["Ubuyobozi", "bwa", "Banki", "Nkuru", "y'u", "Rwanda", "bwatanze", "itangazo", "ry'ingenzi", "ku", "bicuruzwa", "."], "ner_tags": [0, 0, 13, 14, 15, 16, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umwaka", "wa", "2023", "wagaragaje", "ko", "abana", "bagera", "ku", "10,000", "bataye", "ishuri", "mu", "Ntara", "y'Amajyaruguru", "."], "ner_tags": [0, 8, 8, 0, 0, 0, 0, 0, 17, 18, 0, 5, 6, 0]}
+{"tokens": ["Uru", "rubuga", "watangijwe", "na", "Airtel", "Rwanda", "mu", "gushyigikira", "ikoranabuhanga", "."], "ner_tags": [0, 0, 0, 0, 19, 20, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "begukanye", "igikombe", "cya", "Primus", "National", "League", "mu", "Rwanda", "."], "ner_tags": [0, 0, 21, 22, 0, 0, 0, 23, 24, 0, 5, 6, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Valentine", "Uwamariya", "yasabye", "abarezi", "kwitabira", "amahugurwa", ","], "ner_tags": [0, 0, 25, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuryango", "w'Abibumbye", "UNICEF", "watanze", "inkunga", "ku", "bana", "b'imfubyi", "."], "ner_tags": [0, 0, 26, 27, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhango", "wo", "kwakira", "abashyitsi", "baturutse", "mu", "Bubiligi", "waranzwe", "n'ibiganiro", "ku", "ruhare", "rw'Abashinzwe", "umutekano", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "byafunguwe", "ku", "mugaragaro", "mu", "1977", "."], "ner_tags": [0, 0, 28, 29, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Sosiyete", "y'itumanaho", "MTN", "Rwanda", "yatangije", "icyumweru", "cyahariwe", "abacuruzi", "bato", "."], "ner_tags": [0, 0, 30, 31, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umushakashatsi", "Dr.", "Jean", "Bosco", "Ndihokubwayo", "yagaragaje", "ubushakashatsi", "bwe", "I", "Kaminuza", "y'u", "Rwanda", "."], "ner_tags": [0, 25, 1, 2, 3, 0, 0, 0, 0, 32, 15, 16, 0]}
+{"tokens": ["Ishyaka", "FPR", "Inkotanyi", "ryatsindiye", "amatora", "yabaye", "ku", "itora", "rusange", "iherutse", "mu", "Rwanda", "."], "ner_tags": [0, 33, 34, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ihuriro", "rya", "gazeti", "zikomeye", "rya", "Reporter", "Sans", "Fronti\u00e8res", "ryasohoye", "raporo", "ku", "buvugizi", "bw'itangazamakuru", "."], "ner_tags": [0, 0, 0, 0, 35, 36, 37, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Amafaranga", "yashyizwe", "mu", "isoko", "ngegera", "akayobozi", "w'Akarere", "ka", "Karongi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 38, 39, 0]}
+{"tokens": ["Imikino", "Olimpike", "yabereye", "i", "Tokyo", "mu", "Buyapani", ".", "Abakinnyi", "baturutse", "muri", "Afrika", "bitabiriye", "amarushanwa", "."], "ner_tags": [0, 40, 0, 41, 0, 42, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Musenyeri", "Antoine", "Kambanda", "yagize", "umuseke", "yatorewe", "kuyobora", "Arikidiyosezi", "ya", "Kigali", "."], "ner_tags": [43, 1, 2, 0, 0, 0, 0, 0, 44, 0, 45, 46, 10, 0]}
+{"tokens": ["Papa", "Francis", "yasuye", "u", "Rwanda", "mu", "2017"], "ner_tags": [1, 2, 0, 5, 6, 0, 0]}
+{"tokens": ["Inzu", "ndangamateka", "ya", "Kigali", "ifite", "amateka", "akomeye"], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Dr.", "Diane", "Rwagasore", "yabaye", "umuyobozi", "wa", "UNICEF", "mu", "Rwanda"], "ner_tags": [1, 2, 3, 0, 0, 0, 9, 0, 5, 6]}
+{"tokens": ["Icyumweru", "gishize", "twagiye", "i", "Huye", "gusura", "amasoko"], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yatanze", "ikiganiro", "i", "Paris", "mu", "Bufaransa"], "ner_tags": [1, 2, 3, 0, 0, 0, 5, 0, 7]}
+{"tokens": ["Nyina", "wa", "Emery", "yabaye", "umwarimu", "muri", "GS", "St", "Andr\u00e9"], "ner_tags": [0, 0, 2, 0, 0, 0, 5, 6]}
+{"tokens": ["Huye", "iri", "mu", "ntara", "y'Amajyepfo", "y'u", "Rwanda"], "ner_tags": [5, 0, 0, 0, 7, 8, 9]}
+{"tokens": ["Abacuruzi", "bava", "mu", "Bushinwa", "bazana", "ibicuruzwa", "bya", "elektroniki"], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Inkera", "yabereye", "ku", "Gisozi", "mu", "Mujyi", "wa", "Kigali"], "ner_tags": [0, 0, 0, 5, 0, 5, 6, 6]}
+{"tokens": ["Ubutabera", "bwa", "ICTR", "bwabereye", "i", "Arusha", "muri", "Tanzania"], "ner_tags": [0, 0, 9, 0, 0, 5, 0, 7]}
+{"tokens": ["Ishuri", "rya", "Lycee", "Notre", "Dame", "de", "Citeaux", "ni", "rizwi", "i", "Kigali"], "ner_tags": [0, 0, 5, 6, 6, 6, 6, 0, 0, 0, 5]}
+{"tokens": ["Nsabimana", "Jean", "Claude", "yari", "umukinnyi", "wa", "APR", "FC"], "ner_tags": [2, 3, 3, 0, 0, 0, 5, 6]}
+{"tokens": ["Murandasi", "ikarita", "yakozwe", "na", "MTN", "Rwanda"], "ner_tags": [0, 0, 0, 0, 5, 6]}
+{"tokens": ["Ikirere", "cyi", "London", "cyari", "cyinshi", "uko"], "ner_tags": [0, 0, 5, 0, 0, 0]}
+{"tokens": ["Muri", "Nyakanga", "2020", "habaye", "ibikorwa", "by'imyigaragambyo", "i", "Minneapolis"], "ner_tags": [0, 7, 8, 0, 0, 0, 0, 5]}
+{"tokens": ["Imurikagurisha", "ryakorewe", "i", "Expo", "Ground", "mu", "Kigali"], "ner_tags": [0, 0, 0, 5, 6, 0, 5]}
+{"tokens": ["Perezida", "Samia", "Suluhu", "yasuye", "u", "Rwanda", "mu", "2021"], "ner_tags": [1, 2, 3, 0, 5, 6, 0, 8]}
+{"tokens": ["Uruganda", "CIMERWA", "rukorera", "i", "Bugarama", "mu", "Ntara", "y'Iburengerazuba"], "ner_tags": [0, 5, 0, 0, 5, 0, 7]}
+{"tokens": ["Ubugeni", "bwabereye", "i", "Serena", "Hotel", "Kigali", "ku", "wa", "23", "Werurwe", "2022"], "ner_tags": [0, 0, 0, 5, 6, 6, 0, 0, 7, 8]}
+{"tokens": ["Isoko", "rya", "Rubavu", "rikoze", "ni", "rinini", "mu", "Karere", "ka", "Rubavu"], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Kigali", "Marathon", "izaba", "ku", "cyumweru", "gitaha", "mu", "murwa", "mukuru", "wa", "Rwanda", "."], "ner_tags": [5, 5, 0, 0, 8, 8, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Dr.", "Mukeshimana", "Marie", "Claire", "yahawe", "igihembo", "mu", "Budage", ":"], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 7, 0]}
+{"tokens": ["Ibitaro", "byitiriwe", "King", "Faisal", "biri", "muri", "Kacyiru", "."], "ner_tags": [5, 0, 1, 2, 0, 0, 6, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yatumiye", "intumwa", "mu", "nteko", "mpuzamahanga", "i", "New", "York", "."], "ner_tags": [3, 1, 2, 0, 0, 0, 0, 0, 0, 7, 7, 0]}
+{"tokens": ["Isoko", "rya", "Rubavu", "ryafunzwe", "kubera", "icyorezo", "Ebola", "."], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Imodoka", "zifite", "plaque", "RAB", "zigomba", "gusuzumwa", "ku", "wa", "mbere", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 8, 0]}
+{"tokens": ["Uwahoze", "ari", "Minisitiri", "w'Intebe", "Pierre", "Habumuremyi", "ari", "mu", "nkiko", "i", "Kigali", "."], "ner_tags": [0, 0, 3, 4, 1, 2, 0, 0, 0, 7, 0]}
+{"tokens": ["Amakipe", "yo", "muri", "Kenya", "azahatana", "na", "APR", "FC", "i", "Kigali", "."], "ner_tags": [0, 0, 0, 7, 0, 0, 3, 3, 0, 7, 0]}
+{"tokens": ["Ibikorwa", "byahagaritswe", "muri", "Nyaruguru", "kubera", "imvura", "nyinshi", "."], "ner_tags": [0, 0, 0, 6, 0, 0, 0, 0]}
+{"tokens": ["Rwamagana", "District", "yatangije", "igikorwa", "cy'isuku", "ku", "baturage", "ba", "Nyakarambi", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Uburyo", "bw'imyigire", "mu", "Ishuri", "rya", "Green", "Hills", "Academy", "buratandukanye", "n'ahandi", "."], "ner_tags": [0, 0, 0, 5, 6, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["Gahunda", "ya", "Gira", "Inka", "yatangiye", "mu", "Karere", "ka", "Bugesera", "."], "ner_tags": [0, 0, 3, 2, 0, 0, 5, 6, 0]}
+{"tokens": ["Umuhanzi", "The", "Ben", "yakoze", "igitaramo", "ku", "cyumweru", "cyashize", "i", "London", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 7, 7, 0]}
+{"tokens": ["Ikirere", "cy'i", "Gisenyi", "cyitezweho", "imvura", "nyinshi", "mu", "cyumweru", "gitaha", "."], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 8, 8, 0]}
+{"tokens": ["Umuryango", "Save", "the", "Children", "watanze", "inkunga", "mu", "Ntara", "y'Amajyaruguru", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ubushakashatsi", "bwerekanye", "ko", "COVID-19", "yagize", "ingaruka", "nyinshi", "ku", "bukungu", "bw'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Ikigo", "cyitiriwe", "Richard", "Kandt", "gisurwa", "n'abanyeshuri", "baturutse", "mu", "Burundi", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Urukiko", "Rw'Ikirenga", "rwatangaje", "ko", "Minisitiri", "w'Ububanyi", "n'Amahanga", "Dr.", "Vincent", "Biruta", "azitabira", "inama", "."], "ner_tags": [5, 5, 0, 0, 3, 4, 4, 1, 2, 2, 0, 0, 0]}
+{"tokens": ["Tariki", "ya", "1", "Nyakanga", "niho", "u", "Rwanda", "yabaye", "repubulika", "ku", "mugaragaro", "."], "ner_tags": [8, 8, 8, 8, 0, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Akanama", "k'umutekano", "ka", "Loni", "kigeye", "i", "Mali", "gukurikirana", "umutekano", "."], "ner_tags": [5, 5, 0, 7, 0, 7, 0, 0, 0]}
+{"tokens": ["Perezida", "Kagame", "yasuye", "Intara", "y'Iburengerazuba", "ku", "wa", "Gatanu", "."], "ner_tags": [0, 1, 0, 3, 4, 0, 0, 7, 0]}
+{"tokens": ["Umurongo", "munini", "w'abagenzi", "wabaye", "mu", "Rusumo", "ku", "mupaka", "wa", "Tanzania", "na", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 3, 4, 4, 0, 0]}
+{"tokens": ["Ikigo", "cyitwa", "Inkomoko", "gitanga", "ubufasha", "ku", "batangira", "ubucuruzi", "bushya", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubuyobozi", "bw'Akarere", "ka", "Musanze", "bwatangaje", "ibipimo", "bishya", "by'ubuzima", "."], "ner_tags": [0, 3, 4, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzikazi", "Aline", "Gahongayire", "yatsindiye", "igihembo", "mu", "irushanwa", "ryabereye", "i", "Kigali", "."], "ner_tags": [0, 1, 1, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Abafana", "b'ikipe", "ya", "Mukura", "Victory", "Sports", "batengushye", "abakinnyi", "bayo", "."], "ner_tags": [0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Ubuzima", "Dr.", "Daniel", "Ngamije", "yasobanuye", "ibyerekeye", "inkingo", "za", "COVID-19", "."], "ner_tags": [0, 3, 4, 1, 1, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Ku", "ya", "15", "Kamena", "2021", ",", "ikigo", "RBC", "cyishe", "inkingo", "zose", "kuboneka", "mu", "Rwanda", "."], "ner_tags": [0, 0, 7, 7, 7, 0, 0, 1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Uruganda", "rukora", "ibikoresho", "Isoko", "Industries", "rwatangije", "projet", "muri", "Gicumbi", "."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuyobozi", "Mukuru", "wa", "Polisi", "y'u", "Rwanda", "CG", "Dan", "Munyuza", "yasabye", "ubufatanye", "abaturage", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Uyu", "muhango", "witabiriwe", "na", "Ambasaderi", "w'Ubudage", "Dr.", "Thomas", "Kleine", "yahembwe", "n'umuyobozi", "w'umujyi", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 1, 3, 4, 1, 1, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Hateganyijwe", "imurikagurisha", "ryo", "kwamamaza", "ibikoresho", "byashyizwe", "hagutangira", "mu", "mujyi", "wa", "Rubavu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Inama", "ya", "CECAFA", "yabereye", "i", "Kampala", "Uganda", ",", "higwemo", "ibibazo", "by'umupira", "w'amaguru", "."], "ner_tags": [0, 0, 1, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikiraro", "gishya", "kirimo", "kubakwa", "mu", "Karongi", "kizatanga", "umuhanda", "uhuza", "akarere", "n'umujyi", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Radio", "10", "iherereye", "i", "Nyamirambo", "yakoze", "igitaramo", "cyagutse", "kuri", "live", "."], "ner_tags": [1, 7, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jean", "Paul", "Habimana", "yatsindiye", "igiriro", "mu", "gushaka", "ibisubizo", "by'ikoranabuhanga", "muri", "Rwanda", "Coding", "Academy", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 5, 1, 1, 0]}
+{"tokens": ["Ubushakashatsi", "bwerekanye", "ko", "inzara", "yabaye", "ndetse", "no", "mu", "turere", "twose", "tw'u", "Burasirazuba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Mu", "cyumweru", "gishize", ",", "Pasiteri", "Samuel", "Nyirandamutsa", "yaganiriye", "na", "Radiyo", "Inyenyeri", "ku", "bibazo", "by'abakirisitu", "."], "ner_tags": [0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Irembo", "Ltd", "yiriwe", "itangaza", "uburyo", "bushya", "bwo", "kwishyura", "amakuru", "binjizwa", "kuri", "platform", "yayo", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bakoze", "imyitozo", "ikomeye", "muri", "Stade", "Amahoro", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Uru", "rubuga", "rwatangiye", "gukoreshwa", "byimazeyo", "mu", "dwirinda", "COVID-19", "na", "Cholera", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yatangiye", "uruzinduko", "mu", "Budage", "kuwa", "Mbere", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Ingoma", "za", "Gisirikali", "zategetse", "u", "Rwanda", "kuva", "mu", "1973", "kugera", "mu", "1994", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 7, 0, 0, 7, 0]}
+{"tokens": ["Ikipe", "ya", "APR", "yabaye", "iyambere", "mu", "irushanwa", "ry'umupira", "w'amaguru", "mu", "Rwanda", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Agaciro", "Development", "Fund", "yatangijwe", "mu", "Rwanda", "mu", "2012", "."], "ner_tags": [3, 4, 4, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Imiryango", "Nterankunga", "yakoze", "ibikorwa", "by'indashyikirwa", "mu", "Karongi", "nubwo", "hari", "imbogamizi", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kanseri", "ya", "Nyababyeyi", "ikomeje", "kwibasira", "abagore", "mu", "bihugu", "by'Afurika", "y'Iburasirazuba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Umuryango", "wa", "Loni", "ufite", "icyicaro", "i", "New", "York", "."], "ner_tags": [3, 4, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Cecile", "Kayirebwa", "yamamaye", "mu", "ndirimbo", "Kanjogera", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 0]}
+{"tokens": ["Muri", "Kenya", ",", "abaturage", "babangamiwe", "n'inzara", "ikabije", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Itangazo", "ryashyizwe", "ahagaragara", "n'Urwego", "rw'Igihugu", "rushinzwe", "Imiyoborere", "(RGB)", ","], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 3, 0, 0]}
+{"tokens": ["Inama", "ya", "YouthConnekt", "Africa", "Summit", "yabereye", "i", "Kigali", "kuva", "kuwa", "6", "ukwezi", "kwa", "Gicurasi", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 7, 0, 0, 0, 7, 0, 0, 7, 0]}
+{"tokens": ["Guverineri", "Emmanuel", "Gasana", "yasabye", "abaturage", "kurinda", "umutekano", "w'igihugu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikigo", "cy'Igihugu", "gishinzwe", "Ubwishingizi", "RSSB", "cyatangaje", "imibare", "mishya", "."], "ner_tags": [0, 3, 4, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Jacques", "Rwagahunde", "yaje", "gutsura", "umubano", "n'u", "Bufaransa", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Banki", "Nkuru", "y'u", "Rwanda", "(BNR)", "yamuritse", "ingamba", "shya", "mu", "bukungu", "."], "ner_tags": [3, 4, 5, 6, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abarwayi", "ba", "COVID-19", "bakomeje", "kugabanuka", "mu", "bihugu", "by'i", "Burayi", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Protais", "Mpiranya", "yashakishwaga", "n'inkiko", "za", "Arusha", "kubera", "ubwicanyi", "yakoze", "muri", "jenoside", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Imodoka", "za", "Toyota", "zitanga", "serivisi", "zitandukanye", "mu", "mujyi", "wa", "Kigali", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuryango", "wa", "East", "African", "Community", "wafashe", "umwanzuro", "ushya", "ku", "rubuga", "rwabo", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nyarugenge", "ni", "Kamwe", "mu", "turere", "tugize", "Umujyi", "wa", "Kigali", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuryango", "wita", "ku", "bubabare", "bw'abana", "Save", "the", "Children", "watangiye", "gukorera", "mu", "Rwanda", "mu", "1994", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Perezida", "Kagame", "yashyikirijwe", "igikombe", "cyo", "guhangana", "n'ibiza", "i", "Paris", "mu", "Ubufaransa", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Banki", "y'Amajyepfo", "y'Afurika", "yemeje", "inguzanyo", "ya", "miliyoni", "200", "z'Amadolari", "ku", "Rwanda", "."], "ner_tags": [3, 6, 6, 3, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Mukerarugendo", "Muhire", "Alice", "yasuye", "isinga", "ry'i", "Nyungwe", "arishimira", "urugendo", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ikigo", "cy'amashuri", "St.", "Andr\u00e9", "giherereye", "mu", "Karere", "ka", "Gasabo", "kirashima", "abanyeshuri", "bacyo", "bitwaye", "neza", "."], "ner_tags": [3, 0, 1, 2, 0, 0, 5, 6, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umushinga", "wita", "ku", "bidukikije", "Green", "Hills", "EcoSchool", "watangiye", "gufasha", "abaturage", "b'i", "Kigali", "."], "ner_tags": [3, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ambasaderi", "w'u", "Bubiligi", "mu", "Rwanda", ",", "Beno\u00eet", "Ryelandt", ",", "asoje", "mandat", "ye", "."], "ner_tags": [0, 3, 6, 6, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Mu", "ntangiriro", "za", "Kamena", "2022", ",", "umuhanzi", "Meddy", "yasohoye", "indirimbo", "ye", "shya", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Abaganga", "ba", "CHUK", "bavuze", "ko", "bigishijwe", "n'abaganga", "baturutse", "mu", "Budage", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Itangazo", "ryaturutse", "mu", "Kigo", "gishinzwe", "ubwikorezi", "RURA", "rimaze", "gutangazwa", "i", "Kigali", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Umukinnyi", "w'amagare", "Areruya", "Joseph", "yegukanye", "umudari", "wa", "Tour", "du", "Rwanda", "2023", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Umuyobozi", "mukuru", "wa", "Banki", "ya", "Kigali", ",", "Diane", "Karusisi", ",", "yatangiye", "akazi", "mu", "2018", "."], "ner_tags": [0, 0, 0, 3, 6, 1, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubushakashatsi", "bwahishuye", "ko", "umubare", "w'ingona", "mu", "Kiyaga", "cya", "Kivu", "wiyongereye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 5, 0, 0]}
+{"tokens": ["Ikirarane", "cy'imisoro", "kimaze", "kuva", "ku", "miliyari", "7", "Frw", "kigera", "ku", "miliyari", "15", "Frw", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Muri", "shampiyona", "ya", "volleyball", "Afurika", "yatsindiwe", "n'ikipe", "yo", "mu", "Misiri", "."], "ner_tags": [0, 0, 6, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Nyirabirori", "Annet", "yatsindiye", "igihembo", "i", "Rubavu", "kubera", "umusaruro", "mwiza", "w'umuceri", "ye", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Imbaga", "y'abantu", "yakoranye", "i", "Remera", "ku", "Kimihurura", "Stadium", "mu", "gitaramo", "cya", "Bruce", "Melodie", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 6, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Abahagarariye", "UNICEF", "mu", "Rwanda", "basuye", "ikigo", "cy'abana", "mu", "Bugesera", "."], "ner_tags": [0, 3, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umunyamabanga", "wa", "EAC", "Dr.", "Peter", "Mathuki", "yasuye", "u", "Rwanda", ".", ""], "ner_tags": [0, 5, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "wa", "Senegal", "Macky", "Sall", "yatabarukiye", "mu", "Bufaransa", "mu", "2024", "."], "ner_tags": [0, 5, 1, 2, 0, 0, 5, 0, 0]}
+{"tokens": ["Abadepite", "bo", "mu", "Nteko", "Ishinga", "Amategeko", "y'u", "Rwanda", "basuye", "i", "Rubavu", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 6, 5, 0, 0, 5, 0]}
+{"tokens": ["Ubwami", "bwa", "Bugesera", "bwagize", "uruhare", "runini", "mu", "mateka", "y'u", "Rwanda", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Imodoka", "zikoreshwa", "muri", "Leta", "Zunze", "Ubumwe", "za", "Amerika", "zigomba", "kugira", "ibyangombwa", "bihamye", "."], "ner_tags": [0, 0, 0, 5, 6, 6, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Umwaka", "wa", "1994", ",", "Rwanda", "yahuye", "n'amateka", "mabi"], "ner_tags": [0, 0, 7, 0, 5, 0, 0, 0]}
+{"tokens": ["Ubucuruzi", "mu", "mujyi", "wa", "Kigali", "bwarateye", "imbere", "mu", " myaka", "itanu", "ishize", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "Umuryango", "w'Abibumbye", "i", "New", "York", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ishuri", "rya", "Green", "Hills", "Academy", "riherereye", "mu", "Karongi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "b'ikipe", "ya", "APR", "FC", "batsinze", "Mukura", "VS", "igitego", "kimwe", "kurugero", "rwa", "Nyamagabe", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ambasaderi", "Shyaka", "Anaclet", "yahagarariye", "u", "Rwanda", "mu", "Burayi", "."], "ner_tags": [0, 1, 2, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Ikibuga", "cy'umupira", "cy'i", "Rubavu", "cyakiriyemo", "amarushanwa", "mpuzamahanga", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "mukuru", "wa", "BRALIRWA", "yagize", "amateka", "akomeye", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Ikirunga", "cyitwa", "Karisimbi", "giherereye", "mu", "majyaruguru", "y'u", "Rwanda", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Dr.", "Diane", "Gashumba", "yatorewe", "kuba", "umuyobozi", "mukura", "w'ubuzima", "mu", "Burengerazuba", ".", ""], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Ikigo", "cya", "RBC", "cyatangaje", "ubushakashatsi", "bwashyizwe", "ahagaragara", "ku", "ya", "5", "Kamena", "2023", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 7, 0, 7, 0]}
+{"tokens": ["Abaturage", "ba", "Gatsibo", "bazindukiye", "mu", "muganda", "rusange", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Itsinda", "rya", "Impala", "ryatumiwe", "gutaramira", "i", "Nairobi", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Agace", "ka", "Kimironko", "kazwiho", "ubucucike", "bw'abaturage"], "ner_tags": [0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Uyu", "mwaka", "Umunsi", "w'Abakundana", "wizihirijwe", "byihariye", "mu", "Rwanda", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mu", "isoko", "ya", "Muhanga", "habayeho", "ubwiyongere", "bwa", "abaguzi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Umugore", "witwa", "Esperance", "Mukarugema", "yatsindiye", "umudari", "wa", "zahabu", "i", "Tokyo", "mu", "Buyapani", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Umuryango", "wa", "African", "Union", "wahuriye", "i", "Addis", "Ababa", "mu", "Ethiopia", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Akagera", "National", "Park", "ni", "pariki", "ikomeye", "iherereye", "mu", "burasirazuba", "bw'u", "Rwanda", "."], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["Marie", "Claire", "Mukantabana", "yatangiriye", "umwuga", "we", "w'ubwarimu", "mu", "Karongi", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "Emmanuel", "Macron", "yasuye", "u", "Bufaransa", "akaganira", "n'abashoramari", "ku", "bikorwa", "by'iterambere", "."], "ner_tags": [0, 1, 1, 0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Gisenyi", "ni", "umujyi", "ukomeye", "ku", "mbibi", "z'u", "Rwanda", "n'u", "Congo", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Inama", "yabereye", "mu", "nyubako", "ya", "Kigali", "Convention", "Centre", "ku", "itariki", "ya", "12", "Werurwe", "2022", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Uwizeye", "Jean", "Paul", "yatsinze", "muri", "shampiyona", "ya", "Rwanda", "mu", "mikino", "ngororamubiri", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kaminuza", "ya", "Kigali", "ni", "imwe", "mu", "mashuri", "makuru", "akunzwe", "n'abanyeshuri", "bo", "mu", "bihugu", "bitandukanye", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Banki", "ya", "Afurika", "yunze", "umuryango", "na", "Rwanda", "Irembo", "muri", "porogaramu", "zo", "korohereza", "ubuzima", "bw'abaturage", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 5, 3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "batwaye", "igikombe", "mu", "maherezo", "y'umwaka", "wa", "2020-2021", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 7, 8]}
+{"tokens": ["Minisitiri", "w'Ubuzima", "Dr", "Ngamije", "Daniel", "yavuze", "ko", "icyorezo", "cyateye", "ingorane", "mu", "bice", "bya", "Rubavu", "na", "Musanze", "."], "ner_tags": [0, 3, 0, 1, 1, 0, 0, 0, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Imvura", "nyinshi", "yateje", "inkangu", "mu", "Murenge", "wa", "Rukomo", "Akarere", "ka", "Nyagatare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 3, 4, 0]}
+{"tokens": ["Umuryango", "mpuzamahanga", "wa", "ONU", "watanze", "ubufasha", "ku", "batishoboye", "bo", "mu", "Rwanda", "na", "Burundi", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Filime", "ya", "Rwagasore", "yatsindiye", "igihembo", "muri", "Zanzibar", "International", "Film", "Festival", "2023", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 4, 4, 4, 8, 0]}
+{"tokens": ["Ishyaka", "FPR", "Inkotanyi", "ryashinzwe", "mu", "Mwaka", "wa", "1987", "ricyuye", "imyaka", "35", "ryiyemeje", "guteza", "imbere", "uburenganzira", "bwa", "buri", "munyarwanda", "."], "ner_tags": [3, 4, 3, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Filozofiya", "ya", "Aristotle", "yarafashije", "abanyeshuri", "biga", "mu", "Ishuri", "Rikuru", "rya", "Kaminuza", "y", "u", "Rwanda", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 3, 4, 0, 3, 4, 4, 0, 0]}
+{"tokens": ["Ndayisaba", "Damascene", "yatorewe", "kuyobora", "Umujyi", "wa", "Kigali", "kuva", "2021", "."], "ner_tags": [1, 1, 0, 0, 0, 3, 4, 0, 0, 8, 0]}
+{"tokens": ["Igihembo", "cyahawe", "Umunyarwanda", "Dr", "Mukeshimana", "Victoire", "kubw'ubushakashatsi", "mu", "kongerera", "ubushobozi", "abagore", "b'abakene", "."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Indirimbo", "ya", "Bruce", "Melodie", "yakunzwe", "cyane", "muri", "2022", "mu", "Rwanda", "ikaba", "yaragiye", "mu", "matsinda", "yo", "hejuru", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 8, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ibitaro", "byitiriwe", "Kibagabaga", "bigezweho", "mu", "guhabwa", "abaganga", "b'inzobere", "baturutse", "mu", "Budage", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Sosiyete", "ya", "MTN", "Rwanda", "yatangije", "serivisi", "y'ikorana", "buhanga", "yo", "kwishura", "mudasobwa", "wifashishije", "umuyoboro", "wa", "Mobile", "Money", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Umukinnyi", "wo", "mu", "Kigali", "Basketball", "Club", "yatsindiye", "ibihembo", "bitatu", "muri", "shampiyona", "ya", "2022", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Umuyobozi", "w'Ikigo", "cy'igihugu", "gishinzwe", "uburezi", "yaraye", "atangaje", "ko", "abanyeshuri", "bazatangira", "amasomo", "mu", "kwakira", "2024", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Agaciro", "Development", "Fund", "yatangiye", "gutera", "inkunga", "imishinga", "y'inganda", "mu", "Rwanda", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ndayisenga", "Jean", "de", "Dieu", "yatsindiye", "Umukino", "wa", "Tour", "du", "Rwanda", "mu", "2019", "."], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 1, 2, 2, 5, 0, 0]}
+{"tokens": ["Ibitaramo", "byateguwe", "na", "Kigali", "International", "Peace", "Marathon", "bizaba", "ku", "itali", "ya", "14", "Kamena", "2024", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 2, 0, 0, 8, 8, 8, 8, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yatangiye", "uruzinduko", "rwe", "mu", "Burayi", "abonana", "n'abashoramari", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Uruganda", "CIMERWA", "rwatangiye", "gukora", "simuente", "nyinshi", "mu", "intara", "y'Iburengerazuba", "y'u", "Rwanda", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Kaminuza", "ya", "Rwanda", "yatsindiye", "umwanya", "wa", "mberere", "muri", "East", "African", "Universities", "Debate", "Championship", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 3, 2, 2, 2, 2, 0]}
+{"tokens": ["Umunsi", "mpuzamahanga", "w'abagore", "wizihizwa", "kuwa", "8", "Werurwe", "buri", "mwaka", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 8, 0, 0]}
+{"tokens": ["Minisitiri", "w'Ubuzima", "Dr", "Ngamije", "Daniel", "yasuye", "Ibitaro", "bikuru", "bya", "King", "Faisal", "Kigali", "ku", "wa", "Gatanu", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 1, 2, 2, 5, 0, 7, 8, 0]}
+{"tokens": ["Ubuyobozi", "bwa", "Ngororero", "bwatanze", "inkunga", "ku", "baturage", "bo", "mu", "mudugudu", "wa", "Kibisabo", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ishyirahamwe", "ry'abahanzi", "rya", "Rwanda", "Artists", "Association", "ritanga", "amahugurwa", "mu", "bugeni", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Irushanwa", "rya", "Kigali", "Basketball", "League", "ryabaye", "mu", "Kigali", "muri", "2023", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 5, 0, 8, 0]}
+{"tokens": ["Ikipe", "ya", "APR", "FC", "yegukanye", "Igikombe", "cy'igihugu", "mu", "rukerera", "rw'ejo", "hashize", "."], "ner_tags": [0, 2, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ihuriro", "ry'urubyiruko", "riri", "gukorera", "mu", "Karongi", ",", "Amajyaruguru", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Perezida", "Yoweri", "Museveni", "wa", "Uganda", "yatangiye", "uruzinduko", "mu", "Rwanda", "."], "ner_tags": [0, 1, 2, 2, 5, 0, 0, 5, 0]}
+{"tokens": ["Ubushakashatsi", "bwo", "mu", "rwego", "rw'ubuhinzi", "bwasanze", "imyumbati", "ikomeje", "kuzamura", "ubukungu", "bw'abaturage", "mu", "Bugesera", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Urubanza", "rwa", "Pasiteri", "Ezra", "Mugisha", "rwabereye", "muri", "Gereza", "ya", "Nyarugenge", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Ikigo", "gikomeye", "cy'ubwishingizi", "Britam", "gitanga", "serivisi", "shya", "zitandukanye", "muri", "Kenya", "no", "muri", "Tanzania", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Inama", "Nyafurika", "ku", "Iterambere", "yabereye", "i", "Dakar", ",", "Senegal", ",", "ihuriza", "hamwe", "abakuru", "b'ibihugu", "bitandukanye", "."], "ner_tags": [0, 2, 0, 2, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umunyamuziki", "Jay", "Polly", "yitabye", "Imana", "mu", "kwezi", "kwa", "Kanama", "2021", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 8, 8, 0]}
+{"tokens": ["Serivisi", "za", "Mukuru", "Express", "zitanga", "ubwikorezi", "bw'ibikoresho", "mu", "dukaragari", "twa", "Kicukiro", "na", "Remera", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Abana", "b'i", "Kigali", "barishimye", "mu", "birori", "byateguwe", "na", "kompanyi", "ya", "MTN", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Perezida", "Kagame", "yafunguye", "inzu", "y'imikino", "i", "Nyamirambo", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ba", "minisitiri", "b'u", "Burundi", "bahuriye", "i", "Kayonza", "kubera", "inama", "y'akazi", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Umushinga", "mushya", "wa", "Banki", "y'Isi", "wafashije", "benshi", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "izatangira", "ingendo", "zerekeza", "Londres", "mu", "cyumweru", "gitaha", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 0, 7, 8, 0]}
+{"tokens": ["Umuririmbyi", "Bruce", "Melodie", "yatwaye", "igihembo", "i", "Nairobi", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["Irushanwa", "ryabereye", "i", "Huye", "raryoshye", "bikomeye", "ku", "Banyarwanda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Uwiteka", "urera", "ibikorwa", "byose", "byakorewe", "mu", "Rusizi", "kuwa", "mbere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "wungirije", "wa", "CAMFED", "yasobanuye", "ibyiza", "by'umushinga", "wabo", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Abanyeshuri", "bo", "mu", "Ishuri", "ryisumbuye", "rya", "St", "Joseph", "batsinze", "amarushanwa", "yabereye", "mu", "Uganda", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuhanzi", "The", "Ben", "ateganya", "gukorera", "igitaramo", "kinini", "i", "Kampala", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abagize", "Inteko", "Ishinga", "Amategeko", "batoye", "itegeko", "rishya", ".", ""], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Imurikagurisha", "ryafunguwe", "n'umuyobozi", "mukuru", "w'Ikigo", "cy'Igihugu", "gishinzwe", "ubuhinzi", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuhango", "wo", "gusezerana", "wabereye", "mu", "rusengero", "rw'i", "Kibuye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "mu", "marushanwa", "ya", "CECAFA", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Umuganga", "w'umuhanga", "Dr.", "Ndoli", "yahawe", "umudali", "mu", "Burayi", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Itangazamakuru", "ryatangaje", "amakuru", "ya", "Paris", "Saint-Germain", "abonye", "intsinzi", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Umwana", "witwa", "Aline", "yavukiye", "mu", "Karongi", "kuwa", "1", "Mata", "2020", "."], "ner_tags": [0, 0, 1, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Rwanda", "Revenue", "Authority", "yatangaje", "ubusabe", "bushya", "bw'abacuruzi", "."], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubushakashatsi", "buheruka", "bwerekanye", "ko", "Abanyarwanda", "benshi", "bakoresha", "Kinyarwanda", "burimunsi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["Yari", "kuva", "Huye", "ajya", "Kigali", "atwaye", "imodoka", "ya", "Toyota", "Corolla", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Dr.", "Munyaneza", "yakoze", "kuri", "projet", "ya", "Kigali", "Innovation", "City", "."], "ner_tags": [1, 2, 0, 0, 0, 4, 4, 4, 0]}
+{"tokens": ["Perezida", "wa", "Kenya", ",", "William", "Ruto", ",", "yasuye", "u", "Rwanda", "."], "ner_tags": [0, 0, 5, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Inama", "ya", "Afurika", "yabereye", "mu", "Cairo", "muri", "Egypte", "murwego", "rw'ubukungu", "."], "ner_tags": [0, 4, 4, 0, 0, 4, 0, 4, 5, 0, 0, 0]}
+{"tokens": ["Filime", "ya", "Netflix", "izaza", "muri", "Kamena", "2024", "."], "ner_tags": [0, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["Ibitaramo", "i", "Johannesburg", "byitabiriwe", "n'abahanzi", "baturutse", "mu", "Rwanda", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Uruhererekane", "rw'imvura", "nyinshi", "rwatumye", "imyuzure", "i", "Rubavu", "kwiyongera", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Ikigo", "cyitwa", "Yego", "Innovision", "cyakiriye", "igikombe", "muri", "Lisbonne", ",", "Portugal", "."], "ner_tags": [0, 0, 4, 4, 0, 0, 0, 4, 0, 5, 0]}
+{"tokens": ["Dr.", "Jane", "Goodall", "yasuye", "Pariki", "y'Igihugu", "ya", "Nyungwe", "."], "ner_tags": [1, 2, 2, 0, 4, 4, 4, 4, 0]}
+{"tokens": ["Paul", "Kagame", "yakiriye", "abashyitsi", "baturutse", "mu", "Burayi", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Imikino", "Olempike", "izabera", "i", "Paris", "mu", "2024", "."], "ner_tags": [0, 4, 4, 0, 5, 0, 0]}
+{"tokens": ["Banki", "ya", "Kigali", "yatangije", "inguzanyo", "yihariye", "ku", "baturage", "bo", "mu", "rugo", "."], "ner_tags": [0, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umushinga", "wa", "Green", "Mountain", "wemejwe", "n'inama", "y'Abaminisitiri", "."], "ner_tags": [0, 0, 4, 4, 0, 0, 4, 0]}
+{"tokens": ["Mugisha", "Samuel", "yatsindiye", "muri", "Giro", "d'Abruzzo", "mu", "Butaliyani", "."], "ner_tags": [1, 2, 0, 0, 4, 4, 0, 5, 0]}
+{"tokens": ["Serivisi", "za", "MTN", "zatangiriye", "mu", "Rwanda", "muri", "1998", "."], "ner_tags": [0, 4, 4, 0, 0, 5, 0, 0]}
+{"tokens": ["Kaminuza", "ya", "Harvard", "ni", "imwe", "mu", "bigenderwaho", "ku", "Isi", "yose", "."], "ner_tags": [4, 4, 4, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Imihango", "ya", "Kwibuka", "29", "yakorewe", "ahantu", "hatandukanye", "mu", "Gihugu", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["U", "Muryango", "w'Abibumbye", "watangaje", "amasaha", "yo", "gufunga", "inzira", "z'umupaka", "."], "ner_tags": [5, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ibikorwa", "by'isuku", "byabereye", "ku", "Mugunga", "mu", "Karongi", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Amagare", "ya", "Tour", "du", "Rwanda", "yitabirwa", "n'abakinnyi", "baturutse", "impande", "zose", "z'Afurika", "."], "ner_tags": [0, 4, 4, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuhanzi", "Rwanda", "Allan", "Mpuri", "yatangiye", "gukora", "muzika", "mu", "2010", "."], "ner_tags": [0, 5, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sandra", "yakomerekeye", "mu", "mpanuka", "i", "Kayonza", ",", "ajyanwa", "muri", "CHUK", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Umujyi", "wa", "Kigali", "watangiye", "gushyira", "imbaraga", "mu", "guteza", "imbere", "isuku", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shampiyona", "ya", "Basketball", "izatangira", "mu", "Ukuboza", "2022", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 8, 0]}
+{"tokens": ["Abanyeshuri", "ba", "Kaminuza", "ya", "Butare", "basuye", "urwibutso", "rwa", "Genocide", "mu", "Murambi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Amavubi", "yatsinze", "Canada", "ibitego", "bitatu", "kuri", "kimwe", "."], "ner_tags": [1, 0, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Imvura", "nyinshi", "yagwiriye", "akarere", "ka", "Rubavu", "itaraye", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Urukiko", "Rw'Ikirenga", "rwafashe", "umwanzuro", "ku", "mushinga", "wo", "guhindura", "itegeko", "nshinga", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Ubuzima", "Dr.", "Ngamije", "yakiriye", "abashakashatsi", "bo", "mu", "Bufaransa", "."], "ner_tags": [3, 4, 1, 2, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Assia", "ni", "umunyeshuri", "ukomoka", "mu", "Burundi", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Tariki", "14", "Gashyantare", "yibukwa", "ho", "umunsi", "w'abakundanye", "kw'isi", "hose", "."], "ner_tags": [7, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakobwa", "babiri", "baturutse", "mu", "cyaro", "batsindiye", "igihembo", "mu", "Icyumweru", "cy'Ubumenyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Indege", "za", "RwandAir", "zitwara", "abagenzi", "bagera", "kuri", "50.000", "buri", "mwezi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuganga", "wo", "mu", "Bushinwa", "yavumbuye", "uburyo", "bushya", "bwo", "kwivura", "malaria", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuryango", "w'Abibumbye", "watanze", "inkunga", "y'amadolari", "100", "mu", "Rwanda", "ku", "bw'ibiza", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Hateganyijwe", "inama", "yiswe", "Transform Africa", "izabera", "mu", "Kigali", "mu", "Mata", "2023", "."], "ner_tags": [0, 0, 1, 2, 0, 7, 0, 7, 8, 0]}
+{"tokens": ["Ubushakashatsi", "bwerekanye", "ko", "indwara", "ya", "SIDA", "ikomeje", "kugira", "ingaruka", "muri", "Afrika", "y'Iburasirazuba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ambasaderi", "w'u", "Budage", "yagiranye", "ibiganiro", "na", "Minisitiri", "w'Ububanyi", "n'Amahanga", "w'u", "Rwanda", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 3, 4, 4, 5, 6, 0]}
+{"tokens": ["Igitaramo", "cyabereye", "ku", "Nyanza", "cyari", "cyateguwe", "n'abahanzi", "b'Abanyarwanda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Jackson", "Mugisha", "yatorewe", "kuyobora", "isoko", "rishya", "i", "Nyabugogo", "mu", "Murenge", "wa", "Kimisagara", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yakiriye", "intumwa", "zitandukanye", "ziturutse", "mu", "bihugu", "bitandukanye", "by'Afurika", "no", "ku", "Isi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Uruganda", "rwa", "CIMERWA", "ruherereye", "mu", "Bugarama", "rutanga", "semen", "nyinshi", "mu", "Gihugu", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yagiriye", "uruzinduko", "mu", "Bushinwa", "mu", "2018", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Umujyi", "wa", "Kigali", "usanzwe", "uzwiho", "isuku", "n'umutekano", "uhamye", "."], "ner_tags": [1, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Akagera", "National", "Park", "yashinzwe", "mu", "1934", "mu", "burasirazuba", "bw'u", "Rwanda", "."], "ner_tags": [3, 4, 4, 0, 0, 7, 0, 6, 5, 0]}
+{"tokens": ["Ubutumwa", "bwa", "Ambasade", "ya", "Amerika", "burashishikariza", "abaturage", "kwirinda", "COVID-19", "."], "ner_tags": [0, 0, 3, 0, 5, 0, 0, 0, 0, 9, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "Kigali", "byatangiye", "gutanga", "serivisi", "mu", "1995", "."], "ner_tags": [3, 4, 4, 4, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Isosiyete", "MTN", "Rwanda", "yatangije", "ubukangurambaga", "bwo", "gukoresha", "Mobile", "Money", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Icyumweru", "cyahariwe", "imilimo", "rusange", "mu", "Karere", "ka", "Gasabo", "cyatangiye", "kuwa", "10", "Werurwe", "2022", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 5, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Kaminuza", "y'u", "Rwanda", "yagiranye", "ubufatanye", "na", "University", "of", "Oxford", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Mu", "gushyingo", "2017", ",", "hateguwe", "inama", "ya", "AU", "yabereye", "Addis", "Ababa", "."], "ner_tags": [0, 8, 8, 0, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Umukinnyi", "APR", "FC", "Muhadjiri", "Hakizimana", "yatsindiye", "igitego", "mu", "mukino", "na", "AS", "Kigali", "."], "ner_tags": [0, 3, 4, 1, 2, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Banki", "Nkuru", "y'u", "Rwanda", "BNR", "yatanze", "amakuru", "y'imari", "."], "ner_tags": [3, 4, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Inkuru", "zinyuranye", "zira", "ku", "bufatanye", "bwa", "Rwanda", "na", "UNICEF", "mu", "kurengera", "abana", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "w'Akarere", "ka", "Rusizi", ",", "Kayumba", "Ephrem", ",", "yashimiye", "abafatanyabikorwa", "."], "ner_tags": [0, 1, 0, 5, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Radio", "10", "yatangirijwe", "i", "Kigali", "mu", "2007", "ikagera", "mu", "ntara", "zose", "."], "ner_tags": [3, 4, 0, 0, 5, 0, 7, 0, 0, 0, 0, 0]}
+{"tokens": ["Ishyirahamwe", "ry'umupira", "w'amaguru", "FIFA", "ryakiriye", "amatora", "mu", "Zuyeza", "ibihugu", "bitandukanye", "."], "ner_tags": [3, 5, 0, 0, 0, 3, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Abashinzwe", "kurwanya", "ruswa", "mu", "Rwanda", "bakoranye", "inama", "mu", "2021", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 7, 0]}
+{"tokens": ["Umwaka", "w'amashuri", "watangiye", "ku", "itariki", "ya", "17", "Mutarama", "2022", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 8, 0, 5, 0]}
+{"tokens": ["Uruganda", "Cimentos", "y'u", "Rwanda", "rwatangiye", "gukora", "simbi", "mu", "Bugesera", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kuri", "uyu", "wa", "4", "Gicurasi", "2023", ",", "Perezida", "Samia", "Suluhu", "Hassan", "wa", "Tanzania", "yasuye", "u", "Rwanda", "."], "ner_tags": [0, 0, 0, 7, 8, 8, 0, 1, 2, 2, 0, 5, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Umuryango", "Save", "the", "Children", "wafunguwe", "mu", "Rwanda", "hagambiriwe", "gufasha", "abana", "."], "ner_tags": [3, 4, 4, 4, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Uwatsinze", "irushanwa", "ritegurwa", "na", "Miss", "Rwanda", "mu", "2020", "ni", "Nshuti", "Anita", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 5, 0, 7, 0, 1, 2, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yatangiye", "uruzinduko", "muri", "Senegal", "ku", "cyumweru", "gishize", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "GS", "Sainte", "Famille", "riherereye", "i", "Kigali", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 5, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yatsindiye", "igihembo", "i", "Londres", "mu", "Bwongereza", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Amavubi", "yakinnye", "n'umukino", "na", "Morocco", "mu", "irushanwa", "ry'Afurika", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Ubuyobozi", "bw'Akarere", "ka", "Musanze", "bwafunze", "restora", "itujuje", "ibipimo", "bisabwa", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ishami", "ry'umuryango", "w'Abibumbye", "ryita", "ku", "buzima", "OMS", "ryatanze", "ubutumwa", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["Ikipe", "ya", "APR", "FC", "yahuye", "na", "Rayon", "Sports", "ku", "wa", "gatandatu", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Umuhanda", "uva", "i", "Kayonza", "ugana", "i", "Rusizi", "wafunzwe", "n'imvura", "nyinshi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Abanyeshuri", "ba", "Kaminuza", "y'u", "Rwanda", "basuye", "Parike", "y'nyungwe", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["Imurikagurisha", "mpuzamahanga", "rya", "Kigali", "rininiye", "abanyamahanga", "baturutse", "muri", "Kenya", ",", "Uganda", ",", "Tanzania", "n'ahandi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Ihuriro", "ry'abagore", "mu", "iterambere", "rishingiye", "mu", "Karongi", "ryakoze", "inama", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Valentine", "Uwamariya", "yatangiye", "akazi", "ke", "ku", "wa", "mbere", "."], "ner_tags": [1, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubukangurambaga", "bwakozwe", "n'umuryango", "Save", "the", "Children", "bwarokoye", "abana", "benshi", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Uruzinduko", "rwabereye", "i", "Dar", "es", "Salaam", "mu", "Tanzania", "rwagize", "umusaruro", "mwiza", "."], "ner_tags": [0, 0, 0, 5, 8, 8, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Umushinga", "wa", "World", "Bank", "washyizwe", "mu", "bikorwa", "muri", "Gisagara", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Umunyarwandakazi", "Clare", "Akamazi", "yatoranyijwe", "mu", "bakobwa", "100", "bahize", "isi", "mu", "2023", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Abaturage", "bo", "mu", "Karere", "ka", "Rubavu", "batunguwe", "n'imitingito", "ikomeye", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Urukiko", "rwafashe", "umwanzuro", "ku", "muryango", "wa", "Rusesabagina", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Umuryango", "w'Ubumwe", "bw'Afurika", "AU", "watangaje", "cyane", "ko", "wahagaritse", "igihugu", "cya", "Niger", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Imbunda", "ziherereye", "mu", "bice", "bya", "Kayonza", "na", "Nyagatare", "zashakishijwe", "n'inzego", "za", "gisirikare", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yongeye", "gutwara", "abagenzi", "i", "Johannesburg", "muri", "Afrika", "y'Epfo", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 5, 0, 5, 8, 8, 0]}
+{"tokens": ["Ineza", "Umurerwa", "yakoze", "ibikorwa", "by'indashyikirwa", "mu", "mujyi", "wa", "Kigali", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ikigo", "cya", "UNICEF", "cyatangije", "umushinga", "wo", "gufasha", "abana", "bo", "mu", "Karongi", "."], "ner_tags": [3, 0, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abahinzi", "bo", "mu", "Bugesera", "basabwe", "gukoresha", "imashini", "mu", "mirima", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr", "Jean", "de", "Dieu", "Habiyaremye", "yatangiye", "nyobozi", "muri", "Minisiteri", "y'Uburezi", "mu", "2022", "."], "ner_tags": [0, 1, 2, 2, 2, 0, 0, 0, 3, 4, 0, 7, 0]}
+{"tokens": ["Isosiyete", "ya", "MTN", "Rwanda", "yatangiye", "gutanga", "internet", "yihuta", "muri", "Rubavu", "."], "ner_tags": [3, 0, 4, 6, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Amabanki", "yo", "mu", "Burundi", "yemerewe", "gukora", "ubucuruzi", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abapolisi", "bahugiye", "mu", "kwiga", "amasomo", "ya", "ONU", "i", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 4, 0, 5, 0]}
+{"tokens": ["Ikipe", "ya", "APR", "FC", "yatsinze", "Kiyovu", "Sports", "ku", "mukino", "wa", "Shampiyona", "y'u", "Rwanda", "."], "ner_tags": [0, 0, 3, 4, 0, 3, 4, 0, 0, 0, 3, 4, 6, 0]}
+{"tokens": ["Inganda", "zo", "mu", "Bikoro", "zitangiye", "gukora", "mask", "mu", "burwayi", "bw'icyorezo", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umunyamategeko", "Ernest", "Kamanzi", " yavuze", "ko", "amahame", "mpuzamahanga", "arengera", "abana", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ihuriro", "rya", "African", "Union", "ryateraniye", "i", "Addis", "Ababa", "mu", "Ethiopia", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Umuyobozi", "w'Akarere", "ka", "Musanze", "yasuye", "abaturage", "b'i", "Kinigi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abanyamakuru", "ba", "BBC", "bakoze", "inkuru", "ku", "bukungu", "bwa", "Rwanda", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "wa", "Senegal", "Macky", "Sall", "yabonanye", "n'uwo", "mu", "Bushinwa", "."], "ner_tags": [0, 0, 5, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Itangazo", "ryatanzwe", "na", "Banki", "Nkuru", "y'u", "Rwanda", "ryavuze", "ku", "majyambere", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Uruganda", "CIMERWA", "rwatangiye", "gukora", "simbi", "muri", "Rusizi", "mu", "2019", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Isabukuru", "y'imyaka", "25", "y'ishyirahamwe", "Hope", "for", "Children", "izizihirizwa", "i", "Kigali", "."], "ner_tags": [0, 0, 8, 0, 3, 4, 4, 0, 0, 5, 0]}
+{"tokens": ["Amafoto", "ya", "Muhire", "Kevin", "yabaye", "icyamamare", "ku", "mbuga", "nkoranyambaga", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubushakashatsi", "bwashyizwe", "ahagaragara", "na", "University", "of", "Rwanda", "bwerekanye", "iterambere", "rikomeye", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 6, 0, 0, 0, 0]}
+{"tokens": ["Abandi", "bayobozi", "barimo", "Minisitiri", "w'Intebe", "wa", "Uganda", "bahuriye", "i", "Nairobi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yatangiye", "uruzinduko", "mu", "Bufaransa", "."], "ner_tags": [3, 1, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Imvura", "yari", "yaguye", "i", "Kigali", "kuwa", "Mbere", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yatsindiye", "igihembo", "i", "Nairobi", "muri", "Kenya", "."], "ner_tags": [0, 1, 1, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "b'ikipe", "ya", "APR", "FC", "bahagurutse", "berekeza", "i", "Tanzania", "."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Uruganda", "Cimerwa", "ruri", "mu", "Karere", "ka", "Rusizi", "."], "ner_tags": [0, 1, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Indirimbo", "\"", "Uzagaruke", "\"", "ya", "Meddy", "yakunzwe", "n'abatari", "bake", "."], "ner_tags": [0, 0, 1, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "mukuru", "wa", "Banki", "ya", "Kigali", "yatangaje", "ko", "hari", "impinduka", "zitegerejwe", "."], "ner_tags": [0, 0, 0, 1, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Icyumweru", "gitaha", "tuza", "gutangiza", "amasomo", "mashya", "i", "Butare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abaganga", "baturutse", "mu", "Budage", "basuye", "ibitaro", "bya", "CHUK", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 1, 0]}
+{"tokens": ["Ubwato", "bwambukiranya", "iki", "kivu", "buzatangira", "akazi", "noneho", "Kw'isoko", "ryo", "mu", "cyumweru", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Uwahoze", "ari", "Minisitiri", "w'Ubuhinzi", "Dr.", "Agnes", "Kalibata", "yahawe", "umudali", "i", "New", "York", "."], "ner_tags": [0, 0, 3, 4, 1, 1, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ikigo", "cy'u", "Rwanda", "Revenue", "Authority", "cyatangije", "ubukangurambaga", "bushya", "."], "ner_tags": [0, 0, 1, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Abaturage", "bo", "mu", "Burera", "bishimiye", "imihanda", "mishya", "yakozwe", "na", "RAB", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Iki", "gikorwa", "cyateguwe", "na", "World", "Vision", "kizafasha", "abana", "batishoboye", "."], "ner_tags": [0, 0, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Uko", "abategura", "Tour", "du", "Rwanda", "babivuga", "bitandukanye", "n'abasiganwa", "."], "ner_tags": [0, 0, 1, 2, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Samia", "Suluhu", "Hassan", "wa", "Tanzania", "ageze", "i", "Dar", "es", "Salaam", "."], "ner_tags": [3, 1, 1, 1, 0, 5, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Ubushakashatsi", "bwakozwe", "n'ikigo", "Gallup", "bwagaragaje", "ko", "Rwanda", "rifite", "umudendezo", "mwinshi", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Itsinda", "ry'abahanzi", "ryaturutse", "mu", "Uganda", "ryatumiwe", "gukora", "ibitamo", "i", "Kigali", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuyobozi", "wa", "kampani", "MTN", "Rwanda", "yatangaje", "ibiciro", "bishya", "kuri", "internet", "."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Igikombe", "cy'Afurika", "y'abakinnyi", "bakina", "mu", "gihugu", "cyabereye", "i", "Cameroun", "mu", "2021", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 8, 0]}
+{"tokens": ["Kigali", "ni", "umurwa", "mukuru", "w'u", "Rwanda", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dr", "Jean", "Claude", "Byiringiro", "yatanze", "ikiganiro", "kuri", "Radio", "10", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Imikino", "ya", "Champions", "League", "izatangira", "mu", "kwumweru", "gitaha", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yagiye", "muri", "Kenya", "kugira", "uruzinduko", "rw'akazi", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Uruganda", "Cimerwa", "ruherereye", "i", "Rusizi", "akora", "ceman", "."], "ner_tags": [0, 5, 0, 0, 5, 0, 0]}
+{"tokens": ["Amavubi", "azakina", "na", "Nigeria", "muri", "CAN", "2025", "."], "ner_tags": [3, 0, 0, 5, 0, 6, 7, 0]}
+{"tokens": ["Bamwe", "mu", "Banyarwanda", "batuye", "muri", "Canada", "bakora", "ubucuruzi", "."], "ner_tags": [0, 0, 7, 0, 0, 5, 0, 0]}
+{"tokens": ["Inama", "y'Abaminisitiri", "izabera", "i", "Rubavu", "kuwa", "Mbere", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Kwibuka", "jenoside", "yakorewe", "Abatutsi", "mu", "1994", "byabaye", "umwihariko", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 7, 0, 8, 0, 0, 0, 5, 0]}
+{"tokens": ["Ururimi", "rw'Ikinyarwanda", "rukoreshwa", "n'abantu", "barenga", "12", "miliyoni", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kaminuza", "y'u", "Rwanda", "yatangiye", "gukorera", "i", "Huye", "mu", "2000", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Ibitaro", "bya", "CHUK", "byakira", "abarwayi", "baturutse", "mu", "ntara", "zitandukanye", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Ibikorwa", "remerwa", "Madame", "Solina", "Nyirahabimana", "yahagarariye", "u", "Rwanda", "i", "Addis", "Ababa", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yavuye", "i", "Brussels", "ijya", "i", "Kigali", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yawushyize", "ahagaragara", "uyu", "munsi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Umusirikare", "w'u", "Rwanda", "yarasiwe", "mu", "Karere", "ka", "Burera", "na", "FDU", "Inkingi", "."], "ner_tags": [0, 0, 5, 0, 5, 6, 6, 0, 3, 4, 0]}
+{"tokens": ["Ikoranabuhanga", "ryatangiye", "kwifashishwa", "mu", "mashuri", "yisumbuye", "muri", "Bugesera", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Filime", "yitwa", "Riziki", "iyobowe", "na", "Clementine", "Dusabejambo", "yatsindiye", "igihembo", "i", "Berlin", "."], "ner_tags": [0, 0, 1, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Alexis", "Muganwa", "yashinzwe", "kubera", "Umuyobozi", "w'Umujyi", "wa", "Musanze", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 6, 0, 5, 0]}
+{"tokens": ["Urubyiruko", "rw'u", "Burundi", "rwatumiwe", "mu", "gikorwa", "cyateguwe", "i", "Gisenyi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Banki", "ya", "Kigali", "yatanze", "inguzanyo", "ku", "baturage", "bo", "muri", "Gicumbi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Kigali", "ni", "umujyi", "uhoramo", "abantu", "baturutse", "imihanda", "yose", "yo", "mu", "Rwanda", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "birakira", "abarwayi", "batandukanye", "baturutse", "mu", "bihugu", "bitandukanye", "by'Afurika", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Umuryango", "w'Abibumbye", "watanze", "inkunga", "yo", "kurwanya", "icyorezo", "muri", "Congo", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Paul", "Kagame", "yasuye", "abanyeshuri", "bigaga", "mu", "Ishuri", "ryisumbuye", "rya", "GS", "Kacyiru", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Perezida", "wa", "Tanzania", "yatangaje", "ko", "harabaho", "gukwirakwiza", "amakuru", "y'ibinyoma", "ku", "rubuga", "rwitwa", "Twitter", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Ibirori", "byabereye", "mu", "nyubako", "ya", "Kigali", "Convention", "Centre", ",", "bitabiriwe", "n'abashyitsi", "baturutse", "i", "Burayi", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Miss", "Rwanda", "2022", "yegukanywe", "na", "Divine", "Nshuti", "wo", "mu", "Karongi", "."], "ner_tags": [0, 5, 7, 0, 0, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["Umuhanda", "uva", "i", "Musanze", "ujya", "i", "Rubavu", "watunganyijwe", "na", "China", "Road", "and", "Bridge", "Corporation", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0, 0, 3, 4, 4, 4, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Valentine", "Uwamariya", "yatangije", "porogaramu", "ya", "One", "Laptop", "Per", "Child", "mu", "Rwanda", "."], "ner_tags": [3, 0, 1, 2, 2, 0, 0, 0, 3, 4, 4, 0, 0, 5, 0]}
+{"tokens": ["Inama", "yabereye", "i", "Paris", "yahuriyemo", "ibihugu", "bisaga", "mirongo", "itatu", "."], "ner_tags": [0, 0, 0, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Diane", "Rwigara", "yatangaje", "ko", "aziyamamaza", "mu", "matora", "ya", "2024", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 7, 0, 0]}
+{"tokens": ["Ibiro", "by'umukuru", "w'igihugu", "biri", "i", "Village", "Urugwiro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yatsindiye", "igihembo", "mu", "marushanwa", "ya", "Kisima", "Music", "Awards", "yo", "muri", "Kenya", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 7, 8, 8, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "b'ikipe", "ya", "APR", "FC", "batsinze", "muri", "Champions", "League", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 3, 4, 0]}
+{"tokens": ["Jean", "Bosco", "yakoze", "ikizamini", "mu", "Ishuri", "ryisumbuye", "rya", "Petit", "Seminaire", "Virgo", "Fidelis", "de", "Butare", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 1, 2, 2, 2, 2, 2, 0]}
+{"tokens": ["Inzego", "z'ubuzima", "ziherutse", "gukorana", "inama", "i", "Kimironko", "."], "ner_tags": [0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Uruganda", "rwitwa", "Skol", "rwatanze", "uruhare", "rugaragara", "mu", "iterambere", "ry'inganda", "mu", "Rwanda", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abanyarwanda", "babiri", "babanye", "mu", "Bubiligi", "batashye", "mu", "gihugu", "cyabo", "."], "ner_tags": [0, 0, 0, 0, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Pasiteri", "Desire", "Habyarimana", "yigisha", "mu", "rusengero", "ruherereye", "Kicukiro", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Isosiyete", "yo", "gucuruza", "amashanyarazi", "yitwa", "REG", "yatangaje", "amakuru", "mashya", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Papa", "Francis", "yatumiye", "abakirisitu", "muri", "Vatican", "gusengera", "isi", "."], "ner_tags": [0, 1, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasabye", "ko", "horoherezwa", "urujya", "n'uruza", "bwa", "banyeshuri", "biga", "mu", "Burundi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ubuhinde", "bwasesekaye", "inkunga", "mu", "mushinga", "wo", "kubaka", "amasoko", "muri", "Nyamata", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Imodoka", "zitwa", "Toyota", "ziyongereye", "ku", "isoko", "ry'u", "Rwanda", "mu", "2019", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "ateganya", "gukorera", "igitaramo", "i", "Kigali", "ku", "wa", "15", "Kamena", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikigo", "NIRDA", "cyagaragaje", "imishinga", "mishya", "yateje", "iterambere", "mu", "Rwanda", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuryango", "wa", "UNICEF", "watanze", "ibikoresho", "ku", "banyeshuri", "bo", "mu", "Karongi", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "Fc", "baraye", "batsinze", "Police", "Fc", "ibitego", "bitatu", "ku", "bus", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Abadepite", "batoye", "itegeko", "rishya", "mu", "Nteko", "Ishinga", "Amategeko", "y'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 6, 4, 4, 0]}
+{"tokens": ["Ubushinjacyaha", "Bukuru", "bwagejeje", "mu", "rukiko", "dosiye", "ya", "Nsengimana", "Jean", "Claude", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Ikirere", "cy'i", "Goma", "cyahindutse", "igihu", "cyinshi", "mu", "gitondo", "."], "ner_tags": [0, 4, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Uruganda", "CIMERWA", "rwatangiye", "gukora", "simbi", "za", "rimwe", "mu", "Bugarama", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Uwamariya", "yasuye", "Amashuri", "ya", "GS", "Kicukiro", "."], "ner_tags": [0, 3, 0, 1, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Ni", "kuri", "uyu", "wa", "12", "Gashyantare", "2024", "i", "Musanze", "ibikorwa", "bizatangira", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 5, 0, 0, 0]}
+{"tokens": ["Umuraperi", "Jay", "Polly", "yitabye", "Imana", "mu", "bitaro", "bya", "Kigali", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Bamwe", "mu", "Barundi", "batangiye", "kurambagiza", "akazi", "mu", "Rwanda", "no", "mu", "Uganda", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Isoko", "rya", "Kimironko", "rizabona", "amazi", "asanzwe", "atangwa", "n'ikigo", "WASAC", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Uwahoze", "ari", "Minisitiri", "mu", "Guverinoma", "ya", "Habiyaremana", "Juvenal", "yahungiye", "mu", "France", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["Ibitaro", "King", "Faisal", "byashyizwe", "mu", "mitungo", "ya", "Perezida", "w'u", "Rwanda", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 1, 3, 4, 4, 0]}
+{"tokens": ["Inama", "Nyafurika", "yiga", "ku", "buhinzi", "izabera", "i", "Kampala", "ku", "wa", "5", "Ukuboza", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Umujyi", "wa", "Kigali", "wabonye", "imvura", "nyinshi", "mu", "kwa", "Mutarama", "2022", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 7, 7, 0]}
+{"tokens": ["Perezida", "Kagame", "yahuriye", "na", "Minisitiri", "w\u2019Intebe", "wa", "Ethiopia", "i", "Addis", "Ababa", "."], "ner_tags": [0, 1, 0, 0, 2, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Umuryango", "w\u2019Abibumbye", "watangaje", "ubufasha", "ku", "bimukira", "b\u2019i", "Goma", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mukerarugendo", "James", "yasuye", "Pariki", "y\u2019Igihugu", "ya", "Nyungwe", "mu", "Rwanda", "."], "ner_tags": [0, 1, 0, 3, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Ikirere", "cy\u2019i", "Rubavu", "cyarasobanutse", "ejo", "hashize", "."], "ner_tags": [0, 0, 5, 0, 0, 0]}
+{"tokens": ["Banki", "ya", "Kigali", "yatanze", "inguzanyo", "ku", "banyeshuri", "ba", "kaminuza", "ya", "UR", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Inama", "nyafurika", "ku", "bukungu", "izabera", "i", "Nairobi", "muri", "Kenya", "mw\u2019ukwezi", "gutaha", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Uwizeye", "Alice", "akorera", "mu", "kigo", "cyitwa", "Bralirwa", "i", "Gisenyi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Kuri", "urwo", "ruzinduko", "harimo", "abakuru", "b\u2019ibihugu", "b\u2019u", "Burundi", ",", "u", "Rwanda", ",", "na", "Uganda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Kaminuza", "ya", "Carnegie", "Mellon", "iherereye", "i", "Kigali", "yatangiye", "gukorera", "abanyeshuri", "bayo", "mu", "2012", "."], "ner_tags": [0, 0, 3, 3, 0, 0, 5, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Ikirangirire", "C\u00e9cile", "Kayirebwa", "yateguye", "igitaramo", "i", "Bruxelles", "mu", "Bubiligi", "."], "ner_tags": [0, 1, 1, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "biri", "mu", "Murwa", "mukuru", "wa", "Rwanda", "."], "ner_tags": [0, 0, 3, 3, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umurenge", "wa", "Gatsibo", "wahawe", "amavuriro", "mashya", "na", "USAID", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Irushanwa", "ry\u2019umupira", "rizabera", "i", "Rubavu", "ku", "Cyumweru", "gitaha", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Ikibazo", "cy\u2019ubushomeri", "kiriyongera", "mu", "turere", "twa", "Huye", "na", "Muhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Amafunguro", "ya", "Ibanga", "Bistro", "afite", "ubwiza", "bwa", "chefs", "bakomeye", "."], "ner_tags": [0, 0, 3, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Umushinga", "wa", "Coca", "Cola", "wo", "kwita", "ku", "bidukikije", "wazaniwe", "i", "Kigali", "."], "ner_tags": [0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ishyirahamwe", "ry\u2019Abacuruzi", "rao", "mu", "Karere", "ka", "Rubavu", "ryifuriza", "abaturage", "ibikorwa", "byiza", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Abahanzi", "bo", "mu", "Itsinda", "Urban", "Boys", "baritegura", "gukora", "indirimbo", "nshya", "."], "ner_tags": [0, 0, 0, 0, 3, 3, 0, 0, 0, 0]}
+{"tokens": ["Ubuyobozi", "bw\u2019Akarere", "ka", "Musanze", "bwatanze", "umusoro", "ku", "bacuruzi", "b\u2019imbuto", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "wa", "Repubulika", "y\u2019u", "Rwanda", "yasabye", "abaturage", "gukomeza", "kwirinda", "Covid-19", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Ruthu", "yigaga", "mu", "mujyi", "wa", "Kigali", "afite", "inzozi", "zo", "kuzaba", "umuganga", "ukomeye", "."], "ner_tags": [1, 0, 0, 7, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ishuri", "rya", "Saint", "Andr\u00e9", "ryegereye", "ikibuga", "cy'umupira", "w'amaguru", "."], "ner_tags": [3, 4, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Uwamariya", "Valentine", "yatangiye", "akazi", "ku", "wa", "5", "Werurwe", "2020", "."], "ner_tags": [1, 3, 2, 1, 2, 0, 0, 0, 0, 0, 7, 7, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "mu", "marushanwa", "ya", "CAF", "Champions", "League", "."], "ner_tags": [0, 0, 5, 2, 0, 0, 0, 0, 0, 2, 2, 2, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yakiriye", "abashyitsi", "baturutse", "mu", "Bufaransa", "."], "ner_tags": [1, 1, 2, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Uruganda", "CIMERWA", "ruherereye", "i", "Rusizi", "rwatangaje", "ko", "ruzongera", "umusaruro", "."], "ner_tags": [0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ku", "ya", "14", "Gashyantare", "abakundana", "bizihiza", "umunsi", "mpuzamahanga", "wa", "Valentin", "."], "ner_tags": [0, 0, 7, 7, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Akarere", "ka", "Gicumbi", "kahize", "utundi", "mu", "gutanga", "mitiweli", "."], "ner_tags": [5, 4, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "yasohoye", "indirimbo", "nshya", "yitiriye", "\"\"\"\"", "Saa", "Moya", "\"\"\"\"", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0]}
+{"tokens": ["Yayoboye", "ikipe", "ya", "Rwanda", "mu", "mikino", "yabereye", "i", "Douala", "mu", "Cameroun", "."], "ner_tags": [0, 0, 2, 4, 0, 0, 0, 0, 0, 7, 0, 7, 0]}
+{"tokens": ["Mu", "gihugu", "cy'u", "Burundi", "bahimbye", "umunsi", "wahariwe", "abakobwa", "every", "October", "11", "."], "ner_tags": [0, 0, 0, 7, 0, 0, 0, 0, 0, 7, 7, 7, 0]}
+{"tokens": ["Umushinga", "Green", "Hills", "Academy", "wavuguruye", "inyubako", "mu", "Kimironko", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Abaturage", "ba", "Musanze", "babonye", "amazi", "meza", "kubufatanye", "na", "WASAC", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Umuryango", "w'Abibumbye", "UN", "wahaye", "ubufasha", "abaturage", "ba", "Sudani", "y'Epfo", "."], "ner_tags": [0, 2, 2, 0, 0, 0, 0, 5, 4, 7, 0]}
+{"tokens": ["Ikigo", "cyitiriwe", "King", "Faisal", "gitanga", "serivisi", "zizewe", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Koperative", "Abajene", "y'i", "Kayonza", "yashimiwe", "ko", "iyobora", "neza", "urubyiruko", "."], "ner_tags": [0, 1, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Imvugo", "z'ururimi", "rw'Ikinyarwanda", "zitandukanye", "n'iz'Icyongereza", "."], "ner_tags": [0, 0, 0, 2, 0, 0, 2, 0, 0]}
+{"tokens": ["Banki", "Nkuru", "y'Igihugu", "BNR", "yasohoye", "amahugurwa", "kubijyanye", "no", "guteza", "imbere", "ikoranabuhanga", "."], "ner_tags": [0, 1, 4, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abanyeshuri", "bo", "mu", "ishuri", "ryisumbuye", "rya", "Nyundo", "babonye", "impamyabumenyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Isosiyete", "MTN", "Rwanda", "yariyahaye", "igihembo", "cy'umukozi", "w'umwaka", "."], "ner_tags": [0, 2, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "mukuru", "w'Ikigo", "cy'Igihugu", "gishinzwe", "iterambere", "RDB", "ni", "Clare", "Akamanzi", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 2, 0, 1, 2, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yakiriye", "intumwa", "ya", "ONU", "i", "Kigali", "."], "ner_tags": [3, 1, 2, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Abaturage", "ba", "Nyamagabe", "bashimiwe", "uburyo", "bitabiriye", "igikorwa", "cy'isuku", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Imurikagurisha", "ryabereye", "i", "Kigali", "ryitabiriwe", "n'abashoramari", "bo", "mu", "Bushinwa", "na", "Kenya", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 3, 4, 6, 0, 6, 0]}
+{"tokens": ["Minisitiri", "w'Uburezi", "Dr.", "Uwamariya", "Valentine", "yasobanuye", "icyo", "bateganya", "mu", "mwaka", "utaha", "."], "ner_tags": [3, 4, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "batwaye", "igikombe", "cy'umwaka", "wa", "2022-2023", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Guverineri", "w'intara", "y'Amajyaruguru", "yitabiriye", "inama", "yabereye", "i", "Musanze", "."], "ner_tags": [3, 4, 4, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Inama", "ya", "EAC", "yabereye", "i", "Arusha", "muri", "Tanzania", "."], "ner_tags": [0, 3, 4, 0, 0, 5, 6, 0]}
+{"tokens": ["Ikigo", "cy'igihugu", "cyita", "ku", "majwi", "kizatangira", "akazi", "mu", "2024", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Meddy", "yatangiye", "gukora", "ibitaramo", "i", "Kampala", "muri", "Uganda", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0, 6, 0]}
+{"tokens": ["Ikirere", "cy'i", "Rubavu", "cyahindutse", "bikomeye", "kuwa", "Mbere", ".", "Abaturage", "basabwe", "kwitwararika", "."], "ner_tags": [0, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abanyeshuri", "baturutse", "mu", "biganiro", "byateguwe", "na", "UNICEF", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 3, 0]}
+{"tokens": ["Ikizamini", "gisoza", "umwaka", "cyatangiriye", "mu", "mashuri", "yo", "mu", "Karongi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Akarere", "ka", "Gasabo", "gateganya", "gukora", "imishinga", "y'iterambere", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubushakashatsi", "buheruka", "kugaragaza", "uko", "ubukungu", "bwa", "Rwanda", "buteye", "uyu", "mwaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ubushinjacyaha", "bukuru", "bukatiye", "imyaka", "itanu", "uwitwa", "Jean", "Claude", "Habyarimana", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Intumwa", "za", "Parlement", "y'Uburayi", "zasuye", "u", "Rwanda", "mu", "cyumweru", "gishize", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Ku", "itariki", "ya", "15", "Mutarama", "2024", "hazatangira", "amasomo", "ashyashya", "kuri", "kaminuza", "."], "ner_tags": [0, 0, 3, 4, 5, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuyobozi", "wa", "CIMERWA", "Dr.", "Niyonkuru", "Theoneste", "yagaragaje", "ibikorwa", "baka", "."], "ner_tags": [3, 4, 5, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Igitaramo", "cyateguwe", "na", "RBA", "cyitabiriwe", "na", "korali", "zitandukanye", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Imodoka", "zigezweho", "zizagera", "mu", "Gisozi", "vuba", "kugira", "ngo", "abaturage", "babone", "ubwikorezi", "bunoze", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ndayishimiye", "Jean", "Marie", "yatsinze", "irushanwa", "rihuza", "abanyeshuri", "bo", "muri", "kaminuza", "ya", "Kigali", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ubuyobozi", "bw'Akarere", "ka", "Rusizi", "bwatangije", "amakuru", "mashya", "ku", "baturage", "."], "ner_tags": [0, 3, 4, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Televiziyo", "Rwanda", "yerekanye", "inkuru", "ku", "muyobozi", "w'ikigo", "gikomeye", "cyitwa", "Bralirwa", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Umushinga", "Green", "Hills", "Academy", "watangirijwe", "i", "Kigali", "muri", "2017", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Abayobozi", "baturutse", "mu", "bihugu", "bitandukanye", "barimo", "u", "Bufaransa", ",", "u", "Bubiligi", "n'u", "Bwongereza", "bitabiriye", "inama", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Jeanette", "Uwacu", "ni", "Minisitiri", "w'Umuco", "na", "Siporo", "mu", "Rwanda", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuririmbyi", "The", "Ben", "yabonekaga", "kenshi", "i", "Kacyiru", "aho", "yatuye", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Igikorwa", "cyabereye", "muri", "Pariki", "ya", "Volcanoes", "cyakurikiranywe", "n'abahanga", "batandukanye", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0, 0, 0]}
+{"tokens": ["Umwaka", "wa", "2022", "wari", "uw'ingirakamaro", "mu", "iterambere", "ry'u", "Rwanda", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 0, 4, 5, 0]}
+{"tokens": ["Ku", "isoko", "rya", "Kimironko", "habayeho", "igabanuka", "ry'ibiciro", "mu", "cyumweru", "gishize", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umukinnyi", "w'umupira", "wo", "mu", "Italiyani", "witwa", "Luigi", "Bruni", "yagaragaye", "muri", "shampiyona", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Guverineri", "wa", "Banki", "nkuru", "y'u", "Rwanda", "urumva", "ka", "John", "Rwangombwa", "."], "ner_tags": [0, 0, 0, 0, 4, 5, 0, 0, 1, 2, 0]}
+{"tokens": ["Ibigo", "byigenga", "bikora", "mu", "Burengerazuba", "byahuye", "n'inzitizi", "zitandukanye", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ihuriro", "rya", "Made", "in", "Rwanda", "ryateye", "intambwe", "ikunzwe", "n'abaturage", "."], "ner_tags": [0, 3, 1, 2, 2, 5, 0, 0, 0, 0]}
+{"tokens": ["Minisitiri", "w'Ubuzima", "Dr.", "Ngamije", "Daniel", "yatangiye", "uruzinduko", "i", "Musanze", "kuwa", "gatanu", "."], "ner_tags": [0, 3, 1, 2, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yatangiye", "ingendo", "mu", "Karere", "ka", "Afrika", "y'Iburasirazuba", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 3, 4, 5, 0, 0]}
+{"tokens": ["Mu", "ntangiriro", "za", "Gashyantare", "2023", "harahezeho", "gukaza", "umutekano", "i", "Rubavu", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 0, 5, 0]}
+{"tokens": ["Umwanditsi", "Kalisa", "Assumpta", "yasohoye", "igitabo", "gishya", "cyitwa", "\"", "Ubutumwa", "bw'inkomoko", "\"", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikigo", "cy'itumanaho", "MTN", "cyashimiwe", "uko", "gitanga", "serivisi", "neshya", "ku", "banyarwanda", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Imurikagurisha", "mpuzamahanga", "ryabereye", "i", "Gikondo", "i", "Kigali", "rikitabirwa", "n'abanyarwanda", "benshi", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kigali", "yabaye", "umujyi", "ufite", "iterambere", "ridasanzwe", "mu", "Rwanda", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "Abanyarwanda", "batuye", "i", "Londres", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 4, 5, 0]}
+{"tokens": ["Ikigo", "gikomeye", "cyitwa", "Bank", "of", "Kigali", "cyatangaje", "ibikorwa", "bishya", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0, 0, 0]}
+{"tokens": ["Umwuga", "w'Ubutasi", "muri", "Mossad", "uzwiho", "ubushobozi", "buhambaye", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ibitaro", "bya", "King", "Faisal", "bikora", "neza", "i", "Kigali", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 4, 5, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "ataramiye", "Abanyarwanda", "mu", "Karongi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Sosiyete", "ya", "MTN", "Rwanda", "yabashije", "kunguka", "miliyari", "eshatu", "mu", "2023", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Dr.", "Agnes", "Binagwaho", "yatanze", "ikiganiro", "muri", "University", "of", "Harvard", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Minisitiri", "w'Intebe", "wa", "Canada", "Justin", "Trudeau", "yatangaje", "impinduka", "shya", "."], "ner_tags": [0, 0, 0, 5, 1, 2, 0, 0, 0]}
+{"tokens": ["Umukinnyi", "Lionel", "Messi", "yatsinze", "ibitego", "bitatu", "muri", "PSG", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ubushinjacyaha", "bwashyikirije", "Urukiko", "Rukuru", "dosiye", "ya", "Niyonzima", "Elie", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Akarere", "ka", "Rubavu", "kazakira", "inama", "mpuzamahanga", "mu", "Kwakira", "2024", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yaguye", "i", "Nairobi", "mu", "Kenya", "."], "ner_tags": [0, 0, 3, 0, 4, 5, 0, 5, 0]}
+{"tokens": ["Itsinda", "rya", "Chorale", "de", "Kigali", "ryaririmbiye", "i", "Bruxelles", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 4, 5, 0]}
+{"tokens": ["Umwaka", "w'2022", "waranzwe", "n'ibyorezo", "i", "Burayi", "."], "ner_tags": [0, 7, 0, 0, 4, 5, 0]}
+{"tokens": ["Ikirunga", "cy'Nyiragongo", "cyongeye", "kwaduka", "mu", "ntara", "ya", "Kivu", "y'Amajyepfo", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitabiriye", "irushanwa", "ryabereye", "i", "Dar", "es", "Salaam", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 4, 5, 0]}
+{"tokens": ["Imurikagurisha", "rya", "Made", "in", "Rwanda", "ryafunguwe", "ku", "mugaragaro", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Umunyamabanga", "mukuru", "wa", "ONU", "Ant\u00f3nio", "Guterres", "yasuye", "u", "Burusiya", "."], "ner_tags": [0, 0, 0, 5, 1, 2, 0, 5, 0]}
+{"tokens": ["Ikigo", "gitanga", "amazi", "REG", "cyazamutse", "ku", "isoko", "ry'imari", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuryango", "wa", "WHO", "watangije", "ubukangurambaga", "bwo", "kurwanya", "COVID-19", "mu", "bihugu", "bitandukanye", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 7, 0, 0, 0]}
+{"tokens": ["Ndavuga", "ku", "kirwa", "cya", "Nkombo", "giherereye", "mu", "Karere", "ka", "Rusizi", "."], "ner_tags": [0, 0, 3, 4, 5, 6, 0, 5, 6, 0, 0]}
+{"tokens": ["Perezida", "Kagame", "yakiriye", "intumwa", "zira", "mu", "Bufaransa", "kuganira", "kubufatanye", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Imvura", "ikomeye", "yateye", "imihanda", "kugira", "ibibazo", "mu", "Musanze"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Banki", "ya", "Kigali", "yatangije", "serivisi", "zishya", "kubakiliya", "bayo", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Fatuma", "Niyonkuru", "yashyizweho", "nka", "Minisitiri", "w'Umutekano", "mu", "Rwanda", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Abanyeshuri", "ba", "UR-Huye", "basoje", "amasomo", "yabo", "bakorewe", "ibirori", "bidasanzwe", "ku", "Ishuri", "ryabo", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikirere", "cyaje", "guhinduka", "cyane", "mu", "gihugu", "cy'u", "Burundi", "muriki", "cyumweru", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Andi", "makuru", "avugwa", "ku", "Musanze", "avuga", "ko", "haragaragara", "ubwinshi", "bw'abakerarugendo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kaminuza", "ya", "Kigali", "yakiriye", "abanyeshuri", "bashya", "baturutse", "mu", "bihugu", "12", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Umuganura", "wizihijwe", "ku", "itariki", "ya", "13", "Kanama", "mu", "ntara", "y'Iburengerazuba", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 5, 6, 0, 5, 6, 0]}
+{"tokens": ["Ikigo", "cy'itumanaho", "MTN", "cyatangaje", "ko", "hazabaho", "impinduka", "mu", "makuru", "ya", "interineti", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Shampiyona", "y'u", "Rwanda", "yabaye", "mu", "mujyi", "wa", "Rubavu", "itariki", "15", "Nyakanga", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 5, 0, 7, 5, 6, 0]}
+{"tokens": ["Nkusi", "Jeanne", "d'Arc", "yatorewe", "kuba", "Depite", "muri", "Parliament", "y'u", "Rwanda", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "mu", "marushanwa", "yabereye", "i", "Kigali"], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 6]}
+{"tokens": ["Umubyeyi", "yabyariye", "abana", "batatu", "mu", "bitaro", "bya", "CHUK", "Ku", "wa", "kabiri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "Notre", "Dame", "de", "la", "Providence", "ryatangiye", "kwakira", "abanyeshuri", "bashya", "."], "ner_tags": [0, 0, 0, 1, 2, 3, 4, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ubuyobozi", "bw'Akarere", "ka", "Kayonza", "bwasabye", "abaturage", "kugira", "isuku", "muri", "rusange", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ruswa", "iracyagaragara", "mu", "nzego", "zimwe", "na", "zimwe", "z'imirimo", "mu", "nganda", "zo", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Dr.", "Emmanuel", "Munyengabe", "yatorewe", "uyobora", "RSSB", "mu", "Rwanda", "."], "ner_tags": [1, 2, 3, 0, 0, 1, 2, 0, 5, 6, 0]}
+{"tokens": ["Umunyamakuru", "John", "Rwasa", "yaganiriye", "na", "Minisitiri", "w'Ubuzima", ",", "Dr.", "Diane", "Gashumba", ",", "akomoza", "ku", "bidukikije", "mu", "Rwanda", "."], "ner_tags": [0, 1, 2, 0, 0, 3, 0, 0, 3, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "mu", "mikino", "yabereye", "i", "Kigali", "ku", "Itorero", "ry'igihugu", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 0, 6, 0, 0]}
+{"tokens": [" Perezida ", "Paul", "Kagame", "yasuye", "abaganga", "ba", "CHUK", "ku", "wa", "Kane", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 4, 0, 0, 7, 0]}
+{"tokens": ["Abana", "ba", "GS", "St.", "Joseph", "basabijwe", "kwita", "ku", "isuku", "no", "gukora", "siporo", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Inama", "yateraniye", "i", "Kampala", "yagarutse", "ku", "bikorwa", "by'amashuri", "yisumbuye", "yo", "mu", "Uganda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Ubuyobozi", "bw'Akarere", "ka", "Nyagatare", "bwashyikirije", "ifi", "abaturage", "mu", "mudugudu", "wa", "Kiyanja", "."], "ner_tags": [0, 4, 0, 5, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Umushinga", "wa", "USAID", "ufasha", "abahinzi", "b'ibirayi", "mu", "Karongi", "kubona", "imbuto", "nziza", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 6, 0, 0, 0, 0]}
+{"tokens": ["Kaminuza", "ya", "Kigali", "yakiriye", "abanyeshuri", "bashya", "baturutse", "mu", "bihugu", "bitandukanye", "by'Afurika", "."], "ner_tags": [3, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Umuyobozi", "mukuru", "wa", "Banki", "ya", "Kigali", ",", "Dr.", "Kanimba", "James", "yatangaje", "amahirwe", "y'ishoramari", "."], "ner_tags": [0, 0, 0, 3, 0, 5, 0, 3, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Uyu", "mwaka", "wa", "2023", "witezweho", "iterambere", "mu", "ikoranabuhanga", "ry'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 8, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abarangije", "amasomo", "yabo", "muri", "UNILAK", "barashima", "ubuyobozi", "bw'iyi", "kaminuza", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Impunzi", "zituruka", "i", "Goma", "ziri", "guhabwa", "inkunga", "n',", "UNHCR", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Urubyiruko", "rwo", "mu", "Murenge", "wa", "Kimironko", "rwateguye", "amarushanwa", "y'indirimbo", "."], "ner_tags": [0, 0, 0, 6, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Uhuru", "Kenyatta", "wa", "Kenya", "yasuye", "u", "Rwanda", "mu", "ruzinduko", "rw'iminsi", "ibiri", "."], "ner_tags": [1, 1, 2, 0, 5, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Umuhanzi", "Meddy", "yataramiye", "abafana", "biwe", "i", "Rubavu", "ahishura", "ibijyanye", "n'ubuzima", "bwe", "bwite", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Abanyapolitiki", "bo", "mu", "Bufaransa", "bahuye", "n'umuyobozi", "mukuru", "w'amashyaka", "yo", "mu", "Burayi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Kuri", "Radio", "10", ",", "umunyamakuru", "Sandrine", "yaganiriye", "n'abaturage", "bo", "muri", "Gasabo", "kuri", "COVID-19", "."], "ner_tags": [0, 3, 8, 0, 0, 1, 0, 0, 0, 0, 5, 0, 0, 8, 0]}
+{"tokens": ["Itsinda", "ry'abaganga", "ryagiye", "gufasha", "abarwayi", "ba", "Malaria", "i", "Rusizi", "ku", "bufatanye", "na", "WHO", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 4, 0, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Tebuka", "Jean", "Pierre", "yakoze", "ubushakashatsi", "ku", "kwihaza", "mu", "biribwa", "mu", "Ntara", "y'Amajyaruguru", "."], "ner_tags": [1, 1, 2, 0, 0, 0, 0, 0, 0, 0, 6, 0, 6, 0]}
+{"tokens": ["Ikigo", "cy'ubwishingizi", "SONARWA", "cyatangije", "ubukangurambaga", "mu", "gihugu", "hose", "ku", "iyubahirizwa", "ry'amategeko", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ambasaderi", "wa", "Turukiya", "yasuye", "ibikorwa", "by'ubwubatsi", "biri", "kuri", "Kigali", "Convention", "Centre", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 5, 6, 0]}
+{"tokens": ["Umuyobozi", "w'Ishuri", "ryisumbuye", " rya", "Gashora", "yabwiye", "abanyeshuri", "gukora", "ikizamini", "cy'ingirakamaro", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "azagira", "uruzinduko", "mu", "Bufaransa", "ukwezi", "gutaha", "."], "ner_tags": [3, 1, 2, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Umuryango", "w\u2019Abibumbye", "UN", "wahaye", "u Rwanda", "inkunga", "y\u2019ibikoresho", "by\u2019ishuri", "."], "ner_tags": [0, 5, 3, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ihuriro", "ry'Abahanzi", "ryatangiye", "mu", "1992", "i", "Kigali", "rigizwe", "n'abantu", "50", "."], "ner_tags": [0, 0, 0, 0, 8, 8, 5, 0, 0, 0, 0]}
+{"tokens": ["Imvura", "nyinshi", "yateje", "inkangu", "mu", "karere", "ka", "Rubavu", "abantu", "10", "barapfa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ambasade", "y\u2019u", "Bushinwa", "yatashye", "ikigo", "gishya", "cyigisha", "ikoranabuhanga", "i", "Kigali", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuraperi", "Jay", "Polly", "yitabye", "Imana", "ku", "wa", "24", "Kanama", "2021", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 7, 8, 8, 8, 0]}
+{"tokens": ["Minisitiri", "w\u2019Uburezi", "Dr.", "Valentine", "Uwamariya", "yasabye", "ababyeyi", "kuganira", "n\u2019abana", "."], "ner_tags": [3, 4, 1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Banki", "ya", "Kigali", "yatangiye", "gutanga", "inguzanyo", "ku", "bagenerwabikorwa", "ba", "RSSB", "."], "ner_tags": [3, 0, 5, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Ikipe", "ya", "Rayon", "Sports", "yatsinze", "Marines", "ibitego", "3", "ku", "1", "."], "ner_tags": [0, 0, 1, 2, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Umuganga", "wo", "mu", "bitaro", "bya", "CHUK", "yatangaje", "ubwiyongere", "bw\u2019abarwayi", "ba", "COVID-19", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Ibirori", "byakorewe", "mu", "Ngoma", "hagaragaye", "abashyitsi", "baturutse", "muri", "Uganda", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Guverinoma", "ya", "Canada", "yatangaje", "ubufatanye", "na", "Rwanda", "mu", "buhinzi", "."], "ner_tags": [3, 0, 5, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Igitaramo", "kizabera", "muri", "Kigali", "Arena", "kizahuriramo", "abahanzi", "bakomeye", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Inama", "y\u2019abakuru", "b\u2019ibihugu", "yabereye", "i", "New", "York", ",", "Amerika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Kaminuza", "y\u2019u", "Rwanda", "yagiye", "gutanga", "impamyabumenyi", "ku", "banyeshuri", "bashoje", "amasomo", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Indege", "ya", "RwandAir", "yagurukiye", "i", "Nairobi", "saa", "mbiri", "za", "mu", "gitondo", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "wa", "Senegal", "Macky", "Sall", "yakiriye", "abayozi", "bateraniye", "i", "Dakar", "."], "ner_tags": [3, 0, 5, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Isosiyete", "MTN", "Rwanda", "yatangiye", "gukoresha", "ikoranabuhanga", "rishya", "mu", "kwishyura", "."], "ner_tags": [3, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Umukinnyi", "Lionel", "Messi", "yabonye", "umudari", "i", "Paris", "mu", "Bufaransa", "ku", "wa", "12", "Kamena", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0, 5, 0, 0, 7, 8, 0]}
+{"tokens": ["Abakinnyi", "ba", "APR", "FC", "bitwaye", "neza", "mu", "irushanwa", "ryabereye", "i", "Kigali", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Umuyobozi", "wa", "Banki", "ya", "Kigali", ",", "Diane", "Karusisi", ",", "yatangaje", "ibikorwa", "bizabafasha", "mu", "kwagura", "ubucuruzi", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ikirere", "cy'i", "Rubavu", "cyongeye", "guhinduka", "kuva", "mu", "masaha", "ya", "mugitondo", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Perezida", "Paul", "Kagame", "yasuye", "u", "Bubiligi", "ku", "munsi", "w'ejo", "hashize", "."], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Aba", "banyeshuri", "bazahabwa", "amahugurwa", "na", "kaminuza", "ya", "Harvard", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Filime", "ishya", "yitwa", "\"\"\"\"", "Igikomangoma", "cy'i", "Bugesera", "\"\"\"\"", "yagiye", "kugaragara", "ku", "Isango", "Star", "."], "ner_tags": [0, 0, 0, 0, 4, 0, 5, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Ubushakashatsi", "bwerekana", "ko", "ibiciro", "byya", "peteroli", "mu", "bihugu", "bya", "Afurika", "y'Epfo", "byazamutse", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["U", "Bwongereza", "bwemeje", "ko", "zose", "zakira", "abagenzi", "baturutse", "i", "Kigali", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Jackie", "Uwera", "yabonye", "umudali", "w'izahabu", "mu", "mikino", "ya", "Olympics", "muri", "u", "Buyapani", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Umuhanzi", "Bruce", "Melodie", "ateganya", "gukorera", "igitaramo", "i", "Kigali", "muri", "Werurwe", "2024", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Isosiyete", "RwandAir", "yatangije", "ingendo", "zijya", "i", "Lagos", ",", "Nigeria", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Amatora", "ya", "Senateri", "yabaye", "mu", "dukarere", "twa", "Burera", "na", "Gicumbi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Inama", "ya", "EAC", "izabera", "i", "Arusha", "mu", "Tanzania", "ku", "wa", "15", "Nyakanga", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Umwalimu", "Murekatete", "Chantal", "yagizwe", "Umuyobozi", "wa", "GS", "Kacyiru", "II", "kuva", "muri", "Kamena", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Ubuvuzi", "bw'amaso", "butangirwa", "mu", "bitaro", "by'i", "Kibagabaga", "bwarifashishije", "ubumenyi", "buva", "mu", "Ubudage", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Abakinnyi", "b'Abarabu", "bazitabira", "Shampiyona", "y'i", "Cairo", ",", "Misiri", "."], "ner_tags": [0, 0, 0, 0, 4, 0, 5, 0, 5, 0]}
+{"tokens": ["Uyu", "mwaka", "hazabaho", "imurikagurisha", "risoza", "mbere", "ya", "Noheli", "muri", "Expo", "Grounds", "Kigali", "."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Perezida", "Uhuru", "Kenyatta", "yatahutse", "avuye", "mu", "nama", "ikomeye", "yabereye", "i", "New", "York", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 5, 4, 0]}
+{"tokens": ["Ishuri", "ryisumbuye", "rya", "Saint", "Andre", "ryahemba", "abanyeshuri", "bahize", "abandi", "muri", "2023", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ihuriro", "ry'imiryango", "itandukanye", "yakiriwe", "na", "Minisitiri", "w'Intebe", "Edouard", "Ngirente", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Igitabo", "gishya", "cyanditswe", "na", "Dr.", "Emmanuel", "Ntaganda", "cyafashije", "abana", "b'abakene", "kwiga", "ikinyarwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}

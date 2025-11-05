@@ -1,0 +1,1004 @@
+{"tokens": ["\u0c1c\u0c17\u0c28\u0c4d\u0c2e\u0c4b\u0c39\u0c28\u0c4d", "\u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f", "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d", "\u0c09\u0c26\u0c4d\u0c2f\u0c4b\u0c17\u0c41\u0c32", "\u0c38\u0c2e\u0c3e\u0c35\u0c47\u0c36\u0c02\u0c32\u0c4b", "\u0c2a\u0c3e\u0c32\u0c4d\u0c17\u0c4a\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c1a\u0c3f\u0c30\u0c02\u0c1c\u0c40\u0c35\u0c3f", "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e", "\u0c07\u0c02\u0c21\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c40\u0c32\u0c4b", "\u0c2a\u0c4d\u0c30\u0c2e\u0c41\u0c16\u0c02\u0c17\u0c3e", "\u0c2a\u0c46\u0c30\u0c3f\u0c17\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 0, 3, 0, 0, 0]}
+{"tokens": ["\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40", "\u0c32\u0c4b\u0c28\u0c3f", "\u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c3e", "\u0c17\u0c47\u0c1f\u0c4d", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27\u0c3f", "\u0c1a\u0c46\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [3, 0, 0, 4, 0, 0, 0]}
+{"tokens": ["\u0c28\u0c3e\u0c17\u0c3e\u0c30\u0c4d\u0c1c\u0c41\u0c28", "\u0c38\u0c3e\u0c17\u0c30\u0c4d", "\u0c21\u0c4d\u0c2f\u0c3e\u0c2e\u0c4d", "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23", "\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 0, 4, 3, 0, 0, 0]}
+{"tokens": ["\u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c4d", "\u0c1c\u0c1f\u0c4d\u0c1f\u0c41\u0c32\u0c4b", "\u0c35\u0c3f\u0c30\u0c3e\u0c1f\u0c4d", "\u0c15\u0c4b\u0c39\u0c4d\u0c32\u0c40", "\u0c15\u0c46\u0c2a\u0c4d\u0c1f\u0c46\u0c28\u0c4d", "."], "ner_tags": [0, 0, 1, 2, 0, 0]}
+{"tokens": ["\u0c38\u0c46\u0c2a\u0c4d\u0c1f\u0c46\u0c02\u0c2c\u0c30\u0c4d", "17\u0c28", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c32\u0c4b", "\u0c09\u0c24\u0c4d\u0c38\u0c35\u0c3e\u0c32\u0c41", "\u0c28\u0c3f\u0c30\u0c4d\u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41", "."], "ner_tags": [5, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c1c\u0c2f\u0c35\u0c3e\u0c21", "\u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47", "\u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d", "\u0c35\u0c4d\u0c2f\u0c3e\u0c2f\u0c3e\u0c2e\u0c36\u0c3e\u0c32", "\u0c15\u0c3f", "\u0c38\u0c2e\u0c40\u0c2a\u0c02\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c30\u0c46\u0c21\u0c4d", "\u0c2b\u0c4b\u0c30\u0c4d\u0c1f\u0c4d", "\u0c28\u0c4d\u0c2f\u0c42\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40", "\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [4, 4, 3, 0, 0, 0]}
+{"tokens": ["\u0c30\u0c4b\u0c39\u0c3f\u0c24\u0c4d", "\u0c36\u0c30\u0c4d\u0c2e", "\u0c2c\u0c4d\u0c2f\u0c3e\u0c1f\u0c3f\u0c02\u0c17\u0c4d", "\u0c32\u0c4b", "\u0c05\u0c26\u0c4d\u0c2d\u0c41\u0c24\u0c02\u0c17\u0c3e", "\u0c06\u0c21\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c07\u0c28\u0c4d\u0c2b\u0c4b\u0c38\u0c3f\u0c38\u0c4d", "\u0c15\u0c02\u0c2a\u0c46\u0c28\u0c40", "\u0c2c\u0c46\u0c02\u0c17\u0c33\u0c42\u0c30\u0c41", "\u0c32\u0c4b", "\u0c28\u0c3f\u0c30\u0c4d\u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f", "."], "ner_tags": [3, 0, 3, 0, 0]}
+{"tokens": ["\u0c2a\u0c40\u0c35\u0c40", "\u0c38\u0c3f\u0c02\u0c27\u0c41", "\u0c13\u0c32\u0c3f\u0c02\u0c2a\u0c3f\u0c15\u0c4d\u0c38\u0c4d", "\u0c32\u0c4b", "\u0c38\u0c3f\u0c32\u0c4d\u0c35\u0c30\u0c4d", "\u0c2e\u0c46\u0c21\u0c32\u0c4d", "\u0c17\u0c46\u0c32\u0c41\u0c1a\u0c41\u0c15\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c15\u0c3e\u0c1c\u0c32\u0c4d", "\u0c05\u0c17\u0c30\u0c4d\u0c35\u0c3e\u0c32\u0c4d", "\u0c2e\u0c41\u0c02\u0c2c\u0c56", "\u0c32\u0c4b", "\u0c1c\u0c28\u0c4d\u0c2e\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 2, 3, 0, 0]}
+{"tokens": ["\u0c0e\u0c35\u0c30\u0c46\u0c38\u0c4d\u0c1f\u0c4d", "\u0c2a\u0c30\u0c4d\u0c35\u0c24\u0c02", "\u0c2a\u0c4d\u0c30\u0c2a\u0c02\u0c1a\u0c02\u0c32\u0c4b", "\u0c0e\u0c24\u0c4d\u0c24\u0c48\u0c28\u0c26\u0c3f\u0c17\u0c3e", "\u0c0e\u0c28\u0c4d\u0c28\u0c3f\u0c15\u0c48\u0c02\u0c26\u0c3f", "."], "ner_tags": [4, 4, 0, 0, 0, 0]}
+{"tokens": ["\u0c2a\u0c3e\u0c30\u0c3f\u0c38\u0c4d", "\u0c0e\u0c2b\u0c3f\u0c32\u0c4d", "\u0c1f\u0c35\u0c30\u0c4d", "\u0c2a\u0c30\u0c4d\u0c2f\u0c3e\u0c1f\u0c15\u0c41\u0c32\u0c15\u0c41", "\u0c06\u0c15\u0c30\u0c4d\u0c37\u0c23", "."], "ner_tags": [3, 4, 4, 0, 0, 0]}
+{"tokens": ["\u0c2c\u0c3f\u0c30\u0c4d\u0c32\u0c3e", "\u0c2e\u0c02\u0c26\u0c3f\u0c30\u0c4d", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c32\u0c4b", "\u0c38\u0c4d\u0c25\u0c3e\u0c2a\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [4, 4, 3, 0, 0]}
+{"tokens": ["\u0c21\u0c3e\u0c15\u0c4d\u0c1f\u0c30\u0c4d", "\u0c0e\u0c2a\u0c3f\u0c1c\u0c46", "\u0c05\u0c2c\u0c4d\u0c26\u0c41\u0c32\u0c4d", "\u0c15\u0c32\u0c3e\u0c02", "\u0c2d\u0c3e\u0c30\u0c24", "\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c2a\u0c24\u0c3f", "\u0c17\u0c3e\u0c28\u0c41", "\u0c2a\u0c28\u0c3f\u0c1a\u0c47\u0c36\u0c3e\u0c30\u0c41", "."], "ner_tags": [6, 1, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c2e\u0c3f\u0c37\u0c28\u0c4d", "\u0c2e\u0c02\u0c17\u0c33\u0c4d", "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e\u0c28\u0c41", "\u0c06\u0c15\u0c4d\u0c37\u0c2f\u0c4d", "\u0c15\u0c41\u0c2e\u0c3e\u0c30\u0c4d", "\u0c05\u0c27\u0c4d\u0c35\u0c30\u0c4d\u0c2f\u0c02\u0c32\u0c4b", "\u0c24\u0c40\u0c2f\u0c21\u0c02", "\u0c1c\u0c30\u0c3f\u0c17\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [0, 4, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["\u0c0f\u0c2a\u0c4d\u0c30\u0c3f\u0c32\u0c4d", "2021\u0c28", "\u0c26\u0c47\u0c36\u0c35\u0c4d\u0c2f\u0c3e\u0c2a\u0c4d\u0c24\u0c02\u0c17\u0c3e", "\u0c32\u0c3e\u0c15\u0c4d\u200c\u0c21\u0c4c\u0c28\u0c4d", "\u0c2a\u0c4d\u0c30\u0c15\u0c1f\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41", "."], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["\u0c17\u0c4b\u0c2a\u0c3f\u0c1a\u0c02\u0c26\u0c4d", "\u0c15\u0c4b\u0c1f", "\u0c35\u0c3f\u0c1c\u0c2f\u0c35\u0c3e\u0c21", "\u0c28\u0c17\u0c30\u0c3e\u0c28\u0c3f\u0c15\u0c3f", "\u0c2a\u0c15\u0c4d\u0c15\u0c28", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 4, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c02\u0c17\u0c40\u0c24", "\u0c26\u0c30\u0c4d\u0c36\u0c15\u0c41\u0c21\u0c41", "\u0c2e\u0c23\u0c3f\u0c36\u0c30\u0c4d\u0c2e", "\u0c1a\u0c3e\u0c32\u0c3e", "\u0c2a\u0c4d\u0c30\u0c2e\u0c41\u0c16\u0c41\u0c21\u0c41", "."], "ner_tags": [0, 0, 1, 0, 0, 0]}
+{"tokens": ["\n0a", "\u000b0c", "\u000b2\f4d\u0000b2\f3f", "\u0000ac\u0000bf\u0000b0\f3f\u0000b8\f4d", "\u0000aa\f3e\u0000b2\u0000bf", "\u0000b8\f3f\u0000c1\u0000b2\u0000bf", "\u0000ac\u0000bf\u0000b0\f4d\u0000b9\u0000be\u0000a8\f4d", "\u0000aa\u0000bf\u0000b0\u0000bf\f2\u0000b2\f4b"], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["\u0000a7\u0000ca", "\u0000ae\f0", "\u0000b2\u0000f1", "\u0000ad\u0000bf\u0000b0\f3f\u0000ac\f3e", "\u0000ae\f3e\u0000b9\f3e\u0000b0\f3e\f2", "\u0000b9\u0000be\u0000b0\f2\u0000b8\f3f"], "ner_tags": [0, 0, 0, 5, 0, 5]}
+{"tokens": ["\u0000a6\u0000c7", "\u0000b8\f47\u0000aa\f4d\u0000a4\f46\u0000ae\f4d\u0000ac\f30\f4d", "\u0000ba\f15\u0000b2\f47\f28\f4d", "\u0000b8\f47\u0000aa\f4d\u0000a4\u0000c2", "\u0000b2\f47\u0000a1\f4d"], "ner_tags": [0, 0, 0, 1, 2]}
+{"tokens": ["\u0000a8\f46", "\u0000b9\f47\u0000ae\u0000be\u0000a8\f3f", "\u0000bb\f47", "\u0000b1\f46\u0000a8\f46\u0000a1\f40\u0000af\f3e", "\u0000b1\f3e\u000b7\f4d\u0000b0\f3e", "\u0000b2\f4b", "\u0000b5\f3f\u0000a6\f4d\u000b5\f47", "\u0000b8\f3e\f47\n7"], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 5]}
+{"tokens": ["\u0000b8\f41\u0000b7\f3f\u0000ae\f4d", "\u0000b6\u0000be\u000b0\f4d\u000b5\f3e", "\u0000ba\f3f\u000b0\f3e\f02\u0000a4\f4d", "\u0000b9\f3f\u000b0\f3e\n2\f3e\n6\f3f", "\u0000ae\u0000be\u000b3\f26\f3f"], "ner_tags": [0, 5, 0, 5, 1]}
+{"tokens": ["\u0000ac\u0000bf\u0000b0\f3f\u0000b8\f4d", "\u0000ae\f47\u000bb\f3f\u0000b0\f40\f1\nc\f3e", "\u0000b8\f3f\u000b1\f47\u000b5\f47\u000b2\f3f"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\u0000a4\f3f\u0000b0\f41\u000b3\f4d", "\u0000b5\f47\u0000aa\f46\f02", "\u0000ae\f46\u0000ae\u000bb\f47\u0000b0", "\u0000bb\f3f\u000b2\f40\u000b9\f3e", "\u0000ba\f3f\u000b0\f41\u000b1\f4d"], "ner_tags": [0, 0, 3, 0, 3]}
+{"tokens": ["\u0000b6\f47\u000b3\f15", "Hyderabad", "\u0000b8\f47\f15\u000b0\f3e", "\u0000b5\f75"], "ner_tags": [0, 1, 2, 3]}
+{"tokens": ["\u0000b2\f3f\u000b2\f3f\u000b9\f3f", "\u0000aa\f47\u0000b9\f15", "\u0000ba\f3f\na\u0000b3\f3f"], "ner_tags": [0, 5, 0]}
+{"tokens": ["\u0000ae\u0000bf\u000bb\f02", "\u0000ba\f3f\u000b1", "\u0000ba\f47\u0000a6\f3f", "\u0000b0\f47\u0000ba\f3f\u0000aa\f3e"], "ner_tags": [0, 3, 0, 1]}
+{"tokens": ["\u0000ac\f46\u0000ae\f4d\u0000a4\f3f\f1a\f3f", "\u0000bb\f3f\u000bb\f4d\u0000bb\f3e\n3"], "ner_tags": [0, 5]}
+{"tokens": ["\u0000b6\f3e\u0000ae", "\u0000b2\f3e\u000b2\f4d\u0000b2\f3f", "\u0000bb\f0\u000b0\f3f\u000ba"], "ner_tags": [5, 5, 0]}
+{"tokens": ["\u0000a4\f47", "\u0000b0\f4b\u0000a1\f4d", "\u0000ba\f41\u0000b0\f48"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\u0000b2\f47\f16\f3e\u0000a8\f3e", "\u0000ba\f47\u000b7\f4d"], "ner_tags": [5, 0]}
+{"tokens": ["\u0000ae\u0000be\u000bb", "\u0000b2\f57", "\u0000ac\u0000bf\u0000b0"], "ner_tags": [0, 5, 1]}
+{"tokens": ["\u0000a1\f47\u000b1", "\u0000ba\f40\u000b7\f3e", "\u0000b2\f3f\u000b2\f47"], "ner_tags": [0, 0, 5]}
+{"tokens": ["\u0000b5\f3f\u0000ae", "\u0000b8\f45\u000b3\f47\nc\f3f", "\u0000ba\f47\u000b6\f3f"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\u0000a2\f0\f2\f15", "\u0000b5\f47\n6\f3f", "\u0000a1\u0000bf\f35\f46"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\u0000bb\f4a\u000b1\f41", "\u0000b2\f47", "\u0000bb\f47\u000b4\f47\n4\f4d", "\u0000a8\u0000be", "\u0000ab\u0000be\u0000b5"], "ner_tags": [0, 5, 0, 1, 2]}
+{"tokens": ["\u0000b9\f46\u0000ae\f4d\f15", "\u0000a6\u0000bf\u000b0\f47\f16", "\u0000b0\f3f\u000b6\f3f"], "ner_tags": [0, 0, 5]}
+{"tokens": ["\n", "\u000b", "\u0000c"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0000d", "\u0000e", "\u0000f", "\u00010", "\u00011"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u00012", "\u00013", "\u00014", "\u00015", "\u00016", "\u00017"], "ner_tags": [0, 0, 1, 2, 0, 0]}
+{"tokens": ["\u00018", "\u00019", "\u0001a", "\u0001b", "\u0001c"], "ner_tags": [0, 0, 0, 1, 2]}
+{"tokens": ["\u0001d", "\u0001e", "\u0001f", "\u00020"], "ner_tags": [5, 0, 0, 1]}
+{"tokens": ["\u00021", "\u00022", "\u00023"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u00024", "\u00025", "\u00026", "\u00027"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\u00028", "\u00029", "\u0002a", "\u0002b", "\u0002c"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0002d", "\u0002e", "\u0002f", "\u00030"], "ner_tags": [3, 4, 0, 0]}
+{"tokens": ["\u00031", "\u00032", "\u00033"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u00034", "\u00035", "\u00036", "\u00037"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u00038", "\u00039", "\u0003a", "\u0003b"], "ner_tags": [0, 5, 0, 1]}
+{"tokens": ["\u0003c", "\u0003d", "\u0003e"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0003f", "\u00040", "\u00041"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u00042", "\u00043", "\u00044", "\u00045"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u00046", "\u00047", "\u00048", "\u00049", "\u0004a"], "ner_tags": [5, 0, 1, 2, 0]}
+{"tokens": ["\u0004b", "\u0004c", "\u0004d", "\u0004e"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u0004f", "\u00050", "\u00051"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u00052", "\u00053", "\u00054", "\u00055"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u00056", "\u00057", "\u00058", "\u00059"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\f21\f3e\f35\f3f\f21\f4d", "\f18\f3e\f02\f27\f40", "\f12\f15\f4d\f1f\f4b\f2c\f30", "\f15\f3e\f30\f4d\f32\f40", "\f15\f42\f30\f4d\f2a\f4a\f30\f47\f1f\f4d\f32", "."], "ner_tags": [1, 2, 0, 3, 0, 0]}
+{"tokens": ["\f26\f46\f32\f4d\f39\f40", "\f39\f4d\f2f\f41\f26\f3e", "\f1f\f3e\f15\f4d\f38\f3e\f38\f4d", "\f38\f3f\f17\f3e\f30\f41", "\f24\f46\f32\f41\f17\f41", "\f15\f32\f4d\f32\f42\f1c\f3e", "\f15\f3f\f32\f3f\f2e\f3f\f1f\f4d", "\f15\f3e\f30\f4d\f2a\f4a\f30\f47\f1f\f30\f4d\f32", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["\f28\f17\f30\f3e\f1c\f41\f28\f3e", "\f2c\f41\f15\f3f\f02\f17\f4d", "\f28\f47", "\f05\f1a\f4d\f2f", "?."], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\f38\f41\f30\f2a\f24\f4b\f30\f3f\f2f\f3e", "\f1d\f3e\f32\f02\f05\f23\f40\f15\f30\f02", "\f15\f4b\f28\f4d\f28\f3f", "\f39\f3e\f5f\f4d\f30\f2c\f3e\f26\f41", "."], "ner_tags": [0, 1, 0, 0, 0]}
+{"tokens": ["\f1a\f02\f26\f3f\f17\f21\f4d", "\f2a\f41\f28\f47", "\f0f\f28\f15\f4d\f32\f3f\f37\f4d", "\f35\f3f\f1c\f2f\f4d\f2f", "."], "ner_tags": [3, 0, 0, 0, 0]}
+{"tokens": ["\f27\f3f\f32\f4d\f32\f40\f2a\f3f", "\f05\f2e\f46\f30\f3f\f15\f3e", "\f05\f32\f35\f3e\f30\f41", "-", "\f21\f46\f38\f4d", "\f15\f12\f2a\f4d", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f26\f40\f28\f3f\f37\f15\f4d\f15\f41\f2e\f3e\f30\f41", "\f30\f35\f3f\f28\f4d\f26\f30\f3e\f38\f4d\f25\f28\f3e", "\f10\f2a\f4d\f2a\f32\f41", "\f38\f15\f4d\f2f\f41", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\f17\f3e\f30\f41\f21\f3e\f35\f4d", "\f2c\f46\f00\f17\f32\f4b\f30\f4d", "\f2f\f41\f1f\f15\f3e\f15\f4b\f1f\f3f", "\f05\f02\f26\f15\f4d", "\f28\f15\f4d\f38\f1f\f3e", "\f39\f48\f2d\f30\f4d", "\f15\f3f\f02\f17\f4d\f21\f4b\f02", "\f1c\f40\f35\f3e\f23\f28\f4d", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f26\f3f\f28\f3f\f37\f4d\f15\f4d", "\f09\f24\f4d\f24\f30", "\f0a\f08\f41", "\f15\f3e\f2a\f41", "\f38\f02\f2c\f7e", "\f28\f3f\f30\f41", "\f1a\f46\f38\f3f\f28\f41\f35\f41", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f36\f28\f47\f35", "\f2a\f15\f3f\f38\f4d\f25\f3e\f02", "\f2d\f3e\f30\f24\f46", "\f26\f3f\f32\f4d\f32\f40\f15\f41", "\f39\f48\f26\f30\f3e\f28\f3f", "."], "ner_tags": [0, 3, 0, 0, 0, 0]}
+{"tokens": ["\f39\f48\f26\f30\f3e", "\f28\f3f\f15\f42\f2c", "\f15\f3e\f35\f4d\f2f\f1f\f3f", "\f32\f4b", "\f30\f3f\f15\f4d\f37\f3e\f35", "\f2e\f02\f26\f3f\f02", "\f24\f02\f21\f02", "\f2e\f3e\f7e\f2e\f4d\f2c\f4d", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f2a\f3e\f2f\f46\f21\f4b\f2e\f3e", "\f15\f42\f32\f4d\f15\f24\f3e", "\f39\f48\f26\f30\f3e\f28\f3f", "."], "ner_tags": [3, 0, 0, 0]}
+{"tokens": ["\f06\f1c\f2e\f4d\f2a\f47", "\f05\f02\f26\f30", "\f28\f3e\f2a\f4b\f32\f3f", "\f15\f30\f28\f4d", "\f21\f46\f35", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\f38\f3e\f2e\f4d", "\f2e\f1b\f21\f3e", "\f15\f02\f17\f4d\f02", "\f1a\f3f\f28\f4d\f28\f3e\f31\f02", "\f38\f46", "\f32\f4b", "\f05\f02\f26\f38\f4d\f24\f41\f32\f4b", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f35\f3f\f2d\f42\f24\f3f", "\f28\f3f\f32\f2c\f4d\f2d\f02\f26", "\f39\f48\f26\f30\f3e\f28\f3f", "\f13\f15\f4d\f2f", "\f26\f4d\f35\f40\f2a\f4d\f24\f3f", "\f13\f15\f4d\f30\f02", "\f1a\f3f\f24\f4d\f30\f3e", "\f28\f41\f15\f40", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f28\f47\f2f\f4d\f2f\f4a\f30\f4d\f15", "\f05\f28\f3f\f37\f4d\f15\f3e", "\f30\f1f\f28\f4d\f38\f4d\f15", "\f35\f3f\f26\f4d\f2f\f41", "\f17\f4d\f30\f02\f20\f3f\f15\f3e\f28\f3f", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\f38\f41\f30\f3f\f35\f3e", "\f24\f3f\f30\f41\f2a\f24\f40", "\f2a\f46\f38\f3e\f35\f30\f3f", "\f35\f48\f36\f4d\f23\f35\f41", "."], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\f2c\f3e\f30\f24\f3f", "\f07\f02\f21\f3f\f2f\f3e", "\f38\f02\f18", "\f06\f23\f4d\f21\f47", "\f0e\f7e\f02"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\f2a\f4d\f30\f15\f3e\f36\f4d", "\f2e\f3e\f15\f4d\f38\f3f\f15\f4b", "\f39\f48\f26\f30\f3e\f28\f3f", "\f28\f3f\f30\f41", "\f30\f41\f26\f4d\f30", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\f09\f24\f4d\f24\f30", "\f2e\f39\f2c\f42\f30\f3e", "\f35\f3f\f37\f3e\f32\f4d", "\f15\f32\f4d\f32\f41", "\f0a\f37\f3e\f37\f3f\f15\f3e\f30\f41", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\n\u000e", "\u000b8\u000be\u00028", "\f7"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\u000e8\u000b8", "\u0004d", "\u000b2\f6\u00039", "\u000b2\u000b2\u00034", "\u000b1\u000b4"], "ner_tags": [0, 3, 4, 0, 0]}
+{"tokens": ["\u000b9\u000bc\u000be\u0004c", "\u000b2\f3\u00028"], "ner_tags": [5, 0]}
+{"tokens": ["\u000b8\u000b5\u0004c\u000b6", "\f7\u000be\u00039"], "ner_tags": [0, 2]}
+{"tokens": ["\f0\u000b9\u00041", "\f8", "\u000b7\f2", "\u000b5\f2", "\u000b5\u000b2"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\n8\u000b0\ne\u00027", "\u000be\u000b2", "\u000b7\u000b9"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u000b7\u000bf\u000b8\u00011", "\f7\u000b7\u00032", "\u000b8\u000b6", "\f5", "\u000b9\u0002b"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\n8\u000bc", "\u000bb\nb\u000baa"], "ner_tags": [0, 0]}
+{"tokens": ["\f8\n7", "\u000b7\n9", "\ne\u00034"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u000be\u000bb\nd", "\f6", "\u000b6", "\u000b7\u000b0"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u000b9\u000be\u000b2", "\ne\u000b8", "\f1\n1", "\ne\u00039"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\n5", "\u000bb\u000ba", "\u000bb\n7"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u000be\n9", "\u000b5", "\u000b9\u000b9", "\f5"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u000ba\u000bb", "\u000bd\u000b8", "\u000bb\u000b2", "\u000ba\u00035"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u000ba\u000bc", "\u000bb\u000b0"], "ner_tags": [0, 0]}
+{"tokens": ["\u000b3", "\f7", "\u000b8\u0001e"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u000ba\u000bc\u000b1", "\u000bc\n8", "\f4"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\u000be\n9\u000bf", "\u000ba\u000bc\ne"], "ner_tags": [5, 0]}
+{"tokens": ["\u000b7\ne", "\f2\u000b5", "\u000be\u000b8"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\na", "\u000bb\u000bb\u000ba", "\u000b7"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0c15\u0c43\u0c37\u0c4d\u0c23\u0c3e", "\u0c28\u0c26\u0c3f", "\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23", "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36\u0c02\u0c32\u0c4b", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27\u0c24", "\u0c38\u0c02\u0c2a\u0c3e\u0c26\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c30\u0c3e\u0c1f\u0c4d", "\u0c15\u0c4b\u0c39\u0c4d\u0c32\u0c40", "\u0c1a\u0c3e\u0c32\u0c3e", "\u0c05\u0c26\u0c4d\u0c2d\u0c41\u0c24\u0c2e\u0c48\u0c28", "\u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c30\u0c4d", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40", "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36", "\u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f", "."], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u0c30\u0c3e\u0c1c\u0c47\u0c02\u0c26\u0c4d\u0c30", "\u0c2a\u0c4d\u0c30\u0c38\u0c3e\u0c26\u0c4d", "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36", "\u0c2e\u0c4a\u0c26\u0c1f\u0c3f", "\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c2a\u0c24\u0c3f", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c3e\u0c2f\u0c3f", "\u0c2c\u0c3e\u0c2c\u0c3e", "\u0c36\u0c3f\u0c30\u0c4d\u0c21\u0c40", "\u0c32\u0c4b", "\u0c2a\u0c42\u0c1c\u0c3f\u0c02\u0c2a\u0c2c\u0c21\u0c24\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 2, 1, 0, 0, 0]}
+{"tokens": ["\u0c17\u0c23\u0c47\u0c37\u0c4d", "\u0c13", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27", "\u0c39\u0c3f\u0c02\u0c26\u0c42", "\u0c26\u0c47\u0c35\u0c41\u0c21\u0c41", "."], "ner_tags": [1, 0, 0, 1, 2, 0]}
+{"tokens": ["\u0c38\u0c48\u0c2c\u0c30\u0c4d", "\u0c1f\u0c35\u0c30\u0c4d\u0c38\u0c4d", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c32\u0c4b", "\u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f", "."], "ner_tags": [1, 2, 1, 0, 0, 0]}
+{"tokens": ["\u0c2e\u0c40\u0c30\u0c41", "\u0c2e\u0c41\u0c02\u0c2c\u0c48", "\u0c0e\u0c2a\u0c4d\u0c2a\u0c41\u0c21\u0c41", "\u0c35\u0c1a\u0c4d\u0c1a\u0c3e\u0c30\u0c41", "?"], "ner_tags": [0, 1, 0, 0, 0]}
+{"tokens": ["\u0c05\u0c2a\u0c4b\u0c32\u0c4b", "\u0c39\u0c3e\u0c38\u0c4d\u0c2a\u0c3f\u0c1f\u0c32\u0c4d", "\u0c1a\u0c46\u0c28\u0c4d\u0c28\u0c48", "\u0c32\u0c4b", "\u0c05\u0c27\u0c41\u0c28\u0c3e\u0c24\u0c28", "\u0c38\u0c4c\u0c15\u0c30\u0c4d\u0c2f\u0c3e\u0c32\u0c41", "\u0c07\u0c1a\u0c4d\u0c1a\u0c3f\u0c28\u0c26\u0c3f", "."], "ner_tags": [1, 2, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c24\u0c4d\u0c2f\u0c28\u0c3e\u0c26\u0c46\u0c33\u0c4d\u0c32\u0c3e", "\u0c2e\u0c48\u0c15\u0c4d\u0c30\u0c4b\u0c38\u0c3e\u0c2b\u0c4d\u0c1f\u0c4d", "\u0c38\u0c40\u0c08\u0c13", "\u0c17\u0c3e", "\u0c2a\u0c28\u0c3f", "\u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23", "\u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35\u0c02", "\u0c15\u0c33\u0c47\u0c36\u0c4d\u0c35\u0c30\u0c02", "\u0c2a\u0c4d\u0c30\u0c3e\u0c1c\u0c46\u0c15\u0c4d\u0c1f\u0c4d", "\u0c28\u0c3f\u0c30\u0c4d\u0c2e\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 0, 1, 2, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c26\u0c4d\u0c2f", "\u0c28\u0c17\u0c30\u0c4d", "\u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 2, 1, 0, 0]}
+{"tokens": ["\u0c17\u0c02\u0c1f\u0c3f", "\u0c38\u0c42\u0c30\u0c4d\u0c2f", "", "", "\u0c28\u0c3e\u0c30\u0c3e\u0c2f\u0c23", "", "\u0c2a\u0c4d\u0c30\u0c2e\u0c41\u0c16", "\u0c30\u0c1a\u0c2f\u0c3f\u0c24", "."], "ner_tags": [1, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["\u0c17\u0c4d\u0c30\u0c47\u0c1f\u0c30\u0c4d", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c2e\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c32\u0c4d", "\u0c15\u0c3e\u0c30\u0c4d\u0c2a\u0c4a\u0c30\u0c47\u0c37\u0c28\u0c4d", "\u0c12\u0c15", "\u0c28\u0c17\u0c30", "\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c3f\u0c15", "\u0c38\u0c02\u0c38\u0c4d\u0c25", "."], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c2c\u0c02\u0c17\u0c3e\u0c30\u0c41", "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27", "\u0c14\u0c24\u0c4d\u0c38\u0c3e\u0c39\u0c3f\u0c15", "\u0c15\u0c35\u0c3f", "."], "ner_tags": [1, 1, 0, 0, 2, 0]}
+{"tokens": ["\u0c2a\u0c40\u0c35\u0c40", "\u0c38\u0c3f\u0c02\u0c27\u0c41", "\u0c12\u0c32\u0c3f\u0c02\u0c2a\u0c3f\u0c15\u0c4d\u0c38\u0c4d", "\u0c32\u0c4b", "\u0c2e\u0c46\u0c21\u0c32\u0c4d", "\u0c38\u0c3e\u0c27\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 1, 0, 0, 0]}
+{"tokens": ["\u0c35\u0c46\u0c02\u0c15\u0c1f\u0c47\u0c36\u0c4d\u0c35\u0c30", "\u0c38\u0c4d\u0c35\u0c3e\u0c2e\u0c3f", "\u0c24\u0c3f\u0c30\u0c41\u0c2e\u0c32", "\u0c32\u0c4b", "\u0c2a\u0c42\u0c1c\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c24\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 2, 1, 0, 0, 0]}
+{"tokens": ["\u0c1c\u0c17\u0c28\u0c4d", "\u0c2e\u0c4b\u0c39\u0c28\u0c4d", "\u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f", "\u0c06\u0c02\u0c27\u0c4d\u0c30\u0c2a\u0c4d\u0c30\u0c26\u0c47\u0c36\u0c4d", "\u0c2e\u0c41\u0c16\u0c4d\u0c2f\u0c2e\u0c02\u0c24\u0c4d\u0c30\u0c3f", "."], "ner_tags": [1, 2, 2, 1, 0, 0]}
+{"tokens": ["\u0c0e\u0c32\u0c28\u0c4d", "\u0c2e\u0c38\u0c4d\u0c15\u0c4d", "\u0c1f\u0c46\u0c38\u0c4d\u0c32\u0c3e", "\u0c38\u0c40\u0c08\u0c13", "."], "ner_tags": [1, 2, 2, 0, 0]}
+{"tokens": ["\u0c30\u0c3e\u0c2e\u0c4b\u0c1c\u0c40", "\u0c2b\u0c3f\u0c32\u0c4d\u0c2e\u0c4d", "\u0c38\u0c3f\u0c1f\u0c40", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c32\u0c4b", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27", "."], "ner_tags": [1, 2, 2, 1, 0, 0]}
+{"tokens": ["\u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c32\u0c47\u0c16\u0c3e", "\u0c26\u0c42\u0c30\u0c26\u0c30\u0c4d\u0c36\u0c28\u0c4d", "\u0c1a\u0c46\u0c15\u0c4d\u0c15\u0c42\u0c30\u0c41", "\u0c2a\u0c4d\u0c30\u0c26\u0c30\u0c4d\u0c36\u0c3f\u0c24\u0c02", "\u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f", "."], "ner_tags": [0, 2, 1, 0, 0, 0]}
+{"tokens": ["\u0c2a\u0c26\u0c4d\u0c2e\u0c3e\u0c35\u0c24\u0c3f", "\u0c35\u0c3f\u0c1c\u0c2f\u0c28\u0c17\u0c30\u0c02", "\u0c32\u0c4b", "\u0c2a\u0c41\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0c21\u0c3e\u0c15\u0c4d\u0c1f\u0c30\u0c4d", "\u0c35\u0c46\u0c02\u0c15\u0c1f\u0c47\u0c37\u0c4d", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c32\u0c4b", "\u0c2a\u0c4d\u0c30\u0c3e\u0c15\u0c4d\u0c1f\u0c40\u0c38\u0c4d", "\u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c3e\u0c30\u0c41", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["2008", "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e", "\u0c28\u0c02\u0c26\u0c3f", "\u0c05\u0c35\u0c3e\u0c30\u0c4d\u0c21\u0c41", "\u0c17\u0c46\u0c32\u0c41\u0c1a\u0c41\u0c15\u0c41\u0c02\u0c26\u0c3f", "."], "ner_tags": [4, 0, 1, 2, 0, 0]}
+{"tokens": ["\u0c30\u0c3e\u0c2e\u0c41\u0c21\u0c41", "\u0c39\u0c3e\u0c30\u0c4d\u0c35\u0c30\u0c4d\u0c21\u0c4d", "\u0c35\u0c3f\u0c36\u0c4d\u0c35\u0c35\u0c3f\u0c26\u0c4d\u0c2f\u0c3e\u0c32\u0c2f\u0c02", "\u0c32\u0c4b", "\u0c1a\u0c26\u0c41\u0c35\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0c15\u0c43\u0c37\u0c4d\u0c23\u0c3e", "\u0c28\u0c26\u0c3f", "\u0c35\u0c30\u0c26\u0c32\u0c41", "\u0c2a\u0c32\u0c4d\u0c28\u0c3e\u0c21\u0c41", "\u0c32\u0c4b", "\u0c24\u09c0\u09ac\u0c4d\u0c30\u0c02\u0c17\u0c3e", "\u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c2f\u0c3f", "."], "ner_tags": [1, 3, 0, 2, 0, 0, 0]}
+{"tokens": ["\u0c2e\u0c39\u0c47\u0c36\u0c4d", "\u0c2c\u0c3e\u0c2c\u0c41", "\u0c1c\u0c28\u0c28\u0c02", "\u0c1a\u0c46\u0c28\u0c4d\u0c28\u0c48", "\u0c32\u0c4b", "\u0c1c\u0c30\u0c3f\u0c17\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 1, 0, 2, 0, 0]}
+{"tokens": ["\u0c2e\u0c23\u0c3f\u0c2a\u0c42\u0c30\u0c4d", "\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c02", "\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41", "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36\u0c02\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [2, 3, 0, 5, 0, 0]}
+{"tokens": ["\u0c38\u0c42\u0c30\u0c4d\u0c2f", "\u0c15\u0c3f\u0c02\u0c2c\u0c30\u0c4d\u0c32\u0c40", "\u0c2a\u0c47\u0c30\u0c3f\u0c1f\u0c4d", "\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c28\u0c30\u0c4d", "."], "ner_tags": [1, 1, 1, 0, 0]}
+{"tokens": ["\u0c05\u0c02\u0c1c\u0c32\u0c3f", "\u0c1a\u0c3f\u0c24\u0c4d\u0c24\u0c42\u0c30\u0c41", "\u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e\u0c15\u0c41", "\u0c1a\u0c46\u0c02\u0c26\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 3, 0, 0]}
+{"tokens": ["\u0c2a\u0c30\u0c3f\u0c36\u0c41\u0c26\u0c4d\u0c27", "\u0c2e\u0c3e\u0c30\u0c3f\u0c2f\u0c3e", "\u0c1a\u0c30\u0c4d\u0c1a\u0c3f", "\u0c35\u0c3f\u0c1c\u0c2f\u0c35\u0c3e\u0c21\u0c32\u0c4b", "\u0c28\u0c17\u0c30\u0c02\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [0, 1, 3, 2, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c02\u0c17\u0c40\u0c24", "\u0c38\u0c2e\u0c4d\u0c2e\u0c47\u0c33\u0c28\u0c02", "\u0c26\u0c3f", "\u0c17\u0c41\u0c30\u0c41\u0c1c\u0c3e\u0c21\u0c3e", "\u0c05\u0c21\u0c3f\u0c1f\u0c4b\u0c30\u0c3f\u0c2f\u0c02\u0c32\u0c4b", "\u0c28\u0c21\u0c3f\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u0c06\u0c2f\u0c28", "\u0c30\u0c37\u0c4d\u0c2f\u0c3e", "\u0c26\u0c47\u0c36\u0c3e\u0c28\u0c3f\u0c15\u0c3f", "\u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3e\u0c21\u0c41", "."], "ner_tags": [0, 2, 3, 0, 0]}
+{"tokens": ["\u0c17\u0c41\u0c02\u0c1f\u0c42\u0c30\u0c41", "\u0c35\u0c3e\u0c23\u0c3f\u0c1c\u0c4d\u0c2f\u0c2a\u0c41\u0c30\u0c02", "\u0c30\u0c48\u0c32\u0c4d\u0c35\u0c47", "\u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27\u0c3f", "\u0c17\u0c3e\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [2, 1, 1, 1, 0, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c1c\u0c2f\u0c4d", "\u0c26\u0c40\u0c2a\u0c15\u0c4d", "\u0c1a\u0c02\u0c2a\u0c3e\u0c2a\u0c47\u0c1f", "\u0c32\u0c4b", "\u0c28\u0c3f\u0c35\u0c38\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 1, 2, 0, 0]}
+{"tokens": ["\u0c2a\u0c4d\u0c30\u0c4a\u0c2b\u0c46\u0c38\u0c30\u0c4d", "\u0c32\u0c15\u0c4d\u0c37\u0c4d\u0c2e\u0c40", "\u0c2d\u0c3e\u0c30\u0c24", "\u0c09\u0c28\u0c4d\u0c28\u0c24", "\u0c38\u0c3e\u0c02\u0c15\u0c47\u0c24\u0c3f\u0c15", "\u0c35\u0c3f\u0c26\u0c4d\u0c2f\u0c3e", "\u0c38\u0c02\u0c38\u0c4d\u0c25", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "."], "ner_tags": [0, 1, 3, 3, 3, 3, 3, 2, 0]}
+{"tokens": ["\u0c38\u0c1a\u0c3f\u0c28\u0c4d", "\u0c21\u0c3e\u0c30\u0c4d\u0c38\u0c28\u0c4d", "\u0c07\u0c02\u0c17\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d", "\u0c1c\u0c1f\u0c4d\u0c1f\u0c41\u0c15\u0c41", "\u0c2a\u0c4d\u0c30\u0c24\u0c3f\u0c28\u0c3f\u0c27\u0c3f\u0c17\u0c3e", "\u0c06\u0c21\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 1, 2, 3, 0, 0, 0]}
+{"tokens": ["\u0c30\u0c3e\u0c1c\u0c2e\u0c39\u0c47\u0c02\u0c26\u0c4d\u0c30\u0c35\u0c30\u0c02", "\u0c17\u0c4b\u0c26\u0c3e\u0c35\u0c30\u0c3f", "\u0c24\u0c40\u0c30\u0c02\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [2, 3, 0, 0, 0]}
+{"tokens": ["\u0c21\u0c4b\u0c23\u0c3e\u0c32\u0c4d\u0c21\u0c4d", "\u0c1f\u0c4d\u0c30\u0c02\u0c2a\u0c4d", "\u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e", "\u0c38\u0c02\u0c2f\u0c41\u0c15\u0c4d\u0c24", "\u0c30\u0c3e\u0c37\u0c4d\u0c1f\u0c4d\u0c30\u0c3e\u0c32", "\u0c2a\u0c41\u0c30\u0c4d\u0c35", "\u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28\u0c3f", "."], "ner_tags": [1, 1, 5, 3, 3, 0, 0, 0]}
+{"tokens": ["2022", "\u0c32\u0c4b", "\u0c07\u0c02\u0c1f\u0c30\u0c4d\u0c28\u0c47\u0c37\u0c28\u0c32\u0c4d", "\u0c2b\u0c3f\u0c32\u0c4d\u0c2e\u0c4d", "\u0c2b\u0c46\u0c38\u0c4d\u0c1f\u0c3f\u0c35\u0c32\u0c4d", "\u0c17\u0c4b\u0c35\u0c3e", "\u0c32\u0c4b", "\u0c28\u0c3f\u0c30\u0c4d\u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41", "."], "ner_tags": [4, 0, 0, 0, 0, 2, 0, 0, 0]}
+{"tokens": ["\n", "\u001c", "\u001f", "\u000e", "\f", "\u0016", "\u001e", "\u0018", "\u001b", "\u0014", "\f"], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["\u001f", "\u001e", "\u001b", "\n", "\u0014", "\u001c", "\u001a", "\u0019", "\u000e", "\u001c", "\u001e", "\u001c\u001e"], "ner_tags": [0, 1, 2, 0, 0, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u001c\u0017", "\u001c", "\u001f", "\u000e", "\u001c\u001e", "\u001d", "\u001f", "\u001e"], "ner_tags": [1, 2, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\u001a", "\u001b", "\u001c", "\u001e", "\u001f", "\u0014", "\n", "\u0016", "\u001a\u001e"], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 3, 4]}
+{"tokens": ["\u001c", "\u001e", "\u001b", "\u0016", "\u0014", "\f", "\u001a", "\u001f", "\u001d"], "ner_tags": [0, 1, 2, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\u001a", "\u001b", "\u001d", "\u001e\u001e", "\u001f", "\u001c", "\n", "\f", "\u000e"], "ner_tags": [0, 0, 0, 1, 2, 0, 3, 4, 0]}
+{"tokens": ["\u001b", "\n", "\u001a", "\f", "\u001f", "\u001e", "\u000e", "\f", "\u0014"], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["\f", "\u000e", "\f", "\n", "\u000e", "\f", "\n", "\u000e", "\f", "\n", "\u000b"], "ner_tags": [0, 1, 2, 0, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["\n", "\u0000b", "\u0001b", "\u0001c", "\f", "\u000e", "\u0000a", "\u0000e"], "ner_tags": [0, 0, 1, 2, 0, 0, 3, 4]}
+{"tokens": ["\f", "\u000e", "\u0001a", "\u0001a", "\u0001a", "\u0001a", "\u00018", "\u0001d", "\u0001f", "\u0001e"], "ner_tags": [0, 1, 2, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["\u0001c", "\u0001e", "\u0001f", "\u0001a", "\u00018", "\u0001d", "\u0001e"], "ner_tags": [1, 2, 0, 3, 4, 0, 0]}
+{"tokens": ["\u0001e", "\u0001c", "\u0001d", "\u0001e", "\u00017", "\u0001b", "\u000e", "\u0000e"], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4]}
+{"tokens": ["\u0001a", "\u00018", "\u0001d", "\u0001f", "\u0001e", "\u0001f", "\u0001a", "\u0001c", "\u0001e"], "ner_tags": [0, 0, 1, 2, 0, 3, 4, 0, 0]}
+{"tokens": ["\u0001e", "\u0001f", "\u0001a", "\u0001f", "\u0001e", "\u0001a", "\u0001c", "\u0001e"], "ner_tags": [1, 2, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\u0001a", "\u0001c", "\u0001e", "\u0001c", "\u0001c", "\u0001e", "\u0001c", "\u0001e"], "ner_tags": [0, 1, 2, 0, 3, 4, 0, 0]}
+{"tokens": ["\u0001f", "\u0001a", "\u0001d", "\u0001a", "\u0001e", "\u0001a", "\u0001c", "\u0001d", "\u0001a"], "ner_tags": [1, 2, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["\u0001b", "\u0001d", "\u0001a", "\u0001e", "\u0001f", "\u0001c", "\u0001e", "\u0001a"], "ner_tags": [0, 0, 1, 2, 0, 3, 4, 0]}
+{"tokens": ["\u0001a", "\u0001e", "\u0001c", "\u0001e", "\u0001a", "\u0001b", "\u0001e"], "ner_tags": [0, 1, 2, 0, 3, 4, 0]}
+{"tokens": ["\u0001e", "\u0001a", "\u0001f", "\u0001a", "\u0001e", "\u0001f", "\u0001a", "\u0001e"], "ner_tags": [1, 2, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\u0001f", "\u0001a", "\u0000b", "\u0001a", "\u0001b", "\u0001e", "\u0001c", "\u0001e"], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 4]}
+{"tokens": ["\u000b\u0015", "\u000b6\f0\f2\u000b8", "\u000b8\f3\u00038\f4", "\u000b9\f2\u000b1\u000b3", "\f2\f7\f1", "."], "ner_tags": [1, 2, 5, 6, 0, 0]}
+{"tokens": ["\u000b7\f2\u000bb\f1\f4\u000be\u000ba\u000b2\f0", "\u000b8\f2\fb", "\u000b9\f2\u000ba\u000bc\f0\nf", "\u000b1\fa\f1\f4", "\f3\f2\u000b6", "\u000b5\f3\u000bc\u000b9", "."], "ner_tags": [1, 2, 1, 0, 0, 0, 0]}
+{"tokens": ["\u000b1\f4\u000b3", "\f6\f3\u000bd", "\u000bf\f4\u000bb", "\fb\u000b6", "\f2\u000bd\u000b9\u000be\u000bb", "\f6\f1\u000bb", "\f3\f2\u000b7", "."], "ner_tags": [0, 5, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["\u000bb\f6", "\u000b8\f7\u000ba", "\u000b9\u000be\u000b9", "\u000ba\u000b2\f0", "\f1\u000b2\f3", "\f5\u000b0\f2", "\f4\u000bb", "."], "ner_tags": [0, 5, 6, 6, 0, 0, 0, 0]}
+{"tokens": ["\u000b7\u000bc\f2\u000b7\u000baa", "\u000b6\f4\u000b8", "\u000b3\f1\u000b5\u000bb", "\u000bf\f4\u000be", "\f6\u000b2\f2", "\f3\u000ba", "."], "ner_tags": [5, 6, 1, 2, 2, 0, 0]}
+{"tokens": ["\u000b2\u000bc\f3\f1", "\u000b8\f1\f3", "\u000bb\f7\u000bc", "\f5\u000be\f2", "\f0\u000ba", "\f1\u000bb", "."], "ner_tags": [1, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u000b7\u000bc", "\f4\u000be", "\u000ba\u000b3\f1", "\u000b5\f6\f7", "\f3\u000b7", "\u000be\f2", "\u000b5\f2\u000b9", "."], "ner_tags": [0, 0, 5, 6, 1, 2, 2, 0]}
+{"tokens": ["\u000b6\u000b3\f2", "\f6\f2\u000bc", "\u000b5\u000b7\f4", "\f2\u000b6\u000bb", "\u000bc\f2\u000bc", "\f1\f3\u000bb", "\u000b9\f2\u000b0", "\f7\u000bb", "\u000b6\f2\u000b6", "\f4\u000be", "."], "ner_tags": [3, 4, 4, 4, 4, 4, 4, 4, 4, 0, 0]}
+{"tokens": ["\u000b1\fa\f5", "\u000b2\f1\f4\u000bb", "\f3\u000ba", "\u000bb\f6\f3", "\u000b5\f1", "\f4\u000be", "\u000b3\u000bc", "\f3\u000b7", "."], "ner_tags": [5, 6, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["\u000baa\f4\u000b6", "\f5\f1\u000b2", "\u000b9\f3\u000b6", "\u000b3\f4\u000b9", "\f7\u000b6", "\u000bc\f2\u000bc", "."], "ner_tags": [0, 0, 5, 6, 1, 2, 0]}
+{"tokens": ["\u000b1\u000b5\f0", "\f6\u000be", "\u000bf\f0\f3", "\u000b9\f2\u000b9", "\u000ba\u000b6", "\f1\u000bb", "\f4\u000ba", "\f3\fb", "\f4\u000bc", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 4, 0, 0]}
+{"tokens": ["\u000b2\u000b8\f2", "\u000b3\f2\u000b9", "\u000bc\f2\u000b1", "\u000b5\f1", "\f5\u000bb", "\u000bf\u000b7", "\f3\u000b2", "\u000bb\f7", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 4, 0]}
+{"tokens": ["\u000baa\u000b7", "\u000b3\f5\u000b7", "\f7\u000bc", "\u000b8\f2", "\u000b9\f2\u000b9", "\u000b2\f0", "\f1\f2\u000bb", "\u000bc\f3", "."], "ner_tags": [0, 3, 4, 4, 4, 4, 4, 4, 0]}
+{"tokens": ["\u000b9\f2", "\f4\u000be", "\u000be\f2", "\f3\f2", "\u000b5\u000b7", "\u000ba\u000bc\f6", "\f2\u000bd\u000bc", "\f7\u000bc", "."], "ner_tags": [1, 2, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000b1\fa\f7", "\u000bb\f5\u000b9", "\f3\u000b7", "\f5\u000b2", "\u000b3\f1\u000b5", "\u000bb\f0", "\u000b6\f6", "\u000b9\f1\f3", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 0]}
+{"tokens": ["\u000b7\u000bc\u000ba", "\f1\u000b1", "\f6\u000be", "\fb\u000b7", "\f2\u000b6", "\u000bc\f2", "\u000b3\f7", "\u000b2\f1\u000bb", "."], "ner_tags": [3, 4, 4, 4, 4, 4, 0, 0, 0]}
+{"tokens": ["\u000b5\f1", "\f2\u000b5", "\u000bb\f0\u000b9", "\f6\f1", "\u000b9\f8", "\u000b2\u000b3", "\u000ba\f2", "\u000bf\f2", "\f7\f0", "."], "ner_tags": [3, 4, 4, 4, 4, 4, 4, 0, 0, 0]}
+{"tokens": ["\u000bf\u000b6", "\u000b7\f4\u000b5", "\f0\u000b1", "\u000b5\f3\u000ba", "\f2\u000bc", "\u000b6\f4", "\u000bb\f7", "\f4\u000be\u000bb", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 2, 0, 0]}
+{"tokens": ["\u000bb\u000b6", "\u000b9\f8", "\u000b1\f5", "\u000bb\f5", "\u000b3\u000bc", "\f3\f1", "\u000bc\f4", "\f7\f2", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000b5\f3", "\u000be\f6", "\u000b5\f2", "\f1\f3", "\u000bf\u000bb", "\fb\f0", "\f2\u000bb", "\u000b9\f4", "\f3\u000b6", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["\f05\u000e\u001a\u001f\u0002c", "\u000e0\u001e", "\f05\u001a\u001f\u0002c", "\u000e0\u001f\u001f\u0002c", "\f07\u001a\u001f\u0002c", "\u000e0\u001b\u001b", "\u000e1\u001b\u001e", "\u000e0\u001c\u001c"], "ner_tags": [1, 2, 3, 3, 1, 2, 3, 3]}
+{"tokens": ["\u000e5", "\f05\u001e\u001e\f4", "\u000e1", "\f14\u001e"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\u000e1", "\f01\u000e2", "\f02\u000e3"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u000e6", "\f0e", "\u000e9", "\f12", "\u000e0", "\u000e4"], "ner_tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["\f0e\f02\u000e8", "\f01\u000e0", "\f01\u000e3", "\u000e5"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\f0e", "\f12\f01", "\u000e6", "\f01", "\u000e9", "\f02"], "ner_tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u000e7", "\f0f", "\u000e8", "\f0e", "\u000e3", "\u000e0", "\u000e5"], "ner_tags": [0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["\u000e6", "\u000e1", "\u000e0", "\u000e4", "\u000e7", "\u000e6"], "ner_tags": [0, 1, 2, 0, 0, 0]}
+{"tokens": ["\f01", "\u000e2", "\f02", "\u000e0", "\u000e5"], "ner_tags": [0, 0, 0, 1, 2]}
+{"tokens": ["\u000e6", "\f02", "\u000e1", "\f0e", "\u000e4"], "ner_tags": [0, 0, 1, 2, 0]}
+{"tokens": ["\u000e8", "\f02", "\u000e1", "\f0e", "\u000e6", "\f0e"], "ner_tags": [0, 1, 0, 0, 2, 0]}
+{"tokens": ["\f01", "\u000e5", "\f09", "\u000e4"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u000e2", "\f0f", "\u000e3", "\f0e", "\u000e4", "\u000e2"], "ner_tags": [0, 0, 1, 2, 0, 0]}
+{"tokens": ["\f0f", "\u000e9", "\f0e", "\u000e5", "\u000e7"], "ner_tags": [0, 0, 1, 2, 0]}
+{"tokens": ["\f02", "\u000e1", "\u000e0", "\u000e3"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\u000e5", "\f01", "\u000e2", "\f0e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u000e8", "\f0f", "\u000e3", "\f0e", "\u000e4"], "ner_tags": [0, 0, 1, 2, 0]}
+{"tokens": ["\u000e7", "\f0f", "\u000e0", "\u000e2"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\f01", "\f09", "\u000e5", "\u000e6", "\u000e7"], "ner_tags": [0, 1, 2, 0, 0]}
+{"tokens": ["\u000e4", "\u000e5", "\u000e6", "\u000e7", "\u000e8"], "ner_tags": [0, 0, 1, 2, 0]}
+{"tokens": ["\n", "\u000b", "\f"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\r", "\u000e", "\u000f"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0010", "\u0011", "\u0012"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0013", "\u0014", "\u0015"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0016", "\u0017", "\u0018"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0019", "\u001a", "\u001b"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u001c", "\u001d", "\u001e"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u001f", "\u0010", "\u0011"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0012", "\u0013", "\u0014"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0015", "\u0016", "\u0017"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0018", "\u0019", "\u001a"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u001b", "\u001c", "\u001d"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u001e", "\u001f", "\u0010"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0011", "\u0012", "\u0013"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0014", "\u0015", "\u0016"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0017", "\u0018", "\u0019"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u001a", "\u001b", "\u001c"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u001d", "\u001e", "\u001f"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0010", "\u0011", "\u0012"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0013", "\u0014", "\u0015"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u001e", "\u001f\u0002", "\u001c", "\u0014", "\u001a"], "ner_tags": [1, 2, 3, 4, 0]}
+{"tokens": ["\u001c\u0015\u0002", "\u001c\u0018\u0002", "\u001c\u001e\u0002", "\u001c\u001a\u0002"], "ner_tags": [1, 2, 3, 4]}
+{"tokens": ["\u001a", "\u001f\u0002", "\u001e", "\u001e\u0014", "\u001c"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u001e", "\u001c", "\u001a\u0002", "\u001f\u0002"], "ner_tags": [0, 1, 0, 2]}
+{"tokens": ["\u001f", "\u001e"], "ner_tags": [3, 4]}
+{"tokens": ["\u001c", "\u001f", "\u001a", "\u0014", "\u001e"], "ner_tags": [1, 2, 3, 4, 0]}
+{"tokens": ["\u001e", "\u001f", "\u001a", "\u0014"], "ner_tags": [3, 4, 0, 0]}
+{"tokens": ["\u0015\u0002", "\u001c\u001e\u0002"], "ner_tags": [1, 2]}
+{"tokens": ["\u001e", "\u001f\u0002"], "ner_tags": [4, 0]}
+{"tokens": ["\u001e", "\u001c", "\u001e", "\u001c"], "ner_tags": [3, 4, 0, 0]}
+{"tokens": ["\u001e", "\u001a\u0002", "\u001e\u0014"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\u001c\u0014", "\u001e", "\u001f", "\u001a\u0002"], "ner_tags": [3, 4, 0, 0]}
+{"tokens": ["\u001f\u0002", "\u001c\u001e\u0002"], "ner_tags": [1, 2]}
+{"tokens": ["\u001e", "\u001f", "\u001e", "\u001f"], "ner_tags": [3, 4, 0, 0]}
+{"tokens": ["\u001e", "\u001f", "\u001e\u0014"], "ner_tags": [1, 2, 3]}
+{"tokens": ["\u001e", "\u001e", "\u001f\u0002"], "ner_tags": [1, 0, 2]}
+{"tokens": ["\u0001e\u0014", "\u0001c", "\u0001f"], "ner_tags": [1, 2, 3]}
+{"tokens": ["\u0001e", "\u00002", "\u0001a\u0002"], "ner_tags": [3, 4, 0]}
+{"tokens": ["\u0001e", "\u00002", "\u0001f", "\u0001a\u0002"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\u0001e", "\u00002", "\u00002", "\u00002"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\f38\f3e\f30\f4d\f26", "\f39\f47\f26\f30\f3e\f2c\f3e\f26", "\f0f\f15\f3e\f26\f36\f4d", "\f06\f35\f47", "\f35\f3f\f28\f3e\f2f\f15", "\f05\f27\f3f\f15\f3e\f30\f3f"], "ner_tags": [5, 0, 0, 5, 0, 0]}
+{"tokens": ["\f06\f2a\f4d\f2a\f33\f47\f37\f40"], "ner_tags": [1]}
+{"tokens": ["\f39\f4b\f1f\f4d\f32", "\f15\f4b\f32\f4d\f15\f24\f3e", "\f35\f3f\f37\f3e\f32\f47\f2e", "\f32\f3e\f1f\f3f\f28\f3e"], "ner_tags": [0, 0, 5, 0]}
+{"tokens": ["\f1c\f4a\f15\f41\f33", "\f2a\f47\f21\f3e", "\f39\f32\f4d\f32\f3f", "\f15\f4a\f32\f3e", "\f15\f41\f28\f4d\f15\f41", "\f28\f41"], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\f15\f4b\f15\f15\f47", "\f38\f30\f47", "\f26\f3f\f32\f4d\f32\f40", "\f15\f4b\f24\f3f", "\f30\f35\f3f", "\f05\f2e\f46\f30\f3f\f15", "\f28\f41"], "ner_tags": [1, 2, 0, 0, 5, 0, 0]}
+{"tokens": ["\f2a\f3e\f30\f3f\f38\f4d\f15\f4d", "\f15\f02\f2a\f4d\f2f\f42\f1f\f30\f4d"], "ner_tags": [5, 0]}
+{"tokens": ["\f0f\f15\f3e\f21\f47\f2e\f3f\f15", "\f1f\f3f\f2d\f4d", "\f15\f32\f4d\f32", "\f35\f3f\f26\f3e\f2f\f3f"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\f15\f3e\f30\f4d\f2e\f47\f2a\f4d", "\f38\f3e\f2e\f4d\f2a\f4d\f32\f41", "\f35\f4b\f1f\f30\f4d", "\f05\f2e\f46\f30\f3f\f15"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f28\f35\f40\f28\f4d", "\f08\f15\f3f\f2f\f3e", "\f34\f41\f1a\f3e\f32\f3e", "\f30\f41\f28", "\f26\f3e\f36\f3e", "\f15\f3e\f32\f46"], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"tokens": ["\f2d\f3e\f30\f24\f4d\f39", "\f35\f3e\f30\f3e\f23\f3f", "\f17\f41\f23\f41", "\f38\f42\f30\f4d\f2f\f3e", "\f38\f00\f2d\f3e\f37\f3e\f32\f42\f30\f41"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\f15\f4a\f2c\f4d\f2c\f3e", "\f17\f41\f30\f41", "\f38\f35\f42\f23\f4d\f2f\f3e", "\f0f\f26\f41\f15\f3e"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\f2a\f3f\f24\f35\f3f", "\f28\f3e\f30\f3e\f2f\f23\f3e", "\f35\f3f\f32\f4d", "\f2e\f3f\f24\f4d\f30\f3e", "\f38\f3e", "\f2a\f4d\f30\f1a\f3e\f30\f2e\f3e"], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"tokens": ["\f06\f2c\f4d\f26\f41\f32\f4d", "\f1a\f3f\f1a\f4d\f1a\f3f", "\f1c\f3e\f31\f4d", "\f2e\f4b\f24\f41"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f28\f30\f3e\f2f\f23\f3e", "\f2f\f42\f30\f4b\f2a\f3e", "\f1c\f15\f4d\f1f\f30\f4d", "\f17\f41\f30\f3f", "\f1a\f3e\f30\f41"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\f38\f3f\f30\f3e\f15\f4b", "\f2d\f3e\f30\f24\f4d\f39", "\f2e\f3e\f30\f4d\f17\f3e", "\f38\f41\f35\f3f\f21\f4d\f2f\f3e"], "ner_tags": [5, 0, 0, 0]}
+{"tokens": ["\f1c\f3e\f30\f4d\f15\f4a\f28\f4d", "\f17\f41\f17\f4d\f17\f32", "\f1a\f3e\f30\f41"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f15\f41\f2e\f3e\f30\f3f", "\f2c\f47\f02\f17\f32\f4b\f30\f3f", "\f1e\f47\f2a\f3e\f32\f3e", "\f2e\f3e\f30\f3f", "\f38\f3f\f2e\f3f"], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["\f35\f3f\f1c\f2f\f3e", "\f17\f3f\f30\f27\f4d", "\f39\f3f\f02\f26\f4d\f30\f3f"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f2f\f41\f17\f3e\f02\f26\f30\f3e", "\f38\f3f\f28\f4d", "\f26\f42\f30\f4d\f17\f3e"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\n", "\n\n"], "ner_tags": [0, 0]}
+{"tokens": ["\u000b", "\u0000b\u0000b"], "ner_tags": [0, 0]}
+{"tokens": ["\u0000c", "\u0000c\u0000c"], "ner_tags": [0, 0]}
+{"tokens": ["\u0000d", "\u0000d\u0000d"], "ner_tags": [0, 0]}
+{"tokens": ["\u0000e", "\u0000e\u0000e"], "ner_tags": [0, 0]}
+{"tokens": ["\u0000f", "\u0000f\u0000f"], "ner_tags": [0, 0]}
+{"tokens": ["\u00010", "\u00010\u00010"], "ner_tags": [0, 0]}
+{"tokens": ["\u00011", "\u00011\u00011"], "ner_tags": [0, 0]}
+{"tokens": ["\u00012", "\u00012\u00012"], "ner_tags": [0, 0]}
+{"tokens": ["\u00013", "\u00013\u00013"], "ner_tags": [0, 0]}
+{"tokens": ["\u00014", "\u00014\u00014"], "ner_tags": [0, 0]}
+{"tokens": ["\u00015", "\u00015\u00015"], "ner_tags": [0, 0]}
+{"tokens": ["\u00016", "\u00016\u00016"], "ner_tags": [0, 0]}
+{"tokens": ["\u00017", "\u00017\u00017"], "ner_tags": [0, 0]}
+{"tokens": ["\u00018", "\u00018\u00018"], "ner_tags": [0, 0]}
+{"tokens": ["\u00019", "\u00019\u00019"], "ner_tags": [0, 0]}
+{"tokens": ["\u0001a", "\u0001a\u0001a"], "ner_tags": [0, 0]}
+{"tokens": ["\u0001b", "\u0001b\u0001b"], "ner_tags": [0, 0]}
+{"tokens": ["\u0001c", "\u0001c\u0001c"], "ner_tags": [0, 0]}
+{"tokens": ["\u0001d", "\u0001d\u0001d"], "ner_tags": [0, 0]}
+{"tokens": ["\f06\f35\f41", "\f2c\f3e\f30\f3e\f24\f4d", "\f26\f47\f36\f3e", "\f38\f47\f35\f15\f4d", "\f15\f30\f23\f3e\f1f\f15\f41", "."], "ner_tags": [0, 3, 4, 0, 0, 0]}
+{"tokens": ["\f30\f35\f3f", "\f09\f21\f48", "\f28\f47\f2a\f3e\f33\f41", "\f35\f35\f32\f3e", "\f15\f12\f21\f3e", ",", "\f26\f47\f36\f2e\f41", "\f15\f4b\f32\f4b\f28\f40\f2f", "\f06\f2b\f4d\f30\f40\f15\f3e", "\f0f\f15\f4d\f38\f4d\f2a\f4d\f30\f46\f38\f4d\f38\f41", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["\f35\f3f\f1c\f2f\f3e\f2f\f3f", "\f2c\f4d\f30\f3e\f21\f4d", "\f2e\f02\f17\f3e\f32\f4d\f2f\f41", "\f15\f3e\f30\f4d\f32\f4d\f2f\f41", "."], "ner_tags": [0, 1, 2, 0, 0]}
+{"tokens": ["\f15\f40\f32\f4d", "\f28\f47\f15\f2c", "\f15\f4b\f38\f15\f4b\f05\f2e\f3e\f28\f41", "\f2a\f30\f07\f15\f41", "."], "ner_tags": [0, 0, 1, 2, 0]}
+{"tokens": ["\f27\f3e\f30\f4d", "\f37\f3f\f35\f3e", "\f1f\f3f\f20\f4d", "\f0f\f15\f47", "\f15\f4a\f28\f4d\f15\f34", "\f06\f38\f4d\f2d\f30\f02", "\f1c\f47\f2a\f4b", "\f28\f41\f34\f41", "."], "ner_tags": [0, 1, 2, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\f2d\f3e\f30\f24\f4d", "\f17\f41\f30\f41", "\f30\f35\f3f\f02", "\f15\f41", "\f0e\f23\f4d\f23\f2e\f41", "\f0f\f17\f3f\f2d\f4d", "\f05\f28\f3f", "\f2a\f4d\f30\f35\f3e\f38\f3f\f28", "."], "ner_tags": [3, 4, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["\f16\f3e\f21\f47\f38\f4d", "\f06\f24\f4d\f2a\f1f\f40", "\f02\f21\f3f\f2f\f3e", "\f28\f4d\f2f\f42\f2f\f3f\f30\f4d\f15\f3e", "\f2a\f4d\f30\f35\f47\f36\f4d\f2a\f3e\f31\f41", "\f35\f47\f36\f4d\f2a\f3e\f32\f15\f4b", "\f2a\f3f\f32\f41\f38\f4d"], "ner_tags": [3, 4, 3, 4, 0, 0, 0]}
+{"tokens": ["\f2e\f39\f47\f36\f4d", "\f38\f02\f1a\f3f", "\f16\f30\f3e\f15\f41", "\f2a\f47\f30\f3f\f38\f4d", "\f28\f3e\f15\f4d\f38\f24\f02", "\f26\f3e\f28\f3f\f31\f4d"], "ner_tags": [3, 4, 0, 0, 1, 2]}
+{"tokens": ["\f30\f3e\f1c\f3f\f35", "\f15\f4b\f32\f4d\f15\f24\f3e", "\f2c\f48\f17\f4d\f30\f4a\f21\f3e", "\f09\f21\f48", "\f37\f41\f2d\f3e", "\f35\f47\f36\f4d\f2a\f3e\f32\f41", "\f09\f21\f48"], "ner_tags": [0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["\f1f\f41\f2f\f3f\f1a\f3e", "\f38\f4d\f2a\f46\f28\f4d", "\f15\f40\f2b\f4d", "\f35\f30\f43\f24\f3e\f38\f4d", "\f24\f3f\f38\f4d", "\f32\f42\f15\f4d", "\f1c\f47\f38\f02", "\f35\f07\f2e\f41", "\f15\f41\f30\f4d\f24\f3f"], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 0, 0]}
+{"tokens": ["\f26\f3f\f32\f4d\f32\f40", "\f2a\f3e\f30\f4d\f38", "\f07\f30\f3e\f28\f4d", "\f24\f3f\f35\f3e", "\f35\f46\f02\f15\f1f", "\f39\f4d\f2f\f32\f4d", "\f1a\f47\f28\f2a\f3e", "\f2e\f41\f36\f3e", "\f15\f40\f1f\f40"], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["\f39\f47\f2e\f3e", "\f15\f41\f2e\f30\f47", "\f2e\f39\f47\f36\f4d", "\f24\f3e\f02", "\f32\f3e\f2a\f40", "\f11\f18\f4d\f2c\f47\f15\f4d\f24\f47", "\f1c\f02\f17\f30\f3e"], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\f30\f15\f4d\f37\f3f\f24\f4d", "\f25\f3e\f30\f4d", "\f1c\f24\f3f\f28\f46", "\f15\f43\f37\f4d\f23", "\f35\f48\f21\f30\f47", "\f1c\f4b\f23\f4d\f38\f5e", "\f2a\f35\f28\f46\f36\f4d"], "ner_tags": [3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\f37\f02\f15", "\f15\f3f\f30\f23\f4d", "\f38\f3f\f02\f17", "\f15\f4a\f28\f30\f4d", "\f30\f1e\f41", "\f1c\f02\f1a", "\f2a\f1f\f4d\f38\f3e\f35\f26\f3e"], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\f30\f35\f40\f28\f4d\f21\f4d\f30\f3e", "\f1c\f47\f1a\f4d", "\f15\f3e\f30\f3f", "\f15\f41\f2e\f3e", "\f30\f26\f42\f1f\f4d", "\f2e\f1c\f4d\f2c\f4d\f30\f47", "\f13\f32\f3f\f35\f43"], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\f06\f2f\f4b\f27\f4d\f2f", "\f17\f3e\f02\f27\f40", "\f06\f30\f4d\f1f\f4d\f38\f4d", "\f17\f3e\f32\f30\f3f", "\f15\f35\f3e\f32", "\f28\f47\f1a\f4d\f1a\f41"], "ner_tags": [0, 0, 0, 1, 2, 0]}
+{"tokens": ["\f15\f41\f2e\f3e\f30", "\f24\f47\f32\f41\f17\f41", "\f28\f47\f36", "\f2e\f41\f16\f3e", "\f1c\f3e\f28\f15", "."], "ner_tags": [0, 3, 4, 1, 2, 0]}
+{"tokens": ["\f1a\f02\f26\f4d\f30", "\f15\f41\f02\f26\f32\f4d", "\f39\f02\f26\f30\f4d", "\f05\f2a\f4d\f2a\f3e", "\f2e\f41\f15\f41"], "ner_tags": [0, 0, 3, 4, 1]}
+{"tokens": ["\f38\f02\f1c\f47", "\f2a\f3e\f2a", "(", "\f2a\f47\f30\f3f\f38\f4d", ")", "\f17\f3e\f30\f41", "\f0a\f24\f4d\f24\f3f", "\f06\f30\f4d\f1f\f41"], "ner_tags": [0, 3, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["\f1a\f3e\f30\f32\f4d", "\f38\f42\f30\f3f\f2f\f32\f4d", "\f35\f40\f30\f4d\f2f\f3e\f02\f21\f15\f46"], "ner_tags": [0, 0, 3]}
+{"tokens": ["\n\n\u000e1\u000b2\f4", "\f8", "\f1\u000b0\na\u000b9\u000b3\u000bf", "\ne\u000b9\u000bf", "\ff\nc\f1", "\n8", "\f5\f4\u000b5\u000b3\u000e", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000e5\u000b8\u00013", "\fa\u000b8\fd", "\u000b2\u000b9\u000b0\u000bf", "\u000b5\u000b2", "\f5\rb", "\f7\r7\u000b2\u000b5", "\u000b5\u000bb\u000b5\f1", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["\f7\f6\u000b8\f3\u000b2", "\u000ba\u000b0\u00013\f9", "\u00012\f7\u000b8\f2", "\u000b5\u00038\u000b9\t9", "\u000be\f5", "\fe\u000bf\u000b1\u000b9", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u000bc\f1\u000b2\u000bf\u000b5\f7", "\u000bb\u00018\u000b2", "\u000b8\u000e1", "\u000bc\f7", "\u000ba\u000b0\u000b7\u000bf", "\be", "\fb\f7\u000bb\f4", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f5\u000b8\u000b7", "\u000b3\u000b8", "\f0\ff", "\u000b6\u000b7", "\u000ba\u000b6", "\u000b3\t5", "\u000b4\u000b0\u000bf\u000bb", "\f0\u000bf", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f7\r9\u000bb", "\n0\u000b0\u000b6", "\u0000a2\te", "\u000b8\u000b7", "\u000be\u000b0\u000bf", "\f5\u000bc", "\u000b5\f6", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["\fb\f8\u000bb", "\u000b2\u000be", "\fa\u000b0", "\u000bc\nc\f6", "\u000bb\u000b3\b5", "\f3\u000b7", "\u000b7\nc\f5", "\u000bd\u000b5\u000bf", "\u000b3\fc"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\tc\u000b9\u000b0\u000be", "\u000b8\u00031", "\u000b4\u000b0\u000b3", "\f6\u000b1", "\u000b0\u000b7\u000bf", "\u000b2\t6", "\f0\u000b1\u000bf", "."], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000ba\u000b4\u000b0", "\u000b7\u000b7\u000b7", "\f7\u000b7", "\u000bc\u000b8", "\u000b3\u000bd", "\u000b6\u000b5\u000bf", "\u000b4\u000bc", "\f2\u000eb", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\fd\u000b9\tc\u000b0", "\fd\u000b0", "\u000bb\u000b9", "\f7\nb", "\u000bc\u000be", "\fa\u000b8", "\u000be\f5\f2", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["\f3\u000b9", "\u000ba\u000b3", "\u000b8\f2", "\f0\u000b1", "\f8\u000bb", "\f1\u000bf", "\f6\u000b0", "\u000ba\u000b2", "\u000be", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f1\u000bb\u000b5", "\u000b7\nd", "\u000bd\u000b2", "\u000b7\f8", "\u000ba\u000bc", "\u000b7\u000b6", "\f7\u000b2", "\u000bc\u000b1", "\f6\u000bb", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\fc\u000b7", "\u000be\u000b0", "\u000b3\t8", "\f0\u000b1", "\u000b7\u000b5", "\u000bb\u000b0", "\f7\u000bc"], "ner_tags": [3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\t9\u000bb\nd", "\u000bb\f7", "\f5\u000bc", "\u000b7\u000b5", "\u000b5\u000bd", "\u000bc\ne", "\u000b9\u000b7", "\f9\f0\u000b7", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\ff\u000bb\n8", "\u000ba\f8", "\u000b8\u000b2", "\f7\u000b8", "\u000b5\u000b9", "\f5\f2", "\f5\u000bd", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000b2\f8", "\t7\u000b7", "\f8\u000bc", "\u000b3\f0", "\u000b8\u00031", "\u000b0\b9", "\u000b7\u000b2", "\u000b9\fb", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000b9\u000b7", "\u000bc\n0", "\u000b7\u000b0", "\u000b7\u000b5", "\u000b7\u000b8", "\u000b8\f9", "\u000bc\u000be\f5\u000ba"], "ner_tags": [0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["\f6\u000b6", "\u000b8\u000b7", "\u000b8\t1", "\u000b9\u000b2", "\u000b7\u000b8", "\u000bb\u000b3", "\u000b6\u000b1", "\f6\u000b0", "\f1\u000bb"], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u000be\fc", "\f2\u000b3", "\f5\u000bb", "\u000b9\u000b7", "\f8\u000bb", "\u000b9\u000b2", "\u000b4\u000bc", "\fb\n4", "\f1\u000bf"], "ner_tags": [0, 0, 1, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["\ff\u000b2", "\u000b8\f9", "\u000ba\u000b7", "\u000bc\n5", "\u000b8\u000b9", "\f7\u000b8", "\u000bc\u000be", "\u000b7\u000b8", "\u000b6\u000ba"], "ner_tags": [0, 0, 1, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["\n", "\r\u000b", "\f\u000e"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u000f", "\u0010\u0011", "\u0012", "\u0013\u0014", "\u0015\u0016", "\u0017"], "ner_tags": [1, 2, 0, 3, 1, 0]}
+{"tokens": ["\u0018", "\u0019\u001a", "\u001b", "\u001c", "\u001d\u001e", "\u001f"], "ner_tags": [3, 0, 2, 0, 1, 0]}
+{"tokens": ["\u001f", "\u001e", "\u001d\u001c"], "ner_tags": [0, 1, 0]}
+{"tokens": ["\u001b", "\u001a", "\u0019\u0018", "\u0017", "\u0016", "\u0015"], "ner_tags": [2, 2, 0, 1, 0, 0]}
+{"tokens": ["\n", "\u000b", "\f", "\r", "\u000e", "\u000f"], "ner_tags": [0, 0, 0, 1, 0, 0]}
+{"tokens": ["\u000e", "\u000f", "\u00010", "\u00011", "\u00012", "\u00013"], "ner_tags": [1, 0, 0, 3, 0, 0]}
+{"tokens": ["\u00014", "\u00015", "\u00016", "\u00017", "\u00018", "\u00019"], "ner_tags": [2, 0, 1, 0, 1, 0]}
+{"tokens": ["\u0001a", "\u0001b", "\u0001c", "\u0001d", "\u0001e", "\u0001f"], "ner_tags": [3, 2, 1, 0, 2, 0]}
+{"tokens": ["\u00020", "\u00021", "\u00022"], "ner_tags": [0, 3, 0]}
+{"tokens": ["\u00023", "\u00024", "\u00025", "\u00026", "\u00027"], "ner_tags": [1, 0, 1, 0, 0]}
+{"tokens": ["\u00028", "\u00029", "\u0002a", "\u0002b", "\u0002c"], "ner_tags": [0, 2, 0, 2, 0]}
+{"tokens": ["\u0002d", "\u0002e", "\u0002f", "\u00030", "\u00031"], "ner_tags": [1, 2, 3, 0, 1]}
+{"tokens": ["\u00032", "\u00033", "\u00034", "\u00035", "\u00036"], "ner_tags": [0, 1, 0, 1, 0]}
+{"tokens": ["\u00037", "\u00038", "\u00039", "\u0003a", "\u0003b"], "ner_tags": [0, 1, 2, 0, 2]}
+{"tokens": ["\u0003c", "\u0003d", "\u0003e", "\u0003f"], "ner_tags": [3, 0, 0, 1]}
+{"tokens": ["\u00040", "\u00041", "\u00042", "\u00043"], "ner_tags": [0, 2, 3, 1]}
+{"tokens": ["\u00044", "\u00045", "\u00046", "\u00047"], "ner_tags": [2, 0, 3, 0]}
+{"tokens": ["\u00048", "\u00049", "\u0004a", "\u0004b"], "ner_tags": [1, 0, 2, 1]}
+{"tokens": ["\u0004c", "\u0004d", "\u0004e", "\u0004f"], "ner_tags": [0, 0, 1, 3]}
+{"tokens": ["\n", "\u000e", "\u0001f", "\u0001c", "\u00015", "\u00012", "\u00017"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000f", "\u0001a", "\u00018", "\u00013", "\u0001e", "\u00011", "\u0001b"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u000b", "\u00010", "\u00016", "\u0001d", "\u00014", "\u00019", "\u0001f"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f", "\u0001c", "\u0001e", "\u00011", "\u0001b", "\u00013", "\u00019"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\r", "\u00019", "\u00018", "\u00017", "\u00013", "\u00015", "\u00012"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\n", "\u0001d", "\u00015", "\u00010", "\u00012", "\u0001f"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00017", "\u00016", "\u00018", "\u00011", "\u00014", "\u0001c"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00016", "\u00010", "\u00014", "\u00015", "\u00013", "\u0000b"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00019", "\u0001e", "\u0001f", "\u00017", "\u0001a", "\u0000c"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0001b", "\u0000a", "\u00016", "\u00012", "\u00011", "\u0001d"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00018", "\u0000c", "\u0000f", "\u0001e", "\u00013"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0001a", "\u00010", "\u00014", "\u00015", "\u0000e"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0001f", "\u00019", "\u00018", "\u0001b", "\u0001d"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0000e", "\u00015", "\u00019", "\u0000b", "\u0001c"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u00010", "\u00017", "\u00018", "\u00014", "\u0001f"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0001d", "\u0000a", "\u00012", "\u00011", "\u00016"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0000b", "\u0001e", "\u0000e", "\u0001a", "\u00015"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u00013", "\u00014", "\u0001d", "\u00017", "\u0001c"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u00012", "\u0001b", "\u0000c", "\u00011", "\u00018"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u00014", "\u00019", "\u0001a", "\u00010", "\u0000f"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\f19\f4a\f28\f21\f15\f30\f21", "\f15\f4b", "\f32\f02\f21\f28\f4d\f32\f4b", "\f2a\f4d\f30\f35\f47\f36\f02\f17\f4d\f30\f02\f21\f4d", "."], "ner_tags": [1, 0, 5, 0, 0]}
+{"tokens": ["\f05\f2d\f3f\f28\f35\f3f\f02\f21", "\f1f\f3f", "\f39\f3f\f30\f4d\f2c\f32\f3f\f2e\f4b", "\f15\f4d\f2f\f3e\f02\f2c\f3e\f21\f3f\f2e\f3e", "\f35\f3f\f28\f4d\f26\f3f", "\f24\f3f\f1a\f41\f15\f41", "."], "ner_tags": [1, 0, 2, 3, 0, 0, 0]}
+{"tokens": ["\f15\f3e\f02\f2a\f4d", "\f2a\f4d\f2f\f3e\f30\f3f\f38\f4d", "\f17\f4b\f35\f3f\f02\f26\f3e", "\f30\f3e\f1c\f38\f4d\f25\f3e\f28\f3f", "\f2a\f4d\f2a\f3e\f32\f3f\f15", "."], "ner_tags": [1, 0, 2, 3, 0, 0]}
+{"tokens": ["\f2e\f02\f39\f47\f02\f26\f4d\f30", "\f17\f41\f1c\f4d\f30\f3e\f24\f4d", "\f35\f48\f21\f4d", "\f2f\f41\f2e\f28\f4d", "\f39\f3e\f30\f4d\f35\f30\f4d\f21\f4d", "."], "ner_tags": [1, 2, 0, 3, 4, 0]}
+{"tokens": ["\f28\f17\f30\f1c\f42\f28\f3e", "\f2e\f41\f02\f2a\f48", "\f21\f46\f32\f4d\f39\f3f", "\f06\f32\f4d\f2a\f4d\f38\f4d", "\f17\f47\f32\f4d\f32\f4b", "."], "ner_tags": [1, 0, 0, 0, 0, 0]}
+{"tokens": ["\f05\f02\f21\f4d\f30\f4d\f2f\f41", "\f17\f4d\f30\f3e\f02\f21\f4d", "\f07\f02\f1f\f30\f28\f47\f37\f28\f32\f4d", "\f05\f27\f3f\f15\f3e\f30\f32\f41", "\f2f\f41\f07\f38\f4d\f0e\f38\f4d", "\f05\f2e\f46\f30\f3f\f15", "\f38\f3e\f2e\f4d\f2e\f4b", "\f1a\f3f\f15\f3e\f17\f4b", "\f25\f46\f2a\f4d\f30\f3e\f35\f1f\f47\f30\f4d", "\f28\f41\f21\f41", "\f15\f4a\f35\f15\f4d", "."], "ner_tags": [0, 3, 1, 2, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f15\f3e\f30\f4d\f23\f3f\f28", "\f32\f42\f15\f38\f4c", "\f26\f47\f36\f4d", "\f15\f4d\f30\f4a\f38\f4d", "\f2a\f4d\f30\f4a\f27\f3e", "\f21\f41\f30\f3f", "\f05\f02\f26\f3f", "."], "ner_tags": [1, 3, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\f2a\f46\f02\f1a\f3e\f32\f2f\f41", "\f15\f3e\f2a\f41", "\f17\f47\f28\f4d\f26\f4d\f30", "\f15\f41\f30\f3f", "\f28\f30\f4d\f28", "\f27\f3f\f32\f4d\f32\f40", "\f1a\f02\f26\f3f", "\f38\f02\f1a\f3e\f32\f3f", "\f35\f47\f21\f3e", "\f2f\f41", "\f05\f15\f4d\f38\f3f", "\f2c\f41\f21\f3e", "."], "ner_tags": [0, 0, 1, 0, 2, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f35\f3f\f1c\f2f\f2f\f4d", "\f15\f3e\f2a\f4d", "\f1a\f40\f28\f2f\f46", "\f1f\f3e\f07", "\f27\f4b", "\f17\f41\f30\f41", "\f17\f30\f4d\f37\f4d\f2a\f4d", "\f1a\f41\f21\f4d\f26", "\f2a\f4d\f30\f15\f3e\f36\f4d", "."], "ner_tags": [1, 2, 3, 0, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["\f30\f35\f3f", "\f15\f30\f4d\f35\f3e\f32\f14", "\f35\f3f\f16\f4d\f37\f41\f02\f1a\f3e\f32\f3f", "\f15\f4a\f28\f4d\f26", "\f24\f4d\f35\f3e", "\f2e\f1e\f4d", "\f38\f3e\f2e\f41\f17\f3f", "\f2c\f39\f3f\f28\f47", "\f35\f3f\f15\f3f\f32\f42", "\f05\f32\f3f"], "ner_tags": [3, 4, 0, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["\f2a\f47\f28\f4d\f28\f3e", "\f32\f3f\f1a\f4d\f2a\f4d", "\f26\f41\f30\f4d\f35\f3e", "\f2e\f41\f15\f4d\f15\f3f", "\f39\f41\f02\f21\f2e\f3e", "\f26\f3e\f28\f41", "\f24\f3e\f30\f41", "\f0a\f32\f3f\f38\f4d", "\f1a\f26\f41", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f39\f3f\f15\f4d\f2f\f3e", "\f15\f3e\f0f", "\f1c\f3e\f2a\f4d\f2f\f41", "\f15\f30\f4d\f25\f3f", "\f35\f3f\f15\f4d\f30\f3e\f38\f3f", "\f28\f47\f24\f3f", "\f05\f28\f3f", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["\f17\f2e\f4d\f2f\f41", "\f35\f47\f23\f3f", "\f15\f4b\f1a\f4d", "\f15\f3f\f2e\f4d\f2c\f4d\f30\f3f\f26\f3f", "\f37\f15\f3f", "\f2c\f46\f01", "\f26\f41\f30\f3f", "\f05\f30\f3f\f15\f3f\f38\f4d", "\f24\f3e\f15\f4d\f37\f3e", "\f17\f02\f24\f41", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f24\f3e\f2a\f4d", "\f30\f2e\f40\f28\f4d", "\f35\f3f\f39\f3e\f3a\f3f", "\f28\f3e\f2c\f47\f32\f3f", "\f0e\f28\f3f", "\f38\f3e\f2f\f4d", "\f1a\f35\f3f", "\f15\f15\f41", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\f28\f3e\f30\f3e\f2f\f23\f46\f35\f3e", "\f2e\f39\f3e\f30\f3f\f37\f4d", "\f07\f38\f4d\f32\f3e\f32\f3f", "\f36\f3e\f32\f3f", "\f16\f4a\f1f\f4d", "\f15\f1f\f41", "\f2a\f3e\f1f\f4d", "\f05\f38\f3f\f2f\f41", "."], "ner_tags": [1, 2, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\f0e\f2e\f41\f15", "\f15\f4b", "\f30\f3f\f1a\f3e\f30\f4d\f21\f47", "\f14\f15\f4d\f24\f4b", "\f05\f02\f26\f3f"], "ner_tags": [1, 0, 2, 3, 0]}
+{"tokens": ["\f26\f30\f4d\f36\f15\f30\f41", "\f2d\f3e\f30\f24\f3f", "\f28\f3f\f2f\f4b\f1c\f3e", "\f15\f41\f2e\f3e\f30\f41", "\f17\f28\f26\f3e", "\f39\f41\f1f", "\f15\f4b", "\f38\f41\f15\f3f", "\f2e\f3e\f32\f3f"], "ner_tags": [1, 2, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\f2c\f46\f17\f3e", "\f24\f40", "\f2e\f41\f38\f3f\f15\f4d", "\f1f\f46\f02\f24\f3f", "\f28\f36\f3f", "\f35\f3f\f28\f4d\f25\f3f", "\f21\f3e\f32\f3f", "\f2e\f3e", "\f30\f4a\f2a\f40", "\f1a\f15\f4d\f30", "."], "ner_tags": [1, 2, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f2e\f23\f3f\f1a\f3e\f1a\f46", "\f08\f1f\f3e\f32\f3f", "\f28\f3f\f28\f3f", "\f15\f4d\f30\f3e\f28\f4d", "\f2a\f3e\f28\f4d\f1c\f3e", "\f24\f3e\f02", "\f17\f30\f41\f2e\f3e", "\f15\f30\f4d\f2f", "\f28\f41", "\f2e\f28\f32"], "ner_tags": [1, 2, 0, 3, 0, 0, 4, 0, 0, 0]}
+{"tokens": ["\f15\f3f\f38\f4d\f05\f30\f2e\f41", "\f2e\f41\f17\f38\f4d", "\f15\f30\f4d\f2f\f41", "\f15\f31\f41", "\f21\f1c\f3f"], "ner_tags": [1, 2, 3, 0, 0]}
+{"tokens": ["\f15\f4b", "\f38\f3e\f2e\f4d\f2e\f41\f32\f3f", "\f1a\f41\f32\f4d\f32", "\f05\f02\f24\f41", "\f1a\f3f\f28\f3e", "\f30\f3e\f37\f4d\f1f\f4d", "\f15\f30\f4d\f23\f3f", "\f2d\f41\f32\f4d\f17"], "ner_tags": [0, 1, 2, 0, 3, 0, 0, 0]}
+{"tokens": ["\f1b\u000e", "\u000b0\u000be\n3\fd\n1\u000be", "\f2a\u0003e\fb\u00038\u0004d\u00024\u0002f", "\f32\u00041\u0002b"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\f27\u0003e\u00030\u000b2", "\f07\u00028\u0004d\u00021\u0003f\u00030\u0003e", "\f28\u0003e\u00030\u0002a\u0003e\u0003e"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f2e\u00041\u00025\u0004d\u00030\u0004e\u00041"], "ner_tags": [0]}
+{"tokens": ["\f0e\f3e\fb", "\f2d\u0003e\u00034\u0004f"], "ner_tags": [0, 1]}
+{"tokens": ["\f2c\u0003d\u0004d\u00030\u00036\u0003e\u0004f\u00032\u00041", "\f2e\u00030\u000e3\u0003e", "\f28\u00033\u000f8"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f21\u00030\u000b2", "\f07\u0002d", "\f38\u0004d\u0002a\u00030\u000f8", "\f0e\u0003e\fb", "\f32\u00041\u0002b"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\f2e\u00041\u00025\u0004d\u00030\u0004e\u00041", "\f19\u0003c\u00032\u000e3", "\f2d\u0003e\u00034\u0004f", "\f15\u0003f\u00033\u000f8"], "ner_tags": [0, 0, 1, 2]}
+{"tokens": ["\f38\u0004d\u0002a\u00030\u000f8", "\f07\u0002d", "\f27\u0003e\u00030\u000b2", "\f01\u0003a\u000be\u00038"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f0e\u0003e\fb", "\f28\u0003e\u00030\u0002a\u0003e\u0003e", "\f19\u0003c\u00032\u000e3"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f07\u0002d", "\f2e\u00030\u000e3\u0003e", "\f2e\u00041\u00025\u0004d\u00030\u0004e\u00041"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f1b\u000e", "\f27\u0003e\u00030\u000b2", "\f38\u0004d\u0002a\u00030\u000f8"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f28\u00033\u000f8", "\f0e\u0003e\fb", "\f21\u00030\u000b2"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f2b\u0002a\u00030\u000bb\f1b\u000e"], "ner_tags": [0]}
+{"tokens": ["\f15\u0003f\u00033\u000f8", "\f2c\u0003d\u0004d\u00030\u00036\u0003e\u0004f\u00032\u00041"], "ner_tags": [0, 1]}
+{"tokens": ["\f07\u00028\u0004d\u00021\u0003f\u00030\u0003e", "\f1b\u000e", "\f19\u0003c\u00032\u000e3"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f2b\u0002a\u00030\u000bb\f27\u0003e\u00030\u000b2"], "ner_tags": [0, 1]}
+{"tokens": ["\f0e\f3e\fb", "\f38\u0004d\u0002a\u00030\u000f8"], "ner_tags": [0, 1]}
+{"tokens": ["\f21\u00030\u000b2", "\f28\u00033\u000f8", "\f2f\u0004d\u00030\u000e2"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f15\u0003f\u00033\u000f8", "\f1b\u000e", "\f07\u00028\u0004d\u00021\u0003f\u00030\u0003e"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f2e\u00030\u000e3\u0003e", "\f38\u0004d\u0002a\u00030\u000f8"], "ner_tags": [0, 1]}
+{"tokens": ["\f\u001a\f\u0003f\f\u0002b\f\u0003c", "\f\u00035\f\u0000", "\f\u00038\f\u00030\f\u0000", "\f\u00021\f\u00038\f\u0003f\f\u0000"], "ner_tags": [5, 0, 0, 1]}
+{"tokens": ["\f\u00038\f\u00041\f\u00035", "\f\u0000", "\f\u0002c\f\u0000", "\f\u0001d\f\u0003f\f\u00031\f\u0000", "\f\u00014\f\u0003e\f\u0000"], "ner_tags": [0, 0, 0, 1, 0]}
+{"tokens": ["\f\u00007\f\u0001f\f\u0000", "\f\u0000", "\f\u0000", "\f\u00037\f\u0000", "\f\u0002a\f\u00028\f\u0000"], "ner_tags": [1, 0, 0, 5, 0]}
+{"tokens": ["\f\u00007\f\u0000", "\f\u0002c\f\u0002f\f\u0000", "\f\u00017\f\u0000", "\f\u0000", "\f\u0001c\f\u0003f\f\u0002a\f\u0000"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\f\u0000c\f\u0002a\f\u00028\f\u0000", "\f\u00019\f\u0003e\f\u0000", "\f\u00017\f\u00024", "\f\u0000"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\f\u0000b\f\u00021\f\u00015\f\u0000", "\f\u0000", "\f\u00009\f\u0003e\f\u0000"], "ner_tags": [0, 0, 5]}
+{"tokens": ["\f\u0000", "\f\u0000", "\f\u0002d\f\u00030\f\u0000", "\f\u00036\f\u0000"], "ner_tags": [0, 0, 1, 0]}
+{"tokens": ["\f\u0000", "\f\u0000", "\f\u00031\f\u0000", "\f\u00032\f\u0000", "\f\u00034\f\u0000"], "ner_tags": [0, 0, 1, 0, 0]}
+{"tokens": ["\f\u0000", "\f\u0000", "\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [0, 1, 0, 0, 0]}
+{"tokens": ["\f\u0000", "\f\u0001a\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [3, 0, 0, 0]}
+{"tokens": ["\f\u0000", "\f\u00019\f\u0000", "\f\u0000"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [0, 3, 0]}
+{"tokens": ["\f\u0001e\f\u00002", "\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [0, 1, 0, 0]}
+{"tokens": ["\f\u0000", "\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [1, 5, 0, 0]}
+{"tokens": ["\f\u0001f\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [4, 0, 0]}
+{"tokens": ["\f\u0000", "\f\u0000"], "ner_tags": [4, 0]}
+{"tokens": ["\f\u00017\f\u0000", "\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [2, 0, 0, 0]}
+{"tokens": ["\f\u00013\f\u0000", "\f\u0000", "\f\u00023\f\u0000", "\f\u0000"], "ner_tags": [5, 0, 5, 0]}
+{"tokens": ["\f\u0000", "\f\u0000", "\f\u0000", "\f\u0000"], "ner_tags": [0, 0, 1, 0]}
+{"tokens": ["\f\u0000e\f\u0000", "\f\u0000"], "ner_tags": [1, 0]}
+{"tokens": ["\f1a\f3f\f28\f4d\f28\f28\f3e\f1f\f3f", "\f17\f3e\f02\f27\f40", "\f23\f41", "\f35\f48\f02\f15\f3f\f02\f17\f3e\f30\f4d", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\f05\f28\f41", "\f2d\f3e\f30\f24\f4d\f35\f30\f4d\f37\f47\f02\f21\f4b", "\f15\f4d\f32\f3f\f28\f4d\f1f\f28\f3f", "\f35\f46\f33\f4d\f32\f3f\f02\f26\f3f", "."], "ner_tags": [0, 1, 2, 2, 0]}
+{"tokens": ["\f30\f2e\f47\f36\f4d", "\f09\f21\f2f\f4d", "\f12\f15\f4d\f1f\f4a\f2c\f30\f4d"], "ner_tags": [1, 2, 2]}
+{"tokens": ["\f17\f41\f30\f41", "\f39\f46\f35\f4d\f30\f3f", "\f24\f3e\f28", "\f26\f46\f36\f3e\f2e\f4d", "\f32\f4b", "\f17\f41\f02\f1f\f41", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["\f27\f3e", "\f30\f3e\f2e\f3e", "\f28\f3f\f17\f3e\f30\f3e", "\f35\f3f\f28\f2f\f3f", "\f32\f4b", "\f07\f02\f26\f3f\f2f\f3e", "\f28\f3f\f1c\f02", "\f31\f3e\f2c\f4d\f2f\f41\f02\f26\f3f"], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\f0e", "\f32\f4b\f23\f4d", "\f2e\f3e\f39\f3e\f30\f3e\f37\f4d\f1f\f4d\f30", "\f2f\f41", "\f22\f47\f32\f3f", "\f15\f3e\f32\f3f\f2b\f4b\f30\f4d\f28\f3f"], "ner_tags": [0, 1, 2, 0, 0, 0]}
+{"tokens": ["\f36\f4d\f30\f3f", "\f2a\f3e\f26\f15\f3e", "\f2a\f30\f3f\f36\f4d"], "ner_tags": [1, 2, 2]}
+{"tokens": ["\f39\f3f\f28\f4d\f26\f42", "\f15\f1f\f4d\f1f\f41", "\f09\f38\f4d\f24\f30", "."], "ner_tags": [1, 2, 2, 0]}
+{"tokens": ["\f16\f3e\f16", "\f15\f4b\f28", "\f15\f56\f2a\f4d\f1f\f4b\f23\f46\f1f\f4d"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f2c\f47\f02\f17\f3e\f32\f41", "\f35\f3f\f1c\f2f\f4d", "\f15\f3e\f30\f4d\f32\f4a", "\f15\f4a\f26\f26\f40\f28\f3f", "."], "ner_tags": [1, 2, 2, 2, 0]}
+{"tokens": ["\f21\f3f\f32\f4d\f32\f40", "\f2d\f3e\f30\f24", "\f17\f30\f4d\f39\f02\f17\f4d"], "ner_tags": [1, 2, 2]}
+{"tokens": ["\f2a\f3f\f1f\f47\f30", "\f21\f30\f4d\f26\f3e", "\f17\f4b\f35\f3f\f02\f21\f4a\f28\f3f", "\f38\f02\f27\f4d\f2f\f3e\f32\f02"], "ner_tags": [0, 1, 2, 2]}
+{"tokens": ["\f38\f3e\f30\f3e", "\f1a\f3f\f28\f4d\f28", "\f1f\f40\f15\f47\f1f\f4d"], "ner_tags": [1, 2, 2]}
+{"tokens": ["\f2e\f4b\f39\f28\f4d", "\f17\f4d\f30\f3e\f02\f21\f4d", "\f2a\f4d\f30\f3f\f5e\f38\f4d"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f17\f42\f17\f32\f41", "\f06\f28\f02\f24", "\f15\f4d\f30\f3f\f02", "\f39\f48\f26\f30\f3e"], "ner_tags": [1, 2, 2, 2]}
+{"tokens": ["\f24\f30\f41\f23\f4d", "\f26\f3e\f38\f3e", "\f17\f23\f3e", "\f30\f3e\f05\f21\f4d"], "ner_tags": [0, 1, 2, 2]}
+{"tokens": ["\f05\f00\f27\f4d\f30", "\f06\f30\f4d\f1c\f28\f4d\f1f\f3f\f28\f3e", "\f39\f3f\f28\f4d\f26\f41", "\f38\f02\f2c\f3e\f30\f4d"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f2a\f32\f15\f4d", "\f2a\f41\f28\f47", "\f24\f46\f32\f3e\f17\f3e", "\f28\f3e\f17\f30\f3f\f15\f3f"], "ner_tags": [1, 2, 2, 0]}
+{"tokens": ["\f35\f3f\f15\f4d\f1f\f4b\f30\f3f\f2f", "\f28\f47\f24\f3f", "\f27\f30\f38\f46\f28\f4d\f2c\f46\f30\f4d"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f38\f02\f2c\f42", "\f28\f47\f21\f4d\f23", "\f32\f41", "\f15\f3f\f28\f4d\f2f\f41"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u000e\u0015\u007f\u001c\u001c\u0002\u0002\u001c", "\u001a\u0007\u001c\u001f\u001f", "\u0016\u001c\u001f\u001a\u001f\u001f"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\n\u0017\u0001f", "\u001a\u0001a\u0001a", "\u0007c\tb"], "ner_tags": [0, 3, 0]}
+{"tokens": ["\f0", "\u0000c", "\u000f\u0005", "\n\u0004", "\u0005\f"], "ner_tags": [0, 5, 1, 0, 2]}
+{"tokens": ["\u000b\r", "\u0017\u0001", "\u0006\u001a", "\u001c\u001c", "\u001a\u001f"], "ner_tags": [3, 0, 0, 4, 0]}
+{"tokens": ["\u0005\u000b", "\u0019\u001a", "\u001c\u0001", "\u000e\u001f", "\u001a\u001e"], "ner_tags": [0, 0, 5, 0, 6]}
+{"tokens": ["\u0016\u0007", "\u001c\u001a", "\u001b\u000e", "\u0007\u001e", "\n\u001c"], "ner_tags": [0, 5, 0, 6, 0]}
+{"tokens": ["\u001e\u000f", "\u001f\u001e", "\u0000\u001a", "\u001c\u001f", "\u0016\u000e"], "ner_tags": [1, 2, 0, 4, 0]}
+{"tokens": ["\u0000\u0019", "\u0015\u001e", "\u0005\u001d", "\u000e\u001b", "\u001b\u000f"], "ner_tags": [0, 5, 0, 0, 2]}
+{"tokens": ["\r\u001a", "\u0000\u0017", "\n\u0001", "\u001e\u0012", "\f\u0016"], "ner_tags": [0, 6, 0, 1, 0]}
+{"tokens": ["\u001d\u001e", "\u0019\u001a", "\u000e\u001f", "\u0012\f", "\u0001\n"], "ner_tags": [2, 0, 5, 0, 0]}
+{"tokens": ["\u0003\u001e", "\n\u0015", "\u0001\u001e", "\u001b\f", "\u0014\u001f"], "ner_tags": [0, 0, 6, 0, 1]}
+{"tokens": ["\u000b\u0012", "\u001d\u000f", "\u0004\u0002", "\u001a\u001c", "\u0006\u001d"], "ner_tags": [0, 0, 5, 0, 6]}
+{"tokens": ["\u0012\u001b", "\u001c\b", "\u0007\u0016", "\f\u001b", "\u0005\u001a"], "ner_tags": [1, 2, 0, 0, 3]}
+{"tokens": ["\u000e\u000e", "\u0018\u0019", "\u000f\u0012", "\u001b\u001f", "\u000b\n"], "ner_tags": [0, 5, 0, 3, 0]}
+{"tokens": ["\u001c\u0015", "\u0017\u001d", "\b\u001b", "\u0001\u0019", "\u000f\r"], "ner_tags": [2, 0, 0, 6, 0]}
+{"tokens": ["\u0017\u000e", "\u0015\u001e", "\t\u001b", "\n\u001c", "\u001e\u000f"], "ner_tags": [0, 0, 1, 2, 0]}
+{"tokens": ["\u0016\u0017", "\u0014\u000e", "\n\u001c", "\u001e\u001f", "\u0019\u000b"], "ner_tags": [5, 0, 0, 3, 0]}
+{"tokens": ["\u0013\u001c", "\u001c\u001c", "\u001d\r", "\b\u0016", "\r\u000e"], "ner_tags": [0, 0, 2, 0, 5]}
+{"tokens": ["\u000b\f", "\r\u001f", "\n\u001d", "\u001c\u0001", "\u0010\u001b"], "ner_tags": [0, 1, 0, 4, 0]}
+{"tokens": ["\b\u001b", "\t\u001d", "\u001b\u000e", "\u0001\u000f", "\u001f\u000e"], "ner_tags": [0, 0, 6, 1, 0]}
+{"tokens": ["\n", "\f1\u0015\u0015\t", "\f7\f1\fa\f9", "\f8", "."], "ner_tags": [0, 1, 2, 0, 0]}
+{"tokens": ["\f7\f4\f1\f4\u0001", "\f8\f7\fa", "\fa\f2\f1\f8\f3", "\fd\f1", "\f9\ff\f0\f7", "\f7\f2\f7\f9", "."], "ner_tags": [0, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["\f5\f3\fa\f3", "\f6", "\fd\f7", "\fa\f5\f2"], "ner_tags": [0, 5, 6, 0]}
+{"tokens": ["\fa\f7\f9\f0\f1\f5", "\f1\fb\fa\f7\fa", "\fd\f0\f1\f4\fa\f7\f8", "."], "ner_tags": [0, 1, 1, 0]}
+{"tokens": ["\f8\ff\f1\f8\f9", "\f7\fd\f0\f7\f9", "\f8\f4\ff", "\f9\f6\f7\f0", "\f7\fa\f8\f9\ff\f7\f8", "."], "ner_tags": [0, 5, 6, 0, 0, 0]}
+{"tokens": ["\f0\f3\ff", "\f1\f6\fa\f2\f6\f0", "\f7\f7\f8\f1", "\f8\fa\f2", "\fd\f9\f3\ff\f7\fa", "\fa\f9\f0\fa\f7\f9", "."], "ner_tags": [0, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["\fd\f6\f7", "\f0\f2\f7", "\fd\f2", "\fa\f8\f6", "\f8\f5\f8\ff", "\f0\f8\f0\f7", "."], "ner_tags": [1, 2, 0, 5, 6, 0, 0]}
+{"tokens": ["\fd\f3\f8\f7", "\fa\f3\fa", "\f1\f1\f5\fb", "\f9\f1\f1", "\fa\f1\f3\fd", "\fd\f0\fd\ff"], "ner_tags": [0, 5, 6, 0, 1, 2]}
+{"tokens": ["\f1\f6\f8\fb", "\fd\f6\fa", "\f6\f1\f4", "\fb\f9", "\f7\f3", "\f1\fd", "\fd\f5\f4", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 6, 0]}
+{"tokens": ["\f7\f9\fa", "\fb\f1\f1", "\f9\f7\ff", "\f2\f7", "\f4\f3\fb", "."], "ner_tags": [0, 5, 6, 0, 0, 0]}
+{"tokens": ["\fb\f9\f8", "\f8\fd\f8", "\f1\f8\f2", "\fd\f8", "\f6\f4\fd", "\fd\f7\fd", "\f8\f9", "\f0\fd", "\f6\ff\f8"], "ner_tags": [5, 6, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["\f8\f1\f7", "15", "\f9\fa\fa", "\f6\f9", "\f8\f9\f3", "\f7\f4\fa", "\fa\f8\f7"], "ner_tags": [0, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["\f1\f4\fb", "\f7\fa\fb", "\f1\fa", "\f9\fa", "\f8\fd", "\ff\fa", "."], "ner_tags": [1, 2, 0, 5, 6, 0, 0]}
+{"tokens": ["\f7\f5", "\f2\ff\f8", "\f9\ff", "\f7\f5", "\f1\f7\f5", "\fa\ff", "."], "ner_tags": [0, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["\fb\f2\f6", "\f3\f7", "\f7\fd", "\f6\f1", "\f9\fa", "2001", "."], "ner_tags": [3, 6, 5, 0, 0, 0, 0]}
+{"tokens": ["\f8\f6\ff\fb", "\f7\f8\fa", "\f0\fd", "\ff\f6"], "ner_tags": [0, 0, 5, 6]}
+{"tokens": ["\fd\f0\f1", "\f1\fa\f5", "\f9\f5\f7", "\f8\f0\f5", "\f7\ff\f2\f8", "\f7\f7\fb"], "ner_tags": [0, 1, 2, 0, 1, 2]}
+{"tokens": ["\f6\f7\ff", "\f8\f5", "\fa\r0", "\fa\f7", "\ff\fa", "\fd\f8\f0"], "ner_tags": [1, 2, 0, 1, 2, 0]}
+{"tokens": ["\f8\r0\f9", "\f6\f4", "\fb\fd\fd", "\f7\fd", "\f0\f4", "\fd\fa", "\fd\f6\f6", "\f2\f2.", "."], "ner_tags": [0, 5, 6, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["\f2\fa", "\f1\r0\f6", "\f9\fa", "\f8\fb", "\fa\ff", "\fd\f1", "\f2\ff\f3", "."], "ner_tags": [0, 1, 2, 0, 0, 1, 2, 0]}
+{"tokens": ["\f28\f3e\f2f\f4d\f15\f30\f4d", "\f21\f46\f32\f4d\f39\f3f", "\f2e\f41\f02\f2c\f08", "\f35\f3f\f26\f3f\f2f\f3e", "\f32\f4b", "\f2c\f46\f02\f17\f32\f4b\f30\f41", "."], "ner_tags": [1, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["\f15\f4a\f32\f4d\f15\f24\f3e", "\f28\f3e\f32\f41", "\f1a\f46\f28\f4d\f28\f48", "."], "ner_tags": [1, 1, 0, 0]}
+{"tokens": ["\f21\f3f\f32\f4d\f32\f40", "\f38\f3e\f19\f3e\f2f\f02", "\f24\f40\f35\f30\f3e\f26\f4d", "\f33\f4b", "\f06\f30\f4a\f17\f4d\f2f", "."], "ner_tags": [0, 1, 2, 0, 0, 0]}
+{"tokens": ["\f17\f41\f30\f41", "\f22\f47\f32\f4d\f39\f3f", "\f05\f2a\f4d\f30\f3f\f32\f4b", "\f15\f40\f30\f3e", "\f17\f30\f4d\f37\f3f\f21\f4d", "."], "ner_tags": [0, 0, 1, 2, 0, 0]}
+{"tokens": ["\f38\f4d\f30\f40\f32\f3e\f28\f3f", "\f15\f4a\f26\f4d\f2a\f3e", "\f1b\f46\f28\f48", "\f32\f4b", "\f15\f3f\f30\f02\f17\f4d", "\f15\f3e\f30\f4d\f2f\f3e", "\f2a\f4d\f30\f38\f3f\f26\f4d\f26", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f30\f3e\f2e\f4d", "\f1c\f30\f3e\f39\f4d", "\f28\f3e\f17\f3f\f38\f4d\f31\f3e\f28\f3f", "\f2e\f41\f02", "\f26\f3f\f32\f4d\f32\f40", "."], "ner_tags": [1, 0, 0, 0, 2, 0]}
+{"tokens": ["\f1a\f3f\f28\f4d\f28\f48", "\f30\f4b\f21\f3f\f28\f40", "\f24\f41\f28\f4d\f28\f47", "\f35\f47\f26", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\f07\f02\f21\f3f\f2f\f3e", "\f15\f4b\f32\f4d\f15\f24\f3e", "\f2a\f41\f38\f4d\f24\f15\f02\f26\f3f"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\f27\f3e\f28\f4d", "\f35\f3f\f28\f3e\f2f\f15", "\f1a\f3e\f32\f4d\f2f\f3e", "\f38\f3f\f15\f4d\f32\f47\f38\f4d", "\f28\f41", "\f28\f3f\f21\f32", "\f32\f4b", "\f30\f35\f3f\f28\f4d\f26\f4d\f30\f41", "\f32\f3e", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f1a\f46\f28\f4d\f28\f48", "\f2a\f30\f4d\f2f\f3e\f24\f28\f46", "\f1a\f47\f28\f4d\f28\f3e\f2f\f3f", "\f1a\f47\f38\f3f\f02", "\f05\f28\f41", "."], "ner_tags": [0, 5, 0, 0, 0, 0]}
+{"tokens": ["\f2f\f3f\f38\f4d\f30\f3e\f35\f02", "\f38\f42\f30\f4d\f2f\f3e", "\f17\f41\f28\f3e", "\f28\f3e\f1f\f38\f4d", "\f17\f3e", "\f35\f3f\f36\f3e\f32\f41", "\f38\f4a\f2e\f4d\f35\f47", "\f2a\f4d\f30\f38\f3f\f26\f4d\f26", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f37\f3e\f28\f4d\f15\f30\f4d", "\f35\f48\f21\f46\f2f\f3e", "\f2c\f46\f02\f17\f32\f4b\f30\f41"], "ner_tags": [1, 0, 2]}
+{"tokens": ["\f06\f02\f27\f30\f4d", "\f2a\f32\f3e\f38\f40\f2e\f4d\f2b\f3e", "\f2c\f4a\f2d\f3e", "\f2e\f41\f02\f2c\f08", "\f17\f4d\f30\f42\f2a\f4d", "\f2e\f3e\f28\f41"], "ner_tags": [1, 0, 2, 0, 0, 0]}
+{"tokens": ["\f2a\f41\f28\f47\f24\f4d", "\f17\f41\f30\f4d\f17\f3e\f35\f4d", "\f05\f30\f3f\f1c\f4b\f28\f4d", "\f15\f38\f4d\f2c\f3e", "\f2c\f41\f26\f4d\f27", "."], "ner_tags": [0, 1, 0, 2, 0, 0]}
+{"tokens": ["\f28\f3f\f30\f4d\f2e\f32\f3e", "\f1a\f46\f28\f4d\f28\f48", "\f27\f3e\f26\f3e", "\f15\f41\f35\f3f", "."], "ner_tags": [1, 1, 0, 2, 0]}
+{"tokens": ["\f17\f4b\f24\f3e\f35\f3e\f30\f3e", "\f1a\f3f\f28\f4d\f28\f48", "."], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f2a\f3e\f30\f4d\f35\f24\f40", "\f28\f17\f30\f3e\f1c\f41\f28", "\f07\f02\f21\f3f\f2f\f3e", "\f1a\f46\f28\f4d\f28\f48", "\f32\f4b", "\f05\f26\f3f\f2d\f3e", "."], "ner_tags": [0, 1, 0, 2, 0, 0, 0]}
+{"tokens": ["\f12\f38\f4d\f2e\f3e\f28\f4d", "\f24\f3f\f30\f41\f02\f17\f3e", "\f05\f02\f26\f30\f3e", "\f2a\f41\f38\f4d\f24\f15\f02\f26\f3f"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f35\f3f\f36\f2f\f15", "\f28\f47\f35\f3e", "\f24\f3f\f02\f26\f3f", "\f15\f32\f4d\f2f\f3e", "\f15\f4a\f32\f4d\f15\f24\f3e", "."], "ner_tags": [0, 0, 5, 0, 0, 0]}
+{"tokens": ["\f15\f3f\f37\f4d\f15", "\f32\f4b", "\f07\f02\f21\f3f\f2f\f3e", "\f15\f28\f4d\f28\f3f\f28\f3f", "\f35\f02\f21\f4c", "\f15\f32\f4d\f2f\f3e", "\f30\f32\f42", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\f30\f3e\f1c\f3f\f35\f17\f4d", "\f17\f41\f30\f41", "\f05\f30\f4d\f28\f3e", "\f2e\f3f\f1f\f4d\f1f\f3f", "\f1a\f47\f28\f4d\f28\f3e\f2f\f3f", "."], "ner_tags": [0, 1, 0, 2, 0, 0]}
+{"tokens": ["\u000f\u000f7\f30\f2a\f40\f38\f4d", "\f38\f47\f15\f02\f21\f4d\f30", "\f13\f15\f4d\f1f\f4b\f2c\f30", "\f21\f46\f38\f46\f2e\f4d\f2c\f30", "\f13\f15\f4d\f1f\f4b\f2c\f2e\f38\f41", "\f2a\f4d\f30\f36\f4d\f28\f3f"], "ner_tags": [0, 0, 3, 4, 4, 0]}
+{"tokens": ["\f1e\f3e\f28\f3f\f15", "\f30\f3e\f2e\f4d", "\f2a\f1f\f4d\f1f\f23\f4d\f2f", "\f2f\f28\f4d\f24", "\f2f\f41\f35\f15\f4d", "\f05\f28\f4d\f28"], "ner_tags": [3, 4, 4, 0, 0, 0]}
+{"tokens": ["\f1c\f4a\f28", "\f32\f28\f4d\f21\f28", "\f35\f3f\f28\f3f", "\f15\f3e\f30\f4d\f1f\f30", "\f2a\f47\f30\f3f\f38\f4d"], "ner_tags": [3, 4, 0, 0, 0]}
+{"tokens": ["\f28\f3f\f32\f2f\f41", "\f24\f3f\f30\f4d\f21\f15", "\f2a\f41\f32\f15\f24\f4d\f24\f30\f4d\f2e\f41", "\f39\f48\f21\f4d\f30\f4b\f1c\f28\f4d", "\f15\f4b\f32\f4d\f32\f15"], "ner_tags": [0, 3, 4, 4, 0]}
+{"tokens": ["\f09\f24\f4d\f24\f30\f2b\f4b\f28", "\f07\f02\f21\f3f\f2f", "\f2a\f4d\f30\f26\f47\f36\f4d", "\f2e\f3e\f30\f4d\f17\f02", "\f30\f41\f1f\f41", "\f17\f3e\f30\f4d\f21\f28\f4d"], "ner_tags": [0, 0, 3, 4, 0, 0]}
+{"tokens": ["\f2a\f3e\f35\f28\f4d", "\f32\f3e\f30\f46\f02\f38\f4d", "\f05\f1f\f4d\f32\f3e\f02\f1f\f3f\f15\f4d"], "ner_tags": [0, 3, 4]}
+{"tokens": ["\f30\f2e\f47\f36\f4d", "\f02\f26\f41", "\f30\f02\f2f", "\f2c\f19\f4d\f17\f32\f4b\f30\f4d\f01"], "ner_tags": [3, 4, 0, 0]}
+{"tokens": ["\f28\f3e\f17\f4d\f2a\f42\f30", "\f2a\f3e\f30\f4d\f32\f3f\f2e\f02\f1f\f4b", "\f2e\f3e\f32\f4d\f15", "\f2a\f4d\f30\f38\f4d"], "ner_tags": [3, 4, 0, 0]}
+{"tokens": ["\f09\f38\f48\f23\f30", "\f24\f3e\f2a\f4d\f2a\f47", "\f2a\f3e\f30\f3f\f38\f4d\f2f\f46\f21\f4d"], "ner_tags": [0, 0, 3, 4]}
+{"tokens": ["\f15\f41\f02\f26\f3e\f2a\f4d", "\f15\f1f\f4d\f1f\f3e", "\f24\f3e\f2e\f3f\f32\f4d", "\f15", "\f17\f3e\f28\f4d\f21\f3f", "\f36\f3f\f32\f3e"], "ner_tags": [0, 0, 3, 4, 4, 0]}
+{"tokens": ["\f26\f3f\f32\f4d\f32\f3f", "\f2c\f3e\f38\f4d\f15\f41", "\f38\f40\f12\f32\f4d\f32\f3e", "\f15\f3e\f1f\f47\f32\f3e", "\f24\f4a\f15\f4d\f2f\f4b", "\f17\f3e\f09"], "ner_tags": [0, 0, 0, 3, 4, 0]}
+{"tokens": ["\f13\f2f\f3f\f38\f4d\f38\f3f\f38", "\f2e\f42\f28\f3f\f1a\f35", "\f35\f2f\f38\f4d", "\f39\f41\f2e\f28\f3e", "\f05\f28", "."], "ner_tags": [0, 3, 4, 0, 0, 0]}
+{"tokens": ["\f05\f2a\f4d\f2a\f32", "\f15\f30\f3e\f1a", "-", "\f15\f30\f3e\f3a", "\f35\f30\f1f\f3e\f15\f4d"], "ner_tags": [0, 3, 4, 4, 0]}
+{"tokens": ["\f2a\f3f\f02\f1f\f4d\f24\f28", "\f2d\f3e\f1f\f4d\f30\f3e", "\f38\f3e\f07\f24\f4d\f2f\f3e", "\f17\f1f\f4d"], "ner_tags": [0, 0, 3, 4]}
+{"tokens": ["\f38\f02\f1c\f3e\f2f", "\f05\f15\f4d\f1f\f3f\f35", "\f2a\f42\f32\f41\f2e\f3e"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\f33\f15\f4d\f36\f4d\f2e\f40\f24", "\f21\f48", "\f35\f46\f33\f41\f24\f3e", "\f2e\f02\f26\f41"], "ner_tags": [3, 4, 4, 0]}
+{"tokens": ["\f2e\f3e\f36\f4d\f15", "\f15\f3f\f02\f17\f4d\f21\f3e", "\f2e\f15\f4d\f38", "\f30\f35\f3f\f28\f4d\f28\f40"], "ner_tags": [0, 3, 4, 0]}
+{"tokens": ["\f37\f0f\f30\f32\f41", "\f15\f2e\f32\f3e", "\f2c\f02\f26\f40\f24"], "ner_tags": [3, 4, 4]}
+{"tokens": ["\f05\f02\f26\f4d\f30\f41\f35\f41", "\f24\f3f\f2e\f4d\f2c\f15\f4d\f15", "\f05\f30\f4d\f1c\f3f\f15\f21", "\f2e\f41\f16\f4d\f2f\f32\f3f", "\f38\f02\f26\f47"], "ner_tags": [0, 0, 3, 4, 4]}
+{"tokens": ["\f0e", "\u0000c3b", "\f47", "\u0000c19\u0000c4d", "\u0000c32\u0000c21\u0000c41", "\u0000c28\u0000c47", "\u0000c2a\u0000c4d\u0000c2f\u0000c3e\u0000c15\u0000c02\u0000c26\u0000c4d\u0000c30\u0000c3e", "\u0000c15\u0000c4a\u0000c35\u0000c4d\u0000c35\u0000c32\u0000c41", "\u0000c1f\u0000c46\u0000c28\u0000c4d"], "ner_tags": [1, 2, 2, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["\u0000c2e\u0000c39\u0000c3e\u0000c30\u0000c3e\u0000c37\u0000c4d\u0000c1f\u0000c4d\u0000c30", "", "\u0000c2a\u0000c4d\u0000c30\u0000c2f\u0000c17\u0000c4d", " \u0000c38\u0000c30\u0000c15\u0000c4d\u0000c37", "\u0000c28\u0000c3f\u0000c35\u0000c47\u0000c26\u0000c73"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\u0000c39\u0000c40\u0000c30\u0000c3e\u0000c30\u0000c4d", "\u0000c32\u0000c70", "\u0000c21\u0000c3f\u0000c2f\u0000c3e", "\u0000c24\u0000c46\u0000c32\u0000c41\u0000c17\u0000c41", "\u0000c2d\u0000c3e\u0000c30\u0000c24\u0000c4d", "\u0000c2d\u0000c3e\u0000c30\u0000c24\u0000c32\u0000c41"], "ner_tags": [1, 0, 0, 0, 1, 0]}
+{"tokens": ["\u0000c38\u0000c41\u0000c30\u0000c2d", "\u0000c28\u0000c47", "\u0000c35\u0000c40\u0000c23\u0000c41\u0000c15\u0000c4a\u0000c21\u0000c4d", "\u0000c28\u0000c40", "\u0000c26\u0000c46\u0000c32\u0000c3f", "\u0000c15\u0000c3f\u0000c30\u0000c3e\u0000c23\u0000c4d", "\u0000c1c\u0000c28\u0000c41\u0000c30\u0000c3e\u0000c30\u0000c4d"], "ner_tags": [1, 0, 0, 0, 0, 0, 2]}
+{"tokens": ["\u0000c2c\u0000c3e\u0000c30\u0000c46\u0000c32\u0000c4d", "\u0000c30\u0000c3e\u0000c2e\u0000c28\u0000c41", "-", "\u0000c2a\u0000c3e\u0000c30\u0000c4d\u0000c38\u0000c3f\u0000c02\u0000c17\u0000c4d", "\u0000c32\u0000c4b", "\u0000c21\u0000c28\u0000c41"], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0000c2c\u0000c48\u0000c21\u0000c42", "\u0000c37\u0000c02\u0000c15\u0000c30\u0000c4d", "\u0000c15\u0000c3e\u0000c2e\u0000c2d\u0000c4b\u0000c21\u0000c3f\u0000c2f", "\u0000c28\u0000c40", "\u0000c2f\u0000c2e\u0000c41\u0000c28\u0000c3e", "\u0000c38\u0000c02\u0000c1d\u0000c2f\u0000c02"], "ner_tags": [1, 2, 2, 0, 0, 0]}
+{"tokens": ["\u0000c2a\u0000c40\u0000c05\u0000c30\u0000c4d\u0000c05\u0000c2e\u0000c3e\u0000c30\u0000c3e", "\u0000c38\u0000c41\u0000c30\u0000c24\u0000c4d"], "ner_tags": [1, 2]}
+{"tokens": ["\u0000c17\u0000c41\u0000c30\u0000c41", "\u0000c39\u0000c30\u0000c40", "\u0000c2a\u0000c4d\u0000c30\u0000c2c\u0000c4d\u0000c39\u0000c24", "\u0000c28\u0000c3e\u0000c17\u0000c30\u0000c3f\u0000c15", "\u0000c16\u0000c3e\u0000c28\u0000c4d\u0000c28"], "ner_tags": [1, 0, 0, 2, 2]}
+{"tokens": ["\u0000c1c\u0000c4a\u0000c28\u0000c4d", "", "\u0000c06\u0000c2e\u0000c46\u0000c30\u0000c3f\u0000c15\u0000c3e", "\u0000c17\u0000c4d\u0000c30\u0000c40\u0000c38\u0000c41", ".", ""], "ner_tags": [1, 0, 2, 2, 0, 0]}
+{"tokens": ["\u0000c24\u0000c47\u0000c32\u0000c3f\u0000c17\u0000c41", "\u0000c2e\u0000c39\u0000c40\u0000c32\u0000c3f", "\u0000c15\u0000c4b\u0000c28\u0000c4a\u0000c28", "-", "\u0000c28\u0000c40\u0000c28\u0000c4d\u0000c26\u0000c3e", "\u0000c2e\u0000c26\u0000c3f\u0000c28"], "ner_tags": [1, 0, 0, 0, 0, 2]}
+{"tokens": ["\u0000c1a\u0000c3f\u0000c28\u0000c4d\u0000c28\u0000c2d\u0000c4d\u0000c24", "\u0000c24\u0000c46\u0000c15\u0000c4d\u0000c15\u0000c32\u0000c3e", "\u0000c39\u0000c4a\u0000c1f\u0000c46\u0000c32\u0000c3e", "\u0000c2a\u0000c41\u0000c00\u0000c15", "."], "ner_tags": [1, 2, 2, 0, 0]}
+{"tokens": ["\u0000c15\u0000c3e\u0000c35\u0000c4d\u0000c2f\u0000c42\u0000c30\u0000c3e\u0000c2e\u0000c3f", "\u0000c2c\u0000c48\u0000c32\u0000c4d\u0000c32\u0000c3e", "\u0000c35\u0000c47\u0000c21\u0000c3e", "\u0000c2e\u0000c3e\u0000c30\u0000c4d\u0000c15", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0000c2a\u0000c4d\u0000c30\u0000c35\u0000c40\u0000c23\u0000c21\u0000c4d\u0000c2a", "\u0000c15\u0000c3e\u0000c32\u0000c47\u0000c1c\u0000c3f\u0000c2f\u0000c3e"], "ner_tags": [1, 2]}
+{"tokens": ["\u0000c35\u0000c3f\u0000c37\u0000c2e\u0000c32", "\u0000c17\u0000c41\u0000c30\u0000c4d\u0000c1c\u0000c30\u0000c41", "\u0000c24\u0000c3e\u0000c2e\u0000c3f\u0000c32\u0000c4d", "\u0000c15\u0000c3e\u0000c30\u0000c4d\u0000c2a\u0000c46\u0000c28\u0000c4d", "\u0000c38\u0000c3e\u0000c39\u0000c3f\u0000c24\u0000c4d\u0000c2f\u0000c02"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\u0000c26\u0000c41\u0000c30\u0000c4d\u0000c17\u0000c3e\u0000c2a\u0000c41\u0000c30\u0000c3f", "\u0000c1a\u0000c46", "\u0000c38\u0000c30\u0000c38\u0000c4d\u0000c35\u0000c24\u0000c40", "\u0000c06\u0000c38\u0000c4d\u0000c2d\u0000c3e\u0000c2d\u0000c3e", "\u0000c27\u0000c46\u0000c36\u0000c2e\u0000c4d\u0000c2c\u0000c30\u0000c3e"], "ner_tags": [1, 0, 0, 2, 2]}
+{"tokens": ["\u0000c28\u0000c3f\u0000c30\u0000c4d", "\u0000c2d\u0000c3e\u0000c0a\u0000c26\u0000c4d\u0000c26\u0000c4b", "\u0000c2a\u0000c2a\u0000c41", "\u0000c1c\u0000c25\u0000c28\u0000c4d", "\u0000c2e\u0000c39\u0000c3e\u0000c30\u0000c3e\u0000c37\u0000c4d\u0000c1f\u0000c4d\u0000c30"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\u0000c12\u0000c38\u0000c4d\u0000c2e\u0000c3e", "\u0000c26\u0000c3e\u0000c2e\u0000c4b", "\u0000c21\u0000c40\u0000c28\u0000c3f\u0000c15\u0000c46", "\u0000c17\u0000c4d\u0000c30\u0000c3e\u0000c39\u0000c4d\u0000c2e\u0000c3e\u0000c28\u0000c02"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u0000c26\u0000c3f\u0000c32\u0000c4d\u0000c32\u0000c40", "\u0000c1a\u0000c3e\u0000c30\u0000c4d\u0000c32\u0000c3f", "\u0000c2a\u0000c46\u0000c24\u0000c3e", "\u0000c2e\u0000c41\u0000c02\u0000c26\u0000c4d", "\u0000c15\u0000c3e\u0000c06\u0000c30\u0000c4d\u0000c32\u0000c40"], "ner_tags": [1, 2, 0, 0, 2]}
+{"tokens": ["\u0000c15\u0000c3e\u0000c28", "\u0000c30\u0000c1f\u0000c4d\u0000c28", "\u0000c2e\u0000c39\u0000c3e\u0000c30\u0000c3e\u0000c37\u0000c4d\u0000c1f\u0000c4d\u0000c30", "\u0000c24\u0000c46\u0000c32\u0000c3f\u0000c17\u0000c41"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u0000c24\u0000c2a", "\u0000c38\u0000c00\u0000c15\u0000c46", "\u0000c15\u0000c4b\u0000c28\u0000c4a\u0000c02", "\u0000c38\u0000c2c\u0000c3e"], "ner_tags": [1, 2, 2, 0]}
+{"tokens": ["\u0000c17\u0000c41\u0000c30\u0000c41", "\u0000c2e\u0000c39\u0000c3e\u0000c30\u0000c3e\u0000c37\u0000c4d\u0000c1f\u0000c4d\u0000c30", "\u0000c38\u0000c23\u0000c4d\u0000c26\u0000c30\u0000c3f", "\u0000c15\u0000c3e\u0000c36\u0000c40", "\u0000c35\u0000c3e\u0000c30\u0000c4d\u0000c26\u0000c3e"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\n\n\u000f\u000e", "\u000b\u000e\u0017\u0017", "\u000b\u001f\u001c\u0002\u001b\u001d\u0015", "\f\u0017\u000e"], "ner_tags": [1, 2, 3, 4]}
+{"tokens": ["\f\u001c\u0002\u001e", "\u000b\u001e\u0017\u0010", "\u000b\u001f\u000b\u0018", "\f\u0011", "\f\r\u0018"], "ner_tags": [5, 3, 4, 4, 0]}
+{"tokens": ["\n\f\u001d\u001e", "\n\r\u0003", "\r\u0013", "\u000b\u0015", "\f\u000e\u0013", "\r\u0010"], "ner_tags": [1, 2, 1, 0, 5, 0]}
+{"tokens": ["\u000e\u0010", "\u000e\u0000\u0013", "\r\u0000", "\f\u0013\u0011", "\u000b\u0018\r"], "ner_tags": [0, 2, 1, 5, 3]}
+{"tokens": ["\n\u000f\u0015", "\f\u0017\u0001\u0010", "\n\u0017\u000f", "\u000b\u0015\u0013", "\u000b\u0010\u0018"], "ner_tags": [5, 3, 1, 1, 0]}
+{"tokens": ["\r\u0015", "\u000b\u001b\u0002", "\u000b\u0017\u0012", "\r\u0011\u0013"], "ner_tags": [1, 2, 4, 0]}
+{"tokens": ["\n\u000e\u000f", "\f\u0001\u0001", "\u000b\r"], "ner_tags": [3, 4, 0]}
+{"tokens": ["\n\u0000b", "\u0000d\u000e", "\u000b\r\u000e", "\n\u000e"], "ner_tags": [5, 3, 0, 0]}
+{"tokens": ["\u0000b\r", "\u0000a\r\f\u000e", "\u0000b\u000f\u000f", "\f\n"], "ner_tags": [1, 1, 2, 0]}
+{"tokens": ["\u0000d\f", "\u0000d\r\u000e", "\u0000c\u000b\u000f", "\f\u000e"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u0000c\u000b", "\u0000b\u000e\u000b", "\u0000c\u000b\u000b", "\u0000b\u000e"], "ner_tags": [1, 1, 2, 2]}
+{"tokens": ["\u0000d\u000b", "\u0000d\n", "\u000e\n\r", "\u000e\u000f"], "ner_tags": [3, 5, 0, 0]}
+{"tokens": ["\u0000a\u000f", "\u0000d\u000b", "\u0000d\u000f", "\u000b\n", "\n\r"], "ner_tags": [0, 1, 1, 4, 0]}
+{"tokens": ["\u0000d\u000e", "\u0000d\u000e\r", "\u0000e\n", "\u0000e\r", "\n\f"], "ner_tags": [1, 5, 3, 0, 0]}
+{"tokens": ["\u0000a\u000b\u000e\u000f", "\u0000b\n", "\n\u000f\u000e", "\u000b\n\u000f"], "ner_tags": [1, 2, 4, 0]}
+{"tokens": ["\u0000a\u000b", "\u0000d\u000f", "\u0000b\r", "\u0000c\f"], "ner_tags": [3, 0, 3, 0]}
+{"tokens": ["\u0000e\r\u000e", "\u0000a\n\u000f", "\r\f\u000f", "\n\u000f"], "ner_tags": [5, 1, 1, 3]}
+{"tokens": ["\u0000c\u000e\u000e", "\u0000d\u000b\r", "\u000b\u000e\r", "\u0000e\u000f"], "ner_tags": [2, 1, 5, 0]}
+{"tokens": ["\u0000d\r", "\u0000d\f", "\u0000b\r", "\u0000a\u000e"], "ner_tags": [3, 1, 4, 0]}
+{"tokens": ["\u0000c\f\u000b", "\u0000b\u000e\n", "\u000b\u000f", "\r\u000e"], "ner_tags": [5, 1, 3, 0]}
+{"tokens": ["\f38\f35\f3e", "2023", "\f32\f4b", "\f39\f3f\f26\f3f", "\f28\f3e\f17\f30\f3f\f15", "\f06\f30\f4d\f2e\f3e", "\f15\f40\f35\f32\f47\f2f\f41", "\f15\f3f\f15\f2e\f4d\f09\f21\f47", "\f1c\f30\f3f\f17\f3f", "\f15\f3e\f02\f17\f4d\f30\f46\f38\f4d", "\f1a\f47\f38\f3f\f28\f4d\f28\f3f", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f2a\f3e\f30\f3f\f38\f4d", "\f1f\f47\f1a\f4d\f2f\f30\f4d", "\f35\f3f\f15\f4d\f1f\f4b\f30\f4d", "\f35\f3e\f21\f4d\f2f\f3e", "\f39\f41\f1f\f41\f15\f41\f02\f1f\f4d\f2f\f41", "\f32\f4b", "\f11\f15\f4d\f38\f4d\f2b\f30\f4d\f21\f4d"], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\f07\f02\f21\f3f\f2f\f3e", "\f15\f4b\f15\f24\f4d\f24\f3e", "\f2c\f02\f17\f4d\f17\f33\f4b", "\f28\f3f\f30\f4d\f2e\f41\f32\f4b", "\f2e\f3e\f3a\f41\f32\f3f", "\f1c\f3f\f24\f4d\f24\f32\f4b", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["\f39\f3f\f1f\f32\f4d\f32\f15\f4b", "\f07\f32\f4b\f02", "\f30\f3e\f39\f41\f32\f4d\f2b\f26\f4d", "1806", "."], "ner_tags": [5, 6, 0, 0, 0]}
+{"tokens": ["\f0c\f38\f4b\f30\f3e\f2d\f02", "\f38\f4c\f26\f31\f40", "\f16\f3e\f30\f4d\f22\f3f\f15\f3e", "\f1c\f46\f2a\f3e\f28\f3f\f38\f4d"], "ner_tags": [3, 4, 4, 4]}
+{"tokens": ["\f2e\f46\f19\f21\f4b\f35\f30\f15", "\f1a\f46\f28\f4d\f28\f3f", "20", "\f35\f47\f32\f3e", "\f38\f46\f2a\f4d\f1f\f46\f02\f2c\f30\f4d"], "ner_tags": [5, 6, 0, 0, 0]}
+{"tokens": ["\f2e\f19\f3f\f32\f3e", "\f05\f2e\f41\f28\f4d\f21", "\f10\f31", "\f30\f46\f02\f09\f46\f21\f3f", "\f1a\f47\f28\f4d\f28\f46", "."], "ner_tags": [5, 6, 0, 0, 0, 0]}
+{"tokens": ["\f05\f28\f3f\f32\f4d\f2f\f3e", "\f2f\f41\f2e\f3e\f28\f4d\f28\f46", "\f16\f3e\f30\f4d\f39\f3e\f15", "\f26\f21\f4d\f21\f41\f30\f40", "\f36\f4d\f2f\f41\f38\f3f"], "ner_tags": [3, 4, 4, 4, 4]}
+{"tokens": ["\f38\f42\f30\f24\f4d\f24\f3f", "\f15\f28\f4d\f28\f15\f4a\f35\f46\f02", "\f28\f3e\f17\f3e", "\f35\f46\f23\f41\f2a\f15\f47", "\f30\f3e\f1c\f41\f32\f41\f32\f4b", "."], "ner_tags": [3, 4, 4, 4, 4, 0]}
+{"tokens": ["\f05\f02", "\f05\f30\f3e\f15\f4b\f23\f3e\f28\f4d", "\f12\f17\f4d\f17\f38\f4d", "\f1a\f3f\f28\f40\f28\f4d", "\f1a\f48\f28\f3e", "\f38\f28\f4d\f28\f4b", "\f02", "\f31\f3e", "."], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f0c\f2b\f3e\f30\f41\f15 ", "\f30\f35\f3f\f23\f41 ", "\f36\f48\f32\f3f", "\f06\f30\f46\f02\f17\f41\f30\f41"], "ner_tags": [3, 4, 4, 4]}
+{"tokens": ["\f1e\f42\f30\f4b\f38\f4d\f32\f3f", "\f39\f48\f26\f30\f3e\f2c\f3e", "\f28\f17\f4d\f30\f38\f3e\f15", "\f15\f4b\f15\f24\f4d\f24\f46", "\f02\f23\f42\f32\f41\f32\f4b", "."], "ner_tags": [0, 5, 6, 0, 0, 0]}
+{"tokens": ["\f05\f01\f1f\f47", "\f05\f2a\f4d\f30\f3f\f32\f4d\f32\f15", "\f10\f23\f46\f32\f4b", "\f38\f41\f30\f47\f36\f4d", "\f21\f40", "\f35\f3f\f36\f3e\f32\f2a\f4d\f30\f26\f02", "\f30\f1e\f41\f32\f41."], "ner_tags": [3, 4, 4, 4, 4, 4, 0]}
+{"tokens": ["\f15\f3e\f32\f4d\f39\f3f\f15\f41", "\f28\f47\f2a\f3e\f32\f4b", "\f38\f41\f30\f47\f15\f4d", "\f1c\f3e\f28\f4d\f21\f4d\f35\f3e", "\f28\f3e\f17\f3e", "\f15\f24\f4d\f24\f2f\f41\f32\f3e", "."], "ner_tags": [5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["\f05\f30\f2a\f23\f41", "\f35\f3f\f37\f3e\f21\f41", "\f41\f15\f4d\f16\f3e\f30\f3e", "\f2a\f24\f4d\f28\f3e", "\f39\f4a\f21\f41", "\f09\f28\f4d\f28\f3e."], "ner_tags": [5, 6, 0, 0, 0, 0]}
+{"tokens": ["\f15\f3f\f37\f41", "\f06\f2a\f4d\f30\f3f\f32\f4d\f32\f15", "\f05\f32\f2e\f2e\f02", "\f1a\f47\f02\f1a\f3e", "\f09\f28\f4d\f28\f3e"], "ner_tags": [3, 4, 4, 4, 4]}
+{"tokens": ["\f38\f41\f30\f2c\f3f\f02", "\f15\f3f\f30\f3e\f28\f3f\f38\f4d", "\f1f\f2e\f3f\f32\f3f", "\f23\f48\f02\f36\f3e", "\f15\f3f\f32\f3f"], "ner_tags": [5, 6, 0, 0, 0]}
+{"tokens": ["\f05\f02", "\f28\f4a\f35\f15\f47", "\f2e\f32\f4a\f15", "\f02\f23\f3f\f15\f15\f47", "\f38\f3e\f30\f41\f15\f15\f41", "."], "ner_tags": [0, 0, 5, 6, 0, 0]}
+{"tokens": ["\f05\f39\f15\f46", "\f2e\f46\f28", "\f1c\f3f\f32\f41", "\f15\f4d\f30\f3e\f2e\f4d", "1947", "\f38\f3e\f30\f41\f1c\f4d\f1e", "\f07\f02", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["\f2e\f27\f3f\f2a\f4c\f30", "1971", "\f38\f41\f30\f47\f36\f4d", "\f32\f4b", "\f38\f2e\f41\f26\f4d\f30\f3f", "\f36\f3e\f17\f41\f30\f41"], "ner_tags": [5, 6, 0, 0, 0, 0]}
+{"tokens": ["\u001e\u001f", "\u001e\u001e", "\u001e", "\u0013"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u001e", "\u0001e\u001e", "\u0013"], "ner_tags": [0, 5, 0]}
+{"tokens": ["\u0015", "\u0001e\u0001e", "\u0001e\u001e", "\u0001e\u001e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u0001e", "\u0015", "\u0001e\u001e", "\u0001e\u001e", "\u0013"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0014", "\u0001e", "\u0001e", "\u0013"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u0017", "\u0001e\u0001e\u001e", "\u0001e", "\u0013"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\u0016", "\u0001e", "\u0001e", "\u0013"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u0015", "\u0014", "\u0001e", "\u0001e", "\u0013"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0017", "\u0014", "\u0001e", "\u0015", "\u0013"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0018", "\u0001e", "\u0013"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0016", "\u0018", "\u001e", "\u0014", "\u0013"], "ner_tags": [0, 3, 0, 0, 0]}
+{"tokens": ["\u0018", "\u0018", "\u001e", "\u0001e", "\u0013"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u001e", "\u001e", "\u0015", "\u0013"], "ner_tags": [2, 2, 0, 0]}
+{"tokens": ["\u0001e", "\u001e", "\u001e", "\u0013"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u001e", "\u0018", "\u001e", "\u0014", "\u0013"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0017", "\u001e", "\u0015", "\u0018", "\u0013"], "ner_tags": [0, 0, 0, 3, 0]}
+{"tokens": ["\u0014", "\u001e", "\u0001e", "\u001e", "\u001e", "\u0013"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0017", "\u001e", "\u0015", "\u0013"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u001e", "\u0018", "\u0016", "\u0013"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u0015", "\u0018", "\u0017", "\u0016", "\u0013"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\f38\f3e\f30\f24\f4d\f02", "\f07\f02\f21\f3f\f2f\f3e"], "ner_tags": [0, 5]}
+{"tokens": ["\f2c\f3f\f2d\f3f\f28", "\f2c\f2a\f4d\f2a\f3e", "\f30\f39\f3e\f2b\f47\f32\f4d\f32\f3f", "\f15\f42\f26\f42", "\f1a\f47\f38\f21\f4d"], "ner_tags": [1, 2, 2, 2, 0]}
+{"tokens": ["\f38\f4d\f30\f40\f32\f3e", "\f1c\f47\f2a\f3e\f2a\f41\f30\f4d", "\f35\f3f\f35\f30\f4d\f24\f28\f02", "\f35\f46\f33\f3f", "\f32\f4b\f28\f4d\f21\f28\f4d"], "ner_tags": [3, 4, 4, 4, 4]}
+{"tokens": ["\f15\f30\f4d\f28\f3e\f1f\f15", "\f05\f2e\f30\f3f\f15", "\f1c\f3e\f28\f47\f24\f4d\f24\f4d\f2a\f4c\f32\f47", "\f35\f3e\f35\f3f\f32\f4d\f32\f40", "\f15\f3e\f00\f17\f4d\f30\f3f\f1c\f4d\f2f\f3e", "\f32\f4b\f28\f4d\f21\f28\f4d"], "ner_tags": [1, 2, 2, 2, 2, 0]}
+{"tokens": ["\f38\f4a\f18\f3f\f32\f4d\f32\f3e", "\f10\f15\f4d\f38\f02", "\f2d\f3e\f30\f24\f4d\f26\f35\f2d\f3e\f35"], "ner_tags": [0, 1, 5]}
+{"tokens": ["\f05\f30\f4d\f32\f2e\f3e", "\f15\f42\f35\f4d\f35\f24\f4d\f24\f41"], "ner_tags": [1, 2]}
+{"tokens": ["\f15\f3e\f36\f4d\f2e\f40\f30\f4d", "\f2e\f1f\f4d\f1f\f42", "\f28\f30\f3e\f2f\f28\f3f", "\f21\f46\f32\f4d\f39\f40"], "ner_tags": [3, 0, 1, 2]}
+{"tokens": ["\f26\f40\f2a\f3f\f15", "\f28\f47\f2a\f3e\f32\f4d", "\f35\f46\f02\f17\f32\f3f"], "ner_tags": [1, 2, 2]}
+{"tokens": ["\f17\f41\f30\f41", "\f30\f3e\f36\f4d\f20\f3e", "\f2c\f3e\f28\f4d\f17\f4d\f32\f3e\f26\f47\f36\f4d"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f09\f7f\f28\f3e\f12", "\f38\f3f\f15\f4d\f15\f3f\f2e\f2c\f38\f4d"], "ner_tags": [3, 5]}
+{"tokens": ["\f2c\f3e\f38\f4d\f15\f3e\f30", "\f2a\f30\f3e\f16", "\f38\f3e\f30\f4d\f2e\f3e", "\f30\f1c\f3e\f39\f2e\f3e"], "ner_tags": [3, 4, 4, 4]}
+{"tokens": ["\f15\f42\f26\f46", "\f21\f47\f32\f4d\f39\f3e\f32\f47", "\f15\f30\f3f\f2e\f4d\f2c\f3f\f12\f47\f02\f30\f3e"], "ner_tags": [0, 1, 5]}
+{"tokens": ["\f35\f4a\f15\f4d\f15\f1f\f4d", "\f17\f41\f2f\f3e\f28", "\f15\f3f\f16\f4d\f1f\f02\f32\f47", "\f1c\f4a\f39\f4d\f28\f4d"], "ner_tags": [0, 0, 1, 2]}
+{"tokens": ["\f02\f21\f3f\f2f", "\f24\f3e\f05\f15\f4d\f2f\f3e"], "ner_tags": [1, 5]}
+{"tokens": ["\f36\f41\f2e\f3f\f24\f4d\f30\f3e", "\f12\f38\f4d\f2e\f3e\f28\f3f\f2f\f3e"], "ner_tags": [0, 1]}
+{"tokens": ["\f39\f3f\f30\f3e\f28\f4d", "\f07\f30\f3e\f28\f3f\f2f\f3e", "\f38\f02\f2d\f46", "\f24\f46\f32\f3f\f17\f23\f3f"], "ner_tags": [3, 4, 4, 4]}
+{"tokens": ["\f30\f3e\f37\f4d\f1f\f4d\f30", "\f09\f28\f41", "2020", "\f36\f3f\f35"], "ner_tags": [3, 0, 0, 1]}
+{"tokens": ["\f1f\f4a\f15\f4d\f2f\f4b", "\f2e\f42\f32\f3e", "\f30\f42\f2a\f3e", "\f15\f32\f4d\f2f\f3e", "\f15\f2e\f4d\f2a\f4d\f2f\f4b"], "ner_tags": [1, 2, 2, 2, 2]}
+{"tokens": ["\f35\f47\f02\f15\f1f\f4d", "\f30\f35\f3f", "\f05\f2e\f30\f3f\f15", "\f26\f3f\f32\f4d\f32\f40"], "ner_tags": [3, 4, 4, 4]}
+{"tokens": ["\f0e\f38\f4d\f15\f46\f2a\f4d\f1f\f30", "\f30\f47\f21\f4d\f2e\f02", "\f2e\f3e\f30\f4d\f1a\f4d", "\f05\f02\f22\f47\f30\f4d\f38\f28\f32\f47", "\f2a\f4b\f32\f28\f3f\f2f", "."], "ner_tags": [3, 0, 1, 2, 2, 0]}
+{"tokens": ["\f", "\n", "\u000e\u000e", "\u000b0\n\u00016\u00045", "\u000b8\u00017", "\u00012\u00040", "\u0001a", "\u0003e\u00044", "\u00039\u00041", "\u00018\u0003d", "\u00032\u00036", "\f19"], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\f\u00121", "\u0003e\u00043\u00041", "\u00038\u0000f", "\u00037\u0005c", "\u00032\u0001a", "\u00040\u00017", "\u00005\u00046\u000b3", "\u0003f\f3", "\u00024", "\u0002e"], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f\f6\f0", "\u0002d", "\u00038\u00012\u00039", "\f1f"], "ner_tags": [5, 0, 0, 0]}
+{"tokens": ["\f\f6\u000b8\f3\u00035", "\u00039", "\u00038\u00037", "\f24\u00016", "\f26\u00015\u00052"], "ner_tags": [1, 0, 0, 2, 0]}
+{"tokens": ["\f4\u00039\f2", "\u000b5\u00042", "\f38\u0001a\f6", "\u00038\f7\u00016", "\f1a\u0001b"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\f5", "\u00039", "\f7\u0001f", "\f1a\f7", "\f46\u0001e", "\u000b8\u00049", "\u0002a", "\u0003e"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f7", "\u0001e", "\f2\u000bf", "\f40", "\f48", "\f1d"], "ner_tags": [1, 2, 2, 2, 0, 0]}
+{"tokens": ["\f3\u00014", "\u00036", "\f2d\u00024", "\u00039", "\f7", "\u0003f", "\f2e"], "ner_tags": [5, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0002e\f7", "\u0007b\u0003e", "\f18\u0001f", "\u0007a"], "ner_tags": [5, 0, 0, 0]}
+{"tokens": ["\u000e\f9", "\fc", "\u00026", "\u00023", "\u00046", "\u0001b"], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"tokens": ["\f1f", "\u00037", "\u000b5", "\u00043", "\u0002c"], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["\u000b8", "\u000b7", "\u00024", "\u000b3", "\u000b2"], "ner_tags": [1, 2, 2, 2, 0]}
+{"tokens": ["\u0003d\u0002a", "\u0001c", "\u000b9", "\f4", "\u00046"], "ner_tags": [5, 0, 2, 2, 2]}
+{"tokens": ["\u0000c\u000e\n", "\u000b2", "\f7\fc", "\u000b3"], "ner_tags": [1, 2, 2, 2]}
+{"tokens": ["\u00036", "\u0002e", "\u00038", "\f1b", "\fc"], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["\u00026", "\u0001a", "\f7", "\f5", "\u00022"], "ner_tags": [1, 2, 2, 0, 0]}
+{"tokens": ["\u0002c", "\u000b7", "\f1a\u000b2", "\u00026"], "ner_tags": [5, 0, 0, 0]}
+{"tokens": ["\u0003e", "\u0003a", "\f3c", "\u000b6", "\u0001f"], "ner_tags": [1, 0, 2, 0, 0]}
+{"tokens": ["\u000b3", "\u00047", "\f17", "\f1b", "\u00026"], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["\f37", "\u0002c", "\f4f", "\u00021"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\n", "\u000b", "\f", "\r"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u000e", "\u000f", "\u0010", "\u0011"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u0012", "\u0013", "\u0014", "\u0015", "\u0016"], "ner_tags": [0, 1, 2, 0, 0]}
+{"tokens": ["\u0017", "\u0018", "\u0019", "\u001a", "\u001b", "\u001c"], "ner_tags": [0, 0, 5, 6, 0, 0]}
+{"tokens": ["\u001d", "\u001e", "\u001f", "\u0010", "\u0011"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0012", "\u001f", "\u0013", "\u0016", "\u001b", "\u0015"], "ner_tags": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["\u001c", "\u0019", "\u0018", "\u0010", "\u0017"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\n", "\u000b", "\u0001d", "\u000e"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u000f", "\f", "\r", "\u000e", "\u000f", "\u0010"], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0011", "\u0012", "\u0013", "\u001c", "\u001d"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u001e", "\u001f", "\u0010", "\u0011", "\u0012", "\u0013", "\u0014"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0015", "\u0016", "\u0017", "\u0018"], "ner_tags": [1, 2, 2, 0]}
+{"tokens": ["\u0019", "\u001a", "\u001b", "\u001c", "\u001d"], "ner_tags": [0, 5, 6, 0, 0]}
+{"tokens": ["\u001e", "\u001f", "\u0010"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0011", "\u0012", "\u0013", "\u0014", "\u0015"], "ner_tags": [0, 0, 1, 2, 0]}
+{"tokens": ["\u0016", "\u0017", "\u0018", "\u0019"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u001a", "\u001b", "\u001c", "\u001d", "\u001e"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u001f", "\u0010", "\u0011"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0012", "\u0013", "\u0014", "\u0015"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u0016", "\u0017", "\u0018", "\u0019", "\u001a"], "ner_tags": [0, 5, 6, 0, 0]}
+{"tokens": ["\n", "\n", "\n", "\n", "\n", "\n", "\n"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\u001c", "\n"], "ner_tags": [0, 0]}
+{"tokens": ["\n", "\n", "\n"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\n", "\n"], "ner_tags": [0, 0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n", "\n", "\n", "\n"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\n", "\n"], "ner_tags": [0, 0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n", "\n"], "ner_tags": [0, 0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n"], "ner_tags": [0]}
+{"tokens": ["\n1", "\u000b9", "\u0000c8", "\u0000aa", "\u0000bf", "\u0000b2", "\u0000c4", "\u0000c1", "\u0000cd", "\u0000b9", "\u0000b0\u0000bf"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0000b0\u0000be\u0000b9\u0000c1\u0000b2\u0000bf", "\u0000aa\u0000be\u0000b2\u0000cd", "\u0000b8\u0000be\u0000ad\u0000cc\u0000a6\u0000bf\u0000af\u0000be"], "ner_tags": [1, 2, 0]}
+{"tokens": ["2023", "\u0000b8\u0000bf\u0000aa\u0000cd\u0000a4\u0000cc\u00002c", "\u0000aa\u0000c1\u0000a8\u0000c6", "\u0000b2\u0000cb\u0000a8\u0000cd\u0000a6\u0000ca\u0000ca\u0000aa\u0000cb\u0000b0\u0000cd"], "ner_tags": [0, 1, 2, 3]}
+{"tokens": ["\u0000af\u0000c2\u0000c0\u0000b2\u0000cb\u0000ab\u0000bf", "\u0000b5\u0000bc\u0000c7\u0000b8\u0000cd", "\u0000c2\u0000bc\u0000b0\u0000bb\u0000bd"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000aa\u0000c3\u0000b7\u0000be\u0000a8\u0000cd", "\u0000b8\u0000bf\u0000a8\u0000bf\u0000c1", "\u0000b7\u0000c1"], "ner_tags": [3, 4, 4]}
+{"tokens": ["\u0000b6\u0000c1\u0000b2\u0000b9", "\u0000aa\u0000b5\u0000bf", "2021", "\u0000a8\u0000c6", "\u0000b8\u0000bf", "\u0000a6\u0000bf\u0000b2\u0000cd\u0000b2\u0000bf", "\u0000aa\u0000ca\u0000b0\u0000ac\u0000c0\u0000b8\u0000bf\u0000b2\u0000be"], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0000ae\u0000c1\u0000ae\u0000b1\u0000cd", "\u0000b9\u0000b8\u0000b8\u0000bf\u0000c2", "\u0000cb\u0000b2\u0000cb\u0000ca"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000a8\u0000bf\u0000b0\u0000b5\u0000bc\u0000ca", "\u0000ae\u0000be\u0000b9\u0000c2", "\u0000bb\u0000c6\u0000b0\u0000cb\u0000b8\u0000cb\u0000aa\u0000b9\u0000bf"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000b8\u0000be\u0000a8\u0000cd\u0000a6\u0000bc\u0000c0", "\u0000af\u0000cb\u0000b0\u0000cb\u0000da", "\u0000bf\u0000ab\u0000be\u0000ba\u0000c1", "\u0000a1\u0000b2\u0000be\u0000b9\u0000cb\u0000b0\u0000cd"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u0000b9\u0000fc\u0000c1\u0000b0\u0000bf", "32", "\u0000b8\u0000bf\u0000a8\u0000ab\u0000c0", "\u0000bb\u0000ba\u0000cc\u0000a8\u0000bb\u0000db"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\u0000a8\u0000bf\u0000c1\u0000ab\u0000bc\u0000ea", "\u0000be\u0000cb\u0000b9", "\u0000b8\u0000ab\u0000b0\u0000cb\u0000bb\u0000c6"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000b5\u0000bb\u0000ca", "\u0000bf\u0000ba", "\u0000b8\u0000ab\u0000ba", "\u0000ca\u0000b8\u0000af\u0000c7"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\u0000b9\u0000c7\u0000bf\u0000cb\u0000b2", "\u0000bc\u0000ca\u0000b8\u0000bp", "\u0000ab\u0000bc"], "ner_tags": [1, 0, 0]}
+{"tokens": ["\u0000b0\u0000c7\u0000b6\u0000b2", "2004", "\u0000b5\u0000bc\u0000c7", "\u0000b8\u0000bc\u0000b7\u0000c0"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\u0000b6\u0000bc\u0000c1", "\u0000a4\u0000c6\u0000b2\u0000bf", "\u0000bb\u0000a3\u0000bc\u0000c0", "\u0000b2\u0000bc\u0000b8\u0000a8\u0000bc\u0000ca"], "ner_tags": [5, 0, 0, 0]}
+{"tokens": ["\u0000c0\u0000bc\u0000b8", "\u0000b2\u0000c3\u0000ba\u0000c2", "\u0000ba\u0000b0\u0000c1", "\u0000b7\u0000ca"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\u0000a8\u0000bb", "\u0000af\u0000bf", "\u0000b7\u0000ba", "\u0000ca\u0000c1\u0000af\u0000c7"], "ner_tags": [5, 0, 2, 0]}
+{"tokens": ["\u0000b8\u0000ac\u0000b7\u0000ab", "\u0000c6\u0000b1\u0000c2", "\u0000a8\u0000bb", "\u0000b6\u0000af\u0000b9\u0000cb\u0000bf"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u0000b3\u000085", "\u0000b06\u0000cb\u0000b0", "\u0000b8\u000041", "\u0000b2\u00003f"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\u0000b8\u0000f3\u0000b8", "\u0000af\u00003e\u0000bb\u0000cb\u00009f"], "ner_tags": [1, 2]}
+{"tokens": ["\u0c17\u0c23\u0c47\u0c37\u0c4d", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d\u200c\u0c32\u0c4b", "\u0c35\u0c3f\u0c26\u0c4d\u0c2f\u0c3e\u0c28\u0c3f\u0c32\u0c2f\u0c02", "\u0c2a\u0c4d\u0c30\u0c3e\u0c30\u0c02\u0c2d\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 3, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c02\u0c17\u0c40\u0c24", "\u0c15\u0c3e\u0c1a\u0c3f\u0c17\u0c42\u0c21", "\u0c38\u0c4d\u0c1f\u0c47\u0c37\u0c28\u0c4d", "\u0c35\u0c26\u0c4d\u0c26", "\u0c30\u0c3e\u0c35\u0c21\u0c02", "\u0c1c\u0c30\u0c3f\u0c17\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0c30\u0c3e\u0c2e\u0c4d", "\u0c24\u0c3e\u0c2e\u0c30\u0c2a\u0c3e\u0c15\u0c3e", "\u0c32\u0c4b\u0c28\u0c3f", "\u0c39\u0c4b\u0c1f\u0c32\u0c4d", "", "\u0c30\u0c46\u0c38\u0c4d\u0c1f\u0c3e\u0c30\u0c46\u0c02\u0c1f\u0c4d \u0c32\u0c4b", "\u0c35\u0c3f\u0c02\u0c26\u0c41", "\u0c15\u0c30\u0c3f\u0c2a\u0c3f\u0c02\u0c1a\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 3, 0, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c37\u0c4d\u0c23\u0c41", "\u0c1a\u0c46\u0c28\u0c4d\u0c28\u0c48", "\u0c2f\u0c42\u0c28\u0c3f\u0c35\u0c30\u0c4d\u0c36\u0c3f\u0c1f\u0c40\u0c32\u0c4b", "\u0c2a\u0c3e\u0c20\u0c3e\u0c32\u0c41", "\u0c28\u0c47\u0c30\u0c35\u0c47\u0c30\u0c4d\u0c1a\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c24\u0c3f\u0c30\u0c41\u0c2a\u0c24\u0c3f", "\u0c32\u0c4b\u0c28\u0c3f", "\u0c35\u0c46\u0c02\u0c15\u0c1f\u0c47\u0c36\u0c4d\u0c35\u0c30", "\u0c2e\u0c46\u0c21\u0c3f\u0c15\u0c32\u0c4d", "\u0c15\u0c4b\u0c32\u0c47\u0c1c\u0c4d", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27\u0c3f", "\u0c17\u0c21\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [3, 0, 3, 4, 4, 0, 0, 0]}
+{"tokens": ["\u0c32\u0c16\u0c4d\u200c\u0c28\u0c35\u0c42", "\u0c28\u0c26\u0c40", "\u0c24\u0c40\u0c30\u0c02\u0c32\u0c4b", "\u0c2a\u0c02\u0c21\u0c41\u0c17", "\u0c2a\u0c46\u0c33\u0c4d\u0c32\u0c3f", "\u0c15\u0c28\u0c3f\u0c2a\u0c3f\u0c38\u0c4d\u0c24\u0c41\u0c02\u0c26\u0c3f", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c3f\u0c26\u0c4d\u0c26\u0c3e\u0c30\u0c4d\u0c27", "\u0c38\u0c3f\u0c02\u0c17\u0c4d", "\u0c24\u0c02\u0c21\u0c4d\u0c30\u0c3f", "\u0c06\u0c30\u0c4d\u0c2e\u0c40", "\u0c32\u0c4b", "\u0c09\u0c26\u0c4d\u0c2f\u0c4b\u0c17\u0c3f", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c39\u0c3f\u0c24\u0c3f", "\u0c2b\u0c3f\u0c2c\u0c4d\u0c30\u0c35\u0c30\u0c3f", "28", "\u0c28", "\u0c2a\u0c41\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 7, 7, 0, 0, 0]}
+{"tokens": ["\u0c17\u0c41\u0c30\u0c41\u0c1c\u0c40", "\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40", "\u0c32\u0c4b\u0c28\u0c3f", "\u0c05\u0c36\u0c4d\u0c30\u0c2e\u0c02\u0c32\u0c4b", "\u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c41\u0c30\u0c47\u0c16", "\u0c24\u0c32\u0c4d\u0c32\u0c3f", "\u0c1a\u0c02\u0c26\u0c4d\u0c30\u0c2c\u0c3e\u0c2c\u0c41", "2010", "\u0c38\u0c02\u0c35\u0c24\u0c4d\u0c38\u0c30\u0c02\u0c32\u0c4b", "\u0c05\u0c30\u0c41\u0c23\u0c3e\u0c1a\u0c32\u0c02", "\u0c35\u0c46\u0c33\u0c4d\u0c33\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 0, 1, 7, 7, 3, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c32\u0c3f\u0c2f\u0c2e\u0c4d", "\u0c37\u0c47\u0c15\u0c4d\u0c38\u0c2a\u0c3f\u0c2f\u0c30\u0c4d", "\u0c07\u0c02\u0c17\u0c4d\u0c32\u0c02\u0c21\u0c4d", "\u0c1c\u0c3e\u0c24\u0c40\u0c2f", "\u0c15\u0c35\u0c3f\u0c17\u0c3e", "\u0c2a\u0c30\u0c3f\u0c17\u0c23\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c24\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c06\u0c2e\u0c4d", "\u0c06\u0c26\u0c4d\u0c2e\u0c40", "\u0c2a\u0c3e\u0c30\u0c4d\u0c1f\u0c40", "\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40", "\u0c32\u0c4b", "\u0c1c\u0c28\u0c35\u0c30\u0c3f", "11", "\u0c28", "\u0c18\u0c1f\u0c3f\u0c02\u0c1a\u0c3f\u0c02", "\u0c26\u0c3f", "."], "ner_tags": [1, 2, 2, 3, 0, 7, 7, 0, 0, 0, 0]}
+{"tokens": ["\u0c37\u0c30\u0c24\u0c4d", "\u0c2c\u0c46\u0c02\u0c17\u0c41\u0c33\u0c42\u0c30\u0c41", "\u0c07\u0c28\u0c3f\u0c2b\u0c4b\u0c38\u0c3f\u0c38\u0c4d", "\u0c32\u0c4b", "\u0c2a\u0c28\u0c3f", "\u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 3, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c4d\u0c35\u0c30\u0c42\u0c2a", "\u0c21\u0c3e", ".", "\u0c35\u0c46\u0c02\u0c15\u0c1f\u0c47\u0c36\u0c4d", "\u0c26\u0c4d\u0c35\u0c3e\u0c30\u0c3e", "\u0c30\u0c3e\u0c2f\u0c2c\u0c21\u0c3f\u0c28", "\u0c2a\u0c41\u0c38\u0c4d\u0c24\u0c15\u0c02", "\u0c2a\u0c4d\u0c30\u0c38\u0c3f\u0c26\u0c4d\u0c27\u0c3f", "\u0c17\u0c3e\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 2, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c3e\u0c2f\u0c3f", "\u0c36\u0c4d\u0c30\u0c40", "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41", "\u0c2a\u0c3e\u0c20\u0c3e\u0c32", "\u0c28\u0c3f\u0c30\u0c4d\u0c2e\u0c3e\u0c23\u0c02\u0c32\u0c4b", "\u0c2a\u0c3e\u0c32\u0c41\u0c15\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0c2c\u0c3e\u0c2c\u0c3e", "\u0c30\u0c3e\u0c02\u0c26\u0c47\u0c35\u0c4d", "\u0c2f\u0c4b\u0c17", "\u0c2e\u0c3e\u0c38\u0c4d\u0c1f\u0c30\u0c4d", "\u0c17\u0c3e", "\u0c2a\u0c4d\u0c30\u0c2e\u0c41\u0c16\u0c41\u0c21\u0c41", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c24\u0c32\u0c4d\u0c32\u0c3f", "\u0c38\u0c40\u0c24", "\u0c15\u0c3e\u0c36\u0c40", "\u0c32\u0c4b", "\u0c35\u0c3e\u0c38\u0c02", "\u0c1a\u0c47\u0c36\u0c3e\u0c30\u0c41", "."], "ner_tags": [0, 1, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c41\u0c1c\u0c46\u0c24\u0c4d", "\u0c30\u0c39\u0c41\u0c32\u0c4d", "\u0c21\u0c3e\u0c21\u0c4d\u0c30\u0c40", "\u0c17\u0c4d\u0c30\u0c3e\u0c2e\u0c02\u0c32\u0c4b", "\u0c09\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 2, 3, 0, 0, 0]}
+{"tokens": ["\u0c21\u0c3e", "\u0c2a\u0c4d\u0c30\u0c23\u0c3f\u0c24", "\u0c38\u0c3f\u0c02\u0c17\u0c2a\u0c42\u0c30\u0c4d", "\u0c0e\u0c2f\u0c3f\u0c30\u0c4d\u200c\u0c2a\u0c4b\u0c30\u0c4d\u0c1f\u0c4d", "\u0c28\u0c41\u0c02\u0c21\u0c3f", "\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40\u0c15\u0c3f", "\u0c26\u0c42\u0c38\u0c41\u0c15\u0c4a\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [2, 1, 3, 3, 0, 3, 0, 0]}
+{"tokens": ["\u0c1c\u0c3e\u0c28\u0c15\u0c3f", "\u0c28\u0c35\u0c02\u0c2c\u0c30\u0c4d", "5", "\u0c35", "\u0c24\u0c47\u0c26\u0c40\u0c28", "\u0c15\u0c30\u0c4d\u0c28\u0c42\u0c32\u0c41", "\u0c32\u0c4b", "\u0c1c\u0c28\u0c4d\u0c2e\u0c3f\u0c02\u0c1a\u0c3f\u0c02\u0c26\u0c28\u0c3f", "\u0c1a\u0c46\u0c2c\u0c41\u0c24\u0c3e\u0c30\u0c41", "."], "ner_tags": [1, 7, 7, 0, 7, 3, 0, 0, 0]}
+{"tokens": ["\u0c39\u0c28\u0c41\u0c2e\u0c3e\u0c28\u0c4d", "\u0c2e\u0c02\u0c26\u0c3f\u0c30\u0c02", "\u0c2c\u0c46\u0c02\u0c17\u0c33\u0c42\u0c30\u0c41", "\u0c30\u0c47\u0c38\u0c4d\u200c\u0c15\u0c4b\u0c30\u0c4d\u0c38\u0c4d", "\u0c30\u0c4b\u0c21\u0c4d\u0c21\u0c41", "\u0c2a\u0c48", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 0, 3, 4, 4, 0, 0, 0]}
+{"tokens": ["\u000e", "\u000b1", "\u0002d\u0003e\u0002b", "\u00028", "\u00023\u00012", "\u0002e"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00026\u00047\u0003e\u00047\u00032", "\u0002c", "\u00032\u00001"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u00031\u0003e\u0002e", "\u00036\u0002e\u00030\u0002b"], "ner_tags": [0, 0]}
+{"tokens": ["\u0001e\u00028\u0000e", "\u0002c\u00021", "\u0000e\u00004\n"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u00006\u00019\u0002f"], "ner_tags": [0]}
+{"tokens": ["\u0000e9\u00048", "\u0002e", "\u0002d"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u000ed\b0", "\u0002a", "-", "\u00020"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\u00009\u00014", "\u00030"], "ner_tags": [0, 0]}
+{"tokens": ["\nf\nf\nf"], "ner_tags": [0]}
+{"tokens": ["\u000ec\u00047", "\u000ec"], "ner_tags": [0, 0]}
+{"tokens": ["\u0002a\u000ea\u00028"], "ner_tags": [0]}
+{"tokens": ["\u00004\u000ea"], "ner_tags": [0, 0]}
+{"tokens": ["\n4\u000eb"], "ner_tags": [0, 0]}
+{"tokens": ["\u0002d\u0002e", "\u0004a"], "ner_tags": [0, 0]}
+{"tokens": ["\u0004b\f0", "\u0003f"], "ner_tags": [0, 0]}
+{"tokens": ["\u000ec", "\n0"], "ner_tags": [0, 0]}
+{"tokens": ["\u00042", "\u000eb", "\u000eb"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\u0002d", "\u000eb"], "ner_tags": [0, 0]}
+{"tokens": ["\u000e2", "\u000ea"], "ner_tags": [0, 0]}
+{"tokens": ["\u00048", "\u000ea"], "ner_tags": [0, 0]}
+{"tokens": ["\n4\u000e0", "\f9f\f32\f02\f15 ", "\f05\f02\f26\f3f\f2f\f3e"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f18\f3e\f28\f4d\f27\f3f", "\f2c\f02\f17\f32\f4b\f30\f41", "\f24\f3e\f02", "\f21\f3f\f32\f4d\f32\f3f"], "ner_tags": [5, 0, 0, 4]}
+{"tokens": ["\f2a\f4d\f30\f3f\f2f\f02\f17\f4d\f15\f3e", "\f35\f3f\f36\f3e\f32\f2f\f02", "\f24\f3e\f02", "\f2f\f41\f47\f38\f47"], "ner_tags": [3, 5, 0, 4]}
+{"tokens": ["\f38\f3e\f02\f17\f40", "\f15\f4b\f32\f3f\f2e\f4d\f2c\f3f\f2f\f3e"], "ner_tags": [5, 0]}
+{"tokens": ["\f15\f3e\f30\f4d\f2e\f3f\f15 ", "\f2c\f02\f17\f32\f4b\f30\f41"], "ner_tags": [0, 0]}
+{"tokens": ["\f35\f3f\f36\f3e\f32\f2f\f41", "\f02\f26\f41", "\f39\f3e\f30\f4d\f35\f3e\f30\f4d\f21\f4d\f38\f4d", "\f28\f3e\f30\f47\f02\f21\f3e"], "ner_tags": [5, 6, 6, 0]}
+{"tokens": ["\f35\f15\f4d\f15\f3e", "\f15\f3e\f2a\f4d\f2a\f3e", "\f2e\f39\f3e\f30\f3e\f37\f4d\f1f\f4d", "\f1a\f40\f28\f2a\f1f\f4d\f1f\f3e"], "ner_tags": [5, 0, 0, 3]}
+{"tokens": ["\f38\f4d\f30\f40\f32\f3e", "\f38\f47\f32\f02\f17\f3e", "\f15\f4b\f30\f3f\f2f\f3e"], "ner_tags": [5, 0, 4]}
+{"tokens": ["\f30\f3e\f2e\f3e", "\f2a\f1f\f4d\f1f\f40", "\f09\f24\f4d\f24\f30\f3e\f16\f02", "."], "ner_tags": [5, 0, 3, 0]}
+{"tokens": ["\f2e\f39\f3e\f30\f3e\f37\f4d", "\f21\f46\f32\f4d\f39\f3f", "\f15\f4b\f32\f41\f2a\f41", "\f1a\f46\f28\f4d\f28\f3e\f07"], "ner_tags": [5, 6, 0, 3]}
+{"tokens": ["\f2a\f30\f3f\f24\f3e\f2a\f4d", "\f35\f3f\f36\f3e\f32\f2f\f41"], "ner_tags": [0, 5]}
+{"tokens": ["\f2f\f28\f41", "\f2d\f3e\f30\f24", "\f17\f02\f26\f42\f30\f4d"], "ner_tags": [1, 0, 0]}
+{"tokens": ["\f15\f3e\f35\f40\f30", "\f28\f17\f30\f15\f4d", "\f36\f42\f30\f4d\f2f", "\f24\f3e\f19\f4d"], "ner_tags": [0, 0, 5, 6]}
+{"tokens": ["\f28\f3f\f15\f4d\f37\f2f\f3e", "\f30\f15\f4d\f37\f3f", "\f2e\f3e\f27\f4d\f2f\f2e\f4d"], "ner_tags": [4, 5, 6]}
+{"tokens": ["\f30\f02\f17\f3e", "\f15\f4b\f32\f02", "\f19\f4d\f17\f2e\f4d", "\f2a\f4d\f30\f2e\f4c\f21\f21\f3f\f38\f4d"], "ner_tags": [3, 4, 6, 0]}
+{"tokens": ["\f24\f3e\f30\f3e", "\f17\f23\f3e\f2a\f4d"], "ner_tags": [1, 0]}
+{"tokens": ["\f30\f3e\f2a\f4d\f39\f3e\f32\f40", "\f2a\f4a\f38\f4d\f1f\f28\f3f\f2f\f3e"], "ner_tags": [1, 0]}
+{"tokens": ["\f28\f35\f3f\f02", "\f09\f28\f4d\f28\f24\f3f", "\f15\f3f\f38\f4d\f24\f3e", "\f2f\f41\f28\f3f\f24\f3f", "\f39\f3e\f35\f3e\f32\f3f", "\f06\f37\f40\f2f\f41"], "ner_tags": [1, 2, 3, 4, 5, 0]}
+{"tokens": ["\f2a\f41\f28\f47", "-", "\f15\f4b\f1f\f4d\f1f\f3f\f32\f15"], "ner_tags": [3, 0, 5]}
+{"tokens": ["\f2e\f41\f16\f4d\f2e\f46\f26\f3f\f02", "\f15\f30\f4d\f28\f3e\f1f\f15", "\f30\f3f\f24\f3f\f15"], "ner_tags": [0, 5, 6]}
+{"tokens": ["\f26\f3f\f35\f4d\f2f\f3e\f02", "\f07\f02\f21\f3f\f2f\f3e"], "ner_tags": [0, 5]}
+{"tokens": ["\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36\u0c02\u0c32\u0c4b", "\u0c12\u0c15", "\u0c2a\u0c46\u0c26\u0c4d\u0c26", "\u0c28\u0c17\u0c30\u0c02", "."], "ner_tags": [1, 5, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c41\u0c36\u0c3e\u0c02\u0c24\u0c4d", "\u0c38\u0c3f\u0c02\u0c17\u0c4d", "\u0c30\u0c3e\u0c1c\u0c4d\u200c\u0c2a\u0c41\u0c24\u0c4d", "\u0c13\u0c30\u0c4d", "\u0c2c\u0c3e\u0c32\u0c40\u0c35\u0c41\u0c21\u0c4d", "\u0c28\u0c1f\u0c41\u0c21\u0c41", "."], "ner_tags": [1, 2, 2, 0, 5, 0, 0]}
+{"tokens": ["\u0c17\u0c4d\u0c28\u0c3f", "\u0c30\u0c36\u0c4d\u0c2e\u0c3f", "\u0c28\u0c35\u0c02\u0c2c\u0c30\u0c4d", "15", "\u0c28\u0c3e\u0c21\u0c41", "\u0c2a\u0c41\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0c08", "\u0c38\u0c02\u0c35\u0c24\u0c4d\u0c38\u0c30\u0c02", "\u0c09\u0c17\u0c3e\u0c26\u0c3f", "\u0c0f\u0c2a\u0c4d\u0c30\u0c3f\u0c32\u0c4d", "2", "\u0c28\u0c3e\u0c21\u0c41", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u0c05\u0c2e\u0c46\u0c1c\u0c3e\u0c28\u0c4d", "\u0c07\u0c02\u0c21\u0c3f\u0c2f\u0c3e", "\u0c15\u0c4b", "\u0c39\u0c46\u0c21\u0c4d", "\u0c05\u0c36\u0c40\u0c37\u0c4d", "\u0c36\u0c30\u0c4d\u0c2e", "."], "ner_tags": [3, 4, 0, 0, 1, 2, 0]}
+{"tokens": ["\u0c2d\u0c26\u0c4d\u0c30\u0c3e\u0c1a\u0c32\u0c02", "\u0c36\u0c4d\u0c30\u0c40\u0c30\u0c3e\u0c2e", "\u0c28\u0c35\u0c30\u0c3e\u0c24\u0c4d\u0c30\u0c3f", "\u0c2a\u0c30\u0c4d\u0c35\u0c26\u0c3f\u0c28\u0c02", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0c25\u0c3e\u0c2f\u0c3f\u0c32\u0c3e\u0c02\u0c21\u0c4d", "\u0c26\u0c47\u0c36\u0c02\u0c32\u0c4b", "\u0c2c\u0c3e\u0c02\u0c15\u0c3e\u0c15\u0c4d", "\u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f", "."], "ner_tags": [5, 0, 1, 0, 0]}
+{"tokens": ["\u0c21\u0c3f.\u0c35\u0c3f.\u0c0e\u0c38\u0c4d.", "\u0c30\u0c3e\u0c1c\u0c41", "\u0c28\u0c02\u0c26\u0c3f", "\u0c05\u0c35\u0c3e\u0c30\u0c4d\u0c21\u0c41", "\u0c35\u0c3f\u0c1c\u0c47\u0c24", "."], "ner_tags": [1, 2, 0, 5, 0, 0]}
+{"tokens": ["\u0c1a\u0c02\u0c26\u0c4d\u0c30\u0c2c\u0c3e\u0c2c\u0c41", "\u0c28\u0c3e\u0c2f\u0c41\u0c21\u0c41", "\u0c2e\u0c41\u0c16\u0c4d\u0c2f\u0c2e\u0c02\u0c24\u0c4d\u0c30\u0c3f", "\u0c17\u0c3e\u0c28\u0c41", "\u0c0e\u0c28\u0c4d\u0c28\u0c3f\u0c15\u0c2f\u0c4d\u0c2f\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c2e\u0c41\u0c26\u0c4d\u0c30\u0c2a\u0c41", "\u0c24\u0c40\u0c30\u0c3e\u0c28", "\u0c35\u0c3f\u0c36\u0c3e\u0c16\u0c2a\u0c1f\u0c4d\u0c28\u0c02", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [0, 0, 1, 0, 0]}
+{"tokens": ["\u0c30\u0c39\u0c41\u0c32\u0c4d", "\u0c26\u0c4d\u0c30\u0c35\u0c3f\u0c21\u0c4d", "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36", "\u0c15\u0c4d\u0c30\u0c3f\u0c15\u0c46\u0c1f\u0c4d", "\u0c1c\u0c1f\u0c4d\u0c1f\u0c41", "\u0c28\u0c3e\u0c2f\u0c15\u0c41\u0c21\u0c41", "."], "ner_tags": [1, 2, 5, 0, 0, 0, 0]}
+{"tokens": ["\u0c2a\u0c41\u0c32\u0c3f\u0c1a\u0c3f\u0c02\u0c24\u0c32", "\u0c21\u0c4d\u0c2f\u0c3e\u0c2e\u0c4d", "\u0c15\u0c43\u0c37\u0c4d\u0c23\u0c3e", "\u0c28\u0c26\u0c3f\u0c2a\u0c48", "\u0c2a\u0c4d\u0c30\u0c15\u0c4d\u0c15\u0c28", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 0, 1, 5, 0, 0, 0]}
+{"tokens": ["2021", "\u0c38\u0c02\u0c35\u0c24\u0c4d\u0c38\u0c30\u0c02\u0c32\u0c4b", "\u0c1f\u0c4b\u0c15\u0c4d\u0c2f\u0c4b", "\u0c12\u0c32\u0c3f\u0c02\u0c2a\u0c3f\u0c15\u0c4d\u0c38\u0c4d", "\u0c28\u0c3f\u0c30\u0c4d\u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c2c\u0c21\u0c4d\u0c21\u0c3e\u0c2f\u0c3f", "."], "ner_tags": [0, 0, 1, 5, 0, 0]}
+{"tokens": ["\u0c30\u0c42", "50,000", "\u0c2e\u0c02\u0c1c\u0c42\u0c30\u0c41", "\u0c1a\u0c47\u0c36\u0c3e\u0c30\u0c41", "."], "ner_tags": [0, 5, 0, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c15\u0c4d\u0c30\u0c2e\u0c4d", "\u0c38\u0c3e\u0c30\u0c2d\u0c3e\u0c2f\u0c4d", "\u0c38\u0c4d\u0c2a\u0c47\u0c38\u0c4d", "\u0c38\u0c46\u0c02\u0c1f\u200c\u0c30\u0c4d", "\u0c24\u0c3f\u0c30\u0c41\u0c35\u0c28\u0c02\u0c24\u0c2a\u0c41\u0c30\u0c02", "\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 2, 0, 0, 1, 0, 0]}
+{"tokens": ["\u0c15\u0c3e\u0c15\u0c3f\u0c28\u0c3e\u0c21", "\u0c2a\u0c4d\u0c30\u0c2e\u0c41\u0c16", "\u0c2a\u0c4a\u0c30\u0c4d\u0c1f\u0c4d", "\u0c38\u0c3f\u0c1f\u0c40", "."], "ner_tags": [1, 0, 5, 0, 0]}
+{"tokens": ["\u0c09\u0c37\u0c3e", "\u0c07\u0c02\u0c1c\u0c3f\u0c28\u0c40\u0c30\u0c3f\u0c02\u0c17\u0c4d", "\u0c15\u0c33\u0c3e\u0c36\u0c3e\u0c32", "\u0c1a\u0c46\u0c28\u0c4d\u0c28\u0c48", "\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 5, 0, 1, 0, 0]}
+{"tokens": ["\u0c2a\u0c35\u0c28\u0c4d", "\u0c15\u0c33\u0c4d\u0c2f\u0c3e\u0c23\u0c4d", "\u0c30\u0c3e\u0c2e\u0c3e\u0c2f\u0c23\u0c02", "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e\u0c32\u0c4b", "\u0c39\u0c40\u0c30\u0c4b", "\u0c17\u0c3e", "\u0c28\u0c1f\u0c3f\u0c02\u0c1a\u0c3e\u0c21\u0c41", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u0c1c\u0c02\u0c2a\u0c28\u0c4d\u0c28\u0c35\u0c3e\u0c17\u0c41", "\u0c2a\u0c4d\u0c30\u0c3e\u0c1c\u0c46\u0c15\u0c4d\u0c1f\u0c4d", "\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23\u0c32\u0c4b", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 0, 5, 0, 0]}
+{"tokens": ["\u0c26\u0c3f\u0c32\u0c4d\u0c32\u0c40", "\u0c2d\u0c3e\u0c30\u0c24\u0c26\u0c47\u0c36", "\u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f", "\u0c28\u0c17\u0c30\u0c02", "."], "ner_tags": [1, 5, 0, 0, 0]}
+{"tokens": ["\f2e\u000e\u0005\u000e", "\u000b3\u000e\u00030\u000bf", "\u00015\f3\u00018\u000b5", "\u00005\f3\u00038\u000bf", "\u00039\u000be\u00037\f1", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u000b2\u0003f\u00018\ff", "\u00028\f6\u0002a\u00021\u00036", "\u00007\f2e\u0003e\ff", "\u0002c\u00032\u00048\fd", "\u00025\f2f\u00013\u000b7", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u00028\f4\u00022\f1", "\u0002f\f2b\u00030\u000ec", "\u00023\fe\u00038\u000e0", "\u0000a\f3e\u00035\f3e", "\u0002e"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0000a\f2e\u00020\f3e", "\u00028\f7\u0001c\u000b9", "\u00041\u0002e\u00028\f0\u00037", "."], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u00008\f4e\u00033", "\u00025\f4a\u00036\f3f", "\u00011\f5f\u0002b\f5b", "\u0002e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u00010\f1\u00033", "\u0002a\f1\u00028\f4e", "\u0003a", "\u00039\u00013\f6", "\u0002e"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\u00015\f4d\u0000e\f3f", "\u00009\f3f\u0005c\f4f", "\u00019\u000b9\u0003e", "\u00012\f3e\u00036\f0", "\u0002e"], "ner_tags": [1, 0, 0, 0, 0]}
+{"tokens": ["\u00008\f1\u0003a\u0003f", "\u00015\f2c\u00033\u000be", "\u00039\f2d\u0003e", "\u0000e\f3e\u00026\f5f", "\u0002e"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0001c\f2f\u00024", "\u00015\u000b3\u00018\f2f", "\u00011\f0\u0002a\f6", "\u0000c\f3e\u0002e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u0000a\f0\u00027\f6", "\u00038\f2e\u00017\f3e", "\u00015\f2a\u00010\f5b", "\u0002e"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\u00011\f4e\u00016\u000b8", "\u00023\f2f\u00030\fb", "\u00027\u000b7\u0003f", "\u0000a\f3e\u00009\f1", "\u0002e"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u00013\f1\u00015\f4b", "\u00018\f3e\u00032", "\u00035\f5e\u00012\f7", "\u0002e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u00025\f3a\u00016\f0", "\u0001e\f3e\u00037\f3e", "\u0000f\f2e\u0001c\f5f", "\u0002e"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\u00019\f1\u0002e\f2f", "\u0002c\f7\u00037\f5a", "\u0003e", "\u00008\f4e\u00018\f7", "\u0002e"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0000d\f1\u00027\f3f", "\u00033\f4e\u0000c\f2c", "\u0002a\f1\u00019\f9", "\u0002e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\u00021\u000b8\u0003e", "\u0000b\f2e\u0002d\f2a", "\u00024\u000b7\u00009\f4e", "\u0002e"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\u0003b\f6\u0000f\f7", "\u00007\f4e\u00001\f2e", "\u00032\u000b7", "\u00016\f6\u0003e\f7", "\u0002e"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u00015\f2a\u00034\f8", "\u0001d\u000b9\u0000d\f6", "\u0000b\f2f\u00026\u000b7", "\u00014\f7\u00039\f5f", "\u0002e"], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["\u0001b\f2e\u0003a\f7", "\u0002e"], "ner_tags": [1, 0]}
+{"tokens": ["\u0002b\f2f\u00003\f0", "\u0003c\f0\u00034\f0", "\u0001e\f5f\u00015\f0", "\u00041\f4e\u0002e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\n\n", "\n\n", "\n\n", "\n\n"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n\n"], "ner_tags": [0]}
+{"tokens": ["\n", "\u000b", "\f", "\r\u000e", "\u000f\u0010\u0011\u0012\u0013", "\u0014", "\u0015\u0016.", ""], "ner_tags": [0, 5, 0, 0, 6, 0, 0, 0]}
+{"tokens": ["\u0017", "\u0018", "\u0019", "\u001a", "\u001b", "\u001c\u001d\u001e\u001f\u0014\u0015", "\u0016\u0017\u0018", "\u0019\u001a", "\u001b\u001c"], "ner_tags": [0, 4, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u001d\u001e", "\u001f\u0014", "\u0015", "\u0016", "\u0017", "\u0018", "\u0019\u001a\u001b", "\u001c\u001d\u001e\u001f"], "ner_tags": [4, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0014", "\u0015\u0016", "\u0017\u0018", "\u0019", "\u001a\u001b", "\u001c", "\u001d", "\u001e\u001f."], "ner_tags": [0, 0, 1, 2, 0, 5, 3, 0]}
+{"tokens": ["\u001e\u001f", "\u0014", "\u0015", "\u0016\u0017", "\u0018", "\u0019", "\u001a\u001b", "\u001c\u001d", "\u001e", "\u001f"], "ner_tags": [0, 0, 0, 1, 2, 0, 3, 0, 0, 0]}
+{"tokens": ["\u0014\u0015", "\u0016\u0017", "\u0018\u0019", "\u001a\u001b", "\u001c\u001d", "\u001e\u001f", "\u0014", "\u0015\u0016"], "ner_tags": [5, 0, 4, 4, 0, 3, 0, 0]}
+{"tokens": ["\u0017", "\u0018\u0019", "\u001a", "\u001b", "\u001c", "\u001d", "\u001e\u001f", "\u0014\u0015"], "ner_tags": [0, 2, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0016", "\u0017\u0018", "\u0019\u001a", "\u001b\u001c", "\u001d", "\u001e\u001f", "\u0014"], "ner_tags": [0, 0, 1, 2, 0, 4, 0]}
+{"tokens": ["\u0015\u0016", "\u0017", "\u0018\u0019", "\u001a", "\u001b\u001c", "\u001d", "\u001e", ".", "\u001f\u0014"], "ner_tags": [0, 0, 5, 0, 0, 4, 0, 0, 0]}
+{"tokens": ["\u0017\u0018", "\u0019", "\u001a\u001b", "\u001c\u001d", "\u001e", "\u001f", "\u0014\u0015\u0016"], "ner_tags": [5, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0017", "\u0018", "\u0019\u001a\u001b", "\u001c\u001d", "\u001e", "\u001f", "\u0014", "\u0015\u0016"], "ner_tags": [0, 0, 5, 0, 4, 0, 0, 0]}
+{"tokens": ["\u0017\u0018", "\u0019\u001a", "\u001b\u001c", "\u001d", "\u001e", "\u001f", "\u0014", "\u0015\u0016"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["\u0017", "\u0018", "\u0019\u001a", "\u001b\u001c\u001d", "\u001e", "\u001f"], "ner_tags": [4, 5, 3, 0, 0, 0]}
+{"tokens": ["\u0014", "\u0015", "\u0016\u0017", "\u0018", "\u0019", "\u001a\u001b"], "ner_tags": [0, 5, 0, 0, 4, 0]}
+{"tokens": ["\u001c\u001d", "\u001e", "\u001f", "\u0014", "\u0015\u0016", "\u0017", "\u0018\u0019"], "ner_tags": [0, 0, 4, 0, 0, 5, 0]}
+{"tokens": ["\u001b", "\u001c\u001d", "\u001e", "\u001f\u0014", "\u0015\u0016", "\u0017\u0018"], "ner_tags": [0, 5, 0, 0, 4, 0]}
+{"tokens": ["\u0019\u001a", "\u001b\u001c", "\u001d", "\u001e", "\u001f", "\u0014", "\u0015\u0016"], "ner_tags": [5, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["\u001c", "\u001d\u001e", "\u001f", "\u0014", "\u0015", "\u0016\u0017"], "ner_tags": [0, 6, 0, 0, 3, 0]}
+{"tokens": ["\u0018", "\u0019", "\u001a", "\u001b", "\u001c", "\u001d\u001e", "\u001f"], "ner_tags": [0, 0, 6, 0, 0, 0, 0]}
+{"tokens": ["\u0017", "\u0018", "\u0019\u001a", "\u001b\u001c", "\u001d", "\u001e", "\u001f"], "ner_tags": [4, 5, 3, 0, 0, 0, 0]}
+{"tokens": ["\f\u001c\u00028\u0003e", "\u0002e\u00027", "\u00024\u0002e", "\u00032\u00038", "\u00020\u00028", "\u00035\u0001e", "\u00038\u0000c", "\u0002a\u00028\u00028\u00015\u00020", "\u00030\u00032", "\u00028\u00016\u00032\u00043"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u001c\u00028\u00041\u00032", "\u00028\u0002a", "\u0002e\u00015", "\u0002b\u00032", "\u0002a\u00031", "\u0002c\u00028", "\u0001d\u00025", "\u0002d\u0000c", "\u00031\u0001f", "\u0002f\u0002b"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00021\u0002a", "\u0002e\u0002c", "\u00031\u0002e", "\u00030\u00038", "\u00029\u0001c", "\u0002a\u00025", "\u00018\u0002c", "\u0002a\u00032", "\u0002b\u00031", "\u0002d\u0002e"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u001f\u00029\u0002a", "\u0002c\u00028", "\u0001e\u00015", "\u00030\u0003e", "\u00020\u00034", "\u00031\u00028", "\u00022\u00013", "\u0002f\u00025", "\u00028\u00026", "\u0002b\u00015"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u001e\u00030\u00036", "\u0001c\u00023", "\u0002a\u0002d", "\u0001d\u0002b", "\u0002f\u00018", "\u00025\u00024", "\u00031\u00014", "\u0001e\u00031", "\u0001b\u0002e", "\u00031\u00025"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00018\u00025", "\u0001c\u0001e", "\u00029\u00036", "\u00028\u00016", "\u0002f\u00014", "\u0001c\u0003a", "\u0001d\u0002e", "\u00028\u00038", "\u00031\u0002a", "\u00022\u00026"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0001e\u00022", "\u00024\u00032", "\u00028\u0001a", "\u0002f\u00015", "\u00029\u0001d", "\u0002d\u00030", "\u0001c\u00025", "\u00020\u00023", "\u0002d\u00025", "\u00031\u00031"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0002e\u00038", "\u00023\u00032", "\u0002a\u00031", "\u00021\u00034", "\u00031\u00039", "\u0002a\u0003e", "\u00025\u0002c", "\u0001d\u00015", "\u0001f\u00024", "\u0001e\u00020"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0001f\u00024", "\u00023\u0002d", "\u0001d\u0001e", "\u0002e\u00039", "\u0002c\u00038", "\u0002b\u00039", "\u0002f\u0002b", "\u00029\u0003e", "\u00021\u00026", "\u0002b\u0001b"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0002c\u0003e", "\u00024\u00022", "\u0002f\u0003a", "\u0002e\u0002f", "\u0002d\u0003d", "\u0002c\u00032", "\u0001e\u0002c", "\u00028\u0002b", "\u00025\u00029", "\u0001e\u0002a"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0002c\u0001c", "\u0002d\u0001c", "\u00023\u00029", "\u00024\u00025", "\u0002f\u00035", "\u0001e\u0001e", "\u0001f\u00020", "\u0002e\u0002c", "\u0002b\u00013", "\u0001e\u00035"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0002d\u00038", "\u00020\u0002b", "\u0002e\u00037", "\u00028\u00035", "\u00025\u00025", "\u00022\u00013", "\u0002b\u00034", "\u0002a\u0003c", "\u00031\u00022", "\u0002c\u0002c"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00021\u00014", "\u0001c\u00024", "\u00027\u00025", "\u00025\u00037", "\u00031\u00020", "\u0001f\u0001c", "\u00022\u00028", "\u00027\u0002e", "\u00028\u00037", "\u0002d\u00031"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00027\u00019", "\u0002a\u00025", "\u0002c\u00029", "\u0001e\u0001d", "\u0002d\u00026", "\u0001c\u00033", "\u0002a\u00030", "\u00025\u00039", "\u00031\u0002c", "\u00020\u00031"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0002f\u00036", "\u0001b\u0002e", "\u0001d\u00017", "\u0002e\u00023", "\u00022\u0001d", "\u0002a\u00017", "\u0001c\u0002a", "\u00024\u00021", "\u0001e\u00023", "\u0001b\u00028"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00028\u00013", "\u0002b\u00034", "\u00022\u00030", "\u0001d\u00031", "\u0002c\u00031", "\u00026\u0001e", "\u0002b\u00024", "\u00020\u0003a", "\u00027\u0002e", "\u0001f\u00023"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00029\u00025", "\u0002e\u00011", "\u00028\u00024", "\u00029\u00030", "\u0002b\u00031", "\u00022\u00038", "\u00023\u00021", "\u00028\u00014", "\u0001d\u00020", "\u0001f\u0001b"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00023\u00011", "\u00027\u0002b", "\u00025\u00019", "\u00030\u00036", "\u0002f\u00034", "\u0002d\u00020", "\u00024\u00011", "\u00020\u00021", "\u0002e\u0001d", "\u0002f\u00038"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0001c\u00035", "\u0002e\u00018", "\u00025\u0001e", "\u00031\u00038", "\u00028\u00035", "\u00020\u00038", "\u0002a\u00032", "\u00027\u0001d", "\u00029\u00011", "\u00030\u00025"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00025\u00033", "\u00020\u00034", "\u00022\u00023", "\u0001e\u0001b", "\u0002b\u00035", "\u0001d\u0001f", "\u00027\u0001b", "\u0002d\u00013", "\u00023\u00018", "\u00031\u00024"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f05\f2a\f4d\f2a\f4d\f32\f41", "\f2a\f3f\f32\f4d\f32\f2f\f3e", "\f1c\f3f\f35\f28\f4d", "\f38\f41\f1c\f40\f24\f4d"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f28\f4d\f2f\f42\f2f\f4b\f30\f15\f4d", "\f38\f3f\f02", "\f09\f24\f4d\f24\f30\f2a\f4d\f2a\f28\f3f"], "ner_tags": [1, 0, 2]}
+{"tokens": ["\f30\f3e\f1d\f2f\f4b", "\f2a\f4d\f30\f1c\f3e\f24", "\f2d\f3e\f30\f24", "\f2a\f4d\f30\f1f\f3f\f2c\f4d\f2c\f3f", "\f05\f02\f26\f40\f30\f4d"], "ner_tags": [2, 3, 0, 0, 0]}
+{"tokens": ["\f35\f47\f28\f4d\f15\f3f\f020\f35\f38\f42\f36\f3e", "\f30\f3e\f1c\f26\f4d\f27\f3e", "\f30\f3e\f37\f4d\f1f\f4d\f30\f3f\f2f\f3e"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f1c\f48\f02\f24\f3e", "\f2e\f4b\f39\f28\f4d", "\f30\f3f\f2f\f32\f4d", "\f15\f4b\f32\f4d\f15\f24\f3e"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\f2e\f39\f47\f36\f4d", "\f27\f3e\f28\f03", "\f2c\f46\f02\f17\f3e\f32\f4b\f30\f4d", "\f21\f47\f32\f4d\f39\f3f"], "ner_tags": [1, 0, 2, 0]}
+{"tokens": ["\f1f\f41\f30\f4d\f15\f40", "\f1e\f3e\f2e\f4d\f2c\f3e", "\f13\f38\f4d\f15\f3e", "\f39\f3f\f02\f21\f42"], "ner_tags": [1, 2, 2, 0]}
+{"tokens": ["\f09\f26\f2f\f4b\f17", "\f09\f2e\f4d\f38\f4d", "\f2a\f4d\f30\f39\f30\f3e\f38\f41"], "ner_tags": [1, 0, 2]}
+{"tokens": ["\f17\f3e\f02\f27\f40", "\f24\f30\f41\f23\f41", "\f35\f3f\f1c\f13"], "ner_tags": [1, 0, 2]}
+{"tokens": ["\f17\f3e\f02\f26\f40", "\f2e\f39\f47\f36\f4d", "\f28\f3e\f17\f30\f4d"], "ner_tags": [1, 0, 2]}
+{"tokens": ["\f1c\f46\f28\f4d", "\f28\f48\f02\f15", "\f2f\f42\f0e\f17\f3e", "\f32\f3e"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f28\f3e\f30\f3e\f2f\f23\f4d", "\f07\f02\f26\f40\f2f\f3e"], "ner_tags": [1, 2]}
+{"tokens": ["\f36\f4d\f30\f40", "\f05\f28\f4d\f28\f2a\f4d\f30\f26\f41"], "ner_tags": [1, 0]}
+{"tokens": ["\f21\f46\f32\f4d\f39\f3f", "\f15\f3e\f30\f4d\f28\f3f\f24\f3e"], "ner_tags": [1, 2]}
+{"tokens": ["\f05\f02\f26\f3f\f30", "\f1c\f15\f4d\f15\f3e", "\f09\f38\f4d\f2e\f3e\f28\f4d\f21\f3f"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f38\f3e\f15\f4d\f37\f3f", "\f30\f3e\f27\f3e", "\f1a\f3f\f24\f4d\f30\f2d\f3e"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f15\f3f\f38\f02\f17\f4d\f27\f2f\f3f", "\f05\f02\f26\f41", "\f28\f2f\f3e\f17\f30\f3e"], "ner_tags": [1, 0, 2]}
+{"tokens": ["\f1a\f3f\f15\f3e\f17\f4d", "\f32\f3e\f32", "\f30\f3e\f1d\f41"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f15\f4b\f21\f47", "\f15\f3e\f30\f4d\f23\f3f\f15\f47", "\f05\f28\f4d\f28\f2d\f3e"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f28\u000e\u0015\u00139\u001a", "\u0015\u00131\u0015a\u00146\u00132", "\u001a\u00140\u00015\u00142\u00152\u0013f\u00146\u0001e"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\f2a\f3e\f3f\f28\f4b", "\f15\f3f\f35\f41\f32", "\f15\f30\f4d\f28\u0000c2f\f3e", "\u0000c1c\f3f\f24\f02"], "ner_tags": [0, 0, 1, 2]}
+{"tokens": ["\f1c\u0000c3f\f32", "\u0000c38\f41\u0000c2c\u0000c4d\u0000c2c\u0000c41\u0000c20", "\u0000c1c\u0000c28\u0000c35\u0000c30\u0000c41"], "ner_tags": [3, 4, 0]}
+{"tokens": ["\f0e\u0000c46\u0000c2f\u0000c41\u0000c30\u0000c3f\u0000c15", "\u0000c02\u0000c21\u0000c4d\u0000c30\u0000c3e"], "ner_tags": [5, 0]}
+{"tokens": ["\u0000c21\u0000c46\u0000c32\u0000c4d\u0000c39\u0000c3f", "\u0000c35\u0000c48\u0000c16\u0000c02", "\u0000c38\u0000c4d\u0000c25\u0000c32\u0000c3f\u0000c28\u0000c3f"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000c35\u0000c3f\u0000c16\u0000c3e", "\u0000c38\u0000c2d\u0000c3e", "\u0000c17\u0000c41\u0000c23", "\u0000c06\u0000c30\u0000c4d\u0000c07", "\u0000c38\u0000c02\u0000c15\u0000c32\u0000c4d"], "ner_tags": [3, 4, 0, 0, 0]}
+{"tokens": ["\u0000c2a\u0000c4d\u0000c30\u0000c26\u0000c40\u0000c2a\u0000c32\u0000c2e\u0000c3e"], "ner_tags": [5]}
+{"tokens": ["\u0000c38\u0000c41\u0000c2d\u0000c3e\u0000c37\u0000c03"], "ner_tags": [5]}
+{"tokens": ["\u0000c35\u0000c3f\u0000c1c\u0000c2f\u0000c02", "\u0000c2c\u0000c47\u0000c28\u0000c4d\u0000c17\u0000c3e\u0000c32\u0000c42", "\u0000c15\u0000c3c\u0000c3e\u0000c30\u0000c4d\u0000c2f\u0000c3e"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000c23\u0000c3f\u0000c15", "\u0000c2e\u0000c41\u0000c30\u0000c4d\u0000c24\u0000c3f"], "ner_tags": [5, 0]}
+{"tokens": ["\u0000c06\u0000c28\u0000c3f\u0000c32", "\u0000c17\u0000c41\u0000c23\u0000c3e\u0000c30\u0000c3e\u0000c2c\u0000c3e", "\u0000c2d\u0000c3e\u0000c30\u0000c24", "\u0000c13\u0000c38\u0000c4d\u0000c15\u0000c3e"], "ner_tags": [3, 5, 0, 0]}
+{"tokens": ["\u0000c2d\u0000c3e\u0000c30\u0000c24", "\u0000c32\u0000c4b", "\u0000c15\u0000c3f\u0000c30\u0000c3e\u0000c23\u0000c4d\u0000c1a\u0000c47\u0000c16"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000c17\u0000c3f\u0000c30\u0000c3f\u0000c36\u0000c4d\u0000c2e\u0000c15\u0000c4d", "\u0000c28\u0000c30\u0000c4d\u0000c2e\u0000c3e", "\u0000c2a\u0000c3e\u0000c06\u0000c23\u0000c3f"], "ner_tags": [3, 4, 0]}
+{"tokens": ["\u0000c1c\u0000c4a\u0000c24\u0000c3f\u0000c30\u0000c3e", "\u0000c38\u0000c39\u0000c3e\u0000c30\u0000c02"], "ner_tags": [5, 0]}
+{"tokens": ["\u0000c05\u0000c02\u0000c05\u0000c3e\u0000c28\u0000c3f", "\u0000c2d\u0000c3e\u0000c30\u0000c24"], "ner_tags": [5, 0]}
+{"tokens": ["\u0000c2b\u0000c4d\u0000c30\u0000c3e\u0000c02\u0000c15\u0000c4d", "\u0000c15\u0000c3f\u0000c30\u0000c3e\u0000c23\u0000c4d"], "ner_tags": [5, 0]}
+{"tokens": ["\u0000c39\u0000c3f\u0000c26\u0000c4d\u0000c2f\u0000c3e", "\u0000c2a\u0000c3e\u0000c2a\u0000c3e", "\u0000c38\u0000c4d\u0000c24\u0000c21\u0000c3f\u0000c2f\u0000c4d\u0000c2e\u0000c41", "22", "\u0000c35\u0000c41", "."], "ner_tags": [3, 4, 0, 0, 0, 0]}
+{"tokens": ["\u0000c35\u0000c3f\u0000c1c\u0000c2f\u0000c02", "\u0000c2b\u0000c3f\u0000c32\u0000c4d\u0000c2e"], "ner_tags": [5, 0]}
+{"tokens": ["\u0000c06\u0000c2a\u0000c4d\u0000c30\u0000c3f\u0000c32\u0000c4d", "\u0000c32\u0000c4b", "\u0000c1f\u0000c46\u0000c02\u0000c2a\u0000c4d\u0000c32", "\u0000c28\u0000c4d\u0000c2f\u0000c42\u0000c2f\u0000c4b\u0000c30\u0000c4d", "\u0000c24\u0000c28", "\u0000c35\u0000c3f\u0000c37\u0000c4d\u0000c23\u0000c41"], "ner_tags": [3, 4, 0, 0, 0, 0]}
+{"tokens": ["\u0000c28\u0000c3f\u0000c28\u0000c3e", "\u0000c38\u0000c41\u0000c30\u0000c47\u0000c36\u0000c4d", "\u0000c2a\u0000c26\u0000c4d\u0000c27", "\u0000c38\u0000c28\u0000c4d\u0000c27\u0000c3e"], "ner_tags": [5, 0, 0, 0]}
+{"tokens": ["\u0000c2f\u0000c41\u0000c35\u0000c3e\u0000c28\u0000c41", "\u0000c24\u0000c2d\u0000c4d\u0000c2d\u0000c32"], "ner_tags": [5, 0]}
+{"tokens": ["\f05\f02\u0000c26\u0000c4d\u0000c30\u0000c4b", "\u0000c2c\u0000c3e\u0000c02\u0000c17\u0000c4d\u0000c32\u0000c3e", "\u0000c26\u0000c3f\u0000c32\u0000c4d\u0000c32\u0000c40"], "ner_tags": [5, 1, 2]}
+{"tokens": ["\u0000c2d\u0000c3e\u0000c30\u0000c24\u0000c4d", "\u0000c32\u0000c42\u0000c15", "\u0000c1f\u0000c40"], "ner_tags": [0, 5, 1]}
+{"tokens": ["\u0000c15\u0000c3e\u0000c30\u0000c4d\u0000c24\u0000c3f\u0000c15\u0000c47\u0000c28\u0000c3f", "\u0000c2e\u0000c02", "\u0000c1f\u0000c3f\u0000c15\u0000c4d", "\u0000c35\u0000c3f\u0000c28\u0000c41"], "ner_tags": [5, 0, 0, 0]}
+{"tokens": ["\u0000c30\u0000c1f\u0000c4d\u0000c28", "\u0000c2e\u0000c41\u0000c02\u0000c2c\u0000c48"], "ner_tags": [5, 6]}
+{"tokens": ["\u0000c28\u0000c30\u0000c3e\u0000c38\u0000c4d", "\u0000c24\u0000c3f\u0000c30\u0000c41\u0000c2a\u0000c24\u0000c3f", "\u0000c26\u0000c3f\u0000c35\u0000c4d\u0000c2f\u0000c3e"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\u0000c2a\u0000c3e\u0000c35\u0000c28", "\u0000c16\u0000c21\u0000c15\u0000c4d", "\u0000c24\u0000c3f\u0000c30\u0000c4d\u0000c34\u0000c41"], "ner_tags": [5, 6, 7]}
+{"tokens": ["\u0000c21\u0000c46\u0000c32\u0000c4d\u0000c39\u0000c3f", "\u0000c2f\u0000c3e\u0000c28\u0000c3f", "\u0000c2f\u0000c3e\u0000c24\u0000c4d\u0000c30"], "ner_tags": [1, 0, 0]}
+{"tokens": ["\u0000c05\u0000c2e\u0000c3f\u0000c24\u0000c4d\u0000c2f", "\u0000c30\u0000c3e\u0000c2e\u0000c4d", "\u0000c38\u0000c3e\u0000c07\u0000c24\u0000c3e"], "ner_tags": [5, 1, 2]}
+{"tokens": ["\u0000c15\u0000c42\u0000c1a", "\u0000c27\u0000c3e\u0000c35\u0000c32\u0000c40", "\u0000c05\u0000c2d\u0000c3f\u0000c28\u0000c35\u0000c3f"], "ner_tags": [0, 5, 6]}
+{"tokens": ["\u0000c28\u0000c3e\u0000c17\u0000c30\u0000c1c\u0000c41\u0000c28", "\u0000c0f\u0000c24\u0000c30\u0000c3e", "\u0000c16\u0000c3e\u0000c30\u0000c4d\u0000c2f"], "ner_tags": [5, 0, 0]}
+{"tokens": ["\u0000c38\u0000c3f\u0000c24\u0000c3e\u0000c30\u0000c3e", "\u0000c28\u0000c3e\u0000c17\u0000c30\u0000c3e\u0000c1c\u0000c41\u0000c28\u0000c3e\u0000c02\u0000c26", "\u0000c2e\u0000c3e\u0000c39\u0000c3f\u0000c24\u0000c40"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\u0000c2e\u0000c4b\u0000c39\u0000c28", "\u0000c2a\u0000c4d\u0000c30\u0000c3e\u0000c16\u0000c4d\u0000c2f", "\u0000c15\u0000c3f\u0000c36\u0000c4b\u0000c30\u0000c3f"], "ner_tags": [5, 6, 7]}
+{"tokens": ["\u0000c2f\u0000c35\u0000c24", "\u0000c2a\u0000c3e\u0000c26\u0000c41", "\u0000c2f\u0000c41", "\u0000c30\u0000c15\u0000c4d\u0000c15", "\u0000c3e", "\u0000c26\u0000c46\u0000c36\u0000c41\u0000c15\u0000c3e", "?"], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0000c28\u0000c40\u0000c32\u0000c2e", "\u0000c38\u0000c3f\u0000c02\u0000c27\u0000c41"], "ner_tags": [5, 6]}
+{"tokens": ["\u0000c24\u0000c3f\u0000c15\u0000c4d", "\u0000c26\u0000c3e\u0000c36\u0000c30\u0000c25\u0000c3f", "\u0000c30\u0000c3e\u0000c17\u0000c35\u0000c47"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\u0000c17\u0000c4b\u0000c35\u0000c3f\u0000c02\u0000c26", "\u0000c06\u0000c1c\u0000c28\u0000c4d\u0000c2e\u0000c3e", "\u0000c2c\u0000c42\u0000c21\u0000c4d"], "ner_tags": [5, 6, 7]}
+{"tokens": ["\u0000c15\u0000c3e\u0000c32\u0000c40\u0000c26\u0000c3e\u0000c38", "\u0000c15", "\u0000c3e\u0000c30\u0000c4b\u0000c"], "ner_tags": [5, 1, 2]}
+{"tokens": ["\f06\f02", "\f1c\f4d", "\f24\f3f", "\f35\f3e\f30", "\f1a\f4d\f2a\f3e", "\f30\f21\f3f", "\f15", "\f48\f28\f3f"], "ner_tags": [3, 0, 0, 0, 0, 0, 5, 6]}
+{"tokens": ["\f0a\f2a\f4d\f2a\f3e", "\f35\f3e\f30\f41", "\f32\f32\f42"], "ner_tags": [5, 1, 2]}
+{"tokens": ["\f38\f41\f30\f47", "\f2a\f1f\f41", "\f32\f42\f41", "\f15\f3f\f38\f41"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\f2e\f41\f39\f41", "\f05\f2a", "\f17\f3f\f24\f47", "\f31\f47\f41"], "ner_tags": [1, 0, 0, 0]}
+{"tokens": ["\u000b\u000e\u00013\u00035", "\u0002e\u00028\u00030\u0004f", "\u0001e\u00017\u00027\u00030\u00024", "\u00032\u00010", "\u00039\u00001"], "ner_tags": [0, 3, 0, 0, 0]}
+{"tokens": ["\u0000c", "\u0000f\u0000e\u0001f\u0000c\u00009", "\u000e\u00002\u00013\u00017\u0000d", "\u000e\u00017\u00019", "\u0003\u0000f"], "ner_tags": [0, 1, 2, 0, 0]}
+{"tokens": ["\u00036\u0000e\u0001e\u00037", "\u000e\u00013\u0001e", "\u0006\u00003\u00002", "\b\u0001e", "\u0004\u0000a\u0000f"], "ner_tags": [0, 0, 1, 2, 2]}
+{"tokens": ["\u000e\u00011\u00015\u0000d", "\u0004\u0001e\u00017\u00018", "\u0006\u0001c", "\n\u0001f"], "ner_tags": [3, 0, 0, 0]}
+{"tokens": ["\t\u00017", "\u0005\u0001e\u00017", "\u000e\u0001a\u00010", "\u0011\u00018"], "ner_tags": [0, 3, 0, 0]}
+{"tokens": ["\u000e\u00011\u00015\u0000d", "\b\u0001e", "\f\u0000f\u00010", "\u0002\u0000b"], "ner_tags": [0, 0, 1, 2]}
+{"tokens": ["\u0007\u00005", "\u0002\u0000c", "\u0006\u0001b", "\n\u0001d", "\u000e\u00012"], "ner_tags": [0, 0, 0, 3, 0]}
+{"tokens": ["\t\u0001c", "\u000e\u0001e", "\u0004\u00016", "\n\u00010", "\u0007\u0001f"], "ner_tags": [5, 5, 0, 0, 0]}
+{"tokens": ["\n\u00018", "\f\u00018\u0000a", "\u0004\u00010\u00012", "\u0006\u0000d", "\u0003\u00010"], "ner_tags": [0, 1, 2, 2, 0]}
+{"tokens": ["\u0007\u0001e", "\u0003\u0000e", "\f\u0001b", "\u0003\u00015", "\u0002\u00009"], "ner_tags": [0, 0, 0, 0, 5]}
+{"tokens": ["\u000e\u0000b", "\f\u0000a", "\u000e\u00018\u00015", "\n\u00016", "\u000b\u0000e\u00013"], "ner_tags": [0, 0, 1, 2, 2]}
+{"tokens": ["\u0002\u00010", "\u000f\u0001e\u00011", "\u000b\u0000b", "\n\u0001a", "\u0004\u001c", "\u000e\u00018"], "ner_tags": [0, 1, 0, 2, 2, 0]}
+{"tokens": ["\f\u0001e", "\u0003\u0001f", "\u0006\u0000a", "\n\u0001d", "\f\u0001c"], "ner_tags": [0, 5, 5, 0, 0]}
+{"tokens": ["\u000f\u00012", "\u0006\u00019", "\u000b\u0000b", "\t\u00008", "\b\u0001a"], "ner_tags": [0, 0, 1, 2, 2]}
+{"tokens": ["\u0005\u00009", "\u0007\u0001f", "\u0007\u0001d", "\u000e\u00010", "\u000f\u0001e"], "ner_tags": [0, 0, 0, 0, 1]}
+{"tokens": ["\u000b\u0000a", "\f\u00019", "\n\u00013", "\u000f\u00011", "\u000f\u0001c"], "ner_tags": [0, 1, 2, 2, 3]}
+{"tokens": ["\u000e\u0000c", "\u0007\u0001d", "\n\u00010", "\b\u00012", "\u000f\u00017"], "ner_tags": [0, 0, 0, 0, 5]}
+{"tokens": ["\u0003\u00018", "\u0004\u0010", "\u000e\u0001b", "\u000b\u0000b", "\n\u0001c"], "ner_tags": [3, 0, 0, 1, 2]}
+{"tokens": ["\u0005\u0001b", "\u0002\u00011", "\u000e\u00017", "\n\u00012", "\u000b\u00019"], "ner_tags": [0, 0, 1, 2, 2]}
+{"tokens": ["\n\u00014", "\f\u00018", "\u000b\u0000d", "\u0003\u0001e", "\u0005\u0000a"], "ner_tags": [0, 0, 0, 1, 2]}
+{"tokens": ["\n", "\n\u001f\u00160\u0012a", "\u0012a\n\u00130", "\u0000b", "\u0012f\bf", "\u0014c\u0005f"], "ner_tags": [0, 1, 2, 0, 1, 2]}
+{"tokens": ["\u001999", "\f7\re\u0017c\u00150", "\u00164\u00160", "\u00002\td", "\u0013a\n1"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u0017e\u00140\r1\u000b3", "\ra\u00072", "\u0016d\u00179\u00134"], "ner_tags": [0, 5, 0]}
+{"tokens": ["\u0014f\u0006e\u0015f", "\u00166\u0016f", "-", "\u0013c\u0000d\u00132", "\u0012e\n1"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u00178\u00165\t7", "\u0010f\r5\u00077\u0013c", "\u0000c\u0014b", "\u00148\u0015d", "\te\u00163", "\u0014e\u0016d"], "ner_tags": [3, 4, 4, 0, 0, 0]}
+{"tokens": ["\u0011e\u0012a", "\u00119\u00127", "\u0016e\u00102", "Delhi"], "ner_tags": [1, 2, 0, 4]}
+{"tokens": ["\u0017e\u0016b", "\u0013a\u0007f", "\u0007a\n8", "\u00124\u0007c", "\u00065", "\u0011a\r1", "\u0013c"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0017e\u0012a\u00174\u000b6", "\u00066\u0001c", "\u00170", "\u0015b\u0017a", "\u00062\u0014e", "\u0016b"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\b8\u0012e\u0015e", "\u00155\u000f5", "\u0014d\u00165", "\u00164\u0016f", "\u00177"], "ner_tags": [0, 5, 3, 4, 0]}
+{"tokens": ["\u0010a\u00133\u0013a", "\u000b0", "\u00130\u0012d", "\u0014f\u0012d", "\u00116"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\na\u0000d\u00162", "\u0012e\u0015e", "\u0011d\r1", "\u00148\u00177", "-", "\u00119\tb"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00044", "\u0011e\u00179", "\u00137\u0016a", "\u0007f\u0016d", "\u00129\t9", "\u000b1"], "ner_tags": [0, 3, 4, 0, 0, 0]}
+{"tokens": ["\rc\u00068", "\rd\u00156", "\u0013c\ra", "\fa\u0013d", "\u0016e\u0015d", "\u00143\u000ea"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00111\u00120", "\u00162\u0014f", "\u0017e\r9", "\u0012d", "\u0012e"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["\u00118\u00167", "\u0013e\u0015c\u00171", "\u0016d\u0014f", "\u0010a", "\u0017a\u00121"], "ner_tags": [3, 4, 4, 0, 0]}
+{"tokens": ["\t9\u0014b", "\u00115", "\u00136\u0014d", "\n8\u0013b"], "ner_tags": [0, 0, 1, 2]}
+{"tokens": ["\u00119\u00113", "\u00149", "\u00152", "\u00160\u00003", "\u0013a", "\u0011c"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00164\u000bb", "\t6\u000b8", "\u0013e\u00124", "\ff\u00140", "\u00123\u00133", "\u0013b"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00134\u0017d\u0014c", "\u000e1", "\u0012b", "\u000b0\u00132", "\u0013b"], "ner_tags": [0, 5, 0, 0, 0]}
+{"tokens": ["\u0013d\u00131", "\u0013f\u00123", "\n1\u000e7"], "ner_tags": [0, 0, 0]}
+{"tokens": ["\f37\f41\u0000c30\u0000c4d\u0000c2f\u0000c4b", "\u0000c32\u0000c3e", "\u0000c27\u0000c46\f32\u0000c41", "\u0000c38\u0000c4d\f30\u0000c40", "\u0000c32\u0000c02", "\u0000c35\u0000c3f\f26\u0000c4d\f2f\u0000c3e", "\f15\f28\f4d\f28\f3e", "\f21\f3f"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f0b\f3e\f30\f4d\f15\f3e", "\f38\f4d\f1f\f41\f21\f46\f28", "\f38\f41\f21\f3e", "\f35\f48", "\f07\f02", "\f35\f3f\f28\f3e", "\f15\f3f\f30\f23\f41\f32\f4d", "\f07\f02"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\f39\f4c\f28\f32\f40", "\f2e\f41\f02\f02", "\f15\f3e\f23\f4d\f32\f3f\f02"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f05\f28\f41", "\f32\f17\f41\f02", "\f32\f3f\f23\f4d\f2f\f3f", "\f1a\f41\f05\f02\f02"], "ner_tags": [0, 0, 1, 2]}
+{"tokens": ["\f21\f3e\f38\f3e\f02", "\f16\f46\f02", "\f2a\f30\f3e\f02", "\f10\f38\f3e\f30\f02"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["\f1f\f41\f39\f1e\f4d", "\f2a\f3f\f21\f4d\f39\f3e\f02", "\f38\f02", "\f24\f30\f4d\f39\f3e\f02"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f10\f27\f4d\f39\f41\f30\f02", "\f10\f42\f4d\f30\f3f", "\f1b\f41\f27\f41"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f13\f41", "\f2e\f3f\f26\f4d\f39\f3e", "\f35\f4b\f28", "\f22\f3f\f2e"], "ner_tags": [0, 1, 2, 0]}
+{"tokens": ["\f15\f3e\f38\f4d\f24\f30", "\f32\f3e\f2f\f41\f38\f4d", "\f24\f30\f41", "\f2f\f35\f02"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f05\f30\f14\f4d\f2f\f41", "\f2e\f41\f38\f4d\f38\f41\f38\f41", "\f15\f02\f16"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f15\f3e\f17\f4d\f17\f41\f24\f41", "\f0f\f32\f4d", "\f28\f06", "\f34\f30\f02"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f22\f42", "\f35\f3e\f21\f41\f1e", "\f35\f3f\f02", "\f13\f41"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f27\f41\f23\f41", "\f38\f24\f15\f3e", "\f28\f29\f35\f02"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f36\f30\f41", "\f38\f41\f32\f2e\f3f", "\f2a\f35\f4d\f30\f38\f02"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f30\f3f\f30\f4d", "\f10\f28\f46\f38\f41\f24\f30\f02", "\f36\f28\f36\f28"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f06\f24\f4d\f30\f41\f35", "\f2f\f3e\f24\f4d\f2e\f28\f3e\f38\f4d"], "ner_tags": [1, 2]}
+{"tokens": ["\f19\f41", "\f07\f19\f30\f02", "\f38\f15\f41\f38\f0e"], "ner_tags": [0, 1, 2]}
+{"tokens": ["\f2e\f41\f38\f4d", "\f31\f2e\f39\f4d", "\f19\f4b\f30\f41"], "ner_tags": [1, 2, 0]}
+{"tokens": ["\f10\f38\f4d\f28\f41\f35", "\f2e\f19\f30\f23", "\f1e\f41\f38\f4d", "\f12\f02"], "ner_tags": [1, 2, 0, 0]}
+{"tokens": ["\f27\f3f\f21\f4d\f39\f38\f41", "\f1f\f4a"], "ner_tags": [1, 2]}
+{"tokens": ["\u0c36\u0c43\u0c24\u0c3f\u0c15\u0c3e", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c41", "\u0c28\u0c41\u0c02\u0c1a\u0c3f", "\u0c35\u0c1a\u0c4d\u0c1a\u0c3f\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 3, 0, 0, 0]}
+{"tokens": ["\u0c2a\u0c4d\u0c30\u0c27\u0c3e\u0c28\u0c2e\u0c02\u0c24\u0c4d\u0c30\u0c3f", "\u0c28\u0c30\u0c47\u0c02\u0c26\u0c4d\u0c30", "\u0c2e\u0c4b\u0c21\u0c40", "\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40\u0c32\u0c4b", "\u0c38\u0c2d\u0c28\u0c41", "\u0c28\u0c3f\u0c30\u0c4d\u0c35\u0c39\u0c3f\u0c02\u0c1a\u0c3e\u0c30\u0c41", "."], "ner_tags": [0, 1, 1, 3, 0, 0, 0]}
+{"tokens": ["\u0c15\u0c4b\u0c32\u0c15\u0c24\u0c3e\u0c32\u0c4b", "\u0c08\u0c35\u0c46\u0c02\u0c1f\u0c4d", "\u0c1c\u0c30\u0c3f\u0c17\u0c3f\u0c02\u0c26\u0c3f", "\u0c05\u0c28\u0c3f\u0c32\u0c4d", "\u0c15\u0c41\u0c2e\u0c3e\u0c30\u0c4d", "\u0c06\u0c39\u0c4d\u0c35\u0c3e\u0c28\u0c3f\u0c24\u0c41\u0c21\u0c41"], "ner_tags": [3, 0, 0, 1, 1, 0]}
+{"tokens": ["\u0c24\u0c46\u0c32\u0c02\u0c17\u0c3e\u0c23", "\u0c2e\u0c41\u0c16\u0c4d\u0c2f\u0c2e\u0c02\u0c24\u0c4d\u0c30\u0c3f\u0c17\u0c3e", "\u0c15\u0c47.", "\u0c1a\u0c02\u0c26\u0c4d\u0c30\u0c36\u0c47\u0c16\u0c30\u0c4d", "\u0c30\u0c3e\u0c35\u0c41", "\u0c35\u0c30\u0c4d\u0c15\u0c4d", "\u0c1a\u0c47\u0c38\u0c4d\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41", "."], "ner_tags": [3, 0, 1, 1, 1, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c41\u0c27\u0c3e", "\u0c2e\u0c42\u0c30\u0c4d\u0c24\u0c3f", "\u0c2c\u0c46\u0c02\u0c17\u0c41\u0c33\u0c42\u0c30\u0c41\u0c32\u0c4b", "\u0c09\u0c02\u0c21\u0c41\u0c24\u0c41\u0c02\u0c26\u0c3f", "."], "ner_tags": [1, 1, 3, 0, 0]}
+{"tokens": ["\u0c35\u0c3f\u0c36\u0c3e\u0c16\u0c2a\u0c1f\u0c4d\u0c28\u0c02", "\u0c2c\u0c40\u0c1a\u0c4d", "\u0c2a\u0c3e\u0c2a\u0c41\u0c32\u0c30\u0c4d", "\u0c1f\u0c42\u0c30\u0c3f\u0c38\u0c4d\u0c1f\u0c4d", "\u0c2a\u0c4d\u0c32\u0c47\u0c38\u0c4d"], "ner_tags": [3, 5, 0, 0, 0]}
+{"tokens": ["\u0c0f\u0c2a\u0c40\u0c32\u0c4b", "\u0c35\u0c48.", "\u0c0e\u0c38\u0c4d.", "\u0c1c\u0c17\u0c28\u0c4d", "\u0c2e\u0c4b\u0c39\u0c28\u0c4d", "\u0c30\u0c46\u0c21\u0c4d\u0c21\u0c3f", "\u0c2a\u0c4d\u0c30\u0c2d\u0c41\u0c24\u0c4d\u0c35\u0c3e\u0c28\u0c4d\u0c28\u0c3f", "\u0c28\u0c21\u0c41\u0c2a\u0c41\u0c24\u0c41\u0c28\u0c4d\u0c28\u0c3e\u0c30\u0c41"], "ner_tags": [3, 1, 1, 1, 1, 1, 0, 0]}
+{"tokens": ["\u0c28\u0c3e\u0c15\u0c3f", "\u0c32\u0c48\u0c28\u0c38\u0c4d", "\u0c2a\u0c3e\u0c32\u0c4d", "\u0c2e\u0c4b\u0c30\u0c4d\u0c21\u0c3f", "\u0c2a\u0c30\u0c3f\u0c1a\u0c2f\u0c02", "\u0c09\u0c02\u0c26\u0c3f", "."], "ner_tags": [0, 1, 1, 1, 0, 0, 0]}
+{"tokens": ["\u0c17\u0c4b\u0c2a\u0c40\u0c1a\u0c02\u0c26\u0c4d", "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41", "\u0c38\u0c3f\u0c28\u0c3f\u0c2e\u0c3e\u0c32\u0c32\u0c4b", "\u0c2a\u0c4d\u0c30\u0c2e\u0c41\u0c16", "\u0c39\u0c40\u0c30\u0c4b"], "ner_tags": [1, 0, 0, 0, 5]}
+{"tokens": ["\u0c06\u0c36\u0c3e", "\u0c2d\u0c4b\u0c02\u0c38\u0c4d\u0c32\u0c47", "\u0c2e\u0c41\u0c02\u0c2c\u0c48\u0c32\u0c4b", "\u0c2a\u0c41\u0c1f\u0c4d\u0c1f\u0c3f\u0c02\u0c26\u0c3f"], "ner_tags": [1, 1, 3, 0]}
+{"tokens": ["\u0c38\u0c4d\u0c15\u0c42\u0c32\u0c4d", "\u0c2a\u0c47\u0c30\u0c4d\u0c32\u0c41", "\u0c21\u0c46\u0c32\u0c4d\u0c32\u0c40", "\u0c2a\u0c2c\u0c4d\u0c32\u0c3f\u0c15\u0c4d", "\u0c38\u0c4d\u0c15\u0c42\u0c32\u0c4d", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d", "\u0c07\u0c02\u0c1f\u0c30\u0c4d\u0c28\u0c47\u0c37\u0c28\u0c32\u0c4d", "\u0c38\u0c4d\u0c15\u0c42\u0c32\u0c4d"], "ner_tags": [0, 0, 5, 5, 5, 3, 5, 5]}
+{"tokens": ["\u0c30\u0c3e\u0c2e\u0c4d", "\u0c1a\u0c30\u0c23\u0c4d", "\u0c15\u0c4a\u0c23\u0c3f\u0c26\u0c46\u0c32", "\u0c39\u0c48\u0c26\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c41\u0c32\u0c4b", "\u0c07\u0c32\u0c4d\u0c32\u0c41", "\u0c15\u0c4a\u0c28\u0c4d\u0c28\u0c3e\u0c21\u0c41"], "ner_tags": [1, 1, 1, 3, 0, 0]}
+{"tokens": ["\u0c22\u0c3f\u0c32\u0c4d\u0c32\u0c40", "\u0c35\u0c47\u0c26\u0c3f\u0c15\u0c17\u0c3e", "\u0c2f\u0c41\u0c28\u0c46\u0c38\u0c4d\u0c15\u0c4b", "\u0c38\u0c26\u0c38\u0c4d\u0c38\u0c41", "\u0c38\u0c3e\u0c17\u0c41\u0c24\u0c4b\u0c02\u0c26\u0c3f"], "ner_tags": [3, 0, 4, 0, 0]}
+{"tokens": ["\u0c05\u0c02\u0c1c\u0c32\u0c3f", "\u0c39\u0c48\u0c26\u0c30\u0c4d", "\u0c05\u0c32\u0c40", "\u0c2a\u0c41\u0c30\u0c38\u0c4d\u0c15\u0c3e\u0c30\u0c3e\u0c28\u0c4d\u0c28\u0c3f", "\u0c05\u0c02\u0c26\u0c41\u0c15\u0c41\u0c02\u0c26\u0c3f"], "ner_tags": [1, 1, 1, 2, 0]}
+{"tokens": ["\u0c2a\u0c3e\u0c30\u0c3f\u0c38\u0c4d", "\u0c2b\u0c4d\u0c30\u0c3e\u0c28\u0c4d\u0c38\u0c4d", "\u0c30\u0c3e\u0c1c\u0c27\u0c3e\u0c28\u0c3f"], "ner_tags": [3, 3, 0]}
+{"tokens": ["\u0c15\u0c46\u0c28\u0c21\u0c3e\u0c32\u0c4b", "\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41", "\u0c2a\u0c02\u0c21\u0c41\u0c17", "\u0c38\u0c02\u0c15\u0c4d\u0c30\u0c3e\u0c02\u0c24\u0c3f", "\u0c35\u0c47\u0c21\u0c41\u0c15\u0c32\u0c41", "\u0c1c\u0c30\u0c47\u0c17\u0c3e\u0c2f\u0c3f"], "ner_tags": [3, 0, 0, 2, 0, 0]}
+{"tokens": ["\u0c1f\u0c3e\u0c1f\u0c3e", "\u0c17\u0c4d\u0c30\u0c42\u0c2a\u0c4d", "\u0c10\u0c1f\u0c40", "\u0c38\u0c46\u0c15\u0c4d\u0c1f\u0c30\u0c4d\u200c\u0c32\u0c4b", "\u0c2a\u0c4d\u0c30\u0c2e\u0c41\u0c16\u0c02"], "ner_tags": [5, 5, 0, 0, 0]}
+{"tokens": ["\u0c38\u0c3e\u0c2f\u0c3f", "\u0c2a\u0c32\u0c4d\u0c32\u0c35\u0c3f", "\u0c05\u0c2a\u0c30\u0c4d\u0c23\u0c3e", "\u0c2a\u0c4d\u0c30\u0c47\u0c2e\u0c3f\u0c15\u0c41\u0c32\u0c41"], "ner_tags": [1, 1, 1, 0]}
+{"tokens": ["\u0c2a\u0c40\u0c35\u0c40", "\u0c38\u0c3f\u0c02\u0c27\u0c41", "\u0c12\u0c32\u0c3f\u0c02\u0c2a\u0c3f\u0c15\u0c4d\u0c38\u0c4d\u200c\u0c32\u0c4b", "\u0c1a\u0c3e\u0c02\u0c2a\u0c3f\u0c2f\u0c28\u0c4d"], "ner_tags": [1, 1, 2, 0]}
+{"tokens": ["\u0c36\u0c3f\u0c35\u0c3e\u0c1c\u0c3f", "\u0c35 \u0c38\u0c41\u0c32\u0c41", "\u0c1a\u0c3f\u0c24\u0c4d\u0c30\u0c02\u0c32\u0c4b", "\u0c30\u0c1c\u0c28\u0c40\u0c15\u0c3e\u0c02\u0c24\u0c4d", "\u0c28\u0c1f\u0c3f\u0c02\u0c1a\u0c3e\u0c21\u0c41"], "ner_tags": [1, 5, 0, 1, 0]}

@@ -1,0 +1,356 @@
+{"tokens": ["V", "bratislavskej", "zOO", "sa", "nach\u00e1dzaj\u0165", "r\u00f3zne", "druh\u00e9", "z\u00fa\u017eove", "a", "mamm\u00e1lne", "zvierat\u00e1", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Pre", "n\u00e1s", "s\u00fa", "dole\u017e\u0165aj\u00fce", "d\u00e1ta", "o", "v\u00fdskumu", "na", "Mars", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["U\u017e", "od", "roka", "2020", "sa", "v", "\u0161t\u00fdle", "nach\u00e1dzaj\u0165", "zmeny", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4\u013ea", "z\u00e1kladn\u00e1", "sk\u00f4lka", "v", "Brne", "bol\u00a0", "zalo\u017een\u00e1", "v", "roku", "1903", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["V\u00e4\u013ea", "z\u00e1kladn\u00e1", "sk\u00f4lka", "v", "Praze", "bol\u00a0", "zalo\u017een\u00e1", "v", "roku", "1707", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u0160tudenti", "univerzity", "v", "Bratislave", "sa", "zauj\u00edmaj\u00faj\u00fce", "o", "n\u00e1ukovej", "kvalite", "v\u00fduky", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "rokoch", "1968", "-", "1970", "bol", "gener\u00e1lom", "Arm\u00e9nskej", "republiky", "Anatoli", "Adamov", "."], "ner_tags": [0, 5, 0, 0, 5, 0, 1, 0, 1, 0, 0]}
+{"tokens": ["V\u00e4\u013ea", "univerzit\u00e1", "v", "Slovensku", "pon\u00faka", "st\u00f3j\u00e1", "m\u00e1lo", "m\u00e1\u0161\u0165av\u00fd", "v\u00fdzkum", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "bratislavskej", "zOO", "mo\u017ee\u0165", "vidie\u0165", "m\u00e1lo", "z\u00e1kladn\u00e9", "inform\u00e1cie", "o", "zvierat\u00e1ch", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4\u013ea", "muze\u00famu", "v", "Ko\u0161iciach", "sa", "nach\u00e1dzaj\u0165", "cenn\u00e9", "um\u00e9leck\u00e9", "k\u00e1zy", "z", "r\u00f3znej\u00fdch", "d\u00f4b", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "n\u00e1mest\u00ed", "Slobody", "v", "Bratislave", "sa", "kona\u0161\u00ed", "ro\u010dn\u00ed", "sl\u00e1vnost\u00ed", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "roku", "2022", "sa", "v", "Bratislave", "bol", "otvoren\u00fd", "nov\u00fd", "k\u00f3rnik", "s", "m\u00f3zami", "z", "cel\u00e9ho", "sveta", "."], "ner_tags": [0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "bratislavskej", "galerii", "sa", "nach\u00e1dzaj\u0165", "diela", "sl\u00e1vnych", "umelcov", "ako", "Napoleon", "a", "Da", "Vinci", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["V", "bratislavskej", "kni\u017enici", "sa", "nach\u00e1dzaj\u0165", "cenn\u00e9", "ru\u013ekopisn\u00e9", "k\u00e1zy", "z", "stredoveku", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00e1t", "m\u00e1", "d\u00e9lne", "rozvinut\u00fa", "sie\u0148", "s", "hustou", "sie\u0148ou", "\u0161t\u00e1tnych", "cest", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Prv\u00e9", "kresby", "Vydry", "sa", "nach\u00e1dzaj\u00fa", "v", "knihe", "Zverin\u00e1", "\u010d\u00e1s", "\u0161tatin\u00e9ho", "knihozberate\u013ea", "Jana", "Amosa", "Comenii", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]}
+{"tokens": ["P\u00e1pe\u017e", "sl\u00e1val", "svoju", "pr\u00e1cu", "v", "R\u00edme", "."], "ner_tags": [0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["N\u00e1rodn\u00fd", "muze\u00fam", "v", "Prahe", "je", "pln\u00fd", "um\u00e9leck\u00fdch", "skvostov"], "ner_tags": [0, 0, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "Slovenska.", "Je", "zn\u00e1me", "svojou", "historick\u00f3u", "architekt\u00f3rou", "a", "kult\u00farne", "d\u00e1ta."], "ner_tags": [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jan", "Hronsk\u00fd", "bol", "slovensk\u00fd", "spisovate\u013e", "a", "b\u00fdtelny", "myslite\u013e.", "N\u00e1p\u00eds", "mnoh\u00e9", "diele", "a", "eseje."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "nejv\u00fd\u0161\u0165\u00ed", "p\u00fatrov\u00e9", "hory", "na", "Slovensku.", "Pon\u00faktuj\u00fa", "kr\u00e1sn\u00e9", "pr\u00fapady", "a", "alpsk\u00e9", "vrchy."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Pre\u0161myk", "bol", "krajn\u00e9", "slovensk\u00e9", "kr\u00e1l", "v", "14.\u00a0storo\u013e\u00ed.", "Zalo\u017eil", "m\u00fasta", "jako", "Pre\u0161purk", "a", "v\u00fdstavil", "mno\u017estvo", "z\u00e1konov."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "v", "Bratislave", "je", "najv\u00e4\u010d\u0161\u00ed", "umeleck\u00e1", "in\u0161t\u00edcia", "v", "kraji."], "ner_tags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160tefan", "P\u00f4p\u013ek", "bol", "slovensk\u00fd", "politi\u010dak", "a", "prvn\u00fd", "premi\u00e9r", "nez\u00e1visleho", "Slovenska."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dunaj", "je", "r\u00edka", "tek\u00faci\u00e1", "skrz", "stredn\u00fd", "Europu.", "Na", "svojom", "priebehu", "prot\u00edna", "nieko\u013eko", "ve\u013ek\u00e9", "mesta", "a", "mest\u00e1", "v", "n\u00e1m", "Slovensku."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["Karpatsk\u00e9", "vrchy", "tvoria", "ve\u013ek\u00fd", "p\u00e1smo", "h\u00f4r", "v", "strednej", "a", "v\u00fdchodnej", "Evrope.", "Na", "Slovensku", "sa", "nach\u00e1dzaj\u00fa", "v", "hlavn\u00e9m", "ch\u00f4de", "v\u00fdchodnej", "\u010das\u0165ou."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Martin", "bol", "miesto", "n\u00e1rodneho", "povstania", "proti", "ma\u0148skej", "nadvl\u00e1de", "v", "rokoch", "1848", "-", "1849."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "akad\u00e9mia", "vied", "je", "najv\u00e4\u010d\u0161\u00ed", "vedeck\u00e1", "in\u0161t\u00edcia", "v", "kraji.", "Zalo\u017eena", "bola", "v", "roku", "1953."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00ed\u0161\u0165", "a", "h\u00f4rny", "pramen", "Dunaja", "sa", "nach\u00e1dzaj\u00fa", "v", "Nizk\u00fdch", "Tatroch", "v", "Slovensku."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e1ria", "Ter\u00e9zia", "Hessov\u00e1", "bola", "slovensk\u00e1", "spisovate\u013eka", "a", "prekladate\u013eka.", "Prekladala", "mnoh\u00e9", "diela", "svetov\u00fdch", "autorov."], "ner_tags": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Oravsk\u00e1", "priehrada", "je", "ve\u013eka", "voda", "na", "r\u00edke", "Orava", "v", "nordn\u00e9m", "Slovensku."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Ko\u0161ice", "s\u00fa", "tret\u00edm", "najv\u00e4\u010d\u0161\u00edm", "mestom", "na", "Slovensku", "pod\u013ea", "po\u013e\u00edtania", "obyvate\u013ek."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00fd", "narodn\u00fd", "park", "Mur\u00e1n", "je", "chr\u00e1niv\u00fd", "krajinn\u00fd", "park", "v", "stredn\u00e9m", "Slovensku."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160tefan", "Galik", "bol", "slovensk\u00fd", "knejz", "a", "politick\u00fd", "aktivista.", "Bol", "jedn\u00faim", "z", "k\u00f4r\u00ed", "zakladate\u013ekov", "Slovensk\u00e9j", "n\u00e1rodnej", "rady."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bratislavsk\u00e1", "zOO", "je", "z\u00f3log\u00fd", "park", "v", "Bratislave.", "Chovaj\u00fa", "viac", "nez", "150", "druhov", "zvi\u0161\u013eov."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nitra", "je", "starov\u00e1", "slovensk\u00e1", "metr\u00f3pol\u00eda", "a", "d\u00e1vne", "kr\u00e1\u013esk\u00e9", "mesto."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ve\u013ek\u00e9", "Karpaty", "s\u00fa", "jednou", "z", "najv\u00e4\u010d\u0161\u00edch", "h\u00f4rnych", "p\u00e1sm", "na", "svete."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vladim\u00edr", "Me\u0148\u0161\u00edk", "bol", "slovensk\u00fd", "spisovate\u013e", "a", "dramatik.", "N\u00e1p\u00eds", "p\u00edsal", "mnoh\u00e9", "divadeln\u00e9", "hry."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "re\u017eia", "patr\u00ed", "medzi", "sloven\u00e1rsk\u00e9", "re\u017eii", "a", "je", "jednou", "z", "25", "re\u017ei", "v", "Evrope."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bansk\u00e1", "Bystrica", "je", "mesto", "na", "stredn\u00e9m", "Slovensku", "a", "s\u00fa\u010d\u00e1s", "najv\u00e4\u010d\u0161\u00edm", "mestom", "v", "kraji."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De\u0148", "je", "krajsk\u00e9", "mesto", "s", "bohat\u00fdmi", "dejinami", "a", "m\u00fana", "pamiatkami", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e9", "krasy", "s\u00fa", "zna\u010dn\u00e9", "prejavy", "um\u00e9leck\u00e9ho", "remesla", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e1me", "tu", "n\u00e1s", "velm\u00fa", "dobr\u00e9", "kni\u017eky", "od", "Mijailov\u00e9a", "Bulgakova", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 1, 0]}
+{"tokens": ["Odbor\u00e1r", "zvolil", "nov\u00e9ho", "predsedu", "v", "st\u013a\u0161\u0165", "v\u00e1\u0161ho", "ro\u010dnika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Na", "n\u00e1mest\u00ed", "sv\u00e1tilo", "sa", "na\u010dalo", "slnko", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Prv\u00e1", "d\u016f\u017ea", "v\u00e1\u0161", "roz\u0161\u00edrila", "sa", "na", "jese\u0148skej", "obloze", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00f4rka", "na", "n\u00e1mest\u00ed", "hr\u00e1la", "lidov\u00e9", "pie\u0148e", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "n\u00e1mestn\u00fdch", "kav\u00edn", "sa", "d\u00e1vaj\u00fa", "p\u00ed\u0161\u00ed", "najk\u00f4r\u00fd", "k\u00e1vov\u00fd", "n\u00e1poj", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "t\u00fd\u017edni", "sa", "na\u010d\u00e1daj\u00fa", "pr\u00e1v\u00e9", "v\u00fdrobia", "n\u00e1r\u0161tiek", "z", "d\u00e1vok", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Na", "n\u00e1mest\u00ed", "st\u00e1li", "predava\u0165", "s\u00faper", "z\u00e1pasn\u00ed", "s\u00e1l", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "n\u00e1mestn\u00ed", "galerii", "sa", "pred\u00e1vaj\u00fa", "um\u00e9leck\u00e9", "diela", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Na", "n\u00e1mest\u00ed", "sa", "k\u00f4r\u00fa", "na\u010d\u00e1daj\u00fa", "r\u00f3zne", "kult\u00f3rne", "akcie", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "n\u00e1mest\u00ed", "sa", "kon\u00e1aj\u00fa", "trhy", "s", "r\u00f3znorod\u00fdmi", "tovarmi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Na", "n\u00e1mest\u00ed", "sa", "k\u00f4r\u00fa", "na\u010d\u00e1daj\u00fa", "koncerty", "a", "vyst\u00e1vy", "um\u00e9leck\u00fdch", "diel", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "n\u00e1mest\u00ed", "sa", "nach\u00e1dza", "socha", "sv\u00e1teho", "Jana", "Hussita", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 1, 0]}
+{"tokens": ["Slovensko", "je", "st\u00e1t", "na", "Z\u00e1padoeur\u00f3pe", "s", "hlavn\u00fdm", "m\u011bstem", "Bratislavou", "."], "ner_tags": [5, 0, 5, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Jan", "Kodar", "bol", "slovsk\u00fd", "spisovate\u013e", "a", "dramatik", "."], "ner_tags": [1, 1, 0, 5, 5, 0, 5, 0]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "najv\u00fd\u0161\u0161ia", "horsk\u00e1", "p\u00edsma", "na", "Slovensku", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Euro", "je", "ofici\u00e1lna", "mienka", "Slovenska", "od", "roku", "2009", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Bratislava", "je", "domovom", "miesta", "mnoh\u00fa", "kult\u00fdrneho", "diedina", "a", "muze\u00ed", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Sloven\u00ed", "re\u013e\u00e1tor", "bol", "zn\u00e1my", "pre", "svoj", "jedine\u0148n\u00fd", "prirovn\u00e1nie", "prirody", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stredn\u00e1", "Europa", "je", "geografick\u00fd", "termin", "pre", "regi\u00f3nu", "v\u00fd\u0161\u0161ie", "Eur\u00f3py", "."], "ner_tags": [5, 5, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "kuch\u0148a", "je", "zn\u00e1ma", "pre", "svoj", "tradi\u010dn\u00e9", "jedenie", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Karpaty", "s\u00fa", "horsk\u00fd", "re\u0161et\u00edk", "roz\u013eadn\u00fd", "po", "Z\u00e1padoeur\u00f3pe", "a", "V\u00fdchodnej", "Eur\u00f3pe", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0, 5, 5, 0]}
+{"tokens": ["Slovenske", "b\u00fdval\u00e9", "sou\u010f\u00e1st", "Uhorska", "az", "do", "roku", "1918", "."], "ner_tags": [5, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Bratislavsk\u00fd", "hrad", "je", "jedna", "z", "najstar\u00fdch", "a", "najv\u00fdznamn\u00fdch", "pamiatok", "na", "Slovensku", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensko", "ma", "viac", "a\u017e", "5", "mil\u00edonov", "obyvate\u013ek", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Danube", "je", "najdlh\u00f3", "r\u00edka", "na", "Slovensku", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "repub\u00edka", "bol", "zalo\u017een\u00e1", "v", "roku", "1993", "po", "rozk\u00f3le", "CsFR", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00fd", "jazyk", "patr\u00ed", "medzi", "slovansk\u00e9", "jazyky", "."], "ner_tags": [5, 5, 0, 0, 5, 5, 0]}
+{"tokens": ["Bratislava", "je", "dole\u017een\u00e1", "na", "dunajskej", "niv\u00e1", "a", "je", "obklopena", "mal\u00edmi", "p\u00fary\u017eami", "."], "ner_tags": [5, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "ma", "d\u00e1vnu", "kult\u00fdrnu", "a", "historick\u00fa", "pr\u00e1v", "s", "mnoh\u00fdmi", "pamiatkami", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "obl\u00e1ben\u00fd", "ciele", "pre", "turistiku", "a", "ly\u017eovanie", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "\u010dlenom", "Eur\u00f3pskej", "\u00fan\u00edie", "od", "roku", "2004", "."], "ner_tags": [5, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e9", "vysok\u00e9", "skoly", "pon\u00fabaj\u00fa", "r\u00f3zne", "bakal\u00e1rske", "a", "magistersk\u00e9", "programy", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00fd", "fotbal", "je", "popul\u00e1rny", "sport", "v", "kraji", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["S\u00e1m", "\u0161t\u00fdtia", "sa", "v", "n\u00e1m", "nach\u00e1dza", "v", "m\u00e1le", "m\u011bte", "v", "\u0161t\u00fdle", "17", "km", "na", "juhove\u013est", "od", "mesta", "Svidn\u00edk", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["V", "roku", "2022", "sa", "v", "Brne", "usporadalo", "M\u0161E", "210", "z\u00e1pasov", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "b\u00e1\u0165", "sa", "nach\u00e1dza", "v", "krajine", "s", "n\u00e1zvom", "Vysok\u00e9", "Tatry", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["V", "roku", "1995", "sa", "konal", "14.\u00a0me\u013eun\u00edk", "sv\u011btov\u00e9ho", "taju", "v", "\u010d\u00e1stva", "v", "skokoch", "na", "biekle", "v", "Kanade", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["V", "n\u00e1m", "sa", "nach\u00e1dza", "krasn\u00e9", "mesto", "Kremnica", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["V", "roku", "1993", "bol", "v\u00e1\u0161", "prv\u00fd", "k\u00e1drov\u00fd", "m\u00ed\u0161\u013e", "v", "Evrope", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["V\u00e1\u0161", "sa", "nach\u00e1dza", "v", "p\u00e1ne\u013ei", "s", "n\u00e1zvom", "Mal\u00e1", "Fatra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["V", "roku", "2005", "sa", "v", "Prahe", "konal", "mezin\u00e1rodn\u00fd", "festival", "v\u00fd\u0161\u0165av", "a", "d\u00e1my", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "roku", "1987", "sa", "v", "Bratislave", "konal", "sv\u011btov\u00fd", "poh\u00e1r", "v", "b\u00e1nskej", "\u0161tartovke", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "n\u00e1m", "sa", "nach\u00e1dza", "v\u00e1\u0161", "najv\u00e1\u0161\u00ed", "sl\u00ed\u0161ko", "v", "Evrope", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["V", "roku", "2018", "sa", "v", "Bratislave", "konal", "mezin\u00e1rodn\u00fd", "kongres", "o", "umeleckej", "tvorivej", "sily", "v", "\u0161kolstve", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "roku", "1999", "sa", "v", "Nitra", "konal", "sv\u011btov\u00fd", "poh\u00e1r", "v", "stolov\u00fdch", "tenise", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "sa", "nach\u00e1dza", "v", "p\u00e1ne\u013ei", "s", "n\u00e1zvom", "Ve\u013ek\u00e1", "Fatra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["V", "roku", "2003", "sa", "v", "Ko\u0161ice", "konal", "sv\u011btov\u00fd", "poh\u00e1r", "v", "ryb\u00e1rskom", "lovu", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "st\u00e1t", "v", "Stredoeur\u00f3pe", "."], "ner_tags": [5, 0, 0, 0, 6, 0]}
+{"tokens": ["Najv\u00e4\u010d\u0161\u00ed", "pr\u00edrodn\u00fd", "pr\u00edrodn\u00fd", "poklad", "je", "Tatransk\u00fd", "n\u00e1rodn\u00fd", "park", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 7, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 5, 0]}
+{"tokens": ["R\u00edm", "je", "hlavn\u00e9", "mesto", "Talianska", "."], "ner_tags": [5, 0, 0, 0, 5, 0]}
+{"tokens": ["Alpy", "s\u00fa", "najvy\u0161ia", "horn\u00e1", "pohorie", "v", "Eur\u00f3pe", "."], "ner_tags": [7, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Dunaj", "pr\u00fadi", "skezom", "Slovenska", "."], "ner_tags": [7, 0, 0, 5, 0]}
+{"tokens": ["Jan", "Kovar\u010d\u00edk", "je", "slov\u00e1cky", "spev\u00e1k", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["NASA", "je", "americk\u00e1", "vesm\u00edrna", "organiz\u00e1cia", "."], "ner_tags": [8, 0, 1, 0, 0, 0]}
+{"tokens": ["Evropa", "je", "kontinent", "s", "bohat\u00fdm", "kult\u00farnym", "diednech", "."], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hron", "je", "\u0159eka", "prot\u00e9kaj\u00faca", "Slovenskom", "."], "ner_tags": [7, 0, 0, 0, 5, 0]}
+{"tokens": ["Karpaty", "s\u00fa", "ve\u013ek\u00e1", "pohorie", "v", "Stredoeur\u00f3pe", "."], "ner_tags": [7, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Prezident", "USA", "je", "hlava", "st\u00e1tu", "."], "ner_tags": [9, 10, 0, 0, 0, 0]}
+{"tokens": ["Viedensk\u00e9", "lesy", "s\u00fa", "ve\u013ek\u00e1", "lesn\u00e1", "oblast", "v", "Austr\u00e1lii", "."], "ner_tags": [0, 7, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u010cerven\u00fd", "krasinec", "je", "ro\u015blina", "z", "\u010dele\u010fe", "Bromeliaceae", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Alexander", "Graham", "Bell", "bol", "skotsk\u00fd", "v\u011bdec", "a", "vyn\u00e1lezca", "."], "ner_tags": [1, 2, 2, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Internet", "je", "glob\u00e1lna", "sie\u0165", "po\u010d\u00edta\u010dov", "."], "ner_tags": [7, 0, 0, 0, 0, 0]}
+{"tokens": ["Amazonka", "je", "nejv\u00e4\u010d\u0161ia", "\u0159eka", "na", "svete", "."], "ner_tags": [7, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Andory", "je", "kn\u00ed\u017eatvo", "v", "Pyrenej\u00e1ch", "."], "ner_tags": [5, 0, 0, 0, 6, 0]}
+{"tokens": ["Mari\u00e1nsky", "ostrov", "je", "sou\u010d\u00e1st", "Havajsk\u00fdch", "ostrovov", "."], "ner_tags": [0, 7, 0, 0, 7, 0, 0]}
+{"tokens": ["Kme\u0148", "\u010dloveka", "je", "biologick\u00e1", "jednota", "lidstva", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["J\u00e1n", "Hronsk\u00fd", "bol", "slov\u00e1cky", "mal\u00e1r", "."], "ner_tags": [1, 2, 0, 0, 0, 0]}
+{"tokens": ["Severn\u00fd", "p\u00f3l", "je", "geografick\u00fd", "bod", "na", "Zemi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Slovenskej", "republiky", "v", "Bratislave", "sa", "nach\u00e1dza", "najv\u00e1\u0161\u0165", "sl\u00e1vsky", "hrad", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Karpatsk\u00e9", "hory", "s\u00fa\u010d\u00e1s", "\u010desk\u00e9", "a", "z\u013e\u00e1padn\u00e9", "Slovensko", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u0160t\u00e1tny", "z\u00e1kon", "o", "ochrane", "zvierat", "sa", "zameriava", "na", "zlep\u0161enie", "ich", "dobra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Eurov\u00fd", "s\u00fdm", "je", "spolo\u010dn\u00e1", "mena", "mnoh\u00fa", "eur\u00f3pskych", "st\u00e1tov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["N\u00e1rodn\u00fd", "park", "Tatr\u00e1nska", "Kotlina", "je", "domovom", "mnoh\u00fa", "druhov", "zvierat", "a", "rostlin", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00e1tny", "sv\u00e1tkov\u00fd", "de\u0148", "je", "d\u00e1ta", "vyhlasen\u00fd", "pre", "v\u00fdnimos\u0165", "n\u00e1roda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bratislavsk\u00e1", "univerzita", "v\u00fdskumu", "a", "v\u00fdchovy", "je", "jednou", "z", "najstar\u00fdch", "univerzit", "v", "Eur\u00f3pe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00fd\u0161\u0165a", "z\u00e1kladn\u00e1", "skola", "je", "d\u00e1ta", "ur\u00e1\u0161\u0165", "pre", "v\u00fdchov", "det\u00ed", "v", "z\u00e1kladn\u00fdch", "ro\u010dnikoch", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "akadem\u00edia", "v\u00fdskumu", "a", "v\u00fdchovy", "sa", "zameriava", "na", "v\u00fdzk\u00fd", "v\u00fdskum", "a", "v\u00fdchovu", "talentov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u010cajov\u00e1", "k\u00e1va", "je", "obliben\u00e1", "slovensk\u00e1", "specialita", "s", "bohat\u00fa", "v\u00fd\u0148ou", "chut\u00ed", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "najv\u00e1\u0161\u0165ou", "horskou", "p\u00e1smovou", "v", "Eur\u00f3pe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["N\u00e1rodn\u00fd", "muze\u00fatum", "v\u00fd\u0161\u0165a", "v\u00fdstav\u00e1", "d\u00e1ta", "pres\u00e1huj\u00fac\u00ed", "d\u00e1vu", "\u010flov\u00e9ka", "a", "n\u00e1rodn\u00e9", "kult\u00f3ry", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00e1tny", "z\u00e1kon", "o", "ochrane", "pr\u00edrody", "chr\u00e1ni", "pr\u00edrodn\u00e9", "zdroje", "a", "biologick\u00fa", "rozmanitos\u0165", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bratislavsk\u00fd", "hrad", "je", "dominantou", "mesta", "a", "n\u00e1ch\u00e1dza", "sa", "na", "vrchole", "z\u00e1mku", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["V\u00fd\u0161\u0165a", "univerzitn\u00e1", "kni\u017enica", "je", "jednou", "z", "najv\u00e1\u0161\u0165\u00edch", "kni\u017enic", "na", "Slovensku", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Slovensk\u00e1", "kuch\u00fanya", "je", "zn\u00e1ma", "svojimi", "tradi\u010dn\u00fdmi", "j\u00e1kymi", "a", "receptmi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00e1tny", "sv\u00e1tkov\u00fd", "de\u0148", "D\u00e1\u0148", "d\u00e1m", "je", "oslaven\u00edm", "\u010fensk\u00e9", "oslobodenia", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e1rodn\u00fd", "park", "Mur\u00e1n", "ch\u00e1rni", "rozmanit\u00fd", "svet", "fl\u00f3ry", "a", "fauny", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00e1tny", "z\u00e1kon", "o", "v\u00fdchove", "mlade\u0148a", "zameriava", "sa", "na", "podporovanie", "v\u00fdchovy", "mlade\u0148a", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bratislavsk\u00e1", "opera", "je", "domovom", "miestom", "pre", "slovensk\u00e9", "opern\u00e9", "um\u00e9lctvo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Slovensko", "je", "st\u00e1t", "v", "Stredn\u00e9j \u0161tiruchore", "s", "h\u00fdzbou", "Vysok\u00e9", "Tatry", "."], "ner_tags": [5, 0, 6, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "a", "politick\u00e9", "stredisko", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dunaj", "pr\u00ed\u0161t\u00fa", "skrz", "stred", "Bratislavy", "a", "del\u00ed", "mesta", "na", "obou", "b\u00e5nkach", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "re\u017eba", "patr\u00ed", "medzi", "slobodn\u00e9", "a", "p\u00e1rny", "re\u017eby", "sveta", "."], "ner_tags": [0, 6, 0, 0, 0, 0, 0, 6, 0, 0]}
+{"tokens": ["Jan", "Sarkocy", "bol", "slovensk\u00fd", "kraj\u00ednsky", "biskup", "a", "kard\u00falin\u00e1l", "R\u00f3mskej", "katol\u00edckej", "cirkvi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Karpatsk\u00e1", "vysokohorsk\u00e1", "pr\u00e1ce", "je", "najv\u00fdrazn\u0161\u00ed", "geomorfologick\u00fd", "celok", "v", "Slovensku", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e9", "n\u00e1rodn\u00e9", "povstanie", "bol", "n\u00e1rodnoplo\u0161\u0161\u00ed", "povstanie", "proti", "Habsburskej", "mon\u00e1rchii", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e1ria", "Ter\u00e9zia", "vydala", "m\u00fana", "o", "zru\u0161en\u00ed", "nevolnictva", "v", "Uhorsku", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Bratislavsk\u00e1", "univerzita", "bola", "zalo\u017een\u00e1", "v", "roku", "1996", "a", "je", "najmlad\u00fa", "z", "univerzit", "na", "Slovensku", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Slovensk\u00fd", "f\u00e1\u0148u\u0161isk\u00fd", "t\u00f3m", "sa", "zrejm\u00e9", "v\u00fdvinul", "z", "teritor\u00eda", "d\u00f4mskej", "cirkvi", "v", "Pova\u017e\u0161\u00ed", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Slovensko", "poskytuje", "domov", "nieko\u013ek\u00fdm", "z", "najv\u00fdznamn\u00fdch", "biologick\u00fdch", "r\u00f3znotvorn\u00fdch", "miest", "na", "svete", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "najv\u00fd\u0161\u0161\u00ed", "p\u00fatosnou", "p\u00e1rnou", "oblasou", "v", "Stredn\u00e9j", "\u0161tiruchore", "."], "ner_tags": [7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "re\u017eba", "ma", "svoju", "vlastn\u00fa", "abecedu", "a", "pravidl\u00e1", "pravopisu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "\u010dlenom", "Europskej", "unie", "od", "1.", "m\u00e1ja", "2004", "."], "ner_tags": [5, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "kuch\u00ed\u0148a", "je", "zn\u00e1ma", "svojimi", "tradi\u010dn\u00fdmi", "j\u00e1zkami", "a", "re\u017eami", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bratislavsk\u00fd", "hrad", "je", "rozl\u00e1\u010dan\u00fd", "hrad", "a", "jedna", "sa", "o", "jednu", "z", "najv\u00fdznamn\u00fdch", "pamiatok", "na", "Slovensku", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensko", "poskytuje", "rozmanit\u00fd", "klimat", "od", "kontinent\u00e1lneho", "po", "m\u00e1rne", "morsk\u00e9", "podnebie", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "fotbalov\u00e1", "repr\u00e1zprezent\u00e1cia", "sa", "z\u00fa\u0161ila", "na", "svojom", "prv\u00e9m", "mistrovstv\u00e1", "sveta", "v", "roku", "2010", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "domovom", "nieko\u013ek\u00fdch", "z", "najv\u00fd\u0161\u0161\u00edch", "pr\u00edrodnych", "rezerv\u00e1ci\u00ed", "v", "Eur\u00f3pe", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00fd", "spisovate\u013e", "J\u00e1n", "Kolarik", "nap\u00edsal", "m\u00e1rne", "realistick\u00fd", "rom\u00e1n", "Nov\u00e1", "Ak\u00e1cia", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "zn\u00e1me", "svojimi", "ve\u013ek\u00fdmi", "s\u00faborami", "a", "festivalmi", "folkl\u00f3ru", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "popul\u00e1rnym", "miestom", "pre", "turistov", "a", "horolezcov", "."], "ner_tags": [7, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovenskej", "republiky", "je", "Bratislava", "jej", "hlavn\u00e9", "mesto", "."], "ner_tags": [2, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u0160panielsky", "preklad", "knihy", "sa", "zvolna", "bl\u00ed\u017ea", "k\u00f4piu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00f3lne", "m\u00e1", "d\u00e9lku", "p\u00e1r", "kilmetr\u00edkov", "a", "\u0161\u00edrku", "nieko\u013ek", "stometrov\u00e9j", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Pre", "v\u00e1\u0161", "z\u00e1kladn\u00e9", "skoly", "sa", "pou\u017e\u00edvaj\u00fa", "u\u010debnice", "z", "r\u00f3znej\u0161ich", "vydavate\u013eov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u010c\u00ed\u0161\u013eina", "z\u00e1konodarn\u00e1", "s\u00e9ria", "byla", "p\u00f4vodne", "naplanov\u00e1na", "ako", "d\u00e9lka", "dvan\u00e1st", "rokov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "n\u00e1s", "inform\u00e1cie", "o", "zdravotn\u00fdch", "rizik\u00e1ch", "v\u00e1\u0161", "potrebujete", "zvoli\u0165", "spr\u00e1vnu", "strategiu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Koncert", "sl\u00e1vneho", "zp\u00e1vaka", "byl", "odvol\u00e1ny", "kv\u00fdlom", "nepr\u00edzniv\u00fdch", "poveternostn\u00fdch", "podm\u00f4nkach", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u010c\u00ed\u0161lo", "sa", "o", "n\u00e1zov", "ktor\u00fd", "odkaz\u00fava", "na", "starovek\u00fd", "egyptsk\u00fd", "bo\u017estvo", "Ra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "sa", "z\u00ed\u0161a", "z\u00e1vislost", "na", "cukrovke", "m\u00e1", "viac", "faktorov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e1zov", "filmu", "bol", "p\u00f4vodne", "in\u00fd", "ale", "nakoniec", "sa", "zmenil", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "n\u00e1s", "inform\u00e1cie", "o", "d\u00e1tach", "v\u00e1\u0161", "m\u00e1te", "mo\u017en\u00e9", "vyu\u017ei\u0165", "r\u00f3zne", "zdroje", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00e1tisticky", "vyzn\u00e1ma", "sa", "a\u013e", "n\u00e1rodnostn\u00e1", "pr\u00ed\u0161\u013ea", "na", "v\u00e1\u0161ich", "str\u00e1nkach", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "n\u00e1s", "inform\u00e1cie", "o", "d\u00e1tach", "v\u00e1\u0161", "m\u00e1te", "mo\u017en\u00e9", "vyu\u017ei\u0165", "r\u00f3zne", "online", "zdroje", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["\u0160t\u00e1tisticky", "vyzn\u00e1ma", "sa", "a\u013e", "n\u00e1rodnostn\u00e1", "pr\u00ed\u0161\u013ea", "v", "n\u00e1rodn\u00fdch", "m\u00f3zoch", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e1zov", "knihy", "je", "p\u00f4vodne", "n\u00e1zvan\u00fd", "in\u00fd", "ale", "nakoniec", "sa", "zmenil", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "sa", "z\u00ed\u0161a", "z\u00e1vislost", "na", "cukrovke", "m\u00e1", "viac", "faktorov", "a", "n\u00e1s", "inform\u00e1cie", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Koncert", "zn\u00e1meho", "hudobn\u00edka", "byl", "odvol\u00e1ny", "kv\u00fdlom", "nepr\u00edzniv\u00fdch", "poveternostn\u00fdch", "podm\u00f4nkach", "a", "v\u00e1\u0161", "n\u00e1s", "inform\u00e1cie", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u010c\u00ed\u0161lo", "sa", "o", "n\u00e1zov", "ktor\u00fd", "odkaz\u00fava", "na", "starovek\u00fd", "egyptsk\u00fd", "bo\u017estvo", "a", "n\u00e1s", "inform\u00e1cie", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161", "n\u00e1s", "inform\u00e1cie", "o", "zdravotn\u00fdch", "rizik\u00e1ch", "v\u00e1\u0161", "potrebujete", "zvoli\u0165", "spr\u00e1vnu", "strategiu", "a", "vyu\u017ei\u0165", "odborn\u00e9", "poradenstvo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "stredovek\u00fd", "hr\u00e1dok", "nach\u00e1dzaj\u00faci", "sa", "v", "Zvolenskom", "kraji", "."], "ner_tags": [5, 0, 0, 5, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "Slovenska", "a", "s\u00eddlo", "slovenskej", "vl\u00e1dy", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 5, 5, 0]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "najvy\u0161\u0161ie", "hory", "na", "Slovensku", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u0160tefan", "B\u00e1n", "bol", "slovensk\u00fd", "politik", "a", "prezident", "Slovenskej", "republiky", "v", "rokoch", "1993", "-", "1998", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jan", "Kadar", "bol", "slovensk\u00fd", "re\u017eis\u00e9re", "a", "scen\u00e1rista", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "je", "najv\u00e4\u010d\u0161ia", "umeleck\u00e1", "gal\u00e9ria", "na", "Slovensku", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dunaj", "je", "rieka", "protiekaj\u00faca", "skrz", "Bratislavu", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "akad\u00e9mia", "vied", "je", "najstar\u0161ia", "viedensk\u00e1", "in\u0161tit\u00facia", "na", "Slovensku", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nitra", "je", "starobyl\u00e9", "mesto", "na", "juhu", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "tla\u010d", "je", "n\u00e1rodn\u00fd", "denn\u00edk", "vyd\u00e1van\u00fd", "v", "Bratislave", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ko\u0161ice", "s\u00fa", "druh\u00e9", "najv\u00e4\u010d\u0161ie", "mesto", "na", "Slovensku", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "telev\u00edzia", "je", "n\u00e1rodn\u00e1", "telev\u00edzna", "spolo\u010dnos\u0165", "na", "Slovensku", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Orava", "je", "krajina", "na", "p\u00fasto\u010dine", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00fd", "jazyk", "patr\u00ed", "medzi", "slovansk\u00e9", "jazyky", "a", "je", "jedn\u00fdm", "z", "nich", "najroz\u0161\u00edrenej\u0161\u00edch", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "kni\u017enica", "je", "n\u00e1rodn\u00e1", "kni\u017enica", "Slovenskej", "republiky", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Bansk\u00e1", "Bystrica", "je", "mesto", "v", "Stredoslovenskom", "kraji", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 5, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "po\u0161ta", "je", "n\u00e1rodn\u00fd", "po\u0161tov\u00fd", "prevozn\u00fd", "podnik", "na", "Slovensku", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Pre\u0161ov", "je", "mesto", "na", "v\u00fdchode", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "arm\u00e1da", "je", "ozbrojen\u00e9", "sily", "Slovenskej", "republiky", "."], "ner_tags": [5, 5, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["\u017dilina", "je", "mesto", "na", "severe", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "pol\u00edcia", "je", "n\u00e1rodn\u00fd", "policejn\u00fd", "sbor", "na", "Slovensku", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Poprad", "je", "mesto", "v", "Pre\u0161ovskom", "kraji", "na", "Slovensku", "."], "ner_tags": [5, 0, 0, 0, 5, 5, 0, 5, 0]}
+{"tokens": ["\u010c\u00edslo", "236", "/", "2023"], "ner_tags": [0, 0, 0, 0]}
+{"tokens": ["Prezident", "Slovenska", "ofici\u00e1lne", "prijal", "n\u00e1v\u0161tevu", "svojho", "r\u00e1zrostu", "z", "Francie", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["V", "stolici", "Brnenskom", "kr\u00e1li", "Karel", "IV.", "vydal", "na\u0159\u00edzen\u00ed", "o", "zalo\u017een\u00ed", "univerzity", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Po", "dlh\u00e9", "bitke", "bola", "mestn\u00e1", "obrana", "zru\u0161ena", "a", "mesto", "padlo", "do", "rukou", "nepriate\u013ea", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "rokoch", "1918-1919", "sa", "z\u00fa\u010dastnil", "bojov", "za", "niezvisl\u00fa", "Slovensk\u00fa", "republiku", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["V\u00fdstavba", "nov\u00e9ho", "n\u00e1rodn\u00e9ho", "divadla", "bola", "zauj\u00edmav\u00fdm", "projektom", "miesta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Objav", "nov\u00e9ho", "druhov", "pt\u00e1kov", "v", "n\u00e1rodn\u00e9mu", "parku", "prinesol", "v\u011bdeck\u00fd", "senz\u00e1ciu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "poskytuje", "bohat\u00fa", "zbierku", "umeleck\u00fdch", "diel", "od", "stredoveku", "po", "sou\u010dasnos\u0165", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "minulom", "t\u00fd\u017edni", "bola", "otvoren\u00e1", "nov\u00e1", "expoz\u00edcia", "o", "dejin\u00e1ch", "mesta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatick\u00e9", "zmeny", "ovplyv\u0148uj\u00fa", "v\u0161echny", "aspekty", "\u013eudsk\u00e9ho", "\u017eivota", "na", "plan\u00e9te", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ve\u013ek\u00e9", "n\u00e1rodn\u00e9", "povstanie", "bolo", "d\u00f4le\u017eit\u00fdm", "milenn\u00edkem", "v", "dejin\u00e1ch", "n\u00e1roda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "r\u00e1mci", "medzin\u00e1rodn\u00e9ho", "projekta", "sa", "zamera\u0165", "na", "v\u00fdskum", "vysokohorsk\u00fdch", "ekosyst\u00e9mov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["R\u00fdchly", "rozvoj", "technolog\u00ed", "zmenil", "sp\u00f4sob", "na\u0161eho", "\u017eivota", "v", "posledn\u00fdch", "desiatkach", "rokov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "prv\u00fd", "polovici", "20.", "storo\u010dia", "bolo", "mesto", "d\u00f4le\u017e\u00edtym", "centrum", "premyklu", "a", "kult\u00fary", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00fdzkum", "vesm\u00edra", "je", "dlhodob\u00fdm", "z\u00e1merom", "r\u00f4znych", "vedeck\u00fdch", "in\u0161tit\u00faci\u00ed", "po", "celom", "svete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "rokoch", "rev\u00edzie", "sa", "zamerali", "na", "zlep\u0161enie", "\u017eivotn\u00fdch", "podmienok", "obyvate\u013estva", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "akad\u00e9mia", "vied", "je", "prest\u00ed\u017enou", "in\u0161tit\u00faciou", "pre", "vedeck\u00fd", "v\u00fdskum", "a", "vzd\u011bl\u00e1vanie", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "posledn\u00fdch", "rokoch", "sa", "zamerali", "na", "v\u00fdvoj", "nov\u00fdch", "liekov", "proti", "rakovine", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Objav", "nov\u00fdch", "zdrojov", "energie", "je", "kl\u00ed\u010dov\u00fd", "pre", "bud\u00facnos\u0165", "na\u0161ej", "plan\u00e9ty", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "stredoveku", "bolo", "mesto", "d\u00f4le\u017e\u00edtym", "obchodn\u00fdm", "centrum", "na", "trase", "medzi", "V\u00fdchodom", "a", "Z\u00e1padoju", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "r\u00e1mci", "EU", "sa", "zamera\u0165", "na", "spolo\u010dn\u00e9", "riadenie", "hrani\u010dn\u00fdch", "kontrol", "a", "bezpe\u010dnos\u0165", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Prezident", "Slovenskej", "republiky", "Zuzana", "\u010caputov\u00e1", "nav\u0161t\u00edvila", "Mestsk\u00fd", "\u00farad", "v", "Bratislave", "."], "ner_tags": [0, 2, 2, 1, 1, 0, 2, 2, 0, 1, 0]}
+{"tokens": ["Hrad", "Borsod-Aba\u00faj-Zempl\u00e9n", "je", "nejv\u00e4\u010d\u0161\u00ed", "hrad", "na", "Slovensku", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Rieka", "Dunaj", "pr\u00fadi", "skrz", "Bratislavu", ","], "ner_tags": [0, 1, 0, 0, 1, 0]}
+{"tokens": ["Najvy\u0161\u0161ia", "hora", "na", "Slovensku", "je", "Geler", "."], "ner_tags": [0, 0, 0, 2, 0, 0, 1, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "m\u00e1", "s\u00eddlo", "v", "Bratislave", "."], "ner_tags": [2, 2, 2, 0, 0, 0, 1, 0]}
+{"tokens": ["Prezident", "USA", "Joe", "Biden", "sa", "stretol", "s", "predsedou", "Eur\u00f3pskej", "komisie", "Ursulou", "von", "der", "Leyen", "."], "ner_tags": [0, 2, 1, 1, 0, 0, 0, 0, 2, 2, 1, 1, 1, 0]}
+{"tokens": ["NATO", "je", "obrann\u00fd", "z\u00e1v\u00e4zok", "medzi", "Severnou", "Amerikou", "a", "Eur\u00f3pou", "."], "ner_tags": [2, 0, 0, 0, 0, 2, 2, 0, 2, 0]}
+{"tokens": ["Evropsk\u00e1", "\u00fania", "je", "politick\u00fd", "a", "hospod\u00e1rsky", "z\u00e1v\u00e4zok", "medzi", "27", "\u010dlensk\u00fdmi", "\u0161t\u00e1tmi", "."], "ner_tags": [2, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0]}
+{"tokens": ["Najv\u00e4\u010d\u0161\u00ed", "pr\u00edrodn\u00fd", "kr\u00e1z", "na", "Slovensku", "je", "N\u00e1rodn\u00ed", "park", "Tatra", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0, 1, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "Slovenska", "a", "s\u00eddlo", "vl\u00e1dy", "a", "parlamentu", "."], "ner_tags": [1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00e1tny", "z\u00e1v\u00e4zok", "o", "spolo\u010dnej", "obrane", "medzi", "\u010cechmi", "a", "Slovakmi", "bol", "podp\u00edsan\u00fd", "v", "1992", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "republik\u00e1", "je", "\u010dlensk\u00fdm", "\u0161t\u00e1tom", "Organiz\u00e1cie", "Obednen\u00fdch", "n\u00e1rodov", "pre", "vzd\u011bl\u00e1vanie", "v\u011bdu", "a", "kult\u00faru", "UNESCO", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Hrad", "Spisk\u00fd", "hrad", "je", "unesko", "pamiatka", "svetov\u00e9ho", "d\u00f4le\u017eitos\u0165", "."], "ner_tags": [0, 0, 0, 0, 0, 2, 0, 0, 0]}
+{"tokens": ["V", "Bratislave", "sa", "nach\u00e1dza", "n\u00e1rodn\u00e1", "kniznica", "SR", "."], "ner_tags": [0, 1, 0, 0, 2, 2, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "arm\u00e1da", "patr\u00ed", "medzi", "najstar\u0161ie", "arm\u00e1dy", "v", "Eur\u00f3pe", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Najv\u00e4\u010d\u0161\u00ed", "mestsk\u00fd", "\u0161t\u00e1dion", "na", "Slovensku", "je", "Teheln\u00e9", "polia", "v", "Bratislave", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Slovensk\u00e1", "menov\u00e1", "jednotka", "je", "euro", "."], "ner_tags": [2, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["V", "Bratislave", "sa", "kon\u00e1", "ro\u010dne", "viacer\u00e9", "medzin\u00e1rodn\u00e9", "festivaly", "a", "koncerty", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "kuch\u00fd\u0148a", "je", "zn\u00e1m\u00e1", "svojimi", "tradi\u010dn\u00fdmi", "j\u00eddlami", "ako", "bryndzov\u00e9", "halu\u0161ky", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Najv\u00e4\u010d\u0161\u00ed", "akv\u00e1rium", "na", "Slovensku", "sa", "nach\u00e1dza", "v", "Bratislave", "."], "ner_tags": [0, 0, 0, 2, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Slovensk\u00e1", "republika", "je", "demokrati\u010dn\u00fd", "\u0161t\u00e1t", "s", "parlamentnou", "demokraciou", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jan", "N\u00e1\u0161", "bol", "zn\u00e1m\u00fd", "slovensk\u00fd", "spisovate\u013e", "a", "po\u00e1t", "."], "ner_tags": [1, 2, 0, 0, 1, 1, 0, 1, 0]}
+{"tokens": ["V", "roku", "1990", "sa", "v\u00fdstavila", "nov\u00e1", "\u00fastava", "Slovenska", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 5, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "a", "politick\u00e9", "stredisko", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensko", "pripo\u013eilo", "sa", "k", "Europskej", "unii", "v", "roku", "2004", "."], "ner_tags": [5, 0, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Horehronsk\u00e9", "krasnohorske", "krasnohorsk\u00e9", "prameny", "s\u00fa", "zn\u00e1mym", "lie\u010debn\u00fdm", "m\u0161tom", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Prezidentom", "Slovenska", "je", "Zuzana", "\u010caputov\u00e1", "."], "ner_tags": [1, 5, 0, 1, 1, 0]}
+{"tokens": ["V", "roku", "2020", "sa", "konala", "slovensk\u00e1", "prezidentsk\u00e1", "vo\u013ebba", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 1, 1, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "sa", "nach\u00e1dza", "v", "Bratislave", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Karpatsk\u00e9", "hory", "tvoria", "v\u00e4\u010d\u00e1rnu", "\u010das\u0165", "slovensk\u00e9ho", "terit\u00f3ria", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "re\u0161tina", "patr\u00ed", "medzi", "slobodn\u00e9", "sloven\u00e9", "jazyky", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vy\u0161\u0161ia", "prirodn\u00e1", "rezerv\u00e1cia", "Mur\u00e1n", "je", "najv\u00e4\u010d\u00e1rnej\u0161ia", "v", "Slovensku", "."], "ner_tags": [0, 0, 1, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00fd", "futbolov\u00fd", "t\u00e1bor", "bol", "zalo\u017een\u00fd", "v", "roku", "1939", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e1rodn\u00fd", "park", "Polana", "le\u017ee", "na", "jihom\u0161\u00ed", "Slovensku", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "telev\u00edzia", "bol", "zalo\u017een\u00e1", "v", "rokoch", "1956-1958", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "bratislavskom", "z\u00e1mku", "sa", "nach\u00e1dza", "Slovensk\u00e1", "n\u00e1rodn\u00e1", "kni\u017enica", "."], "ner_tags": [0, 0, 1, 0, 0, 1, 1, 1, 0]}
+{"tokens": ["Slovensk\u00e9", "vysok\u00e9", "u\u010denia", "s\u00fa", "zn\u00e1m\u00e9", "aj", "pod", "n\u00e1zvom", "Matica", "slovensk\u00e1", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0]}
+{"tokens": ["V", "rokoch", "1944-1945", "sa", "na", "Slovensku", "odehr\u00e1val", "SNP", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 1]}
+{"tokens": ["Slovensk\u00e1", "akad\u00e9mia", "vied", "je", "najv\u00e4\u010d\u00e1rnej\u0161ia", "vedeck\u00e1", "in\u0161tit\u00f3cia", "v", "kraji", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e1rodn\u00fd", "sv\u00e1tok", "Slovenska", "je", "1", "septembra", "."], "ner_tags": [1, 1, 5, 0, 0, 0, 0]}
+{"tokens": ["\u0160t\u00fd\u0161\u00e1t", "roku", "2020", "v", "St\u00fapkach", "na\u0161li", "n\u00e1jden\u00fd", "kamenny", "n\u00e1jden\u00fdk", "s", "neobvyklou", "skladbou", "."], "ner_tags": [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u010c\u00f3d", "z\u00e1r\u00ed", "v\u00e1\u0161\u0165", "na", "\u0161p\u00ed\u0161\u0165", "s\u00fapkov\u00e9", "k\u00f4\u0161te", "v", "Amazonskej", "panam\u00e1", "(", "Amazonie", ")", "s", "v\u00fdnimo\u017en\u00fdm", "rozmerom", "28", "\u00dam", "20", "metrov", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161\u0165", "s\u00fapkov\u00e9", "k\u00f4\u0161te", "v", "Amazonskej", "panam\u00e1", "(", "Amazonie", ")", "je", "domovom", "miesta", "pre", "nieko\u013ekolko", "ro\u013e\u00edn", "druhov", "z\u00e1\u0148", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovenske", "n\u00e1rodn\u00e9", "s\u00fadby", "s\u00fa", "ve\u013ekmi", "zn\u00e1me", "v", "cel\u00e9m", "svete", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "Slovenska", "."], "ner_tags": [4, 0, 0, 0, 1, 0]}
+{"tokens": ["Vysok\u00e9", "Tatry", "s\u00fa", "najv\u00fd\u0161\u0161ie", "hory", "na", "Slovensku", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Don\u00e1l\u00e1k", "s\u00fa", "popul\u00e1rnou", "slovensk\u00fa", "z\u00e1hradou", "a", "m\u00f3\u017ee", "sa", "nach\u00e1dza", "v", "Bratislave", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["\u0160t\u00fd\u0161\u00e1r", "m\u00e1", "d\u00e1vne", "p\u00ed\u0161\u0165azn\u00e9", "n\u00e1lezite", "v", "m\u00e1mori", "v", "bl\u00fdzkosti", "mesta", "Bratislava", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["P\u00e1r", "kilometrov", "od", "mesta", "Bratislava", "s\u00fa", "umiestnen\u00e9", "ruiny", "stredovek\u00e9ho", "hradu", "."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Stredovek\u00fd", "hrad", "s\u00fa", "n\u00e1m", "znam\u00fd", "pod", "n\u00e1zvo", "Dev\u00edn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dev\u00edn", "bol", "postaven\u00fd", "v", "13.", "storo\u010d\u00ed", "a", "s\u00fa", "d\u00e1vne", "p\u00ed\u0161\u0165azn\u00fd", "hrad", "v", "stredoveku", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "hradn\u00ed", "sadu", "sa", "nach\u00e1dzaj\u00fa", "k\u00f3lne", "s\u00fa", "zre\u0161en\u00e9", "hradby", "a", "v\u00e1\u017ene", "kostoly", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Kostol", "bol", "postaven\u00fd", "v", "13.", "storo\u010d\u00ed", "a", "je", "p\u00fako", "gotick\u00fd", "s", "n\u00e1m", "v\u00fdnimo\u017en\u00fdm", "interi\u00e9rom", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V\u00e1\u0161\u0165", "hradu", "s\u00fa", "ve\u013ek\u00e9", "muze\u00ed", "a", "gal\u00e9rie", "s", "n\u00e1m", "v\u00fdnimo\u017en\u00fdm", "umeleck\u00fdmi", "k\u00f3piami", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Muze\u00ed", "s\u00fa", "otvoren\u00e9", "pre", "verejnos\u0165", "a", "pon\u00fach\u00fa", "n\u00e1m", "pozoruhodn\u00e9", "k\u00f3pie", "a", "di\u0161kriny", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Gal\u00e9rie", "obsahuj\u00fa", "k\u00f3pie", "z", "r\u00f3znych", "obd\u016f\u0161\u00ed", "a", "s\u00fa", "z\u00e1kladnou", "pre", "tvorbu", "slovenskej", "umeleckej", "sc\u00e9ny", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Ak", "m\u00e1me", "na", "mysli", "t\u00fd", "konflikt", "v", "Z\u00f3ne", "Bl\u00edzkeho", "moria", ",", "tak", "t\u00f3", "je", "to", "in\u00fd", "pr\u00edklad", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "roku", "2022", "sloven\u0161k\u00fd", "p\u00edsal", "prv\u00e9", "knihy", "o", "hist\u00f3rii", "v\u00e4d", "kosmu", "v", "sloven\u0161tine", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "centrum", "Bratislavy", "sa", "nach\u00e1dza", "dole\u017en\u00e1", "katedr\u00e1lna", "sv\u00e4t\u00e9ho", "Martina", ",", "ktor\u00e1", "je", "najv\u00e1\u017e\u0161\u00ed", "cirkevn\u00e1", "stavba", "v", "m\u00e1te\u013eskom", "krajina", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "vl\u00e1da", "schvalila", "nov\u00e9", "n\u00e1rodn\u00e9", "parky", "a", "chr\u00e1ni\u0161t\u00e1", "pr\u00edrody", "v", "z\u00e1padn\u00e9m", "Slovensku", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u010c\u00edslenov\u00e9", "Evropsk\u00e9ho", "parlamentu", "z", "Slovenska", "sa", "z\u00e1jjavili", "proti", "nov\u00e9j\u0161im", "n\u00e1meck\u00fdm", "migra\u010dn\u00fdm", "polit\u00edkam", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "r\u00e1mci", "kult\u00f3rneho", "festivalu", "sa", "v", "Banskej", "Bystrici", "konaj\u0161ie", "ro\u010dn\u00edcky", "koncerty", "a", "divadeln\u00e9", "predstavenia", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00fd", "hokejov\u00fd", "t\u00e9m", "vyhral", "z\u00e1padn\u00e9", "kolo", "Kvalifik\u00e1cie", "na", "Zimn\u00e9", "olympijsk\u00e9", "hry", "2026", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "Talianovej", "v\u00fdstavn\u00ed", "pal\u00e1ci", "sa", "nach\u00e1dza", "k\u00e1z", "sloven\u0161k\u00fdch", "m\u00e1lrov", "z", "16.", "storo\u0161\u00ed", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u00e1rodn\u00fd", "park", "T\u00f4r", "v", "Slovensku", "je", "domovom", "pre", "\u017earat\u00e9", "a", "ohro\u017een\u00e9", "druh\u00e1", "fauny", "a", "fl\u00f3ry", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "bratslavskom", "kastieli", "sa", "kon\u00e1", "v\u00fdstava", "s\u00e4nskej", "um\u00e9leckej", "kol\u00e1\u017eye", "z", "cel\u00e9ho", "sveta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "re\u017e\u00edmna", "sa", "z\u00e1jala", "o", "pr\u00e1vom", "na", "vlastn\u00fd", "jazyk", "a", "kult\u00f3ru", "v", "r\u00e1mci", "Eur\u00f3py", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "m\u00e1te\u013eskom", "krasnej", "pr\u00edrode", "sa", "nach\u00e1dzaj\u00fa", "jedine\u010dn\u00e9", "geol\u00f3gicke", "formy", "a", "r\u00e1rny", "z\u00e1robky", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "ko\u0161ickej", "ligi", "sa", "prekvap\u00edvaj\u00fa", "\u0161tartom", "nov\u00e9", "t\u00e9my", "z", "mest\u00e1", "X", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["V", "bratslavskom", "muzeu", "sa", "otv\u00e1ra", "nov\u00e1", "v\u00fdstava", "o", "d\u00e1vej\u0161ej", "v\u00fdrobe", "a", "um\u00e9n\u00ed", "storo\u0161\u00ed", "20.", "a", "21.", "storo\u0161\u00ed", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "pol\u00edcia", "z\u00e1konne", "zasahla", "proti", "skupine", "prepadn\u00fakov", "v", "centru", "mesta", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "m\u00e1te\u013eskom", "krasnom", "sa", "nach\u00e1dzaj\u00fa", "raritn\u00e9", "druhy", "kvet\u00edn", "a", "z\u00e1robky", "z", "d\u00e1vnej\u0161ieho", "oce\u013ea", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00fd", "prezident", "prijal", "svoju", "kandidatku", "na", "s\u00fd\u0161ku", "S\u00fdr\u00f3z", "ob\u010fansk\u00fdch", "slob\u00f3d", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "vl\u00e1da", "z\u00e1konod\u00e1rila", "nov\u00e9", "n\u00e1rody", "v", "oblasti", "ochrany", "p\u00edrodn\u00e9ho", "prostred\u00ed", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "m\u00e1te\u013eskom", "krasnom", "sa", "nach\u00e1dzaj\u00fa", "jedine\u010dn\u00e9", "geol\u00f3gicke", "objekty", "a", "z\u00e1robky", "z", "d\u00e1vnej\u0161ieho", "doby", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "st\u00e1t", "v", "Strednej", "Eur\u00f3pe", "."], "ner_tags": [5, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 5, 0]}
+{"tokens": ["Vysok\u00e1", "tatry", "s\u00fa", "najvy\u0161\u0161ou", "pohoriou", "v", "Slovensku", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dunaj", "pr\u00fadi", "skrz", "Bratislavu", "do", "\u010cierneho", "mora", "."], "ner_tags": [5, 0, 0, 5, 0, 5, 5, 0]}
+{"tokens": ["Jan", "Kolar", "bol", "slovensk\u00fd", "mal\u00ed\u0159", "z", "19.", "storo\u010dia", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u0160tefan", "B\u00e1nka", "bol", "slovensk\u00fd", "spisovate\u013e", "a", "dramatik", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nitra", "je", "starobyl\u00e9", "mesto", "s", "d\u00f4kladmi", "r\u00edmskeho", "osadenia", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Oravsk\u00fd", "hrad", "je", "jedn\u00edm", "z", "najstar\u0161\u00edch", "hradow", "na", "Slovensku", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "je", "najv\u00e4\u010d\u0161ia", "umeleck\u00e1", "gal\u00e9ria", "v", "Slovensku", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Milan", "Kn\u00ed\u017e", "bol", "slovensk\u00fd", "fotbalista", "hraj\u00faci", "na", "poz\u00edcii", "obrancu", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ve\u013ek\u00e1", "Fatra", "je", "pohorie", "v", "strednej", "\u010dasti", "Slovenska", "."], "ner_tags": [0, 5, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Mal\u00e1", "Fatra", "je", "dal\u0161\u00ed", "pohorie", "v", "Z\u00e1padn\u00fdch", "Karpat\u00e1ch", "na", "Slovensku", "."], "ner_tags": [0, 5, 0, 0, 0, 5, 5, 0, 0, 5, 0]}
+{"tokens": ["Donovaly", "s\u00fa", "turistick\u00e9", "centrum", "v", "N\u00edzkych", "Tatruch", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Liptovsk\u00fd", "Mikul\u00e1\u0161", "je", "mesto", "v", "\u017dilinskom", "kraj\u00ed", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Tatry", "s\u00fa", "najvy\u0161\u0161\u00ed", "pohorov\u00fd", "re\u0165azec", "v", "Karpat\u00e1ch", "a", "v", "Slovensku", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 5, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "akad\u00e9mia", "vied", "je", "v\u00fdskumn\u00e1", "in\u0161tit\u00facia", "v", "Bratislave", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["J\u00e1n", "\u017del\u00e1zy", "bol", "slovensk\u00fd", "spisovate\u013e", "a", "prekladate\u013e", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ko\u0161ice", "s\u00fa", "druh\u00e9", "najv\u00e4\u010d\u0161ie", "mesto", "v", "Slovensku", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "telekomunika\u010dn\u00e1", "akad\u00e9mia", "je", "v", "Bansk\u00e9", "Bystrici", "."], "ner_tags": [5, 5, 5, 0, 0, 5, 5, 0]}
+{"tokens": ["Bansk\u00e1", "Bystrica", "je", "mesto", "v", "Strednom", "Slovensku", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Vladimir", "Me\u010diar", "bol", "slovensk\u00fd", "polit\u00edk", "a", "predseda", "vl\u00e1dy", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00fd", "n\u00e1rodn\u00fd", "park", "je", "chr\u00e1nen\u00e1", "p\u0159\u00edrodn\u00e1", "oblas\u0165", "v", "Vysok\u00fdch", "Tatr\u00e1ch", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Bratislava", "je", "hlavn\u00e9", "mesto", "Slovenska", "."], "ner_tags": [5, 0, 0, 0, 5, 0]}
+{"tokens": ["V", "r\u00e1ci", "sa", "nach\u00e1dza", "v", "strednej", "Eur\u00f3pe", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Karpaty", "s\u00fa", "ve\u013ek\u00fa", "\u010dastiou", "slovenskej", "priesik\u0165a.", "Najvy\u0161\u0161ia", "hora", "je", "Gerlachov", "\u0161tit"], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 5, 0, 5, 5]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "m\u00e1", "s\u00eddlo", "v", "Bratislave."], "ner_tags": [5, 5, 5, 0, 0, 0, 5]}
+{"tokens": ["Prezidentom", "Slovenska", "je", "Zuzana", "\u010caputov\u00e1"], "ner_tags": [0, 5, 0, 5, 5]}
+{"tokens": ["Slovensk\u00e1", "revolta", "v", "rokoch", "1848-49", "bola", "sou\u010das\u0165ou", "revol\u00faci\u00ed", "v", "Eur\u00f3pe"], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0, 5]}
+{"tokens": ["Slovensk\u00e1", "jazykov\u00e1", "koda", "patr\u00ed", "medzi", "slovansk\u00e9", "jazyky"], "ner_tags": [5, 5, 5, 0, 0, 5]}
+{"tokens": ["Katol\u00edcka", "c\u00edrkev", "je", "najroz\u0161\u00edrenej\u0161\u00ed", "n\u00e1bo\u017eensk\u00fd", "smer", "na", "Slovensku"], "ner_tags": [5, 5, 0, 0, 5, 0, 0, 5]}
+{"tokens": ["Slovensk\u00e1", "republika", "je", "parlamentn\u00e1", "demokracia"], "ner_tags": [5, 5, 0, 5, 0]}
+{"tokens": ["Slovensk\u00fd", "n\u00e1rodn\u00fd", "park", "Pieniny", "je", "zn\u00e1m\u00fd", "svojimi", "krasami"], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e9", "n\u00e1rodn\u00e9", "povstanie", "v", "roku", "1848", "bolo", "d\u00f4le\u017eitou", "udalos\u0165ou", "v", "dejin\u00e1ch", "n\u00e1roda"], "ner_tags": [5, 5, 0, 0, 0, 5, 0, 0, 5, 0, 5, 5]}
+{"tokens": ["Slovensk\u00e1", "kuchynia", "je", "zn\u00e1ma", "svojimi", "tradi\u010dn\u00fdmi", "j\u00eddlami"], "ner_tags": [5, 5, 0, 0, 0, 5]}
+{"tokens": ["Slovensk\u00e1", "akad\u00e9mia", "vied", "bola", "zalo\u017een\u00e1", "v", "roku", "1953"], "ner_tags": [5, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00fd", "fotbalov\u00fd", "n\u00e1rodn\u00fd", "t\u00edm", "zost\u00e1va", "neporazen\u00fd", "v", "kvalifik\u00e1cii", "na", "svetov\u00fd", "poh\u00e1r"], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "republika", "je", "\u010dlenom", "Eur\u00f3pskej", "\u00fanie", "od", "roku", "2004"], "ner_tags": [5, 5, 0, 0, 5, 5, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e9", "v\u00fdsostn\u00e9", "znaky", "s\u00fa", "slovensk\u00fd", "st\u00e1tny", "znak", "a", "vlajka"], "ner_tags": [5, 5, 0, 0, 5, 5, 0, 0, 5]}
+{"tokens": ["Slovensk\u00e1", "tatransk\u00e1", "\u017eeleznica", "je", "ozna\u010den\u00e1", "za", "kult\u00farny", "pamiatkov\u00fd", "kame\u0148"], "ner_tags": [5, 5, 5, 0, 0, 0, 5, 5]}
+{"tokens": ["Slovensk\u00fd", "spisovate\u013e", "Martin", "Kuku\u010d\u00edn", "bol", "zn\u00e1my", "svojimi", "rom\u00e1nami", "a", "pov\u00eddkami"], "ner_tags": [5, 5, 5, 5, 0, 0, 0, 5, 0, 5]}
+{"tokens": ["Slovensk\u00e1", "hudba", "m\u00e1", "bohat\u00fa", "hist\u00f3riu", "a", "je", "\u010dasto", "ovlivnen\u00e1", "folkl\u00f3rom"], "ner_tags": [5, 5, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "kni\u017enica", "m\u00e1", "s\u00eddlo", "v", "Bratislave", "a", "koordinuje", "kni\u017enicn\u00fa", "s\u00fa\u010das\u0165", "v", "celom", "krajine"], "ner_tags": [5, 5, 0, 0, 0, 5, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Slovensk\u00e1", "arm\u00e1da", "bola", "zru\u0161en\u00e1", "v", "roku", "2004", "a", "nahoden\u00e1", "profesion\u00e1lnymi", "ozbrojen\u00fdmi", "s\u00edlami"], "ner_tags": [5, 5, 0, 0, 0, 5, 0, 0, 5, 5, 5]}
+{"tokens": ["Slovensk\u00fd", "hospod\u00e1rsky", "syst\u00e9m", "je", "zalo\u017een\u00fd", "na", "slobode", "trhu"], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "rokoch", "1968-1972", "bol", "Slovensko", "sou\u010dasne", "s", "\u010cechami", "a", "Moravou", "sou\u010d\u00e1stou", "\u010ceskoslovenska", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Hlavn\u00fdm", "mestom", "krajiny", "je", "Bratislava", ","], "ner_tags": [0, 0, 0, 0, 5, 0]}
+{"tokens": ["Karpatsk\u00e9", "vrchoviny", "predstavuj\u00fa", "v\u00fdznamn\u00fa", "\u010dasti", "geografick\u00e9ho", "reliefu", "Slovenska", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "n\u00e1rodn\u00e1", "gal\u00e9ria", "m\u00e1", "s\u00eddlo", "v", "Bratislave", "a", "je", "najv\u00e4\u010d\u0161ou", "umeleckou", "in\u0161tit\u00faciou", "v", "kraji", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Pre", "v\u0161ak", "sa", "stalo", "synonymom", "pre", "nepo\u017eaduj\u00facu", "v\u00fdmenu", "val\u00fat", "medzi", "obidvoma", "stranami", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Evropsk\u00e1", "\u00fania", "sa", "sklad\u00e1", "z", "27", "\u010dlensk\u00fdch", "\u0161t\u00e1tov", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Napr\u00edklad", "v", "rokoch", "1944-1945", "bol", "vytvoren\u00fd", "Bratislavsk\u00fd", "kraj", "s", "s\u00eddlom", "v", "Bratislave", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensko", "m\u00e1", "viac", "ako", "5000", "ro\u010dn\u00edkov", "a", "nieko\u013eko", "ve\u013ek\u00fdch", "rek\u00e1", "ako", "Dunaj", ","], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["V", "posledn\u00fdch", "rokoch", "sa", "Slovensko", "stalo", "ve\u013emi", "popul\u00e1rnym", "cielem", "pre", "turistov", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "bratislavskej", "\u010dasti", "Petr\u017ealky", "sa", "nach\u00e1dza", "nejv\u00e4\u010d\u0161\u00ed", "slobodn\u00fd", "prikladn\u00fd", "most", "v", "Eur\u00f3pe", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Slovensk\u00e1", "republika", "je", "parlamentn\u00e1", "demokracia", "s", "viacstrann\u00fdm", "politick\u00fdm", "syst\u00e9mom", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "rokoch", "1993-2003", "bol", "premi\u00e9rom", "Slovenska", "Vladimir", "Me\u010diar", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 1, 1, 0]}
+{"tokens": ["Slovensk\u00e9", "n\u00e1rodn\u00e9", "s\u00fady", "s\u00eddlia", "v", "Bratislave", "a", "koordinuj\u00fa", "s\u00fadne", "riadite\u013estvo", "v", "kraji", "."], "ner_tags": [5, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "d\u00f4sledku", "t\u00fdchto", "udalost\u00ed", "bol", "zru\u0161en\u00fd", "st\u00e1t", "\u010ceskoslovensko", "a", "vznikli", "dvoja", "n\u00e1sledn\u00edci", ":", "\u010cesk\u00e1", "republika", "a", "Slovensk\u00e1", "republika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 5, 5, 5, 0]}
+{"tokens": ["V", "rokoch", "1939-1945", "bolo", "Slovensko", "sou\u010d\u00e1stou", "nemeckej", "r\u00ed\u0161e", "v", "r\u00e1mci", "protektor\u00e1tu", "\u010cechy", "a", "Morava", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 5, 5, 5, 0]}
+{"tokens": ["V", "bratislavskej", "\u010dasti", "Dev\u00edn", "sa", "nach\u00e1dza", "hrady", "z", "r\u00fdchleho", "obdobia", "a", "rom\u00e1nske", "\u010dasy", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovensko", "je", "zn\u00e1mne", "svojimi", "horami", "a", "kr\u00e1snou", "pr\u00edrodou", ",", "ktor\u00e1", "l\u00e1kaj\u00fa", "turistov", "z", "cel\u00e9ho", "sveta", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "rokoch", "1918-1939", "bolo", "Slovensko", "sou\u010d\u00e1stou", "\u010ceskoslovenska", "a", "v", "rokoch", "1969-1992", "sa", "stalo", "jednou", "z", "dvoch", "kraj\u00edn", "fakticky", "existuj\u00faceho", "\u0161t\u00e1tu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["V", "Bratislave", "sa", "nach\u00e1dza", "nieko\u013eko", "univerz\u00edt", "a", "v\u00fdskumn\u00fdch", "in\u0161tit\u00faci\u00ed", ",", "\u010do", "znej", "robi", "d\u00f4le\u017eit\u00e9", "vedeck\u00e9", "a", "kult\u00farne", "centrum", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["V", "rokoch", "1848-1849", "bolo", "Slovensko", "sou\u010d\u00e1stou", "Uhorska", "a", "za\u017eilo", "n\u00e1rodn\u00e9", "obrodn\u00e9", "hnutie", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Slovenskej", "republiky", "je", "pre\u010dasn\u00e1", "v\u00e1\u0161\u0165", "na", "n\u00e1m", "s\u00fa\u010dn\u00e9", "volby", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 0, 0]}

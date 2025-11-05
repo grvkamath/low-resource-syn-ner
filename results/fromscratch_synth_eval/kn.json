@@ -1,0 +1,223 @@
+{
+    "args": "Namespace(model='FacebookAI/xlm-roberta-large', gold_standard_dataset='ai4bharat/naamapadam', lang='kn', synthetic_sources=['datasets/aya-expanse-32b_generations/kn-aya-expanse-32b', 'datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14', 'datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct'], train_sizes=[100, 250, 500, 1000, 2500, 5000], results_directory='./results/fromscratch_synth_eval', random_seed=3535, results_tag='kn')",
+    "ai4bharat/naamapadam_100": {
+        "eval_loss": 0.4960708022117615,
+        "eval_precision": 0.4751098096632504,
+        "eval_recall": 0.49693721286370596,
+        "eval_f1": 0.4857784431137724,
+        "eval_accuracy": 0.8708547663346832,
+        "eval_runtime": 2.1827,
+        "eval_samples_per_second": 466.858,
+        "eval_steps_per_second": 29.322,
+        "epoch": 10.0
+    },
+    "datasets/aya-expanse-32b_generations/kn-aya-expanse-32b_100": {
+        "eval_loss": 1.0852937698364258,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 2.1797,
+        "eval_samples_per_second": 467.486,
+        "eval_steps_per_second": 29.361,
+        "epoch": 10.0
+    },
+    "datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14_100": {
+        "eval_loss": 1.2234057188034058,
+        "eval_precision": 0.05089820359281437,
+        "eval_recall": 0.026033690658499236,
+        "eval_f1": 0.034447821681864235,
+        "eval_accuracy": 0.7089854437999343,
+        "eval_runtime": 2.2174,
+        "eval_samples_per_second": 459.548,
+        "eval_steps_per_second": 28.863,
+        "epoch": 10.0
+    },
+    "datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct_100": {
+        "eval_loss": 1.1675212383270264,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 19.4147,
+        "eval_samples_per_second": 52.486,
+        "eval_steps_per_second": 3.296,
+        "epoch": 10.0
+    },
+    "ai4bharat/naamapadam_250": {
+        "eval_loss": 0.33839815855026245,
+        "eval_precision": 0.6005788712011577,
+        "eval_recall": 0.6355283307810107,
+        "eval_f1": 0.6175595238095237,
+        "eval_accuracy": 0.9070810988289373,
+        "eval_runtime": 2.2013,
+        "eval_samples_per_second": 462.914,
+        "eval_steps_per_second": 29.074,
+        "epoch": 10.0
+    },
+    "datasets/aya-expanse-32b_generations/kn-aya-expanse-32b_180": {
+        "eval_loss": 1.020146131515503,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 2.265,
+        "eval_samples_per_second": 449.897,
+        "eval_steps_per_second": 28.257,
+        "epoch": 10.0
+    },
+    "datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14_250": {
+        "eval_loss": 1.067784309387207,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 2.9572,
+        "eval_samples_per_second": 344.58,
+        "eval_steps_per_second": 21.642,
+        "epoch": 10.0
+    },
+    "datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct_250": {
+        "eval_loss": 1.1081701517105103,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 2.348,
+        "eval_samples_per_second": 433.977,
+        "eval_steps_per_second": 27.257,
+        "epoch": 10.0
+    },
+    "ai4bharat/naamapadam_500": {
+        "eval_loss": 0.28455811738967896,
+        "eval_precision": 0.638477801268499,
+        "eval_recall": 0.6937212863705973,
+        "eval_f1": 0.664954128440367,
+        "eval_accuracy": 0.9134289153989275,
+        "eval_runtime": 2.1867,
+        "eval_samples_per_second": 466.001,
+        "eval_steps_per_second": 29.268,
+        "epoch": 10.0
+    },
+    "datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14_500": {
+        "eval_loss": 0.8459343314170837,
+        "eval_precision": 0.1168091168091168,
+        "eval_recall": 0.06278713629402756,
+        "eval_f1": 0.08167330677290836,
+        "eval_accuracy": 0.7689613658750137,
+        "eval_runtime": 3.4365,
+        "eval_samples_per_second": 296.527,
+        "eval_steps_per_second": 18.624,
+        "epoch": 10.0
+    },
+    "datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct_500": {
+        "eval_loss": 1.0071555376052856,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 2.2026,
+        "eval_samples_per_second": 462.63,
+        "eval_steps_per_second": 29.056,
+        "epoch": 10.0
+    },
+    "ai4bharat/naamapadam_1000": {
+        "eval_loss": 0.2670917809009552,
+        "eval_precision": 0.6685837526959022,
+        "eval_recall": 0.7120980091883614,
+        "eval_f1": 0.689655172413793,
+        "eval_accuracy": 0.921418408668053,
+        "eval_runtime": 2.2524,
+        "eval_samples_per_second": 452.408,
+        "eval_steps_per_second": 28.414,
+        "epoch": 10.0
+    },
+    "datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14_1000": {
+        "eval_loss": 0.7247775793075562,
+        "eval_precision": 0.1614539306846999,
+        "eval_recall": 0.14624808575803983,
+        "eval_f1": 0.1534752912816392,
+        "eval_accuracy": 0.7903031629637737,
+        "eval_runtime": 5.2235,
+        "eval_samples_per_second": 195.081,
+        "eval_steps_per_second": 12.252,
+        "epoch": 10.0
+    },
+    "datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct_1000": {
+        "eval_loss": 0.8625368475914001,
+        "eval_precision": 0.4262295081967213,
+        "eval_recall": 0.039816232771822356,
+        "eval_f1": 0.07282913165266106,
+        "eval_accuracy": 0.7613002079457152,
+        "eval_runtime": 2.173,
+        "eval_samples_per_second": 468.94,
+        "eval_steps_per_second": 29.453,
+        "epoch": 10.0
+    },
+    "ai4bharat/naamapadam_2500": {
+        "eval_loss": 0.18665170669555664,
+        "eval_precision": 0.7781926811053025,
+        "eval_recall": 0.7978560490045942,
+        "eval_f1": 0.7879017013232514,
+        "eval_accuracy": 0.9423224253037102,
+        "eval_runtime": 2.229,
+        "eval_samples_per_second": 457.161,
+        "eval_steps_per_second": 28.713,
+        "epoch": 10.0
+    },
+    "datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14_2500": {
+        "eval_loss": 0.7579938769340515,
+        "eval_precision": 0.11951447245564893,
+        "eval_recall": 0.09800918836140889,
+        "eval_f1": 0.1076987799747581,
+        "eval_accuracy": 0.7940242968151472,
+        "eval_runtime": 2.1965,
+        "eval_samples_per_second": 463.913,
+        "eval_steps_per_second": 29.137,
+        "epoch": 10.0
+    },
+    "datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct_2500": {
+        "eval_loss": 1.048127293586731,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 2.2043,
+        "eval_samples_per_second": 462.275,
+        "eval_steps_per_second": 29.034,
+        "epoch": 10.0
+    },
+    "ai4bharat/naamapadam_5000": {
+        "eval_loss": 0.18684229254722595,
+        "eval_precision": 0.7860843819393042,
+        "eval_recall": 0.8131699846860643,
+        "eval_f1": 0.79939781708694,
+        "eval_accuracy": 0.9414468643975047,
+        "eval_runtime": 3.4724,
+        "eval_samples_per_second": 293.46,
+        "eval_steps_per_second": 18.431,
+        "epoch": 10.0
+    },
+    "datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14_4899": {
+        "eval_loss": 1.038993000984192,
+        "eval_precision": 0.0,
+        "eval_recall": 0.0,
+        "eval_f1": 0.0,
+        "eval_accuracy": 0.7562657327350334,
+        "eval_runtime": 2.2366,
+        "eval_samples_per_second": 455.605,
+        "eval_steps_per_second": 28.615,
+        "epoch": 10.0
+    },
+    "datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct_3450": {
+        "eval_loss": 0.9464098811149597,
+        "eval_precision": 0.6981132075471698,
+        "eval_recall": 0.028330781010719754,
+        "eval_f1": 0.05445180279617366,
+        "eval_accuracy": 0.7598774214731312,
+        "eval_runtime": 2.2428,
+        "eval_samples_per_second": 454.338,
+        "eval_steps_per_second": 28.535,
+        "epoch": 10.0
+    }
+}

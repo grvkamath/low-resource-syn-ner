@@ -1,0 +1,1006 @@
+{"tokens": ["\u1ee4t\u1ee5t\u1ee5", "oma", "Peter", "Obi", "ga-eme", "akw\u1ee5kw\u1ecd", "nt\u1ee5r\u1ee5nd\u1ee5", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "maka", "\u1ee5m\u1ee5aka", "ime", "Awka", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ijeoma", "zuru", "\u1ee5t\u1ee5t\u1ee5", "n'ah\u1ecba", "Onitsha", "wee", "z\u1ee5ta", "akw\u1ee5kw\u1ecd", "n'ah\u1ecba", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1eccm\u1ee5m\u1ee5", "a", "ga-eme", "n'af\u1ecd", "2025", "n'ime", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "UNICEF", "na", "Lagos", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Eze", "Chinwuba", "b\u1ee5", "onyendu", "nd\u1ecb", "Igbo", "na", "Mp\u1ee5ru", "Oru", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 0, 5, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "mere", "nkesa", "ngwongwo", "na", "Delta", "State", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Emeka", "ga-eso", "ndi", "\u1ecdr\u1ee5", "British", "Council", "mere", "ngwa", "."], "ner_tags": [1, 2, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Mmemme", "a", "ga-eme", "na", "Enugu", "Stadium", "n\u2019af\u1ecd", "2023", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 7, 8, 0]}
+{"tokens": ["Ihe", "omume", "a", "m\u1ee5tara", "site", "na", "akw\u1ee5kw\u1ecd", "Malala", "Yousafzai", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Onyeisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "NDLEA", "kwuru", "na", "onye", "omemp\u1ee5", "n\u2019ogige", "Onitsha", "ka", "a", "jiri", "baa", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "nke", "Queen's", "College", "wuru", "usoro", "ibe", "ha", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "kp\u1ecdr\u1ecd", "\u1ee5m\u1ee5nna", "Guinea", "Pig", "na", "nwunye", "ha", ".", "Ha", "b\u1ecbara", "site", "n\u2019\u1ee4l\u1ecd", "Zoo", "Aba", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ag\u1ee5", "onyinye", "b\u1ecbara", "site", "na", "onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "WHO", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "Mahadum", "Nsukka", "were", "nyere", "nd\u1ecb", "ogologo", "\u1ee5b\u1ecdch\u1ecb", "n'ime", "mbara", "ala", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "k\u1ee5ziiri", "\u1ee4j\u1ecd", "Chukwu", "na", "Rebecca", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "Fidelity", "Bank", "."], "ner_tags": [0, 2, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["China", "na", "Russia", "kwadoro", "usoro", " nchekwa ", "UN", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u1ecct\u1ee5t\u1ee5", "nd\u1ecb", "l\u1ecdp\u1ee5tara", "ezumike", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "Dangote", "n'Abuja", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["\u1ecckachamara", "site", "Yale", "University", "b\u1ecbara", "n'Igbo-Ukwu", "maka", "\u1ecdr\u1ee5", ".", "Ha", "n\u1ecdr\u1ecd", "azu", "izu", "nke", "\u1ecdh\u1ee5r\u1ee5", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "\u1ee5l\u1ecd", " akw\u1ee5kw\u1ecd ", "Gideon", "International", "b\u1ecbara", "nye", "akw\u1ee5kw\u1ecd", "n'ime", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "ngwaany\u1ecb", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "NNPC", "nwetara", "ak\u1ee5k\u1ee5", "mputa", "\u1ecdr\u1ee5", "na", "Rivers", "State", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Patricia", "b\u1ecbara", "na", "mba", "Ghana", "ka", "\u1ecd", "ga-eme", "\u1ecdr\u1ee5", "mmepe", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "gb\u1eb9buru", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Chevron", "n'enyemaka", "DSS", "na", "Anyama", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Nna", "m", "biara", "site", "na", "Lagos", "na", "af\u1ecd", "1968", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["A", "ga-ewere", "\u1ecdgw\u1ee5", "g\u1ecb", "n'\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "na", "Enugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "si", "Mahadum", "Nsukka", "zuru", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "\u1ee5b\u1ecdch\u1ecb", "Tuesday", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 9, 0]}
+{"tokens": ["Aha", "nwoke", "ah\u1ee5", "bu", "Chinedu", "Okeke", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Any\u1ecb", "ga-ezute", "G\u1ecdvan\u1ecd", "Rivers", "na", "Port", "Harcourt", "echi", "."], "ner_tags": [0, 0, 5, 6, 0, 5, 6, 0, 0]}
+{"tokens": ["Isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "any\u1ecb", " n\u1ecd ", "Abuja", "na", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "nke", "\u1ecdma", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Saturday", "ha", "mere", "mmemme", "nna", "af\u1ecd", "na", "Owerri", "."], "ner_tags": [0, 10, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ak\u1ee5k\u1ecd", "Ifreke", "Udo", "b\u1ecbara", "na", "Akaeze", "na", "Ebonyi", "State", "."], "ner_tags": [0, 5, 6, 0, 0, 5, 5, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "n'\u1ee5s\u1ecd", "osimiri", "Niger", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4gw\u1ecd", "ego", "jiri", "na", "2023", "ab\u1ee5wo", "\u1ecdt\u1ee5t\u1ee5", "."], "ner_tags": [0, 0, 0, 0, 11, 0, 0, 0]}
+{"tokens": ["E", "zigara", "Peter", "na", "Uganda", "ka", "\u1ecd", "gakwuru", "mama", "ya", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Emebere", "\u1ecdgbak\u1ecd", "na", "nne", "onye", "isi", "\u1ee5l\u1ecd", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "NNPC", "n'\u1ee5b\u1ecdch\u1ecb", "Monday", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 0, 10, 0]}
+{"tokens": ["Biafra", "m\u1ee5p\u1ee5tara", "otu", "ndep\u1ee5ta", "nd\u1ecb", "nch\u1ecbkwa", "n'af\u1ecd", "1967", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 11, 0]}
+{"tokens": ["Nd\u1ecb", "polisi", "nke", "Royal", "Nigerian", "Police", "were", "nwata", " nwoke", "."], "ner_tags": [0, 3, 0, 4, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["\u1eca", "ga-aga", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "na", "Emeka", "Anyanwu", "n'\u1ee5t\u1ee5t\u1ee5", "Tuesday", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 10, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "na-agba", "egwu", "n'\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "St.", "Mary's", "Convent", "."], "ner_tags": [0, 0, 0, 0, 3, 6, 6, 0]}
+{"tokens": ["Ijeoma", "b\u1ee5r\u1ee5", "onye", "isi", "\u1ee5l\u1ecd \u1ecdr\u1ee5", "n'\u1ee4l\u1ecdikpe", "Enugu", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ha", "gara", "\u1ecdr\u1ee5", "na", "France", "n'af\u1ecd", "1995", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 11, 0]}
+{"tokens": ["Emesi", "Kwacha", "na", "Dollar", "mee", "usoro", "\u1ecdgw\u1ee5", "n'\u1ee5l\u1ecd \u1ecdgw\u1ee5", "."], "ner_tags": [5, 7, 0, 7, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["O", "siri", "na", "\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "China", "ab\u1ecbala", "Nigeria", "ime", "az\u1ee5mah\u1ecba", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Agha", "Biafra", "malite", "na", "1967", "na", "mecha", "na", "1970", "."], "ner_tags": [0, 5, 0, 0, 7, 0, 0, 0, 7, 0]}
+{"tokens": ["N'ule", "a", ",", "ndiozi", "si", "n'Universities", "Nigeria", "nweta", "nsonaaz\u1ee5", "ngx", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "gara", "London", "\u1ecbm\u1ee5", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 6, 0, 0, 0]}
+{"tokens": ["Mmepe", "\u1ecdh\u1ee5\u1ee5", "malite", "na", "Obodo", "Abakaliki", "n'af\u1ecd", "a", "."], "ner_tags": [0, 0, 0, 0, 8, 6, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", "Shell", "zuru", "ak\u1ee5k\u1ee5", "Delta", "State", "n'oge", "emechiri", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "."], "ner_tags": [0, 0, 1, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Ngozi", "Okonjo-Iweala", "b\u1ee5r\u1ee5", "onyeisi", "WTO", "."], "ner_tags": [2, 1, 1, 0, 0, 4, 0]}
+{"tokens": ["Emeka", "n\u1ecdr\u1ecd", "na", "\u1ee4l\u1ecd", "ikpe", "Awka", "\u1ee5t\u1ee5t\u1ee5", "a", "."], "ner_tags": [1, 0, 0, 7, 0, 6, 0, 0]}
+{"tokens": ["Mee", "ka", "\u1ecdk\u1ee5", "gbatara", "na", "\u1ee5l\u1ecd", "onyeisi", "polisi", "Enugu", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 6, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "mba", "Africa", "na-echetara", "anyi", "mkpebi", "nne", "ihunanya", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ukoha", "Chika", "sonyeere", "n'egwuregwu", "olimpik", "Tokyo", "2020", "."], "ner_tags": [1, 1, 0, 0, 4, 6, 7, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Gburugburu", "World", "Health", "Organization", "t\u1ecdr\u1ecd", "uka", "na", "COVID-19", "."], "ner_tags": [0, 0, 7, 7, 4, 4, 4, 0, 0, 0, 4, 0]}
+{"tokens": ["Nd\u1ecb", "isi", "\u1ecdr\u1ee5", "Obodo", "Onitsha", "kwuputara", "\u1ecdz\u1ee5z\u1ee5", "\u1ecdh\u1ee5\u1ee5", "."], "ner_tags": [0, 0, 0, 8, 6, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecdelu", "Ethiopian", "Airlines", "wakporo", "na", "Addis", "Ababa", "."], "ner_tags": [0, 1, 1, 0, 6, 6, 0]}
+{"tokens": ["Mammy", "Market", "di", "n'ime", "barracks", "Nigerian", "Army", "Awka", "."], "ner_tags": [1, 7, 0, 0, 7, 5, 6, 6, 0]}
+{"tokens": ["Ezina\u1ee5l\u1ecd", "Okafor", "si", "n'\u1ee5t\u1ee5t\u1ee5", "b\u1ecba", "n'okporo", "\u1ee5z\u1ecd", "\u1ee4m\u1ee5ahia", "."], "ner_tags": [3, 1, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "St.", "Charles", "n\u1ecd", "n'ime", "Obodo", "Onicha", "."], "ner_tags": [7, 0, 2, 1, 0, 0, 6, 6, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "\u1ecdr\u1ee5", "Oando", "nw\u1ee5r\u1ee5", "n'Osisioma", "."], "ner_tags": [0, 0, 1, 0, 6, 0]}
+{"tokens": ["Onye", "isi", "\u1ecdgw\u1ee5", "na", "Clinic", "UBA", "n\u1ecdd\u1ee5", "n'\u1ecdr\u1ee5", "\u1ee5t\u1ee5t\u1ee5", "a", "."], "ner_tags": [0, 0, 0, 0, 4, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Ak\u1ee5k\u1ecd", "nke", "Chief", "Anyanwu", "banyere", "mmet\u1ee5ta", "\u1ecdr\u1ee5", "n'ime", "nd\u1ecb", "g\u1ecd\u1ecdmenti", "."], "ner_tags": [0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "\u1ecbk\u1ee5", "ach\u1ecbcha", "n'\u1ecbgba", "akom", "\u1ecbr\u1ee5", "\u1ecdgb\u1ecd", "Eze", "Emeka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 2, 1, 0]}
+{"tokens": ["Enyinnaya", "Abaribe", "bute", "onyendu", "nd\u1ecb", "South-East", "na", "Senate", "n'uwa", "Nigeria", "."], "ner_tags": [1, 2, 0, 0, 7, 8, 0, 3, 0, 5, 0]}
+{"tokens": ["Gburugburu", "emechara", "\u1ecdkp\u1ee5kp\u1ecd", "n'ah\u1ecba", "Eke", "n'Awka", "n'\u1ee5t\u1ee5t\u1ee5", "Tuesday", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 7, 0]}
+{"tokens": ["Mazi", "Nnamdi", "Kanu", "b\u1ee5r\u1ee5", "isi", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Indigenous", "People", "of", "Biafra", ",", "IPOB", "."], "ner_tags": [1, 1, 2, 0, 0, 0, 0, 3, 4, 0, 5, 3, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "UNICEF", "nyere", "aka", "n'az\u1ee5", "\u1ee5m\u1ee5aka", "n'ime", "Obodo", "Ebonyi", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Nn\u1ecd\u1ecd", "na", "usoro", "ihe", "ehihie", "Channels", "Television", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Ugwu", "Nsukka", "di", "n'ime", "ala", "Enugu", "state", "."], "ner_tags": [5, 5, 0, 0, 0, 5, 8, 0]}
+{"tokens": ["Obi", "\u1ee4z\u1ecddinma", "r\u1ee5\u1ee5r\u1ee5", "\u1ecdr\u1ee5", "na", "Central", "Bank", "of", "Nigeria", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 3, 0, 5, 0]}
+{"tokens": ["Any\u1ecb", "ga", "eme", "mmemme", "Christmas", "n'\u1ecdnwa", "December", "."], "ner_tags": [0, 0, 0, 0, 7, 0, 8, 0]}
+{"tokens": ["\u1eccch\u1ecbch\u1ecb", "Gburugburu", "emezigh\u1ecb", "r\u1ecbba", "ama", "n'okwu", "ego", "Sun", "Newspaper", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Ogechi", "n\u1ecd", "na", "Mahadum", "Nigeria", "n'ihe", "gbasara", "ako", "\u1ee5m\u1ee5nwaany\u1ecb", "."], "ner_tags": [1, 0, 0, 3, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Dangote", "Cement", " n\u1ecd", "n'obodo", "Obajana", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 5, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "A", "Thing", "Fall", "Apart", "dere", "Chinua", "Achebe", "bu", "akw\u1ee5kw\u1ecd", "nke", "a", "ma", "ama", "n'uwa", "."], "ner_tags": [0, 3, 4, 4, 4, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Emeka", "\u1eccmer\u1ecd", "ga-eme", "iwu", "n'ime", "Anambra", "State", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 8, 0]}
+{"tokens": ["\u1ee4m\u1ee5akw\u1ee5kw\u1ecd", "site", "n'Ugwu", "Ojoto", "natara", "nturu", "ugo", "n'\u1ecdm\u1ee5m\u1ee5", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecdak\u1ee5", "Zenith", "Bank", "n\u1ecd", "na", "Lagos", "State", "."], "ner_tags": [0, 3, 4, 0, 0, 5, 8, 0]}
+{"tokens": ["Aha", "nd\u1ecb", "\u1ecdkacha", "mara", "ama", "na", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "kwara", "Chimamanda", "Ngozi", "Adichie", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u1ee4m\u1ee5any\u1ecb", "ezina\u1ee5l\u1ecd", "Okonkwo", "zuru", "ike", "n'\u1ee4l\u1ecd", "\u1ecdgw\u1ee5", "na", "Enugu", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "gara", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "St.", "Peter's", "Catholic", "Primary", "School", "n'Onitsha", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 4, 5, 0]}
+{"tokens": ["\u1ecchaneze", "Ndigbo", "gere", "nt\u1ecb", "n'okwu", "mba", "ala", "Nigeria", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nkwado", "anya", "b\u1ee5", "nnukwu", "ihe", "n'af\u1ecd", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "na", "Nsukka", ",", "Mr.", "Chukwudi", "Okafor", ",", "kwup\u1ee5tara", "ikpe", "maka", "nd\u1ecb", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ezin\u1ee5l\u1ecd", "Nwosu", "bi", "na", "\u1ee4m\u1ee5ahia", "werela", "\u1ee5b\u1ecdch\u1ecb", "Tuesday", "mee", "emume", "omume", "mmemmem"], "ner_tags": [5, 6, 0, 0, 5, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nwaany\u1ecb", "si", "Awka", "gara", "Lagos", "kwuru", "na", "nd\u1ecb", "polisi", "nyefeere", "nd\u1ecb", "yf"], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Ngozi", "Eze", "site", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "UNICEF", "zuk\u1ecdr\u1ecd", "nd\u1ecb", "\u1ecdm\u1ee5m\u1ee5", "n obodo", "Owerri", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["A", "r\u1ee5\u1ee5r\u1ee5", "\u1ecdr\u1ee5", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "INEC", "nke", "Imo", "State", "n'\u1ecdnwa", "February", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 1, 6, 0, 1, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "May", "29", "b\u1ee5", "\u1ee5b\u1ecdch\u1ecb", "e nyere", "Buhari", "ikikere", "isin", "oche", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Chief", "Osita", "Agbakwuru", "b\u1ee5", "onye", "isi", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ABC", "Transport", "n'Enugu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "EgyptAir", "z\u1ecdp\u1ee5tara", "nd\u1ecb", "ga", "Paris", "site", "n'ah\u1ecba", "mmirika", "obi", "."], "ner_tags": [0, 1, 1, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["N'ah\u1ecba", "nke", "Onitsha", ",", "ah\u1ecba", "Pound", "na", "Dollar", "juputara", "n'\u00f9kw\u00f9", "."], "ner_tags": [0, 0, 5, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["\u1eccr\u1ee5", "ga-eme", "na", "\u1ee4l\u1ecd", "eze", "Obi", "\u1ecdh\u1ee5r\u1ee5", "n'Awka", "n'\u1ee5t\u1ee5t\u1ee5", "Saturday", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 5, 0, 0, 1, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Shell", "kwadoro", "mmepe", "obodo", "Egbema", "nke", "Rivers", "State", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 5, 0, 1, 6, 0]}
+{"tokens": ["Nwoke", "aha", "ya", "bu", "Emeka", "Obianyo", ",", "a", "m\u1ee5r\u1ee5", "na", "Nnewi", ",", "b\u1ee5r\u1ee5", "onye", "mm\u1ee5ta", "Mahadum", "Ibadan", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0, 0, 0, 0, 1, 6, 0]}
+{"tokens": ["Nd\u1ee5m\u1ecdd\u1ee5", "ga-abata", "malite", "n'August", "2025", "ma", "\u1ecd b\u1ee5r\u1ee5", "na", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "NERC", "kwado", "ya", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "\u1ee4kwa", "site", "na", "Delta", "State", "gara", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Chevron", "na", "Warri", "."], "ner_tags": [0, 0, 1, 0, 0, 1, 6, 0, 0, 1, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "nke", "King's", "College", " Lagos ", "so", "na", "as\u1ecdmpi", "mathematics", " Afurika ", "."], "ner_tags": [0, 0, 0, 1, 2, 6, 0, 0, 0, 1, 6, 0]}
+{"tokens": ["E jidere", "nd\u1ecb", "omemp\u1ee5", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Nigerian", "Navy", "n'Osimiri", "Niger", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 1, 0]}
+{"tokens": ["N'az\u1ee5", "\u1ee5l\u1ecd", "ikpe", "Abuja", "emeela", "ikpe", "mara", "onye", "gbuuru", "Chinedu", "Okeke", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Nd\u1ecb", "agha", "Britain", "ruru", "na", "Nigeria", "na", "Afghanistan", "n'af\u1ecd", "2005", "."], "ner_tags": [0, 0, 1, 0, 1, 0, 1, 2, 0, 1, 0]}
+{"tokens": ["Emebere", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Google", "n'ah\u1ecba", "internet", "na", "Obodo", "Aba", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nwunye", "anya", "yiri", "\u1ecbkp\u1ecd", "n'\u1ee5s\u1ecd", "Osimiri", "Atlantic", "n'ime", "obodo", "Bonny", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["Chinedu", "gara", " ah\u1ecba", "n'Awka", "\u1ecbz\u1ee5ta", "akw\u1ee5kw\u1ecd", "akp\u1ecbr\u1ecbkpa", "."], "ner_tags": [1, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "UNICEF", " nyere", " \u1ee5m\u1ee5aka", " nri", " n'\u1ee5b\u1ecdch\u1ecb", " Iri", " na", " asato", " nke", " June", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 7, 8, 8, 8, 8, 0]}
+{"tokens": ["Onyeisi", "Akw\u1ee5kw\u1ecd", "\u1ecdp\u1ee5p\u1ee5", "na", "University", "of", "Nigeria", " Nsukka", " kwup\u1ee5tara", " ak\u1ee5k\u1ecd", " ah\u1ee5", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 5, 5, 0, 0, 0, 0]}
+{"tokens": ["Egwu", "Igbo", "a", "kp\u1ee5p\u1ee5tara", "na", "Lagos", "at\u1ecd", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Nwaany\u1ecb", "aha", "ya", "bu", "Ngozi", "Chef", "meriri", "\u1ecds\u1ecd", "n'Abuja", "."], "ner_tags": [0, 0, 0, 0, 1, 1, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "\u1ecbta", "akw\u1ee5kw\u1ecd", "gafee", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Victory", "High", "School", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 3, 3, 0]}
+{"tokens": ["Onyeisi", "nd\u1ecb", "nt\u00e0k\u1ecbr\u1ecb", "Steeti", "Enugu", "kelere", "\u1ecdgb\u1ecd", "ya", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["O", "m\u1ee5\u1ee5r\u1ee5", "\u1ee5m\u1ee5aka", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Kogi", "akw\u1ee5kw\u1ecd", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"tokens": ["Ebonyi", "b\u1ee5", "otu", "n'ime", "steeti", "nke", "Nd\u1ecbda", "\u1eccw\u1ee5wa", "Anyanw\u1ee5", "Nigeria", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ifesinachi", "bu", "Nd\u1ecb", "Ibo", "si", " obodo", "Aba", "."], "ner_tags": [1, 0, 0, 2, 0, 0, 5, 0]}
+{"tokens": ["N'abal\u1ecb", "iri", "na", "isii", "nke", "June", "a", "m\u1ee5r\u1ee5", "m\u1ee5m\u1ee5", "a", "."], "ner_tags": [7, 8, 8, 8, 8, 8, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "uweojii", "Kano", "jidere", "mmegbu", "n'\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "NNPC", " kwup\u1ee5tara", "mbip\u1ee5ta", "mman\u1ee5", "n'Aba", "."], "ner_tags": [0, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Ihe", "omume", "ezina\u1ee5l\u1ecd", " ah\u1ee5", " na", "Port", " Harcourt", " duuru", "nd\u1ecb", "\u1ecdch\u1ecbch\u1ecb", "n'ala", " Rivers", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Any\u1ecb", "ga-epere", " \u1ee5m\u1ee5 akw\u1ee5kw\u1ecd", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Queen", "of", "the", "Rosary", "College", "Onitsha", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 0]}
+{"tokens": ["\u1ee4l\u1ecdns\u1ecd", "St.", "Paul's", "Catholic", "Church", "n'\u1eccnw\u1ee5ta", "eze", "emechiela", "."], "ner_tags": [0, 3, 3, 3, 3, 5, 0, 0, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Nwa", "Karate", "m\u1ee5r\u1ee5", "n'Ijebu", "ode", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "nwunye", "ya", "z\u1ee5r\u1ee5", "iji", "mee", "mmemme", "n'Enugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ak\u1ee5k\u1ecd", "Gburugburu", "Africa", "n'akw\u1ee5kw\u1ecd", "a", "kachas\u1ecb", "kwa", "emepe", "mgbasa", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "INEC", "kwes\u1ecbr\u1ecb", "izizi", "ntuli", "\u1ecdch\u1ecbch\u1ecb", "nke", "2021", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "n'ime", "ndi", "g\u1ecdmenti", "Imo", "ka", "kpar\u1ecbtara", "n'\u1ecdd\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", ".", ""], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ah\u1ecba", "Onitsha", "na", "enwere", "okpukpu", "\u1ee5t\u1ee5t\u1ee5", "na", "M\u1ecdndee", ".", ""], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 7, 0, 0]}
+{"tokens": ["Ugwuanyi", "b\u1ee5r\u1ee5", "onyeisi", "steeti", "Enugu", "n'af\u1ecd", "2023", "."], "ner_tags": [1, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "MTN", "nyefere", "onye", "\u1ecdr\u1ee5", "ego", "na", "Eprel", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Ada", "na", "Chinedu", "jeere", "\u1ee5l\u1ecdaz\u1ee5mah\u1ecba", "na", "Lagos", "."], "ner_tags": [1, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccz\u1ecd", "Nd\u1ecb", "\u1ee4z\u1ecd", "am\u1ee5ma", "FIFA", "ga-eme", "n'\u1ee5b\u1ecdch\u1ecb", "Sat\u1ecddee", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 7, 0]}
+{"tokens": ["Akaekpuchi", "ke", "\u1ee5l\u1ecdeze", "Nnewi", "jup\u1ee5tara", "na", "\u1ecdmar\u1ecbcha", "ihe", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecckachamara", "si", "Mahadum", "Nsukka", "siri", "na", "\u1eccktoba", "b\u1ee5r\u1ee5", "oge", "nlele", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 7, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "\u1ee4m\u1ee5nne", "d\u1ecb", "mmadu", "na", "United", "Nations", "b\u1ee5r\u1ee5", "November", "20", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 7, 7, 0]}
+{"tokens": ["Naf\u1ee5s\u1ecbr\u1ecb", "nlek\u1ecdta", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "nah\u1ecb", "Awka", "ugbu", "a", "."], "ner_tags": [0, 0, 0, 3, 0, 5, 0, 0, 0]}
+{"tokens": ["Police", "Commissioner", "Abutu", "Yaro", " kwuru", "ihe", "aka", "ya", "n'Abia", "Steeti", "."], "ner_tags": [3, 0, 1, 2, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Zenith", "Bank", "nwekwara", "\u1ecdf\u1ecbs", "n'obodo", "Kano", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Onyeisi", "\u1ecdgw\u1ee5", "Dr", "Ngozi", "Okonkwo", " b\u1ecbara", "site", "na", "\u1ee4l\u1ecd\u1ecdr\u1ee5", "UNICEF", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 3, 4, 0]}
+{"tokens": ["\u1ee4m\u1ee5akw\u1ee5kw\u1ecd", "l\u1ecdtara", "site", "na", "Mahadum", "Ibadan", "n'\u1ecdnwa", "Febr\u1ee5war\u1ecb", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 7, 0]}
+{"tokens": ["Eze", "Obi", "\u1ecdch\u1ecbch\u1ecb", "n'obodo", "Nri", "kwus\u1ecbr\u1ecb", "okwu", "na", "mmemme", "Oru", "Ibe", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["\u1eccr\u1ecba", "COVID-19", "emet\u1ee5tara", "\u1ecdt\u1ee5t\u1ee5", "nd\u1ecb", "n'Anambra", "na", "2021", "."], "ner_tags": [0, 6, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", " d\u1ecbka", "Shell", " na", "Mobil", "r\u1ee5l\u1ee5", "\u1ecdr\u1ee5", "n'Nsukka", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Evan", "Enwerem", "bu", "onyeisi", "Senate", "n'af\u1ecd", "1999", "."], "ner_tags": [1, 2, 0, 0, 3, 0, 7, 0]}
+{"tokens": ["Gburugburu", "k\u1ee5ziri", "akw\u1ee5kw\u1ecd", "n'\u1ee4l\u1ecd", "Ncheta", "Nd\u1ecb", "Igbo", "."], "ner_tags": [1, 0, 0, 3, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4gb\u1ecdala", "Toyota", "Camry", "eburu", "nke", "Onyekachi", "."], "ner_tags": [6, 6, 0, 0, 0, 1, 0]}
+{"tokens": ["Chinedu", "gara", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Regina", "Pacis", "na", "Onitsha", "."], "ner_tags": [1, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Aka", "anyi", "b\u1ee5", "nke", "Onye", "Isi", "Ala", "Nigeria", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 1, 5, 0]}
+{"tokens": ["Ngozi", "biara", "site", "na", "enwe", "\u1ecdr\u1ee5", "na", "Lagos", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Izunna", "am\u1ee5r\u1ee5", "ya", "b\u1ee5", "Jan\u1ee5war\u1ecb", "23", ",", "1997", "."], "ner_tags": [0, 1, 0, 0, 0, 7, 8, 0, 8, 0]}
+{"tokens": ["\u1ecc", "r\u1ee5r\u1ecd", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Enugu", "State", "University", "of", "Science", "and", "Technology", "."], "ner_tags": [0, 0, 0, 5, 1, 2, 2, 2, 2, 2, 0]}
+{"tokens": ["Mario", "Balotelli", "n\u1ecdr\u1ecd", "n\u2019", "\u1ee5b\u1ecdch\u1ecb", " egwuregwu", "na", "Italy", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Harriet", "Tubman", "b\u1ee5", "onye", "Amer\u1ecbka", "mere", "ak\u1ee5k\u1ecd", "n\u2019\u1ee5l\u1ecd", "nd\u1ecb", "\u1ecdch\u1ecbch\u1ecb", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "marala", "m", "\u1ecdg\u1ee5", "Agha", "\u1ee4wa", "Nke", "Ab\u1ee5\u1ecd", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 8, 8, 0]}
+{"tokens": ["Ogee", "gara", "Ngozi", "Hospital", "dina", "Awka", "."], "ner_tags": [1, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Az\u1ee5mah\u1ecba", "a", "zes\u1ecbr\u1ecb", "na", "Obi", "\u1ee4z\u1ecdkwu", "."], "ner_tags": [0, 0, 0, 5, 1, 2, 0]}
+{"tokens": ["\u1ecc", "m\u1ee5\u1ee5r\u1ee5", "p\u1ee5\u1ecd", "n'ala", "Ghana", "."], "ner_tags": [0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4t\u1ee5t\u1ee5", "a", "Jidenna", "kachas\u1ecb", "Abuja", "International", "Airport", "."], "ner_tags": [0, 0, 1, 0, 5, 1, 2, 0]}
+{"tokens": ["Aziza", "na", "ife", "nji", "Suleja", "site", "na", "Kaduna", "."], "ner_tags": [1, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecdakw\u1ee5kw\u1ecd", "Unizik", "n\u2019Awka", "nwekwara", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "n\u2019Nnewi", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "ezina\u1ee5l\u1ecd", "Chukwu", "gakwara", "Aha", "Ezeka", "."], "ner_tags": [0, 0, 1, 0, 1, 2, 0]}
+{"tokens": ["Egwu", "Flavour", "mas\u1ecbr\u1ecb", "m", "kar\u1ecbs\u1ecba", "Naija", "music", "."], "ner_tags": [0, 1, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "gbururu", "si", "Obodo", "Port", "Harcourt", "af\u1ee5baghara", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 1, 2, 0]}
+{"tokens": ["Ijeoma", "z\u1ee5tara", "akp\u1ee5kp\u1ecd", "\u1ee5l\u1ecd", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ya", "n\u2019Ibadan", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["EBONYI", "STATE", "ga", "-eweta", "\u1ecdganihu", "n'ime", "nd\u1ecb", "bi", "ebe", "a", "."], "ner_tags": [5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ebe", "a", "m\u1ee5z\u1ee5p\u1ee5tara", "m", "b\u1ee5", "\u1ee4m\u1ee5ahia", "n'ala", "Ab\u1ecba", "State", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 1, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "St.", "Mary's", "n'ime", "Obosi", "gara", "nleghar\u1ecb", "anya", "na", "Awka", "\u1ee5b\u1ecdch\u1ecb", "T\u1ecdzdee", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 5, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Chukwuemeka", "Odumegwu", "Ojukwu", "b\u1ee5", "onye", "nd\u1ecb", "Akw\u1ee5kw\u1ecd", "akw\u1ee5kw\u1ecd", "obi", "na", "Nnewi", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Air", "Peace", "bidoro", "\u1ee5z\u1ecd", "\u1ecdh\u1ee5r\u1ee5", "site", "n'Enugu", "gakwuru", "Dubai", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Aka", "nne", "m", "biara", "n'\u1ee5l\u1ecd", "any\u1ecb", "site", "na", "Germany", "izummee", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", "UNICEF", "rutere", "Mbaise", "n'\u1ee5b\u1ecdch\u1ecb", "M\u1ecdnde", "ibe", "duuru", "ha", "."], "ner_tags": [0, 0, 3, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ama", "okwu", "ya", "s\u1ecbr\u1ecb", "a", "ga", "eme", "mmemme", "n'\u1eccn\u1ecbcha", "n'\u1ee5b\u1ecdch\u1ecb", "Sat\u1ecddee", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["N'obodo", "Owerri", ",", "nd\u1ecb", "mmad\u1ee5", "na-eke", "mmanya", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "SABMiller", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Onyeisi", "polisi", "Imo", "Steeti", "Ekpe", "Okorocha", "were", "mee", "nzuzo", "."], "ner_tags": [0, 0, 5, 6, 1, 2, 0, 0, 0]}
+{"tokens": ["Ihe", "nd\u1ecb", "\u1ecdr\u1ee5", "WHO", "ch\u1ecdp\u1ee5tara", "mep\u1ee5ta", "\u1ecdgw\u1ee5", "na", "Nigeria", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nneka", "Udeh", "na-ak\u1ee5zi", "akw\u1ee5kw\u1ecd", "n'\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Government", "College", "n'ime", "Nsukka", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Am\u1ee5ma", "e", "si", "n'aka", "\u1ee5j\u1ecd", "prite", "Mental", "Health", "Foundation", "tupu", "\u1ecbga", "mba", "\u1ee5wa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecdala", "Toyota", "Camry", "gbanwere", "onye", "n'onyonyo", "\u1ee4m\u1ee5ahia", "mgbe", "emechara", "\u1ecdr\u1ee5", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Amara", "Elendu", "kwes\u1ecbr\u1ecb", "\u1ecbch\u1ecb", "\u1ecdf\u1ecbs", "nd\u1ecb", "b\u1ecbara", "si", "Canada", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "nt\u1ecb", "Gburugburu", "Nd\u1ecbda", "East", "Southeast", "gafee", "\u1ee4gb\u1ecdacha", "Andoni", "n'ime", "Rivers", "Steeti", "."], "ner_tags": [0, 0, 0, 5, 6, 6, 0, 3, 4, 0, 5, 6, 0]}
+{"tokens": ["Nd\u1ecb", "nne", "nyo", "akw\u1ee5kw\u1ecd", "n'\u1ecdr\u1ee5", "Red", "Cross", ",", "d\u1ecbka", "Dr.", "Ngozi", "Okafor", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["O", "si", "na", "nt\u1ee5ziaka", "nke", "Gburugburu", "Nd\u1ecbda", "Anambra", "b\u1ecba", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 6, 5, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "oku", "natara", "nd\u1ecb", "usoro", "TV", "Channels", "n'\u1ee5b\u1ecdch\u1ecb", "\u1ee4ka", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Nke", "a", "mere", "na", "\u1ee4l\u1ecd\u1ecdr\u1ee5", "Zenith", "Bank", "n'Abuja", "\u1ee5t\u1ee5t\u1ee5", "Wednesdee", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 5, 0, 0]}
+{"tokens": ["Ngozi", "Nwosu", "b\u1ee5", "onye", "na-eme", "ihe", "mkpar\u1ecbta", "\u1ee5ka", "n'\u1ecdt\u1ee5t\u1ee5", "\u1ee5l\u1ecd", "ihe", "egwu", "na", "Lagos", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Am\u1ee5ma", "ch\u1ecdp\u1ee5tara", "n'ime", "akw\u1ee5kw\u1ecd", "akw\u1ee5kw\u1ecd", "PHD", "Mahadum", "Ibadan", "n'af\u1ecd", "2012", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["Onyeisi", "Ugwuanyi", "zuru", "\u1ee5m\u1ecb", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Enugu", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "Nsukka", "mekwara", "ihe", "\u1ecdma", "n'af\u1ecd", "a", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "gara", "\u1ecastanbul", "\u1ecbz\u1ee5ta", "ngwa", "\u1ee5l\u1ecd", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Nwany\u1ecb", "aha", "ya", "b\u1ee5", "Ngozi", "Chukwu", "siri", "na", "ya", "b\u1ee5", "onye", "Obosi", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Eze", "\u1eccba", "Aja", "ofere", "omenala", "na", "Nnewi", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Onye", "nlek\u1ecdta", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "Parklane", "katara", "ch\u1ecbk\u1ecdta", "nd\u1ecb", "or\u1ecba", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "George", "\u1ecck\u1ee5bunwa", "b\u1ee5r\u1ee5", "nwoke", "s\u1ee5r\u1ee5", "ike", "n'\u1ecbm\u1ee5", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "d\u1ecb", "n'Ughelli", "emeela", "mmemme", "gburugburu", "."], "ner_tags": [0, 3, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Emeka", "Ozumba", "b\u1ee5r\u1ee5", "onye", "nch\u1ecdp\u1ee5ta", "mah\u1ecba", "n'ime", "Mahadum", "Lagos", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Zenith", "Bank", "enyerela", "nd\u1ecb", "\u1ee4m\u1ee5aka", "MMA", "ego", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Izizi", "n'ime", "December", "nke", "2023", "ekegh\u1ecbr\u1ecb", "omenala", "n'obodo", "Aba", "."], "ner_tags": [0, 0, 0, 5, 0, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["Onye", "nt\u1ecb", "akw\u1ee5kw\u1ecd", "aha", "ya", "d\u1ecb", "Jennifer", "Okechukwu", "b\u1ee5r\u1ee5", "onye", "Owerri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Innoson", "Vehicles", "mepeela", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "oha", "n'\u1ee4m\u1ee5ahia", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ezina\u1ee5l\u1ecd", "Onwuka", "biara", "\u1ecbga", "mmemme", "n'\u1ee4ka", "St.", "Dominic's", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Osisi", "oku", "gbap\u1ee5r\u1ee5", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "n'\u1ecdgbak\u1ecd", "DHL", "n'Abuja", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "nke", "akw\u1ee5kw\u1ecd", "b\u1ecbara", "Mahadum", "Nsukka", "site", "na", "Anambra", "."], "ner_tags": [0, 0, 0, 0, 3, 5, 0, 5, 0]}
+{"tokens": ["Minister", "Nkechi", "Ah\u1ee5mmad\u1ee5", "g\u1ecdzie", "steeti", "Ebonyi", "."], "ner_tags": [3, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "nn\u1ecdchi", "anya", "Australia", "so", "n'ime", "nzuk\u1ecd", "mba", "\u1ee5wa", "."], "ner_tags": [0, 0, 0, 7, 0, 0, 0, 8, 0, 0]}
+{"tokens": ["Ak\u1ee5k\u1ecd", "a", "b\u1ecbara", "site", "na", "Mahadum", "UNN", "n'Enugu", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["\u1ecc", "r\u1ee5p\u1ee5tara", "\u1ecdr\u1ee5", "na", "United", "Nations", "ruo", "af\u1ecd", "iri", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "na", "-", "Secondary", "School", "Enugu", "bu", "Mrs.", "Ngozi", "Ikechukwu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 5, 0, 1, 2, 0]}
+{"tokens": ["Papa", "Ya", "sin", "jere", "Lagos", "na", "Monday", ",", "\u1ecd", "zutere", "\u1ecdg\u1ecd", "ya", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Emebere", "ngwa\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "a", "na", "Obosi", "site", "n'aka", "Chief", "Emeka", "Okafor", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 1, 2, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "NGO", "Save", "the", "Children", "wetara", "\u1ecdr\u1ee5", "na", "Umuahia", "."], "ner_tags": [0, 0, 5, 1, 2, 2, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4n\u1ecd", "az\u1ee5", "g\u1ecdvan\u1ecd", "Chukwuma", "Soludo", "na", "Awka", "mekaara", "ndi", "mmadu", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Aha", "onye", "isi", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "BBNaija", "bu", "Mr.", "James", "Daniel", "."], "ner_tags": [0, 0, 0, 0, 5, 1, 0, 1, 2, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdj\u1ecdgw\u1ee5", "gboro", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Union", "Bank", "n'Abia", "steeti", "."], "ner_tags": [0, 0, 0, 0, 5, 1, 5, 6, 0]}
+{"tokens": ["N'\u1ecdnwa", "Eprel", "2022", ",", "a", "kpere", "ekpere", "n'\u1ee5l\u1ecd", "usoro", "St.", "John's", "Cathedral", "n'Orlu", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 1, 2, 2, 5, 0, 5, 0]}
+{"tokens": ["Chinonso", "guzoro", "n'ihu", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Nigerian", "Bottling", "Company", "n'Abuja", "n'\u1ee5t\u1ee5t\u1ee5", "."], "ner_tags": [1, 0, 0, 0, 5, 1, 2, 5, 6, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdm\u1ee5ma", "si", "na", "Mahadum", "Nnamdi", "Azikiwe", "nak\u1ecdwaara", "ihe", "omume", "."], "ner_tags": [0, 0, 0, 0, 5, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Air", "Peace", "gara", "Ghana", "na", "Tuesday", "miri", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 3, 0, 0]}
+{"tokens": ["Ifeanyi", "ehiere", "mmet\u1ee5ta", "nke", "onyeisi", "otu", "\u1ee4m\u1ee5nna", "International", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 5, 1, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "Kogi", "High", "School", "meriri", "as\u1ecdmpi", "a", "na", "Lokoja", "."], "ner_tags": [0, 0, 5, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Obi", "nd\u1ecb", "isi", "\u1ecdr\u1ee5", "Red", "Cross", "d\u1ecb", "na", "Owerri", ",", "Imo", "steeti", "."], "ner_tags": [0, 0, 0, 0, 5, 1, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Barnabas", "_Onyema", "gara", "United", "States", "ime", "\u1ecdr\u1ee5", "."], "ner_tags": [1, 2, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "si", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Shell", "n\u1ecdr\u1ecd", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Shell", "Primary", "School", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 1, 2, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Dangote", "Cement", "Company", "no", "na", "Obajana", "nke", "steeti", "Kogi", "."], "ner_tags": [5, 1, 2, 0, 0, 5, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ecdk\u1ee5k\u1ecd", "bia", "site", "Bauchi", "mba", "nke", "Nigeria", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Nna", "ya", "tinyere", "akw\u1ee5kw\u1ecd", "akw\u1ee5kw\u1ecd", "University", "of", "Nigeria", "Nsukka", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 2, 2, 1, 0]}
+{"tokens": ["Ijeoma", "bugara", " akw\u1ee5kw\u1ecd", "unu", "site", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Zenith", "Bank", "Owerri", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 5, 1, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Nkwado", "Igwe", "emeere", "na", "St.", "Mary's", "Church", ",", "Onitsha", "n'af\u1ecd", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 0, 5, 0, 0, 0]}
+{"tokens": ["Chioma", "Eke", "meriri", "as\u1ecd", "ebe", "n'egwuregwu", "athletics", "na", "Lagos", "State", "Stadium", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecdelu", "Air", "Peace", "si", "Abuja", "gba", "Port", "Harcourt", "n'\u1ee5t\u1ee5t\u1ee5", "Tuesday", "."], "ner_tags": [0, 3, 4, 0, 5, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Emeka", "Obi", "n\u1ecd", "n'\u1ecdr\u1ee5", "ya", "na", "Zenith", "Bank", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Ebonyi", "State", "g\u1ecb\u1ecbr\u1ecb", "\u1ee5l\u1ecdikpe", "Mgbo", "."], "ner_tags": [5, 6, 0, 3, 4, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Glo", " nyere", "ngwa\u1ecdr\u1ee5", "elekere", "nd\u1ecb", "akw\u1ee5kw\u1ecd", "na", "Enugu", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "Chrisland", "Primary", "School", " gara", "\u1ecbm\u1ee5", "akw\u1ee5kw\u1ecd", "n'\u1ee5t\u1ee5t\u1ee5", "."], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1eccch\u1ecbch\u1ecb", "G\u1ecd\u1ecdmenti", "Rivers", "ketara", "nd\u1ecbda", "ala", "Okrika", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Onyeisi", "NDLEA", " sirila", "\u1ecdkp\u1ecd", "nd\u1ecb", "enwere", "mkp\u1ecdr\u1ecd", "na", "Abakaliki", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Chinedu", "onye", "PO", ",", "ga", "mba", "South", "Africa", "kachas\u1ecb", "kwa", "\u1ecdgw\u1ee5", "anagh\u1ecb", "ekwe", "."], "ner_tags": [1, 0, 3, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "a", "si", "Nsukka", "b\u1ecba", "\u1ecbz\u1ee5", "ahia", "n'Ah\u1ecba", "Ogbete", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Njem", "Ozioma", "na", "Abuja", " nyere", "any\u1ecb", "ihe", "oma", "."], "ner_tags": [0, 1, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ijeoma", "kwes\u1ecbr\u1ecb", "\u1ecbga", "Mahadum", "Ebonyi", "n'af\u1ecd", "a", "."], "ner_tags": [1, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "iri", "ajuju", "emeere", "na", "University", "of", "Nigeria", "Nsukka", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["\u1eccgw\u1ee5gw\u1ee5", "af\u1ecd", "emepeela", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Spring", "Light", "Academy", ",", "Awka", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 5, 0]}
+{"tokens": ["N'ah\u1ecba", "Ariaria", "Joachim", "z\u1ee5r\u1ee5", "ngwaah\u1ecba", "site", "n'aka", "Eze", "\u1ee4z\u1ecd", "."], "ner_tags": [0, 5, 0, 1, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Innoson", "Motors", "malitere", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "\u1ecdh\u1ee5r\u1ee5", "na", "Umuahia", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "isi", "\u1ee5l\u1ecdanya", "kere", "nzuk\u1ecd", "nke", "g\u1ee5nyere", "Mrs.", "Okafor", "na", "Mr.", "Ejeribe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 3, 4, 0]}
+{"tokens": ["Okpokoro", "nd\u1ecb", "nwere", "\u1ee5l\u1ecdikpe", "na", "Abia", "State", " Judiciary", "b\u1ecbara", "Enyimba", "Stadium", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 3, 4, 0, 3, 4, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "nd\u1ecb", "\u1ecd\u1ecdg\u1ee5r\u1ee5", "side", "Onitsha", "gara", "Nnewi", "na", "\u1ecdt\u1ee5t\u1ee5", "elekere", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Kwado", "ndi", "dara", "ada", "Lizzy", "Okezie", "Site", "n'\u1ecdr\u1ee5", "ya", "n'ih\u1ee5", "nwoke", "na", "mmad\u1ee5", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Maaz\u1ecb", "Chinedu", "gara", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "FUTO", "na", "Owerri", "."], "ner_tags": [1, 2, 0, 0, 3, 0, 4, 0]}
+{"tokens": ["Ndi", "\u1ecdm\u1ee5m\u1ee5", "ga", "ezute", "na", "\u1ee5l\u1ecdikpe", "n'\u1ee5b\u1ecdch\u1ecb", "M\u1ecdnde", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Ezina\u1ee5l\u1ecd", "Okoye", "bi", "na", "Onitsha", ",", "Anambra", "State", "."], "ner_tags": [0, 1, 0, 0, 5, 0, 3, 4, 0]}
+{"tokens": ["\u1eccz\u1ecd", "Jude", "b\u1ee5r\u1ee5", "onyeisi", "\u1ee5l\u1ecdikpe", "na", "Enugu", "."], "ner_tags": [0, 1, 0, 0, 0, 3, 0]}
+{"tokens": ["\u1ecckachamara", "si", "Mahadum", "Nsukka", "zuo", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "."], "ner_tags": [0, 0, 5, 0, 3, 0, 0]}
+{"tokens": ["Nd\u1ecb", "FRSC", "kwusiri", "ike", "na", "\u1ee4m\u1ee5ahia", "nwa af\u1ecd", "iri", "."], "ner_tags": [0, 5, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Wenezdee", "ga", "ab\u1ee5", "ememme", "na", "Aba", "."], "ner_tags": [0, 7, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ebe", "mmemme", "ga-eme", "b\u1ee5", "Eko", "Hotel", "na", "Lagos", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Sandra", "\u1ecckaf\u1ecd", "nwetara", "ns\u1ecdp\u1ee5r\u1ee5", "Nigerian", "Book", "Award", "."], "ner_tags": [1, 2, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["O", "sochikwute", "onyeisi", "Diocese", "Awka", ",", "Bishop", "Ezeokafor", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 1, 2, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Dangote", "Cement", "yere", "\u1ecdr\u1ee5", "n'ime", "Kogi", "State", "."], "ner_tags": [5, 6, 6, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Ezin\u1ee5l\u1ecd", "Onyema", "kwagaara", "site", "n\u2019ime", "Delta", "State", "gak\u1ecdwa", "Lagos", "."], "ner_tags": [0, 1, 0, 0, 0, 3, 4, 0, 3, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "sinwere", "n'\u1ecdm\u1ee5m\u1ee5", "n'\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Queens", "na", "Enugu", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 3, 0]}
+{"tokens": ["Ejima", "Emeka", "b\u1ee5", "onye", "egwuregwu", "\u1ecdr\u1ecdb\u1ecd", "Southampton", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdchicha", "\u1ecamb\u1ee5r\u1ecba", "sonyeere", "n'\u1ecdn\u1ecdd\u1ee5", "UNESCO", "n'af\u1ecd", "2019", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 6, 0, 0, 0]}
+{"tokens": ["\u1eccz\u1ecd", "ukwuu", "emeziri", "na", "m\u1ee5m\u1ee5", "Oxford", "University", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4m\u1ee5nne", "Stanley", "na", "Amaka", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "Paris", "."], "ner_tags": [0, 1, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccs\u1ecd", "\u1ee5l\u1ecdikwuu", "British", "Council", "bee", "n'\u1ee5z\u1ecd", "Abuja", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 3, 0]}
+{"tokens": ["Nna", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "Harvard", "n\u2019af\u1ecd", "1993", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "a", "debere", "ya", "n'\u1ee5l\u1ecd", "National", "Library", "Awka", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 5, 0]}
+{"tokens": ["Nd\u1ee5", "Any\u1ecb", "b\u1ee5r\u1ee5", "na", "Owerri", "ebidola", "imeghar\u1ecb", "obodo", "ha", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "r\u1ee5chara", "g\u1ee5m\u1ee5z\u1ee5", "na", "Mahadum", "Nsukka", ".", ""], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0]}
+{"tokens": ["Aha", "ya", "b\u1ee5", "Nwabueze", "Okonkwo", ",", "\u1ecd", "bi", "na", "Enugu", "City", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Nigerian", "Television", "Authority", "benyela", "akw\u1ee5kw\u1ecd", "\u1ecdr\u1ee5", "p\u1ee5r\u1ee5", "iche", "n'oge", "a", "."], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Eze", "Chukwudi", "n\u1ecdr\u1ecd", "Umuahia", "ime", "mgbede", "site", "na", "Tuesday", "ruo", "Friday", "."], "ner_tags": [0, 1, 2, 0, 5, 0, 0, 0, 7, 0, 7, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "CBN", "debere", "\u1ecdn\u1ee5", "egwuregwu", "ego", "na", "Naira", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "ha", "ch\u1ecdr\u1ecd", "ime", "ozi", "na", "Delta", "State", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["President", "Mohammadu", "Buhari", "zip\u1ee5r\u1ecd", "onyeozi", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "UN", "n'af\u1ecd", "2020", "."], "ner_tags": [3, 1, 2, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["\u1ee4m\u1ee5\u1ecdka", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "ha", "n'\u1ee5l\u1ecd,"], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "gara", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "National", "Hospital", "n'Abuja", "\u1ecbgw\u1ecd", "ar\u1ee5", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "a", "nwere", "nwanna", "Aloy", "Ejimofor", "sere", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdgb\u1ecd", "\u1ee4m\u1ee5eri", "kwaara", "ege", "nti", "n'oge", "\u1ee5l\u1ecdaz\u1ee5maah\u1ecba", "Ebonyi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 3, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5az\u1ee5maah\u1ecba", "na", "Onitsha", "zigara", "mbupu", "ha", "na", "China", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Osita", "Iheme", "gbadara", "Lagos", "any\u1ecb", "h\u1ee5r\u1ee5", "ya", "n'ebe", "ah\u1ee5", "."], "ner_tags": [1, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nzuko", "\u1ecdha", "nke", "Igbo", "zurukara", "na", "New", "York", "State", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 7, 6, 0]}
+{"tokens": ["\u1eccr\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "MTN", "Nigeria", "garee", "n'ihu", "n'\u1ecdnwa", "Mee", "."], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 7, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Nigerian", "Army", "soro", "nd\u1ecb", "\u1ecdr\u1ee5", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0]}
+{"tokens": ["Egwu", "Igbo", "juru", "na", "American", "Music", "Awards", "n'af\u1ecd", "2022", "."], "ner_tags": [0, 5, 0, 0, 7, 7, 7, 0, 7, 0]}
+{"tokens": ["A", "r\u1ee5chara", "\u1ecdr\u1ee5", "ihe", "mmemme", "nke", "Amaka", "Enemuo", "n'Awka", "stadium", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 5, 0, 0]}
+{"tokens": ["Minista", "Nweze", "Onyeama", "k\u1ee5p\u1ee5r\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Health", "na", "Edo", "State", "."], "ner_tags": [0, 1, 2, 0, 3, 0, 5, 6, 0]}
+{"tokens": ["Chinonso", "ganwere", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "St.", "Michael", "na", "Awka", "."], "ner_tags": [1, 0, 0, 4, 4, 0, 5, 0]}
+{"tokens": ["Emeka", "b\u1ee5r\u1ee5", "onyeisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Diamond", "Bank", "."], "ner_tags": [1, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Saturday", "gara", "aga", "\u1ee5t\u1ee5t\u1ee5", "any\u1ecb", "ga", "n'\u1ecdgbak\u1ecd", "n\u2019", "Enugu", "."], "ner_tags": [0, 7, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ada", "na", "Chikwado", "bi", "n'obodo", "Onitsha", "."], "ner_tags": [1, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "Nigerian", "Police", "Force", "jiri", "ike", "kw\u1ee5s\u1ecb", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "a", "."], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Air", "Peace", "ragoro", "na", "Murtala", "Muhammed", "Airport", "n\u2019", "Lagos", "."], "ner_tags": [0, 4, 4, 4, 0, 0, 3, 2, 4, 0, 5, 0]}
+{"tokens": ["\u1eccg\u1ecd", "m", "si", "n\u2019", "Abia", "kweta", "\u1ee5z\u1ecd", "akwa", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Mazi", "Okonkwo", "z\u1ee5r\u1ee5", "ah\u1ecba", "n'ah\u1ecba", "Main", "Market", "n'", "Onitsha", "."], "ner_tags": [1, 2, 0, 0, 0, 4, 4, 0, 5, 0]}
+{"tokens": ["\u1eccr\u1ee5", "NDLEA", "ka", "m", "n\u1ee5\u1ecd", "na", "Awka", "South", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Ejiri", "\u1ecdr\u1ee5", "Federal", "Ministry", "of", "Health", "b\u1ecba", "n\u2019", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "ha", "."], "ner_tags": [0, 0, 3, 4, 4, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "Petroleum", "Development", "Company", "nyere", "nd\u1ecb", "mmad\u1ee5", "\u1ecdr\u1ee5", "n\u2019", "Rivers", "State", "."], "ner_tags": [0, 3, 4, 4, 4, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1eccch\u1ecbch\u1ecb", "Gburugburu", "Imo", "State", "kw\u1ee5p\u1ee5r\u1ee5", "ntinye", "\u1ecdh\u1ee5\u1ee5", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Ekele", "kachas\u1ecb", "Chukwu", "n\u2019ihi", "mm\u1ecdnw\u1ee5", "emechara", "na", "Umuahia", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nkechi", "zuru", "af\u1ecd", "n\u2019", "December", "2023", "."], "ner_tags": [1, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Facebook", "mek\u1ecdr\u1ecbtara", "\u1ecdganihu", "na", "Afr\u1ecbka", "."], "ner_tags": [0, 3, 4, 0, 0, 5, 0]}
+{"tokens": ["Ama", "na", "Nta", "kwadoro", "\u1ecdr\u1ee5", "n'\u1ee5b\u1ecdch\u1ecb", "Monday", "."], "ner_tags": [1, 0, 1, 0, 0, 0, 7, 0]}
+{"tokens": ["Ak\u1ee5k\u1ecd", "gafere", "BBC", "World", "Service", "egeerela", "n\u2019", "Igboukwu", "."], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Onye", "isi", "ala", "Ghana", "zuru", "\u1ee5t\u1ee5", "n'okpuru", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", "UNICEF", "r\u1ee5chalar\u1ecb", "\u1ecdr\u1ee5", "ha", "n\u2019", "Nsukka", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nnyocha", "a", "ga-eme", "n\u2019", "University", "of", "Nigeria", "Nsukka", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "banyere", "na", "Enugu", "ga-emepe", "\u1ecdz\u1ecd", "n'\u1ecdnwa", "Me"], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 7, 8]}
+{"tokens": ["Onyinye", "Eze", "wetara", "ebe", "a", "site", "na", "London"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["A", "g\u1ee5p\u1ee5tara", "akw\u1ee5kw\u1ecd", "Chinua", "Achebe", "na", "klas\u1ecb", "\u1ecdkp\u1ee5kp\u1ee5"], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["President", "Muhammadu", "Buhari", "gara", "Abuja"], "ner_tags": [1, 2, 2, 0, 5]}
+{"tokens": ["Aha", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "a", "bu", "Innoson", "Motors"], "ner_tags": [0, 0, 0, 0, 3, 4]}
+{"tokens": ["Okonkwo", "b\u1ee5", "onye", "isi", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "Nollywood"], "ner_tags": [1, 0, 0, 0, 0, 3]}
+{"tokens": ["Nkechi", "Simeon", "soro", "nd\u1ecb", "oro", "elu", "n'Uyo"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Mba", "d\u1ecb", "ka", "South", "Africa", "ji", "onye", "isi", "nd\u1ecb", "Igbo"], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 0, 3]}
+{"tokens": ["\u1ee4l\u1ecdikpe", "kas\u1ecb", "elu", "nke", "Na\u1ecbjiria", "kpebiri", "okwu"], "ner_tags": [3, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Onyeisi", "UNICEF", "kp\u1ecdr\u1ecd", "nzuko", "n'Abuja"], "ner_tags": [0, 3, 0, 0, 0, 5]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "isii", "n'\u1ecdnwa", "\u1ecckt\u1ecdba", "ka", "a", "mara", "na", "awards", "Nollywood"], "ner_tags": [0, 0, 0, 7, 8, 0, 0, 0, 0, 3]}
+{"tokens": ["Nd\u1ecb", "Germany", "natara", "egwuregwu", "n'\u1ecbs\u1ecd", "mba", "Europe"], "ner_tags": [0, 5, 0, 0, 0, 5, 6]}
+{"tokens": ["Emeka", "bulie", "akw\u1ee5kw\u1ecd", "si", "University", "of", "Nigeria", "Nsukka"], "ner_tags": [1, 0, 0, 0, 3, 4, 4, 4]}
+{"tokens": ["Ah\u1ecba", "Ogbete", "n'Enugu", "mepechara"], "ner_tags": [0, 3, 0, 0]}
+{"tokens": ["G\u1ecd\u1ecdmenti", "Lagos", "kwadoro", "\u1ecdp\u1ee5p\u1ee5", "imirikiti", "mmadu"], "ner_tags": [0, 5, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ecdr\u1ee5", "WHO", "gara", "\u1ecdz\u1ee5z\u1ee5", "na", "Nigeria"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 5]}
+{"tokens": ["Chimamanda", "Ngozi", "Adichie", "dekwara", "akw\u1ee5kw\u1ecd", "mma"], "ner_tags": [1, 2, 2, 0, 0, 0]}
+{"tokens": ["Osisi", "Amazon", "bidoro", "na", "Nigeria", "n'af\u1ecd", "2023"], "ner_tags": [0, 3, 0, 0, 5, 0, 7]}
+{"tokens": ["N'\u1ecbb\u1ee5", "Port", "Harcourt", "b\u1ee5", "isi", "\u1ecdd\u1ee5 \u1ee5gb\u1ecdelu", "n'ala", "Rivers"], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["K\u1ecdmitii", "na-akwado", "akw\u1ee5kw\u1ecd", "nke", "Oxford", "University", "Press"], "ner_tags": [0, 0, 0, 0, 3, 4, 4]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "na", "Owerri", "gbakw\u1ee5nyere", "\u1ee5m\u1ee5akw\u1ee5kw\u1ecd", "site", "na", "Mbaise", "nia"], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["A", "h\u1ee5r\u1ee5", "Onyeisi", "\u1ecdkaibe", "Dr.", "Ijeoma", "Okonkwo", "na", "ihe", "omume", "n'Awka", "\u1ee5nyaah\u1ee5"], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccch\u1ecbch\u1ecb", "enwegh\u1ecb", "mkpebi", "okwu", "mr.", "Peter", "Obi"], "ner_tags": [0, 0, 0, 0, 1, 2]}
+{"tokens": ["Aga", "eme", "mmemme", "iri", "af\u1ecd", "n\u1ecdr\u1ecd", "na", "Lagos", "n'af\u1ecd", "2023"], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 8]}
+{"tokens": ["Ndi", "nd\u1ee5m\u1ecdd\u1ee5", "kek\u1ecdr\u1ecbta", "echiche", "na", "UNICEF", "n'Abuja"], "ner_tags": [0, 0, 0, 0, 0, 4, 5]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "NNPC", "kek\u1ecdr\u1ecbta", "ozi", "n'April", "n'af\u1ecd", "2022"], "ner_tags": [0, 4, 0, 0, 7, 0, 8]}
+{"tokens": ["Ejiri", "onyeisi", "Kasie", "Chukwu", "bido", "\u1ecdr\u1ee5", "\u1ecdh\u1ee5r\u1ee5"], "ner_tags": [0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Sahara", "Reporters", "kek\u1ecdp\u1ee5tara", "ak\u1ee5k\u1ecd", " banyere", "ihe", " mere", "n'Uganda"], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Enugu", "b\u1ee5r\u1ee5", "isi", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ikpo", "az\u1ee5", "n'\u1ecdnwa", "Mee"], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 7]}
+{"tokens": ["A", " gbara", "kp\u1ecd", "\u1ecdk\u1ee5", "\u1ecbkp\u1ecd", "igwe", "na", "Onitsha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Nd\u1ee5m\u1ecdd\u1ee5", "Hon.", "Ugochukwu", "Emeka", "zite", "gara", "US"], "ner_tags": [0, 1, 2, 0, 0, 6]}
+{"tokens": ["Ak\u1ee5k\u1ecd", " banyere", "Gburugburu", "Any\u1ecb", "megide", "p\u1ee5r\u1ee5", "ime", "site", "na", "BBC"], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 4]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "bia", "site", "na", "Niger", "Delta", "region"], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Jacob", "Onyema", "n\u1ecdr\u1ecd", "g\u1ee5\u1ecd", "akw\u1ee5kw\u1ecd", "na", "Oxford", "University"], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 6]}
+{"tokens": ["Ms.", "Ngozi", "Okonjo-Iweala", "wur\u1ee5", "\u1ecdr\u1ee5", "d\u1ecb", "\u1ecdma", "n'\u1ee5wa"], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "r\u1ee5chara", "\u1ecdr\u1ee5", "n'Umuahia", "site", "n'aka", "Governor", "Okezie", "Ikpeazu"], "ner_tags": [0, 0, 0, 5, 0, 0, 1, 2]}
+{"tokens": ["Nd\u1ecb", "Ugwu", "Isi", "enwegh\u1ecb", "uzo", "iga", "na", "Mbaise"], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Mr.", "Chinedu", "Ejiofor", "kwuburu", "ozi", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "INEC"], "ner_tags": [1, 2, 0, 0, 0, 0, 4]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "onye", "iri", "\u1ecdgw\u1ee5", "na", "Maitama", "Hospital"], "ner_tags": [0, 0, 0, 0, 5, 6]}
+{"tokens": ["L\u1ecdz\u1ee5r\u1ee5", "mkpebi", "Court", "of", "Appeal", "na", "Niger", "State"], "ner_tags": [0, 0, 4, 0, 0, 0, 5, 6]}
+{"tokens": ["Mazi", "Chinedu", "gara", "uwa", "na", "Onitsha", "n'izu", "garaaga", "."], "ner_tags": [0, 1, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Ezinne", "Adaobi", "zuru", "ugwo", "na", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Enugu", "."], "ner_tags": [1, 1, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "M\u1ecdnde", "anyi", "z\u1ee5ta", "akw\u1ee5kw\u1ecd", "n'ah\u1ecba", "Nkwo", "."], "ner_tags": [0, 6, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccchiagha", "Obinna", "n\u1ecdr\u1ecd", "na", "Egbe", "Amichi", "ebido", "."], "ner_tags": [0, 1, 0, 0, 2, 5, 0, 0]}
+{"tokens": ["Amaraka", "na", "Ah\u1ee5nanya", "b\u1ee5r\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "nke", "NNPC", "."], "ner_tags": [1, 0, 1, 0, 0, 0, 3, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "Kano", "neere", "egwu", "na", "filim", "Nigeria", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Onyenkuzi", "Anyigor", "b\u1ee5r\u1ee5", "onyeisi", "akw\u1ee5kw\u1ecd", "n'\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "St.", "Charles", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Nwaany\u1ecb", "aha", "ya", "bu", "Ngozi", "luuru", "di", "n'Alabama", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "n\u1ecd", "na", "Port", "Harcourt", "."], "ner_tags": [0, 3, 0, 0, 5, 5, 0]}
+{"tokens": ["Ah\u1ecba", "\u1eccz\u1ee5k\u1ee5", "mechiri", "emechi", "na", "Wenezdee", "."], "ner_tags": [5, 5, 0, 0, 0, 6, 0]}
+{"tokens": ["Osita", "ranara", "unye", "akwukwo", "na", "Obi", "\u1ee4z\u1ecd", "."], "ner_tags": [1, 0, 0, 0, 0, 2, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "Federal", "Government", "College", "n\u1ecd", "na", "Owerri", "."], "ner_tags": [0, 0, 3, 3, 3, 0, 0, 5, 0]}
+{"tokens": ["Eli", "natara", "nkwado", "site", "na", "World", "Health", "Organization", "."], "ner_tags": [1, 0, 0, 0, 0, 4, 4, 4, 0]}
+{"tokens": ["\u1ee4gb\u1ecdala", "Toyota", "Corolla", "ogbugbu", "na", "2016", "."], "ner_tags": [0, 4, 4, 0, 6, 0]}
+{"tokens": ["Nnam", "Azikiwe", "b\u1ee5", "onye", "isi", "Fataraala", "Nigeria", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Jane", "Austen", "duru", "g\u1ee5nyere", "Pride", "and", "Prejudice", "."], "ner_tags": [0, 1, 1, 0, 0, 1, 1, 1, 0]}
+{"tokens": ["Chioma", "gara", "\u1ee5b\u1ecdch\u1ecb", "\u1ecdm\u1ee5m\u1ee5", "ya", "na", "Asaba", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "na", "Asaba", "z\u1ee5tara", "akw\u1ee5kw\u1ecd", "Makaranta", "."], "ner_tags": [0, 0, 5, 0, 0, 3, 0]}
+{"tokens": ["\u1eccz\u1ecd", "nwekwara", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Yaba", "Tech", "na", "Lagos", "."], "ner_tags": [0, 0, 0, 3, 3, 0, 5, 0]}
+{"tokens": ["\u1ecclaedo", "sitere", "New", "York", "b\u1ecba", "imalite", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "ya", "na", "Nigeria", "."], "ner_tags": [1, 0, 5, 5, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "nwe", "\u1ee5l\u1ecd", "l\u1ecdla", "n'Awka", "bidoro", "iwulite", "\u1ee5l\u1ecd", "ah\u1ecba", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Emume", "\u1eccg\u1ee5g\u1ee5", "ga-eme", "na", "\u1ee4nw\u1ee5any\u1ecb", "Afr\u1ecbka", "n'af\u1ecd", "2024", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0]}
+{"tokens": ["Papa", "Francis", "kwup\u1ee5tara", "n'eziokwu", "na", "\u1ecd", "ga-eleta", "Nigeria", "af\u1ecd", "na-ab\u1ecba", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Ogechi", "gara", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "St.", "Mary's", "n'Enugu", "."], "ner_tags": [1, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Dangana", "enwegh\u1ecb", "ike", "imezi", "az\u1ee5", "\u1ecdgb\u1ecd", "na", "Lagos", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Chimamanda", "Ngozi", "Adichie", "akp\u1ecdr\u1ecd", "Half", "of", "a", "Yellow", "Sun", "ezip\u1ee5\u1ecdla", "\u1ee5wa", "."], "ner_tags": [1, 2, 0, 3, 4, 5, 6, 0, 7, 8, 0, 0, 0]}
+{"tokens": ["Emebere", "\u1ecdgb\u1ecd", "oma", "n'akw\u1ee5kw\u1ecd", "nke", "Prof.", "Uche", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Gburugburu", "\u1ee5wa", "na-eme", "mmemme", "World", "Health", "Day", "n'April", "7th", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 5, 0, 0, 0]}
+{"tokens": ["Onyeisi", "ala", "ugwu", "Igbo", "Kwenu", "s\u1ecbr\u1ecb", "ka", "nd\u1ecb", "mmad\u1ee5", "b\u1ecbakwute", "na", "Mbaise", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "soro", "onye", "nkuzi", "ha", "Mrs.", "Okafor", "gara", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["Nd\u1ee5", "Ezumezu", "b\u1ee5", "aha", "\u1ecdr\u1ee5", "a", "na-eme", "n'\u1ee4l\u1ecd", "Nzuk\u1ecd", "Ojemba", "n'Awka", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 3, 4, 5, 0, 5, 0]}
+{"tokens": ["Steeti", "Abia", "b\u1ee5r\u1ee5", "nke", "nd\u1ecb", "Igbo", "duru", "ma", "ebep\u1ee5ta", "ebe", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "na", "Aba", "."], "ner_tags": [0, 5, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mazi", "Chijioke", "Okoro", "r\u1ee5chara", "\u1ecdr\u1ee5", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "Anambra", "Broadcasting", "Service", "(", "ABS", ")", "."], "ner_tags": [1, 2, 3, 0, 0, 0, 5, 6, 7, 0, 8, 0, 0]}
+{"tokens": ["Ezin\u1ee5l\u1ecd", "Eze", "si", "Obosi", "kwaga", "Nnewi", "na", "mb\u1ee5", "."], "ner_tags": [1, 2, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Aga-ewe", "emume", "Afia", "Olu", "n'Abraka", "n'\u1ecdnwa", "August", "."], "ner_tags": [0, 0, 1, 2, 5, 0, 0, 6, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdgb\u1ecd", "\u1ecdr\u1ee5", "n'\u1ee5l\u1ecd \u1ecdgw\u1ee5", "Federal", "Medical", "Centre", "n'Asaba", "b\u1ee5r\u1ee5", "\u1ee5m\u1ee5aka", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 5, 6, 0, 0, 0]}
+{"tokens": ["\u1eccr\u1ee5", "onye", "mm\u1ee5\u1ecd", "nso", "St.", "Patrick's", "Catholic", "Church", "ga-eme", "n'\u1eccka", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 5, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4gw\u1ee5", "\u1ee4l\u1ee5", "di", "na", "steeti", "Enugu", "na", "Nkanu", "West", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Minister", "of", "Education", "Dr.", "Amina", "Bello", "z\u1ee5r\u1ee5", "nd\u1ecb", "nkuzi", "n'Abuja", "."], "ner_tags": [3, 4, 5, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Emechara", "s\u1ecd", "nke", "Chief", "Emeka", "Ihedioha", "ga-ewere", "any\u1ecb", "na", "Owerri", "ibe", "ya", "."], "ner_tags": [0, 0, 0, 1, 2, 3, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Chinedu", "Agbim", "so", "nyere", "Malawi", "na", "Black", "Stars", "emeri"], "ner_tags": [1, 2, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["E", "b\u00001a", "k\u00001eere", "otu", "enyimba", "na", "Golden", "Eaglets", "n'ogige", "Uyo"], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 0, 5]}
+{"tokens": ["Ayo", "Makun", "mere", "egwuregwu", "n'ime", "obi", "Lagos"], "ner_tags": [1, 2, 0, 0, 0, 0, 5]}
+{"tokens": ["Nwata", "a", "s\u00001ee", "n'aha", "Ngozi", "Okonjo-Iweala", "n'ule"], "ner_tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Aha", "ihe", "omume", "bu", "Obi", "Cubana", "na", "Awka"], "ner_tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Macmillan", "b\u00001a", "Okechukwu", "Nwankwo"], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 1, 2]}
+{"tokens": ["Any\u1ecb", "g\u00001aar\u00001a", "ezina\u1ee5l\u1ecd", "na", "Port", "Harcourt", "na", "Nwanneka", "Edeh"], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 1, 2]}
+{"tokens": ["Akwa", "mmepe", "eme", "n'ime", "Obodo", "Enugu"], "ner_tags": [0, 0, 0, 0, 0, 5]}
+{"tokens": ["\u1ee4gb\u1ecd", "ala", "Sienna", "gara", "Ebonyi", "\u1ee5s\u1ecd", "osimiri"], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Chelsea", "ga", "eguzosi", "ike", "n'egwuregwu", "megide", "Arsenal"], "ner_tags": [5, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "nke", "Mercy", "Johnson", "b\u00001u", "ag\u1ee5\u1ee5", "ya"], "ner_tags": [0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Onye", "b\u1ee5", "g\u1ecd\u1ecdmenti", "any\u1ecb", "Buhari", "ma", "onye", "\u1ecdg\u1ee5"], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Egwu", "Flavour", "na", "Phyno", "na", "Zoro", "emeela", "nke", "\u1ecdh\u1ee5r\u1ee5"], "ner_tags": [0, 1, 2, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["Nk\u1ecbta", "James", "Bond", "b\u1ee5", "otu", "na", "fim"], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Glo", "butere", "na\u1ecbjiria", "\u1ee5d\u1ecb", "\u1ecdr\u1ee5", "\u1ecdh\u1ee5r\u1ee5"], "ner_tags": [0, 1, 0, 5, 0, 0, 0]}
+{"tokens": ["Ogechi", "Nnaji", "n\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "OAU", "Ile-Ife"], "ner_tags": [1, 2, 0, 0, 0, 5, 6]}
+{"tokens": ["Nd\u1ecb", "ntorob\u1ecba", "na", "Owerri", "gbak\u1ecdtara", "ime", "nubia"], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Mazi", "Uche", "Kalu", "r\u1ee5zuru", "\u1ecdr\u1ee5", "ya", "na", "Enugu"], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5]}
+{"tokens": ["\u1ee4m\u1ee5aka", "site", "na", "Zamfara", "n\u1ecdr\u1ecd", "n'\u1ee5l\u1ecd"], "ner_tags": [0, 0, 0, 5, 0, 0]}
+{"tokens": ["Okereke", "John", "Gregory", "zuru", "\u1ee5gb\u1ecdala", "site", "London", "gawa", "Abuja"], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 5]}
+{"tokens": ["Nneka", "gara", "Lagos", "izu", "ah\u0014b", "."], "ner_tags": [1, 0, 5, 0, 0, 0]}
+{"tokens": ["Emeka", "na", "Chinwe", "ga", "al\u00130", "n'Awka", "."], "ner_tags": [1, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "Na\u1ecbjir\u1ecba", "bi", "na", "Onitsha", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Nnamdi", "Azikiwe", "b\u1ee5", "onye", "isi", "ala", "mb\u1ee5", "Na\u1ecbjir\u1ecba", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "1st", "October", "1960", "b\u1ee5r\u1ee5", "independence", "day", "Na\u1ecbjir\u1ecba", "."], "ner_tags": [0, 3, 3, 3, 0, 0, 0, 5, 0]}
+{"tokens": ["Ngozi", "Okonjo-Iweala", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "n'\u1ee5wa", "dum", "."], "ner_tags": [1, 2, 0, 0, 4, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "United", "Nations", "nwere", "\u1ecdf\u1ecbs", "na", "New", "York", "."], "ner_tags": [0, 3, 3, 0, 0, 0, 3, 3, 0]}
+{"tokens": ["Chinedu", "kwes\u1ecbr\u1ecb", "\u1ecbga", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "na", "Ebonyi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Air", "Peace", "gara", "Abuja", "n'\u1ee5t\u1ee5t\u1ee5", "."], "ner_tags": [0, 3, 3, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "UNN", "t\u1ecdwa", "na", "Nsukka", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Zik", "nke", "2020", "m\u1ee5tara", "\u1ecdt\u1ee5t\u1ee5", "nd\u1ecb", "ntorob\u1ecba", "."], "ner_tags": [0, 1, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["\u1eccg\u1ee5", "Biafra", "meghar\u1ecbr\u1ecb", "ak\u1ee5k\u1ecd", "nd\u1ecb", "Na\u1ecbjir\u1ecba", "."], "ner_tags": [0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "MTN", "nyeere", "aka", "n'\u1ecdb\u00e1", "\u1ecdr\u1ee5", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Adaeze", "b\u1ecbara", "site", "n\u2019\u1ee4m\u1ee5ahia", "."], "ner_tags": [1, 0, 0, 5, 0]}
+{"tokens": ["\u1ecckp\u1ee5kp\u1ecd", "egwu", "Flavour", "emeela", "fine", "song", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Peter Obi", "sochiri", "r\u1ee5\u1ecd", "\u1ecdr\u1ee5", "dika", "g\u1ecdvan\u1ecd", "Anambra", "State", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 3, 0]}
+{"tokens": ["Mazi", "Uche", "jere", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "."], "ner_tags": [0, 1, 0, 0, 3, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Monday", "emeela", "ka", "az\u1ecdp\u1ee5ta", "\u1ecdt\u1ee5t\u1ee5", " nd\u1ee5", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Enyinnaya", "b\u1ee5", "m\u1ee5ta", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "FGGC", "Owerri", "."], "ner_tags": [1, 0, 0, 0, 0, 3, 5, 0]}
+{"tokens": ["Onyeisi", "eze", "Charles", "n\u1ecd", "n'Obodo", "Abagana", "."], "ner_tags": [0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["Eze", "Chukwuemeka", "Odumegwu", "Ojukwu", "nwetara", "akwukwo", "na", "University", "of", "Oxford", "."], "ner_tags": [1, 2, 2, 2, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Ala", "Nigeria", "kek\u1ecdr\u1ecbta", "kp\u1ecdmkwem", "na", "banyere", "Mazi", "Nnamdi", "Kanu", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Nnam", "nwunye", "Ya", "b\u1ee5", "Ngozi", "Okonjo-Iweala", "malitelara", "\u1ecdr\u1ee5", "na", "United", "Nations", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 2, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "nwere", "az\u1ee5mah\u1ecba", "na", "Rivers", "State", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Onyeisi", "John", "Obi", "kwadoro", "mmemme", "n'Abakaliki", "n'egwuregwu", "egwu", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Saint", "Mary's", "Hospital", "di", "na", "\u1ee4n\u1ecdcha", "."], "ner_tags": [4, 4, 4, 0, 5, 0, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Chinua", "Achebe", "juru", "eme", "n'\u1ee5wa", "dum", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Dangote", "z\u1ee5r\u1ee5", "ihe", "n\u2019ime", "Onitsha", "Market", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Mmad\u1ee5", "si", "Enugu", "kwaga", "n'Awka", "n'af\u1ecd", "2020", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4ka", "St.", "Paul's", "di", "na", "Obosi", "."], "ner_tags": [4, 4, 4, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Glo", "mere", "\u1ecdr\u1ee5", "n'Anambra", "State", "."], "ner_tags": [1, 2, 0, 0, 5, 6, 0]}
+{"tokens": ["Alhaji", "Ahmed", "Bello", "b\u1ee5r\u1ee5", "G\u1ecdvan\u1ecd", "Kaduna", "State", "af\u1ecd", "gara", "aga", "."], "ner_tags": [1, 2, 2, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Ogechi", "jere", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "na", "University", "of", "Lagos", "."], "ner_tags": [1, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "NBC", "na-egosi", "egosi", "n'\u1ee5l\u1ecd\u1ecdg\u1ee5g\u1ee5", "nta", "n'ime", "Nigeria", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "gara", "Zoo", "Park", "n'Enugu", "izu", "\u1ee5ka", "gara", "aga", "."], "ner_tags": [0, 0, 4, 4, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Amina", "Mohammed", "w\u1ee5r\u1ee5", "\u1ecdr\u1ee5", "UN", "."], "ner_tags": [1, 2, 2, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "nd\u1ecbisi", "SITE", "\u1ee4l\u1ecd\u1ecdr\u1ee5", "UBA", "na-ar\u1ee5", "\u1ecdt\u1ee5t\u1ee5", "\u1ecdr\u1ee5", "n'Abuja", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecdah\u1ecba", "Ebonyi", "nke", "Awka", "b\u1ee5r\u1ee5", "otu", "n'ime", "\u1ecdz\u1ee5z\u1ee5", "ego", "."], "ner_tags": [4, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "imeela", "na", "Monday", "mes\u1ecbr\u1ecb", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "INEC", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 1, 2, 0]}
+{"tokens": ["Professor", "Chigozie", "Obioma", "zere", "mkp\u1ecdr\u1ecd", "n'ime", "London", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdch\u1ecbch\u1ecb", "nke", "steeti", "Lagos", "kpebiela", "\u1ecbw\u1ee5nye", "\u1ee5z\u1ecd", "\u1ecdh\u1ee5r\u1ee5", "n'\u1ee5l\u1ecd akw\u1ee5kw\u1ecd", "City", "High", "School", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 6, 7, 0]}
+{"tokens": ["Onye", "ndu", "nd\u1ecb", "omeiwu", "Nigeria", ",", "Bola", "Tinubu", ",", "gakwuru", "Obodo", "Enugu", "na", "Monday", "."], "ner_tags": [0, 0, 0, 3, 0, 1, 2, 0, 5, 0, 0, 4, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "\u1eccma", "a", "meghee", "guzosiri", "ike", "n'ime", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "UNICEF", "n'Awka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Mmepe", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "na", "Nsukka", "getara", "nd\u1ecb", "biara", "site", "n'obodo", "Delta", "steeti", "maka", "\u1ecdgw\u1ee5", "m\u1ee5m\u1ee5", "nwa", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nke", "a", "b\u1ee5", "akw\u1ee5kw\u1ecd", "na-akp\u1ecd", "Things", "Fall", "Apart", "dere", "Chinua", "Achebe", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 1, 2, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Oilserv", "PLC", "nyere", "ecamatanagh\u1ecb", "nkwado", "na", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "St.", "Mary's", "Hospital", "\u1eccn\u1ecbcha", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 1, 2, 2, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5akw\u1ee5kw\u1ecd", "Mahadum", "Nnamdi", "Azikiwe", "meriri", "n'\u1ee5s\u1ecd", "mba", "g\u1ecd\u1ecdlf\u1ee5", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", "Union", "Bank", "ch\u1ecdta", "izizi", "\u1ee5\u1ecdr\u1ee5", "n'ah\u1ecba", "Stock", "Exchange", "Lagos", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["\u1ecckachamara", "na", "\u1ecdgw\u1ee5", "Dr.", "Ngozi", "Okonjo-Iweala", "gwara", "nd\u1ecb", "na-ere", "ahia", "n'Abia", "ka", "ha", "mara", "banyere", "COVID-19", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "r\u1ee5ruru", "\u1ecdgw\u1ee5", "agw\u1ecd", "\u1ee4kpa", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Pfizer", "na", "Germany", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 1, 2, 0]}
+{"tokens": ["Ihe", "omume", "Nd\u1ecb", "Igbo", "n'Oru", "Kuwait", "butere", "nganga", "n'obodo", "Kuwait", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Chief", "Emeka", "Anyaoku", "sochiri", "\u1ecdch\u1ecbch\u1ecd", "nke", "United", "Nations", ".(UN)"], "ner_tags": [1, 2, 2, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Saturday", "June", "25th", ",", "enwep\u1ee5tara", "mmemme", "\u1ecbh\u1ee5nanya", "n'\u1ee5l\u1ecd", "Ag\u1ee5makw\u1ee5kw\u1ecd", "Umuahia", "."], "ner_tags": [0, 4, 4, 4, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u1eccr\u1ee5", "eme", "banyere", "mmekota", "nd\u1ecb", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "na", "Port", "Harcourt", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 1, 2, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Zenith", "Bank", "mere", "emume", "\u1ecdma", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Central", "Bank", "of", "Nigeria", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 1, 2, 2, 3, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Stanbic", "IBTC", "t\u1ecdhap\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "ego", "n'otu", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Lagos", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["A", "kek\u1ecdp\u1ee5tara", "akw\u1ee5kw\u1ecd", "Anaedo", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "National", "Library", "Onitsha", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Egwu", "Igbo", "gara", "n'iru", "n'ime", "mmemme", "nke", "African", "Union", "n'Abuja", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Mmemme", "\u1ecdg\u1ee5", "nd\u1ecb", "Nigerian", "Army", "mere", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Enugu", "n'izu", "gafee", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Facebook", "Mark", "Zuckerberg", "butere", "\u1ecdkwa", "nleta", "Nigeria", "na", "2016", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 5, 0, 4, 0]}
+{"tokens": ["Uche", "gara", "Lagos", "izu", "\u1ee5ka", "gara", "aga", "\u1ee5l\u1ecd", "nne", "ya", "n\u2019ime", "Mgborie", "Village", "."], "ner_tags": [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dr.", "Onyema", "Eke", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "na", "Mahadum", "Nsukka", "kemgbe", "2010", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Izizi", "Oktoba", "b\u1ee5", "nyere", "nd\u1ecb", "Naijiria", "nnwere", "\u1ecdnwe", "ha", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee4l\u1ecd\u1ecdr\u1ee5", "UNICEF", "kwup\u1ee5tara", "\u1ecdr\u1ee5", "ha", "na", "Ghana", "na", "2021", "."], "ner_tags": [0, 0, 3, 5, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Ak\u1ee5k\u1ecd", "a", "banyere", "Emmanuel", "Okeke", "na-efe", "\u1ecdgw\u1ee5", "na", "Asaba", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 4, 0]}
+{"tokens": ["A", "m\u1ee5r\u1ee5", "ya", "na", "Obioma", "Ngwa", "n\u2019af\u1ecd", "1992", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "British", "Airways", "rutere", "n\u2019\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "nke", "Port", "Harcourt", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 3, 0, 5, 6, 0]}
+{"tokens": ["\u1eccch\u1ecbch\u1ecb", "Joe", "Biden", "kwalitere", "\u1ee5m\u1ee5", "akw\u1ee5kw\u1ecd", "n\u2019ala", "Amerika", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ecckp\u1ee5kp\u1ee5", "na-agba", "egwu", "na", "Nnamdi", "Azikiwe", "Stadium", ",", "Enugu", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 5, 0, 4, 0]}
+{"tokens": ["Mmemme", "Ariaria", "rice", "festival", "mere", "n\u2019abal\u1ecb", "\u1ee4ka", "n\u2019Ab\u1ecba", "State", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "St.", "Michael\u2019s", "Primary", "School", "d\u1ecb", "na", "\u1eccn\u1ecbtsha", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ada", "Ezike", "s\u1ecb", "na", "\u1ecd", "soro", "mman\u1ee5", "\u1ee5kw\u1ee5", "na", "Anambra", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdl\u1ee5l\u1ee5", "Human", "Rights", "Watch", "gara", "Uganda", "\u1ecbm\u1ee5", "mmemme", "."], "ner_tags": [0, 0, 1, 2, 3, 0, 5, 0, 0, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Prof.", "Ngozi", "Okonjo-Iweala", "ga-ab\u1ee5", "nd\u1ecb", "akw\u1ee5kw\u1ecd", "nke", "Africa", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccz\u1ecd", "anyas\u1ecb", "malite", "n\u2019isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "Petroleum", "Development", "Company", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 5, 6, 0]}
+{"tokens": ["Yesufu", "Amaechi", "ch\u1ecbk\u1ecdtara", "egwuregwu", "Olympic", "n\u2019ala", "Brazil", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Egbe", "mbu", "Naigeria-Biafra", "s\u1ecdp\u1ee5tara", "1947", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Enugu", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 3, 0, 4, 0]}
+{"tokens": ["Eze", "Chukwuemeka", "chetara", "\u1ecdr\u1ee5", "ya", "n\u2019\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Owerri", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 0, 5, 0]}
+{"tokens": ["Oge", "az\u1ee5maah\u1ecba", "Christmas", "b\u1ecbara", "ruo", "n\u2019\u1ee5l\u1ecd ah\u1ecba", "nke", "Abakaliki", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nwany\u1ecb", "aha", "ya", "bu", "Ifunanya", "Onwudiwe", "sochiri", "mgbe", "\u1ecd", "guzoro", "uni", "n\u2019Ime", "University", "of", "Ibadan", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0, 6, 0, 7, 0]}
+{"tokens": ["Governor", "Ifeanyi", "Okowa", "kwusiri", "ike", "na", "Delta", "State", "ga-emerukwa", "\u1ee5gw\u1ecd", "\u1ecdr\u1ee5", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Nd\u1ee5", "g\u1ecdvan\u1ecd", "Chukwuma", "Soludo", "n\u2019ime", "steeti", "Anambra", "ji", "oke", "\u1ecbz\u1ee5lite", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Nke", "a", "mere", "n\u2019\u1ee5l\u1ecd\u1ecdr\u1ee5", "MTN", "Nigeria", "n\u2019abal\u1ecb", "Friday", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 5, 7, 0]}
+{"tokens": ["A", "ch\u1ecdp\u1ee5tara", "petroleum", "n\u2019ime", "ugwu", "Enugu", "af\u1ecd", "1967", "."], "ner_tags": [0, 0, 7, 0, 0, 5, 6, 0]}
+{"tokens": ["Eze", "Onochie", "Merichukwu", "b\u1ee5", "onyeisi", "alaeze", "Umuleri", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Nigerian", "Brewery", "kwadoro", "mmemme", "a", "n\u2019\u1ee5l\u1ecd", "Nnamdi", "Azikiwe", "University", "."], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 5, 6, 5, 0]}
+{"tokens": ["Gburugburu", "na", "-", "emepechabegh\u1ecb", "\u1ee5z\u1ecd", "Abakaliki", "-", "Onitsha", "n\u2019ihi", "mmemme", "."], "ner_tags": [0, 0, 0, 0, 7, 7, 5, 0, 0, 0]}
+{"tokens": ["\u1ecct\u1ee5t\u1ee5", "nd\u1ecb", "m\u1ee5ta", "akw\u1ee5kw\u1ecd", "as\u1ee5s\u1ee5", "Igbo", "na", "Mahadum", "Nsukka", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 5, 6, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "ah\u1ecba", "nke", "Ukpor", "na", "Nsukka", "gara", "n\u2019ihu", "dabere", "na", "mkpebi", "ugwu", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Am\u1ee5tala", "onye", "isi", "MISTA", "Chike", "Obi", "mahuru", "akw\u1ee5kw\u1ecd", ",", "b\u1ee5", "onye", "na", "-", "egosi", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "Governor", "site", "na", "mba", "Ghana", "so", "na", "mmemme", "na", "Lagos", "."], "ner_tags": [0, 1, 0, 0, 5, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccr\u1ecba", "COVID-19", "butere", "nd\u1ecb", "bi", "na", "Onitsha", "ihe", "isi", "ike", "."], "ner_tags": [0, 7, 7, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecdala", "Toyota", "Camry", "w\u1ee5p\u1ee5p\u1ee5tara", "n\u2019af\u1ecd", "2018", "ji", "ike", "gbaa", "."], "ner_tags": [7, 8, 8, 0, 0, 6, 0, 0, 0]}
+{"tokens": ["Uche", "Ekwunife", "so", "na", "any\u1ecb", "na-an\u1ecdchi", "Anambra", "Central", "n'\u1ee5l\u1ecd", "ns\u1ecd", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["\u1eccr\u1ee5", "nd\u1ecb", "police", "n\u2019ime", "Enugu", "emegh\u1ecb", "ka", "echere", "."], "ner_tags": [0, 0, 3, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "duuru", "nd\u1ecb", "\u1ecdz\u1ee5z\u1ee5", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "British", "Council", "na", "Awka", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 4, 5, 0]}
+{"tokens": ["Nd\u1ecb", "otu", "Ekpere", "Nd\u1ecb", "Kristi", "mere", "mmemme", "n\u2019\u1ee5l\u1ecd", "St.", "Paul", "na", "Umuahia", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 5, 6, 0, 5, 0]}
+{"tokens": ["Ah\u1ecba", "nke", "Ymca", "b\u1ee5r\u1ee5", "otu", "n\u2019ime", "ah\u1ecba", "kas\u1ecb", "\u1ecbt\u1ee5kwas\u1ecb", "obi", "na", "Owerri", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Az\u1ee5mah\u1ecba", "nd\u1ecb", "bish\u1ecdp", "emeela", "mkpebi", "na", "Owerri", "Steeti", "Imo", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Chinua", "Achebe", "dere", "akw\u1ee5kw\u1ecd", "Things", "Fall", "Apart", "n\u2019af\u1ecd", "1958", "."], "ner_tags": [1, 2, 0, 0, 7, 7, 7, 0, 6, 0]}
+{"tokens": ["\u1ecc", "b\u1ee5goro", "nd\u1ecb", "\u1ecdr\u1ee5", "Sitech", "n\u2019\u1ee5l\u1ecd\u1ecdr\u1ee5", "Rangers", "International", "F.C."], "ner_tags": [0, 0, 0, 0, 3, 0, 4, 4, 4]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "mb\u1ee5", "n'af\u1ecd", "2021", ",", "e", "mere", "nn\u1ecdk\u1ecd", "nke", "isi", "\u1ecdr\u1ee5", "n'ime", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "UNN", "."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Obiageli", "Ezekwesili", "b\u1ee5", "otu", "n\u2019ime", "nd\u1ecb", "s\u1ecdp\u1ee5ta", "\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Human", "Capital", "Africa", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 3, 4, 5, 6, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Aero", "k\u1ee5r\u1ee5", "\u1ee5l\u1ecd", "any\u1ecb", "ebe", "Lagos", "di", ",", "ma", "ihe", "mere", "b\u1ee5", "nke", "mberede", "."], "ner_tags": [0, 0, 7, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1eccz\u1ecd", "di", "na", "nzuk\u1ecd", "wuru", "na", "\u1ee4ka", "St.", "Paul", "n'Awka", "gbara", "\u1ee5b\u1ecdch\u1ecb", "Sat\u1ecddee", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 5, 6, 0, 0, 7, 0]}
+{"tokens": ["Nd\u1ecb", "nd\u1ecb", "isi", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Nigerian", "Breweries", "natara", "nrite", "nke", "mba", "Nigeria", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 6, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Mkp\u1ee5r\u1ee5", "okwu", "a", "si", "Peter", "Obi", "na", "\u1ecd", "ga-eso", "nd\u1ecb", "ntorob\u1ecba", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Chukwuemeka", "Odumegwu", "Ojukwu", "University", "n\u1ecd", "na", "steeti", "Anambra", "."], "ner_tags": [1, 2, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccr\u1ee5", "mmepe", "any\u1ecb", "wetara", "ns\u1ecdp\u1ee5r\u1ee5", "na", "mba", "Germany", "na", "France", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0, 8, 0]}
+{"tokens": ["Emeka", "nwuru", "na", "be", "ya", "n'Abakaliki", ",", "n'otu", "\u1ee5b\u1ecdch\u1ecb", "Sat\u1ecddee", "."], "ner_tags": [1, 0, 0, 0, 0, 7, 0, 0, 0, 8, 0]}
+{"tokens": ["Obodo", "Enugu", "b\u1ee5", "otu", "n'ime", "nd\u1ecb", "isi", "ebe", "\u1ecdr\u1ee5", "nta", "ak\u1ee5k\u1ecd", "Nigeria", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 3, 4, 6, 0, 7, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "s\u1ecb", "na", "Af\u1ecd", "\u1ecdh\u1ee5r\u1ee5", "ga-amalite", "n'\u1ecdnwa", "Jen\u1ee5war\u1ecb", "2024", "."], "ner_tags": [0, 4, 5, 0, 0, 0, 0, 0, 0, 0, 7, 4, 0]}
+{"tokens": ["A", "kachas\u1ecb", "mara", "\u1ee5t\u1ee5t\u1ee5", "nke", "Tuesday", ",", "12th", "March", "2024", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 8, 8, 4, 0]}
+{"tokens": ["Ihe", " omume ", "nd\u1ecb", "\u1ecck\u1ee5chukwu", "mere", "n'ime", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "onyinye", "banyere", "UNICEF", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "site", "na", "steeti", "Imo", "gakwuru", "\u1ecdr\u1ee5", "na", "Owerri", "."], "ner_tags": [0, 5, 0, 0, 0, 7, 0, 0, 3, 0]}
+{"tokens": ["Nd\u1ecb", "nd\u1ecb", "isi", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Federal", "Ministry", "of", "Education", "zuteere", "na", "Abuja", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 6, 7, 0, 8, 0]}
+{"tokens": ["Ak\u1ee5k\u1ee5", "\u1eccz\u1ecd", "biliri", "na", "\u1ee5l\u1ecdikpe", "g\u1ecb", "n\u2019Awka", "\u1ee5t\u1ee5t\u1ee5", "a", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0, 0, 0]}
+{"tokens": ["Ikpe", "Ugwu", "na", "Onyema", "gakwara", "mba", "South", "Africa", ",", "mad\u1ee5", "wep\u1ee5tara", "ha", "n\u2019\u1ecct\u1ee5\u1ee5w\u1ee5", "."], "ner_tags": [0, 1, 0, 1, 0, 0, 7, 8, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "ala", "gafee", "na", "Bridge", "River", "n\u2019ime", "\u1ecdt\u1ee5t\u1ee5", "\u1ecdr\u1ee5", " nd\u1ecb", "g\u1ecd\u1ecdmenti", "mere", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["N\u1ecdmba", "nd\u1ecb", "akw\u1ee5kw\u1ecd", "debere", "\u1ee5gw\u1ecd", "ego", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "UBA", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Ncheta", "af\u1ecd", "nd\u1ecb", "isi", "steeti", "Ebonyi", "banyere", "\u1ecdr\u1ee5", "Na\u1ecbjiria", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 0, 8, 0]}
+{"tokens": ["Nd\u1ee5m\u1ecdd\u1ee5", "nd\u1ecb", "\u1ecdk\u00e0", "ikpe", "nwetara", "nnwereonwe", "n'az\u1ee5", "ocha", "na", "Sweden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "MTN", "malitere", "\u1ecdr\u1ee5", "ya", "n'Na\u1ecbjir\u1ecba", "af\u1ecd", "2001", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Eze", "Obi", "\u1eccf\u1ecdnna", "b\u1ee5", "onye", "isi", "n'Obosi", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Ogechi", "b\u1ee5r\u1ee5", "onye", "na-emeputa", "ihe", "n'af\u1ecd", "2023", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", "United", "Nations", "z\u1ee5r\u1ee5", "\u1ecdz\u1ee5z\u1ee5", "n'ime", "Lagos", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Afa", "Chimamanda", "Ngozi", "Adichie", "jiri", "merie", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "mba", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "nd\u1ecb", "Afr\u1ecbka", "manyere", "ibi", "na", "France", "n'oge", "agha.", ""], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Ugwu", "Okoye", "d\u1ecb", "elu", "na", "steeti", "Enugu", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Emeka", "n\u1ecdr\u1ecd", "izu", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "n'ime", "Awka", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Air", "Peace", "ga-ap\u1ee5", "na", "Abuja", "\u1ee5t\u1ee5t\u1ee5", "Thursday", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 5, 0, 0, 8, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "June", "12", "na-eme", "ugbu", "awa", "n'Na\u1ecbjir\u1ecba", "."], "ner_tags": [0, 8, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "\u1ecdg\u1ee5", "so", "n'ak\u1ee5k\u1ee5", "Boko", "Haram", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Aha", "\u1ee5f\u1ecdd\u1ee5", "nd\u1ecb", "na-eto", "banyere", "Ag\u1ee5", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Nd\u1ecb", "nt\u1ee5r\u1ee5nd\u1ee5", "d\u1ecb", "na", "\u1ee4l\u1ecd", "Nzuk\u1ecd", "Abuja", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Steeti", "Imo", "b\u1ee5", "otu", "n'ime", "steeti", "ala", "Na\u1ecbjir\u1ecba", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "n\u1ee5r\u1ee5", "okwu", "site", "n'aka", "Dr", "Ngozi", "Okonjo-Iweala", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 2, 2, 0]}
+{"tokens": ["\u1ecckachamara", "n'ime", "any\u1ecb", "nke", "Stanford", "University", "zuru", "ulu", "n'as\u1ee5s\u1ee5", "Igbo", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccr\u1ee5", "oil", "n'ala", "Niger", "Delta", "ewekwara", "oke", "nd\u1ecb", "obodo", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Nt\u1ee5r\u1ee5nd\u1ee5", "Afr\u1ecbk\u1ecd", "nke", "Egypt", "mere", "ka", "nd\u1ecb", "Europe", "bata", "n'Africa", "."], "ner_tags": [0, 5, 0, 5, 0, 0, 0, 6, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Iri", "na", "Ab\u1ee5\u1ecd", "Mee", "af\u1ecd", "2022", "ka", "e", "mechie", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "n'Anambra", "."], "ner_tags": [0, 8, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4t\u1ee5t\u1ee5", " \u1ecdma", ",", "Nke", " a", " b\u1ee5", " Akwa", " Ibom", " m", " kp\u1ecdr\u1ecd", " g\u1ecb", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Onyeisi", " \u1ecdz\u1ee5z\u1ee5", " Barcelona", " kwup\u1ee5tara", " na", " egwuregwu", " ha", " megide", " Real", " Madrid", " d\u1ecb", " n\u2019", " \u1ee5b\u1ecdch\u1ecb", " Sat\u1ecdde", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Chioma", " gara", " \u1ee5l\u1ecd", " akw\u1ee5kw\u1ecd", " University", " of", " Nigeria", ",", " Nsukka", "."], "ner_tags": [1, 0, 0, 0, 3, 4, 4, 5, 0]}
+{"tokens": ["\u1ecct\u1ee5t\u1ee5", " \u1ee5m\u1ee5aka", " si", " obodo", " Obollo", " Afor", " b\u1ecbara", " \u1ee5b\u1ecdch\u1ecb", " \u1ecdm\u1ee5m\u1ee5", " Ngozi", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 1, 0]}
+{"tokens": ["Emeka", " b\u1ee5", " onye", " njem", " si", " Germany", " b\u1ecba", " Afr\u1ecbka", " Izizi", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 5, 0, 0]}
+{"tokens": ["Onyeisi", " Nigeria", " Police", " Force", ",", "IGP", " Usman", " Baba", ",", " kwuru", " okwu", "."], "ner_tags": [0, 5, 4, 4, 0, 3, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", " Igbo", " na", " nd\u1ecb", " Yoruba", " biri", " na", " Lagos", " ogologo", " af\u1ecd", "."], "ner_tags": [0, 5, 0, 0, 5, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", " Wenezdee", ",", " \u1ee5m\u1ee5akw\u1ee5kw\u1ecd", " mechiri", " \u1ee5l\u1ecd", " akw\u1ee5kw\u1ecd", " Garki", " Abuja", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", " a", " ka", " e", " mere", " mmemme", " Afia", " Olu", " n\u2019", "Aba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Chinedu", " z\u1ee5tara", " \u1ee5gb\u1ecdala", " Honda", " Accord", " \u1ecdh\u1ee5r\u1ee5", " n'af\u1ecd", " gara-aga", "."], "ner_tags": [1, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Professor", " Dora", " Akunyili", " dugara", " NAFDAC", " \u1ecdt\u1ee5t\u1ee5", " af\u1ecd", "."], "ner_tags": [3, 1, 2, 0, 5, 0, 0, 0]}
+{"tokens": ["Onye", " isi", " \u1ee5l\u1ecd", "ikpe", " Enugu", " goro", " ikpe", " n'\u1ee5l\u1ecd", "ikpe", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", " \u1ecdr\u1ee5", " Dangote", " Cement", " d\u1ecb", " n\u2019", "Obajana", ",", "Kogi", " State", "."], "ner_tags": [0, 0, 1, 2, 3, 0, 5, 0, 5, 5, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", " Chinua", " Achebe", " b\u1ee5", " uche", " na-ak\u1ecd", " ak\u1ee5k\u1ecd", " nd\u1ee5", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mgbago", " Ugwu", " d\u1ecb", " n'\u1ee5b\u1ecdch\u1ecb", " Wednesday", ",", "Mee", " 24", ",", "2023", "."], "ner_tags": [0, 1, 0, 0, 5, 0, 5, 5, 0, 5, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", " nd\u1ecb", " si", " Abakaliki", " kwaga", " Ebonyi", " State", " n\u2019", "af\u1ecd", " gara-aga", "."], "ner_tags": [0, 0, 0, 1, 0, 5, 5, 0, 0, 0, 0]}
+{"tokens": ["Onyebuchi", " soro", " \u1ee5m\u1ee5nna", " ya", " gaa", " agbamakw\u1ee5kw\u1ecd", " Dorothy", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["\u1eccr\u1ee5", " Google", " gbanwere", " nd\u1ee5", " \u1ee5m\u1ee5any\u1ecb", " n'oge", " a", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5 nwany\u1ecb", " Alor", " mer\u1ee5\u1ecdla", "debe", " nnukwu", " \u1ee5l\u1ecd", " ah\u1ecba", " n'ah\u1ecba", " Onitsha", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Patrick", " b\u1ee5", " onye", " isi", " \u1ee5l\u1ecd", "\u1ecdr\u1ee5", " Shell", " Petroleum", " Development", " Company", " of", " Nigeria", " Limited", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 5, 4, 0]}
+{"tokens": ["Obi", "gara", "Abuja", "na", "Tuezdii", "."], "ner_tags": [1, 0, 5, 0, 6, 0]}
+{"tokens": ["Adaeze", "na", "Chidi", "b\u001ee", "n'\u0000eel\u001ee", "Owerri", "na", "Imo", "State", "."], "ner_tags": [1, 0, 1, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["Uche", "nwetara", "akw\u00024!kw\u00000e", "mah\u000030", "n'\u00000e", "School", "of", "Philosophy", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["A", "g\u00004b\u00001b\u000045", "eziokwu", "na", "Francis", "Onyeka", "b\u001aduuru", "Nigerian", "Police", "Force", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 5, 6, 7, 0]}
+{"tokens": ["Nwunye", "John", "merie", "ite", "ofe", "na", "Enugu", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nkechi", "bethere", "na", "Mazi", "Okonkwo", "n'\u00000e", "Lagos", ",", "Nigeria", "."], "ner_tags": [1, 0, 0, 1, 2, 0, 5, 0, 5, 0]}
+{"tokens": ["Emebere", "mmemme", "af\u00004b", "mba", "Igbo", "na", "Disemba", "25", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 6, 7, 0]}
+{"tokens": ["Ihe", "mere", "n'\u00000e", "Oyigbo", "b\u00001uu", "egwu", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Dr.", "Nnamdi", "Kanu", "b\u001ee", "isi", "ndi", "IPOB", "."], "ner_tags": [8, 1, 2, 0, 0, 0, 3, 0]}
+{"tokens": ["Ogechi", "wegara", "akw\u00024!kw\u00000e", "n'\u00000e", "Onitsha", "."], "ner_tags": [1, 0, 0, 0, 5, 0]}
+{"tokens": ["Ah\u0000e4", "okwu", "a", "b\u00001u", "'Zik'", "n'ak\u00004a", "n'ihe", "nd\u00001a", "Nnamdi", "Azikiwe", "mere", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Nwa", "anyi", "na\u00014b", "b\u00001u", "Sunday", "Okoro", "si", "Port", "Harcourt", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 5, 6, 0]}
+{"tokens": ["Onye", "ndu", "Briten", "b\u00001u", "Charles", "III", "."], "ner_tags": [0, 0, 5, 0, 1, 8, 0]}
+{"tokens": ["Ijeoma", "n\u00001a", "ebe", "a", "n'\u00000e", "University", "of", "Ibadan", "."], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Amaara", "na", "Minista", "Nkechi", "Okafor", "soro", "na", "mmemme", "a", "."], "ner_tags": [0, 0, 8, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Ha", "kwup\u00001a", "okwu", "n'ala", "Amerika", "b\u00001u", "Barack", "Obama", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 1, 2, 0]}
+{"tokens": ["Eze", "Mbaise", "zuru", "ozo", "n'\u00000e", "March", "2022", "."], "ner_tags": [1, 2, 0, 0, 0, 6, 7, 0]}
+{"tokens": ["Echiche", "Umu", "Ibo", "dika", "ndu", "Afrika", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd", "akw\u00024!kw\u00000e", "nke", "St.", "Peter's", "Catholic", "Church", "b\u00001u", "Fr.", "Matthew", "Obi", "."], "ner_tags": [0, 0, 0, 0, 8, 1, 2, 0, 8, 1, 2, 0]}
+{"tokens": ["Egwu", "a", "b\u00001u", "okwu", "okwu", "Burnaboy", "mere", "na", "London", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4t\u1ee5t\u1ee5", "\u1ee4ka", "nke", "Nd\u1ecb", "Kristi", "na", "St.", "John's", "Cathedral", "kwa", "Sunday", "d\u1ecb", "iche", "n'Anambra", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Governor", "Chukwuma", "Soludo", "nyefere", "ego", "ruru", "otu", "nde", "na", "Nnewi", "Hospital", "."], "ner_tags": [3, 1, 2, 0, 0, 0, 0, 0, 5, 4, 0]}
+{"tokens": ["Ezinne", "Ngozi", "Okafor", "b\u1ee5", "onye", "isi", "\u1ee5l\u1ecd", ".", "A", "na-am\u1ee5", "akw\u1ee5kw\u1ecd", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Queen's", "College", "n'Uyo", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Arsenal", "meriri", "Chelsea", "n'egwuregwu", "Premier", "League", "n'\u1ee5b\u1ecdch\u1ecb", "Sat\u1ecddee", "."], "ner_tags": [5, 0, 5, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["\u1ee4z\u1ecd", "\u1ee5gb\u1ecd", "ala", "gabigara", "n'obodo", "Owerri", "juru", "nd\u1ecb", "\u1ecds\u1ecd", "enwegh\u1ecb", "isi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "raara", "\u1ecdkp\u1ee5", "Peter", "na", "Paul", "n'\u1ecdr\u1ee5", "ns\u1ecd", "n'\u1ee5ka", "St.", "Mark's", "."], "ner_tags": [0, 0, 0, 1, 0, 1, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Onyeisi", "\u1ecdch\u1ecbch\u1ecb", "Ugwuanyi", "kwup\u1ee5tara", "mmepe", "\u1ecdgb\u1ecd", "enwerela", "na", "Enugu", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Onye", "agwa", "Lauretta", "Onochie", "bido", "ime", "\u1ecdr\u1ee5", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "\u1ecdch\u1ecbch\u1ecb", "Abuja", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ezina\u1ee5l\u1ecd", "onye", "a", "biara", "site", "n'obodo", "Afikpo", "na", "Ebonyi", "State", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5, 4, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Shell", "plc.", "p\u1ee5r\u1ee5", "iche", "n'\u1ecdr\u1ee5", "mmep\u1ee5ta", " \u1ecdk\u1ee5", "na", "Port", "Harcourt", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 0, 5, 4, 0]}
+{"tokens": ["\u1ecc", "ga-ap\u1ee5ta", "n'akw\u1ee5kw\u1ecd", "India", "na", "ruo", "Lagos", "pres\u1ecd", "Vietnam", "na", "China", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Nwunye", "Af\u1ecd", "nke", " \u1ee5wa", "emechaala", "n'\u1ee4m\u1ee5ahia", "be", "any\u1ecb", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1eccmar\u1ecbcha", "\u1ecdt\u1ee5t\u1ee5", "\u1ee5l\u1ecd", "kr\u1ecdstian", "d\u1ecb", "n'Owerri", "West", "Local", "Government", "Area", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 4, 4, 4, 0]}
+{"tokens": ["Nwany\u1ecb", "Sandra", "\u1ecb ga-ezuk\u1ecdta", "n'\u1ee5l\u1ecd", "\u1ee5l\u1ecd", "\u1ee5l\u1ecd", "oyibo", "nke", "Bristol", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Mmemme", "\u1ecbgba", " nkw\u1ee5r\u1ee5", "na-eme", "kwa", " af\u1ecd", " na", "Royal", "Palace", "n'Asaba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "Government", "Secondary", "School", "Nsukka", "nwetaara", "\u1ecdr\u1ee5", "aka", "n'aka", "UNICEF", "."], "ner_tags": [0, 0, 3, 4, 4, 5, 0, 0, 0, 3, 0]}
+{"tokens": ["Ihe", "\u1ecdch\u1ecb", "gafere", "\u1ecdgb\u1ecd", "\u1ee5t\u1ee5t\u1ee5", "Naija", "rue", "nt\u1ecb", "Rap", "Umunna", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4kw\u1ee5", "machara", "eme", "n'\u1ecdn\u1ee5", "ah\u1ecba", "Onitsha", "butere", "\u1ee5da", "Japan", "gara", "any\u1ecb", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 5, 0, 0]}
+{"tokens": ["\u1ecct\u1ee5t\u1ee5", "mmad\u1ee5", "gakwuru", "Ogige", "\u1ee4kw\u1ee5", "n'\u1ee5b\u1ecdch\u1ecb", "Monday", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "MTN", "Nigeria", "nyefere", " \u1ee5gw\u1ecd", "akw\u1ee5kw\u1ecd", "n'ah\u1ecba", "Owerri", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Aha", "m", "b\u001da", "Ifesinachi", "Okoye", "si", "na", "Obosi", "bata", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 5, 0, 0]}
+{"tokens": ["Aka", "nd\u001b", "any\u1ecb", "r\u1ee5r\u1ee5", " \u1ecdr\u1ee5", " \u1ee5l\u1ecd", " \u1ecdr\u1ee5", " Enugu", " b\u1ee5", " ezigbo", " ihe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Izunna", "Anyadike", " ugbu", " a", ",", " n\u1ecd", " na", " London", " r\u1ee5\u1ecd", " \u1ecdr\u1ee5", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", " \u1ee5wa", " Naijiria", " mere", " nnwale", " a", " b\u1ee5", " abal\u1ecb", " Saturday", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["K\u1ecdmitii", " UNESCO", " gara", " Awka", " \u1ecbhazi", " mmemme", "."], "ner_tags": [0, 1, 0, 5, 0, 0, 0]}
+{"tokens": ["Onyeisi", " \u1ecdgw\u1ee5", " b\u1ee5", " Dr.", " Nnenna", " Eze", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", " Christ", " the", " King", " n\u1ecd", " n\u2019", " Onitsha", "."], "ner_tags": [0, 0, 1, 1, 1, 0, 0, 5, 0]}
+{"tokens": ["Ememe", " Iri", " Ji", " Ab\u1ee5ba", " ga", " eme", " n\u2019", " Ogidi", " af\u1ecd", " a", "."], "ner_tags": [0, 8, 8, 8, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["As\u1ee5s\u1ee5", " Igbo", " g\u1ee5s\u1ecbr\u1ecb", "\u1ecbr\u1ecb", "\u1ecdr\u1ee5", "a", "mmet\u1ee5ta", "m", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ee5", " oge", " Agha", " Biafra", " nwere", " \u1ecdt\u1ee5t\u1ee5", " ak\u1ee5k\u1ecd", " banyere", " ya", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nna", "ya", "b\u1ee5", "Pas\u1ecbt\u1ecd", "Chukwuemeka", "Ubah", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", " WHO", " nyere", " aka", " n'\u1ecdr\u1ee5", " ah\u1ee5", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", " gara", " Lagos", " izute", " enyi", " ya", " Emeka", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 1, 0]}
+{"tokens": ["A", " kp\u1ecdr\u1ecd", " ya", " Ngozi", " Ebere", " na", " nwanne", " ya", " Sunday", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 1, 0]}
+{"tokens": ["Ezin\u1ee5l\u1ecd", " Okafor", " sitere", " n\u2019", " Ebonyi", " Steeti", "."], "ner_tags": [0, 1, 0, 0, 5, 6, 0]}
+{"tokens": ["A", " ga", " eme", " mkpebi", " n\u2019", " \u1ee5l\u1ecd", "ikpe", " Abuja", " echi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 5, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", " Shell", " n\u1ecd", " n'\u1ecdh\u1ecba", " Delta", "."], "ner_tags": [0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["Mmeghar\u1ecb", " siri", " na", " France", " nweta", " nnukwu", " nkwado", "."], "ner_tags": [0, 0, 0, 10, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5akw\u1ee5kw\u1ecd", " Gburugburu", " obodo", " si", " na", " Anambra", " steeti", " b\u1ecbara", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["Ah\u1ecba", "\u1ecchia", "Aba", " ar\u1ee5chara", " ka", " \u1ecd", " d\u1ecb", " \u1ecdh\u1ee5r\u1ee5", "."], "ner_tags": [0, 1, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4z\u1ecd", "Mark", "gbuuru", "b\u1ee5", "n'ime", "obodo", "Nsukka", "nke", "steeti", "Enugu", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 6, 0, 0]}
+{"tokens": ["Emeka", "Okafor", "ga-egwuri", "na", "Super", "Eagles", "n\u2019egwuregwu", "a."], "ner_tags": [1, 2, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Sahara", "Group", "mepee", "\u1ecdf\u1ecbs", "\u1ecdh\u1ee5r\u1ee5", "n\u2019\u1eccn\u1ecbcha", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "nke", "University", "of", "Nigeria", "Nsukka", "gbara", "protest", "\u1ee5nyaah\u1ee5", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["Emebere", "onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Nigerian", "Ports", "Authority", "nke", "\u1ecdh\u1ee5r\u1ee5", "\u1ee5b\u1ecdch\u1ecb", "T\u1ecdzdee", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 0, 0, 1, 0]}
+{"tokens": ["Ejula", "Arinze", "zuru", "ugwo", "n'aka", "akaikpe", "Justice", "Nwosu", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 1, 0]}
+{"tokens": ["\u1ee4m\u1ee5nna", "nke", "Obi", "Ezenwata", "n\u2019agbata", "Obosi", "na", "Ojoto", "jik\u1ecdtara", "mm\u1ee5\u1ecd", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "akw\u1ee5kw\u1ecd", "Adaobi", "Tricia", "Nwaubani", "meriri", "ngalaba", "Ak\u1ee5k\u1ee5", "akw\u1ee5kw\u1ecd", "Afr\u1ecbka", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Mmemme", "ihe", "ndigbo", "juru", "na", "Nkwo", "Nnewi", "n\u2019izu", "a", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["Chinedu", "Ikedieze", "na", "Osita", "Ihe", "nyeere", "aka", "n\u2019omume", "egwuregwu", "Lagos", "."], "ner_tags": [1, 2, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccr\u1ee5", "\u1ee5l\u1ecd \u1ecdgw\u1ee5", "St.", "Charles", "na-enye", "nd\u1ee5m\u1ecdd\u1ee5", "nke", "\u1ecdk\u1ee5k\u1ecd", "Anambra", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "Petroleum", "Development", "Company", "wep\u1ee5tara", "osisi", "mm\u1ee5ta", "n\u2019ala", "Rivers", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", " \u1ecdb\u1ee5na", "nke", "\u1ee4l\u1ecd", "\u1ecdgw\u1ee5", "Federal", "Medical", "Centre", "Owerri", "kwadoro", "Ifeanyi", "Anyaribe", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 4, 0, 1, 2, 0]}
+{"tokens": ["\u1ecct\u1ee5t\u1ee5", " \u1ee5m\u1ee5aka", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "nke", "Ama", "Ata", "Aidoo", "gara", "klas", "na", "Enugu", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Steeti", "Abia", "natara", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ngwa\u1ecdr\u1ee5", "Doctors", "Without", "Borders", "."], "ner_tags": [5, 6, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Mmepe", "\u1ecdr\u1ee5", "nke", "Governor", "Charles", "Soludo", "g\u1ecbnyere", "usoro", "\u1ecdz\u1ee5z\u1ee5", "n\u2019Awka", "."], "ner_tags": [0, 0, 0, 3, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Ogechi", "Adaeze", "kere", "inyom", "iji", "geere", "na", "mtv", "base", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Onyeisi", "Police", "Johnson", "Okeke", "kwadoro", "mbubata", "aga", "na", "Owerri", "."], "ner_tags": [0, 3, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Glo", "nyefere", "akw\u1ee5kw\u1ecd", "\u1ecdma", "n\u2019ezin\u1ee5l\u1ecd", "Eze", "nke", "Imo", "."], "ner_tags": [3, 4, 0, 0, 0, 1, 0, 5, 0]}
+{"tokens": ["As\u1ee5s\u1ee5", "nd\u1ecb", "Igbo", "ka", "a", "n\u1ee5r\u1ee5", "na", "United", "States", "na", "mba", "d\u1ecb", "iche", "iche", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "George", "Ekezie", "gara", "Uganda", "maka", "nzuk\u1ecd", "nd\u1ecb", "\u1ecdm\u1ee5m\u1ee5", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "b\u1ee5", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Shell", "\u1ecd", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "ot\u00fa", "\u1ecd", "t\u1ee5r\u1ee5", "anya", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "r\u1ecb\u1ecdr\u1ecd", "Chinyere", "Oguejiofor", "ka", "\u1ecd", "ziga", "akw\u1ee5kw\u1ecd", "na", "Berlin", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4z\u1ecd", "uku", "n'etiti", "Enugu", "na", "Nsukka", "mechiri", "eme", "\u1ee5b\u1ecdch\u1ecb", "Izu", "\u1ee5ka", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Ijeoma", "\u1ee5gw\u1ecdr\u1ee5", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "St.", "Mary's", "n'ime", "Nnewi", "."], "ner_tags": [1, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Aha", "any\u1ecb", "Nkem", "Okoye", "b\u1ee5", "nwanne", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "nke", "Onitsha", "General", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 5, 1, 2, 0]}
+{"tokens": ["\u1ecc", "gbara", "egwuregwu", "Football", "Club", "Barcelona", "ma", "meere", "\u1ecdmar\u1ecbcha", "\u1ecdkp\u1ee5kp\u1ecd", "."], "ner_tags": [0, 0, 0, 1, 2, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Guinness", "Nigeria", "nyefere", "onyinye", "na", "ag\u1ee5makw\u1ee5kw\u1ecd", "Victoria", "Island", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 5, 3, 4, 0]}
+{"tokens": ["Obi", "Weziana", "b\u1ecbara", "site", "na", "Jos", "g\u1ee5p\u1ee5ta", "akw\u1ee5kw\u1ecd", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "University", "of", "Ibadan", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "S\u1ecdnde", "emechiri", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Federal", "Ministry", "of", "Health", "."], "ner_tags": [6, 3, 4, 0, 0, 0, 1, 2, 0, 0, 1, 2, 0]}
+{"tokens": ["Emebere", "\u1ecdgbak\u1ecd", "nd\u1ecb", "ntorob\u1ecba", "na", "Awka", "n'ime", "\u1ecdg\u1ecd", "Easter", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 3, 4, 0]}
+{"tokens": ["\u1ecct\u1ee5t\u1ee5", "nd\u1ecb", "ezina\u1ee5l\u1ecd", "Chukwuemeka", "Ezeife", "b\u1ecba", "site", "n'\u1ee5s\u1ecd", "ose", "Niger", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["A", "n\u1ecd", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "United", "Nations", "Secretariat", "n'\u1ee5b\u1ecdch\u1ecb", "Wenezde", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 6, 0]}
+{"tokens": ["Oge", "\u1ecbz\u1ee5 ah\u1ecba", "emechara", "ogige", "Eke", "n'\u1ee5b\u1ecdch\u1ecb", "T\u1ecdzdee", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "ikpe", "High", "Court", "Abakaliki", "gw\u1ecdr\u1ecd", "okwu", "nd\u1ecb", "akw\u1ee5kw\u1ecd", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 1, 2, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nwunye", "Felicia", "Okafor", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "University", "of", "Nigeria", "Nsukka", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 1, 2, 5, 5, 0]}
+{"tokens": ["Ezigbo", "nne", "\u1ecdz\u1ecd", "p\u1ee5r\u1ee5", "si", "Ghana", "b\u1ecba", "n'\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "Lagos", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ecc", "ruru", "\u1ecdkwa", "Director-General", "na", "Nigerian", "Ports", "Authority", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 1, 2, 0]}
+{"tokens": ["\u1eccm\u1ee5m\u1ee5", "akw\u1ee5kw\u1ecd", "Ga", "eme", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Holy", "Child", "School", "\u1ecan\u1ecb", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 1, 2, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "Chevron", "\u1ecbkp\u1ecdr\u1ecd", "meeting", "na", "Port", "Harcourt", "n'\u1ee5b\u1ecdch\u1ecb", "Sat\u1ecddee", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 5, 5, 0, 6, 0]}
+{"tokens": ["Obiageli", "ga", "leta", "mba", "France", "na", "September", "."], "ner_tags": [1, 0, 0, 0, 2, 0, 0]}
+{"tokens": ["Nd\u1ecb", "onye", "\u1ecdr\u1ee5", "UNICEF", "so", "ch\u1ecdk\u1ecdta", "\u1ee5m\u1ee5aka", "na", "steeti", "Enugu", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ezend\u1ecb", "Ifeanyi", "Anyanwu", "m\u00e8re", "t\u1ee5r\u1ee5", "\u1ee4l\u1ecd", "Nzuk\u1ecd", "Nd\u1ecb", "Ochie", "n'Awka", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4ka", "na", "Onyeisi", "any\u1ecb", "Buhari", "zetara", "ozi", "na", "Ghana", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 2, 0]}
+{"tokens": ["Nd\u1ecb", "gara", "as\u1ecdmpi", "\u1ecbgba", "egwu", "n'\u1ecbl\u1ecdta", "si", "Ibadan", "b\u1ecba", "Lagos", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 0, 2, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "Anambra", "meriri", "as\u1ecdmpi", "Olympiad", "n'af\u1ecd", "2022", "."], "ner_tags": [0, 0, 5, 0, 0, 7, 0, 8, 0]}
+{"tokens": ["Aha", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "a", "b\u1ee5", "St.", "Mary's", "College", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Ozioma", "s\u1ee5r\u1ee5", "kp\u1ecdmkwem", "na", "BBC", "Igbo", ",", "soro", "na", "London", " \u1ee5b\u1ecdch\u1ecb", "ise", "gara", "aga", "."], "ner_tags": [1, 0, 0, 0, 3, 4, 0, 0, 0, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Nke", "a", "mere", "n\u2019\u1ee5l\u1ecdikpe", "nke", "Justice", "Okeke", "n\u2019Abuja", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 1, 2, 0]}
+{"tokens": ["Mr.", "Okonkwo", "z\u1ee5r\u1ee5", "\u1ee5l\u1ecd", "n\u2019Abakaliki", "onye", "oji", "ego", "Britain", "b\u1ee5r\u1ee5", "onye", "isi", "."], "ner_tags": [1, 2, 0, 0, 2, 0, 0, 0, 1, 0, 0, 0]}
+{"tokens": ["Am\u1ee5ma", "Justice", "Nzeako", "b\u1ee5r\u1ee5", "onye", "isi", "\u1ee5l\u1ecdikpe", "n'ime", "Imo", "State", "."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4gb\u1ecd mmiri", "Atlantic", "Tech", "na-ab\u1ecba", "Port", "Harcourt", "n'\u1ee5b\u1ecdch\u1ecb", "Wednesdee", "."], "ner_tags": [1, 2, 0, 0, 3, 4, 0, 7, 0]}
+{"tokens": ["Mmek\u1ecdr\u1ecbta", "mba", "Abuja", "na", "Nairobi", "s\u1ecbr\u1ecb", "kwaa", "az\u1ecbza", "."], "ner_tags": [0, 2, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["\u1eccr\u1ee5", "UNESCO", "n\u2019ime", "Africa", "belatala", "\u1ee5b\u1ee5chi", "a", "n'ihi", "mb\u1ecd", "nne", "\u1ee5z\u1ecd", "."], "ner_tags": [0, 3, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ezigbo", "enyi", "m", "Chidinma", "n\u1ecdr\u1ecd", "na", "Mmiri", "Ogbaru", "n'\u1ee5b\u1ecdch\u1ecb", "Sunday", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 1, 2, 0, 0, 7, 0]}
+{"tokens": ["Aj\u1ee5j\u1ee5", "mere", "n'\u1ecdr\u1ee5", "na", "University", "of", "Nigeria", "Nsukka", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["Okosisi", "b\u1ee5", "isi", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "St.", "Joseph", "Hospital", "Owerri", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 2, 0]}
+{"tokens": ["AK\u1ee4\u1ee4K\u1ecc", "putaara", "intanet", "web\u1ee5sa\u1ecbt\u1ecb", "Sahara", "Reporters", "n'\u1ee5t\u1ee5t\u1ee5", "T\u1ecdzdee", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 7, 0]}
+{"tokens": ["Ugochukwu", "z\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "University", "of", "Ibadan", "af\u1ecd", "2011", "."], "ner_tags": [1, 0, 0, 0, 1, 2, 2, 0, 8, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "nd\u1ecb", "Prof.", "Chukwuma", "Eke", "dere", "jere", "mba", "China", "."], "ner_tags": [0, 0, 1, 2, 2, 0, 0, 2, 0]}
+{"tokens": ["Aha", "m", "bu", "Ngozi", "Okafor", "\u1ecc", "biara", "puta", "na", "Enugu", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Adaeze", "jee", "ulu", "na", "Awka", "l\u1ecdta", "kwa", "Tued\u1ecb", "."], "ner_tags": [1, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ulo", "akw\u1ee5kw\u1ecd", "University", "of", "Nigeria", "di", "na", "Nsukka", "."], "ner_tags": [0, 0, 7, 8, 8, 0, 0, 5, 0]}
+{"tokens": ["Onye", "isi", "ala", "Nigeria", "bu", "Bola", "Tinubu", "."], "ner_tags": [0, 0, 0, 5, 0, 1, 2, 0]}
+{"tokens": ["Ifeoma", "gara", "leta", "Nnamdi", "n'ime", "ospito", "na", "Lagos", "."], "ner_tags": [1, 0, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["Chinedu", "si", "na", "Owerri", "bia", "\u1ee5l\u1ecd", "any\u1ecb", "."], "ner_tags": [1, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Olileanya", "\u1ecdma", "diri", "anyi", "n'af\u1ecd", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Dangote", "Company", "n\u1ecdr\u1ecd", "na", "Onitsha", "ime", "ah\u1ecbr\u1ecb", "\u1ecdr\u1ee5", "."], "ner_tags": [7, 8, 8, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "Gas", "\u1ee4l\u1ecd\u1ecdgw\u1ee5", "ga", "eme", "mmemme", "n'etiti", "January", "na", "March", "."], "ner_tags": [0, 0, 7, 8, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Nkechi", "so", "na", "\u1ecdganiihu", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Zenith", "Bank", "."], "ner_tags": [1, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "WHO", "nyeere", "nd\u1ecb", "Nigeria", "aka", "n'oge", "COVID-19", "pandemic", "."], "ner_tags": [7, 8, 0, 0, 5, 0, 0, 7, 8, 0]}
+{"tokens": ["Ezinaulo", "Mmad\u1ee5", "Quist", "biara", "ezumike", "na", "Ogbaru", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4z\u1ecd", "site", "n'Abakaliki", "gara", "Afikpo", "."], "ner_tags": [0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Amarachi", "nwuru", "na", "Germany", "na", "2022", "."], "ner_tags": [1, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["Ebe", "nd\u1ecb", "\u1ecdgb\u1ecd", "Nneka", "hap\u1ee5r\u1ee5", "bu", "Abuja", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["Imirikiti", "nd\u1ecb", "Igbo", "na-ege", "nt\u1ecb", "\u1ee4t\u1ee5t\u1ee5", "na", "BBC", "Igbo", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "ak\u1ee5k\u1ecd", "si", "na", "China", "b\u1ecbara", "Abia", "State", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 8, 0]}
+{"tokens": ["Nri", "Jollof", "b\u1ee5", "nke", "gara", "gbaa", "Togo", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Onye", "nkuzi", "Bernard", "Ekwe", "na-ar\u1ee5", "\u1ecdr\u1ee5", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "Collins", "College", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Festival", "af\u1ecd", "ohuru", "eme", "na", "Oguta", "n'ime", "December", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "UNIZIK", ",", "Dr.", "Ifeanyi", "Okoye", ",", "kwup\u1ee5tara", "mmemme", "\u1ecdh\u1ee5r\u1ee5", "na", "Awka", "."], "ner_tags": [0, 0, 0, 3, 0, 1, 2, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Otu", "nd\u1ecb", "\u1ecdr\u1ee5", "NAFDAC", "b\u1ecbara", "n'ah\u1ecba", "\u1eccn\u1ecbcha", "\u1ecblele", "ar\u1ecba", "efere", "eme", "na", "China", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ugboelu", "Air", "Peace", "ga", "asaa", "Portharcourt", "n'\u1ee5t\u1ee5t\u1ee5", "Wenezde", "."], "ner_tags": [3, 4, 5, 0, 6, 0, 0, 7, 0]}
+{"tokens": ["Okike", "Michael", "b\u1ee5", "onye", "a", "m\u1ee5r\u1ee5", "n'Abakaliki", ",", "na", "13th", "January", "1992", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 4, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["A", "k\u1ecd\u1ecdr\u1ecd", "na", "\u1ee4w\u1ee5\u0144wa", "nke", "Ihiala", "e", "mebiela", "ite", "\u1ecdk\u1ee5", "n'\u1ee5t\u1ee5t\u1ee5", "mbu", "Ista", "."], "ner_tags": [0, 0, 0, 1, 0, 4, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"tokens": ["Onye", "isi", "\u1ecdch\u1ecbch\u1ecb", "Imo", "Steeti", ",", "Hope", "Uzodimma", ",", "zara", "aj\u1ee5j\u1ee5", "nd\u1ecb", "\u1ecdkw\u1ecd", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 0, 4, 5, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "MTN", "naw\u1ee5p\u1ee5t\u1ee5r\u1ee5", "\u1ecdr\u1ee5", "n'Minna", "Niger", "State", "n'ihi", "nd\u1ecdp\u1ee5ta", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 4, 5, 6, 0, 0]}
+{"tokens": ["Mgbanwe", "\u1ecdt\u1ee5t\u1ee5", "nd\u1ecb", "bi", "na", "Eziama", "\u1ee5z\u1ecd", "Nsukka", "eme", "ka", "\u1ecdk\u1ee5", "n'az\u1ee5", "aha", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Gburugburu", "\u1eccw\u1ee5wa", "Anyanw\u1ee5", "j\u1ee5", "\u1ecdk\u1ee5", "n'ihi", "na", "nd\u1ecb", "Ndokwa", "amagh\u1ecb", "ihe", "\u1ecbnya", "ugwo", "."], "ner_tags": [0, 4, 5, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["O", "r\u1ee5\u1ecdr\u1ecd", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "World", "Bank", "na", "Washington", "DC", "kemgbe", "2017", "."], "ner_tags": [0, 0, 3, 6, 7, 0, 8, 9, 0, 10, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "INEC", "kuputara", "nsonaaz\u1ee5", "ntuli", "aka", "Gburugburu", "Na\u1ecbjiria", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 4, 5, 0]}
+{"tokens": ["D\u1ecdk\u1ecbta", "Amaka", "Okafor", "z\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "University", "of", "Lagos", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 6, 0, 7, 0]}
+{"tokens": ["Minista", "\u1ee5gw\u1ecd", "na-az\u1ee5", "ahia", "Sir", "Emeka", "Ofor", ",", "gara", "London", "n'August", "2021", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 3, 0, 0, 4, 0, 8, 9, 0]}
+{"tokens": ["Technology", "company", "named", "Flutterwave", "mere", "emepe", "\u1ecdf\u1ecbs", "ha", "n'Abuja", "."], "ner_tags": [11, 0, 0, 12, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["\u1eccr\u1ecba", "COVID-19", "dap\u1ee5tara", "na", "Nnewi", "izuzu", "na", "March", "2020", "."], "ner_tags": [0, 13, 0, 0, 4, 0, 0, 14, 9, 0]}
+{"tokens": ["\u1ee4ka", "St.", "Joseph", "n'ime", "Enugu", "chetaara", "nd\u1ecb", "isi", "egwuregwu", "."], "ner_tags": [0, 15, 16, 0, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "Petroleum", "Development", "Company", ",", "Mr.", "Robinson", "Okeke", ",", "kwup\u1ee5tara", "\u1ecdgw\u1ee5gw\u1ee5", "\u1ecdr\u1ee5", "."], "ner_tags": [0, 0, 3, 17, 18, 19, 20, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u1ee5r\u1ee5", "n'\u1ecdnwa", "J\u1ee5\u1ecd", "na", "Af\u1ecd", "2000", ",", "Nneka", "agbakwunyere", "\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "LSETF", "."], "ner_tags": [0, 0, 21, 0, 22, 23, 0, 1, 0, 3, 0]}
+{"tokens": ["A", "ch\u1ecdp\u1ee5tara", "petrol", "spill", "n'ebe", "Warri", "Delta", "State", "na", "Wednesday", "."], "ner_tags": [0, 0, 0, 24, 0, 4, 5, 6, 0, 25, 0]}
+{"tokens": ["Nd\u1ecb", "nt\u1ee5r\u1ee5nd\u1ee5", "nke", "Nollywood", "b\u1ee5", "Genevieve", "Nnaji", "na", "Kanayo", "O.", "Kanayo", "."], "ner_tags": [0, 0, 0, 26, 0, 1, 2, 0, 1, 2, 2, 0]}
+{"tokens": ["A", "g\u1ee5p\u1ee5tara", "aha", "Chinua", "Achebe", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "az\u1ee5", "akw\u1ee5kw\u1ecd", "University", "of", "Ibadan", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 6, 0, 22, 0, 27, 0]}
+{"tokens": ["Onye", "isi", "ala", "Nigeria", "gakwuru", "United", "Nations", "n'af\u1ecd", "2022", "."], "ner_tags": [0, 0, 0, 1, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["Chidera", "Ejiofor", "soro", "na", "ogige", " egwuregwu", "na", "Enugu", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Literature", "m", "d\u1ecb", "uru", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "St.", "Mary's", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 9, 0]}
+{"tokens": ["\u1ecc", "b\u1ee5", "na", "Lagos", "ka", "any\u1ecb", "ga-eme", "ih\u1ee5", "nke", "okwu", "a", "."], "ner_tags": [0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Royal", "Academy", "bataara", "nzuk\u1ecd", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "ah\u1ee5", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nwachukwu", "b\u1ee5", "onye", "Isi", "okwu", "na", "\u1ee4l\u1ecd", "Nd\u1ecb", "Nna-ukwu", "Ebe", "a", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sheffield", "United", "meriri", "Chelsea", "n'\u1ee5l\u1ecd", "egwuregwu", "ha", "."], "ner_tags": [3, 4, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "egosila", "na", "ha", "nwere", "\u1ecdr\u1ee5", "nke", "mba", "nke", "United", "Kingdom", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["N'\u1ecdnwa", "Januari", "2023", ",", "Emeka", "gagara", "n\u1ecdsi", "n'Australia", "."], "ner_tags": [0, 10, 11, 0, 1, 0, 0, 7, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdl\u1ee5", "mmemme", "Africa", "Cup", "of", "Nations", "b\u1ecbarutere", "n'Abuja", "izu", "a", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 0, 0, 7, 0, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "\u1ee5l\u1ecd akw\u1ee5kw\u1ecd", "gbara", "mmek\u1ecdr\u1ecbta", "na", "University", "of", "Ibadan", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Ogechi", "bu", "onye", "g\u1ecd\u1ecdmenti", "na", "Imo", "State", ".", "\u1ecc", "mara", "\u1ecdt\u1ee5t\u1ee5", "nd\u1ecb", "a", "."], "ner_tags": [1, 0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Air", "Peace", "w\u1ee5tara", "ala", "n'Owerri", "n'ehihie", "T\u1ecdzdee", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 7, 0, 0, 10, 0]}
+{"tokens": ["\u1eccr\u1ee5", "nchedo", "China", "ga-enyere", "Nd\u1ecb", "Nigeria", "na", "ngwa\u1ecdr\u1ee5", "\u1ecdd\u1ecbnihu", "."], "ner_tags": [0, 0, 5, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "akw\u1ee5kw\u1ecd", "Maxwell", "Ogbonna", "nabatarala", "akw\u1ee5kw\u1ecd", "g\u1ee5nyere", "Nd\u1ecb", "Canada", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Aj\u1ee5j\u1ee5", "any\u1ecb", "ga-aj\u1ee5", "onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Sparrow", "Motors", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Nne", "Kingsley", "b\u1ecbara", "\u1ee5l\u1ecd", "any\u1ecb", "site", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "na", "Owerri", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["Nd\u1ecb", "isi", "\u1ee5l\u1ecd akw\u1ee5kw\u1ecd", "Federal", "Government", "College", "na", "Enugu", "mere", "mkpebi", "."], "ner_tags": [0, 0, 0, 3, 4, 5, 7, 0, 0, 0]}
+{"tokens": ["K\u1ecdmpani", "Dangote", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "n'\u1ecdt\u1ee5t\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "na", "Africa", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["N'abal\u1ecb", "Friday", ",", "Amarachi", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "n'\u1ecdr\u1ee5", "na", "Singapore", "."], "ner_tags": [0, 10, 0, 1, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "\u1ecdma", "n\u2019ebe", "Onitsha", "t\u1ecdr\u1ecd", "\u1ee5t\u1ee5t\u1ee5", "taata", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "n'\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "St.", "Paul", "n'Owerri", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 5, 0]}
+{"tokens": ["Izunna", "emeela", "akw\u1ee5kw\u1ecd", "\u1ecdh\u1ee5r\u1ee5", "n'aha", "Professor", "Chinua", "Achebe", "."], "ner_tags": [1, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["A", "h\u1ee5r\u1ee5", "Onyeisi", "\u1ecdr\u1ee5", "\u1ee4t\u1ee5t\u1ee5", "Arinze", "n'az\u1ee5", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ya", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "nd\u1ecbiche", "zuru", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Gburugburu", "laghachi", "na", "Aba", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 5, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Easter", "a", "eme", "n'obodo", "Nnewi", "juputara", "n'anuolum", "."], "ner_tags": [0, 1, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Okuru", "Charles", "nyere", "ego", "na", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "Enugu", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["A", "malitekwala", "\u1ecdr\u1ee5", "akwa", "oji", "na", "Kogi", "State", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4m\u1ee5nna", "na-eme", "ngaghar\u1ecb", "n'ul\u1ecd", "akw\u1ee5kw\u1ecd", "Emmanuel", "Okeke", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Igwe", "nd\u1ecb", "\u1eccka", "emeela", "ka", "agbak\u1ecdta", "nd\u1ecb", "\u1ecdr\u1ee5", "na", "\u1ee4m\u1ee5ahia", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Enyinnaya", "nw\u1ee5r\u1ee5", "n'obodo", "Nsukka", ",", "nd\u1ecb", "\u1ee5m\u1ee5nna", "m\u1ee5", "iri", "."], "ner_tags": [1, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Ngozi", "Okonjo-Iweala", "n\u1ecdr\u1ecd", "n'ala", "America", "n'af\u1ecd", "2022", "."], "ner_tags": [1, 2, 2, 0, 0, 5, 0, 8, 0]}
+{"tokens": ["Eze", "\u1ee4z\u1ecd", "malitela", "usoro", "\u1ecdr\u1ee5", "n'ah\u1ecba", "Obosi", "na", "Anambra", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ee5l\u1ecd", "\u1ee4m\u1ee5ogbu", "so", "na", "nd\u1ecb", "nd\u1ecbdu", "eme", "nt\u1ee5r\u1ee5nd\u1ee5", "n'\u1ee5gb\u1ecd", "ala", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecckachamara", "nke", "af\u1ecd", "2020", "s\u1ecbr\u1ecb", "na", "COVID-19", "met\u1ee5tara", "\u1ee5wa", "dum", "."], "ner_tags": [0, 0, 8, 0, 0, 0, 7, 0, 0, 0, 0]}
+{"tokens": ["Mmemme", "g\u1ecd\u1ecdmenti", "kw\u1ee5ghachi", "\u1ee5gw\u1ecd", "\u1ecdr\u1ee5", "Site", "na", "Central", "Bank", "of", "Nigeria", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 2, 3, 0]}
+{"tokens": ["Chidinma", "\u1ee5r\u1ee5", "\u1ecdr\u1ee5", "na", "Royal", "Hospital", "n'Awka", "."], "ner_tags": [1, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Onyeisi", "\u1ee5l\u1ecdikpe", "Justice", "Odili", "ekwuputala", "ikpe", "gaga", "President", "Buhari", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u1ee4l\u1ecdakw\u1ee5kw\u1ecd", "Federal", "Polytechnic", "Oko", "nabata", "m\u1ee5m\u1ee5", "usoro", "ah\u1ecba", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Ogbe", "umunwoke", "na-abanye", "n'akw\u1ee5kw\u1ecd", "mek\u1ecdr\u1ecbta", "na", "\u1ee4l\u1ecd", "Ihitte", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Nd\u1ecb", "nke", "Gburugburu", "Na\u1ecbj\u1ecbr\u1ecba", "jikwara", "oriri", "a."], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1eccg\u1ecdz\u1ecb", "Susan", "sere", "ihe", "osisi", "na", "Asaba.", ""], "ner_tags": [1, 1, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Unilever", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "n'\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ha."], "ner_tags": [4, 3, 0, 0, 0, 4, 0]}
+{"tokens": ["Emeka", "gara", "az\u1ee5", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "nke", "Abuja."], "ner_tags": [1, 0, 0, 4, 0, 5]}
+{"tokens": ["Ch\u1ecb", "Ngozi", "b\u1ee5", "onye", "isi", "akw\u1ee5kw\u1ecd", "na", "Enugu."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Osisi", "\u1ecdk\u1ee5", "malite", "na", "Okija", "n'\u1ee5t\u1ee5t\u1ee5."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Onye", "nd\u1ecb", "Rochas", "Okorocha", "nyere", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "aka.", ""], "ner_tags": [0, 0, 1, 2, 0, 4, 4, 0, 0]}
+{"tokens": ["\u1ee4ka", "Sanctuary", "na-ebido", "nd\u1ee5", "site", "na", "Aba."], "ner_tags": [4, 3, 0, 0, 0, 0, 5]}
+{"tokens": ["Ifeanyi", "nw\u1ee5r\u1ee5", "na", "\u1ecdgw\u1ee5", "l\u1ecd", "na", "Lagos."], "ner_tags": [1, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "Ak\u1ee5", "\u1eccma", "d\u1ecb", "mgbe", "Dr.", "Chuba", "Okadigbo", "n\u1ecdchara.", ""], "ner_tags": [0, 1, 2, 0, 0, 1, 1, 2, 0, 0]}
+{"tokens": ["Mman\u1ee5", "\u1ecdk\u1ee5", "d\u1ecdr\u1ecd", "g\u1ee5nyere", "Enyimba", "na", "Nnewi."], "ner_tags": [0, 0, 0, 0, 1, 0, 5]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "nn\u1ecdchiteanya", "Ted", "Emeagwali", "na", "Munich", ".", ""], "ner_tags": [0, 0, 1, 2, 0, 5, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Christ", "the", "King", "College", "Onitsha"], "ner_tags": [0, 0, 0, 3, 4, 4, 5]}
+{"tokens": ["Amaka", "natara", "akw\u1ee5kw\u1ecd", "r\u1ecbb\u1ecbb\u1ecb", "site", "n'aka", "Dr.", "Joe", "Okei-Odumakin."], "ner_tags": [1, 0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "UBA", "mepegh\u1ecb", "\u1ecdf\u1ecbs", "ha", "na", "Owerri."], "ner_tags": [4, 4, 3, 0, 4, 0, 0, 5]}
+{"tokens": ["Aj\u1ee5j\u1ee5", "debere", "na", "mahazina", "Enugu", "n'\u1ee5t\u1ee5t\u1ee5."], "ner_tags": [0, 0, 0, 4, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "na", "Federal", "Polytechnic", "Oko", "kwalitere", "akw\u1ee5kw\u1ecd."], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0]}
+{"tokens": ["Friday", "Okonkwo", "gbaara", "egwuregwu", "n'ah\u1ecba", "Abakaliki."], "ner_tags": [1, 1, 0, 0, 0, 5]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "iche", "na", "United", "Nations", "b\u1ee5r\u1ee5", "nd\u1ecb", " \u1ecdz\u1ecd."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["\u1ee4z\u1ecd", "gara", "ime", "\u1ee5l\u1ecd", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "n'abal\u1ecb."], "ner_tags": [0, 0, 0, 4, 4, 3, 0, 0]}
+{"tokens": ["Onyeisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "UNICEF", "gara", "n'obodo", "Owerri", "izu", "\u1ee5ka", "gara", "aga", "t\u1ecdhap\u1ee5r\u1ee5", "ozi", "na", "nd\u1ecb", "ntorobia", "n'ebe", "South", "East", "nwere", "iwu", "iji", "buli", "akw\u1ee5kw\u1ecd", "ha", "."], "ner_tags": [0, 0, 3, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 7, 8, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Chukwuemeka", "Ihejirika", "j\u1ee5r\u1ee5", "aj\u1ee5j\u1ee5", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "na", "Abuja", "\u1ecdt\u1ee5t\u1ee5", "\u1ee5b\u1ecdch\u1ecb", "gara", "aga", "maka", "\u1ecdr\u1ee5", "nd\u1ecdp\u1ee5ta", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "na-eme", "emume", "Iri", "Ji", "n'Ala", "Igbo", "kwa", " af\u1ecd", "\u1ecdh\u1ee5r\u1ee5", "na", "September", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 5, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["\u1ee4l\u1ecdikpe", "K\u1ecdt", "nke", "Lagos", "kpebiri", "na", "a", "gagh\u1ecb", "edebe", "Mr.", "Olumide", "Johnson", "n'\u1ee5l\u1ecd", "mkp\u1ecdr\u1ecd", "n'efu", "."], "ner_tags": [3, 4, 0, 5, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Egwu", "egwu", "kere", "oke", "n'oge", "mmemme", "FESTAC", "na", "1977", "b\u1ee5r\u1ee5", "mma", "s\u1ecd", "\u1ecdg\u1ee5", "\u1ecdt\u1ee5t\u1ee5", "ndi", "nleghar\u1ecb", "anya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 7, 8, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "Ethiopian", "Airlines", "soro", "n'at\u1ee5gh\u1ecb", "anya", "daba", "n'\u1ecdh\u1ecba", "site", "na", "Addis", "Ababa", "na", "Sunday", "ututu", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 7, 8, 0]}
+{"tokens": ["\u1ecckaikpe", "Justice", "Okon", "Abang", "kwubiri", "okwu", "\u1ee5l\u1ecdikpe", "n'ebe", "Onye", "isi", "\u1ecdch\u1ecbch\u1ecb", "mba", "Nigeria", "so", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["Onyeomuma", "Ndi", "ikpeaz\u1ee5", "d\u1ecb", "na", "Ghana", "kwusiri", "ike", "na", "nd\u1ecb", "ntorob\u1ecba", "nwere", "ike", "ime", "\u1ecdg\u1ee5", "megide", "nduhie", "."], "ner_tags": [1, 2, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "University", "of", "Nigeria", "Nsukka", "mechiri", "\u1ecdn\u1ee5", "n'ihi", "nd\u1ecdt\u1ecb", "\u1ee5gw\u1ecd", "nkuzi", "."], "ner_tags": [0, 0, 3, 4, 5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Onyeisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "WHO", "Dr.", "Tedros", "Ghebreyesus", "r\u1ecb\u1ecdr\u1ecd", "mba", "Africa", "ka", "ha", "m\u1ee5\u1ecd", "\u1ecdr\u1ee5", "ha", "maka", "COVID-19", "."], "ner_tags": [0, 0, 3, 1, 2, 0, 0, 5, 0, 0, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["\u1eccgw\u1ee5gw\u1ee5", "nke", "ogbako", "a", "mere", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "ECOWAS", "n'Abuja", "n'April", "2021", "zip\u1ee5tara", "mp\u1ee5ta", "nleba", "anya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 7, 8, 0, 0, 0, 0]}
+{"tokens": ["Sir", "Emeka", "Offor", "p\u1ee5tara", "akw\u1ee5kw\u1ecd", "\u1ecdh\u1ee5r\u1ee5", "n'obodo", "Enugu", "na", "Saturday", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 7, 8, 0]}
+{"tokens": ["Nd\u1ecb", "mbido", "nke", "\u1ecdkp\u1ee5kp\u1ee5", "isi", "mba", "kele", "Nnamdi", "Kanu", "maka", "\u1ecdr\u1ee5", "o", "na-eme", "na", "Biafra", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "World", "Environment", "Day", "ka", "e", "mere", "n'\u1ee5l\u1ecd", "nd\u1ee5m\u1ecdd\u1ee5", "UNESCO", "nke", "Lagos", "."], "ner_tags": [7, 3, 4, 0, 0, 0, 0, 0, 3, 5, 0]}
+{"tokens": ["\u1eccch\u1ecbch\u1ecb", "Gburugburu", "nd\u1ecb", "mmad\u1ee5", "na", "United", "States", "kwusiri", "ike", "banyere", "akw\u1ee5kw\u1ecd", "ime", "ndokwa", "\u1ecdh\u1ee5r\u1ee5", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Red", "Cross", "Nigeria", "\u1e45wetara", "onyeisi", "\u1ecdh\u1ee5r\u1ee5", "na", "mmemme", "gara", "aga", "."], "ner_tags": [3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Chinaza", "Agbim", "so", "na", "nd\u1ecb", "nn\u1ecdchite", "anya", "mba", "Nigeria", "n'egwuregwu", "Olimpik", "na", "Tokyo", "2020", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 0, 7, 8, 0]}
+{"tokens": ["Aka", "milite", "na", "mba", "Chad", "wetara", "izu", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "UN", "maka", "nd\u1ee5m\u1ecdd\u1ee5", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 3, 4, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "FAO", "ewebatala", "\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "n'Ebonyi", "State", "n'af\u1ecd", "2022", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0, 5, 6, 7, 8, 0]}
+{"tokens": ["Niger", "Delta", "Avengers", "wepu", "ngwaah\u1ecba", "mmep\u1ee5ta", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "n'af\u1ecd", "2016", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 3, 4, 7, 8, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "St.", "John's", "na", "Lagos", "kwup\u1ee5tara", "\u1ecdr\u1ee5", " \u1ecdma", "ha", "mechara", "n'af\u1ecd", "2021", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Chevron", "nyeere", "nd\u1ecb", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "na", "Delta", "Steeti", "aka", "enwere", "\u1ee5gw\u1ecd", "$500,000", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdgw\u1ee5", "Doctors", "Without", "Borders", "b\u1ecbara", "na", "Obollo", "n'af\u1ecd", "2023", "inye", "\u1ecdr\u1ee5", "nlek\u1ecdta", "ah\u1ee5ike", "."], "ner_tags": [5, 1, 2, 2, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nwaany\u1ecb", "aha", "ya", "bu", "Ngozi", "Okonjo-Iweala", "zuru", "\u1ecdkwa", "Onyeisi", "World", "Trade", "Organization", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["Steeti", "Anambra", "malitewo", "usoro", "\u1ecbgw\u1ecd", "nd\u1ecb", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "n'\u1ee5z\u1ecd", "d\u1ecdk\u1ecbta", "Anthony", "Uzoma", "si", "t\u1ecd\u1ecd", "ya", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["President", "Muhammadu", "Buhari", "ga-eme", "nzuko", "na", "Abuja", "n'izu", "na-ab\u1ecban\u1ee5", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecdikpe", "K\u1ecdt\u1ee5", "Supreme", "Court", "r\u1ee5r\u1ee5", "ikpe", "gide", "ezi", "okwu", "na", "March", "15th", ",", "2022", "."], "ner_tags": [5, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Professor", "Chimamanda", "Adichie", "nwetara", "ngalaba", "nrite", "n'\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Yale", "University", "n'U.S.A"], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 6, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Guinness", "Nigeria", "meziri", "emume", "ihe", "chi", "eme", "ha", "n'af\u1ecd", "1946", "."], "ner_tags": [5, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdch\u1ecbch\u1ecb", "Central", "Bank", "of", "Nigeria", "ap\u1ee5tara", "inwe", "ochicho", "\u1ecbkwalite", "\u1ecdr\u1ee5", "ego", "."], "ner_tags": [0, 0, 5, 6, 6, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Gburugburu", "Owerri", ",", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "na", "ebuli", "\u1ecdr\u1ee5", "guzobere", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "ntinye", "ike", "eletrik", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Alhaji", "Aliko", "Dangote", "bu", "onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Dangote", "Group", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "mmep\u1ee5ta", "ziinz", "n'Ibese", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 5, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["Mmemme", "af\u1ecd", "\u1ecdh\u1ee5r\u1ee5", "mere", "na", "\u1ee4l\u1ee5", "n'ime", "steeti", "Enugu", "n'af\u1ecd", "2024", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Obi", "Okwute", "Maduka", "kweere", "na", "\u1ecdr\u1ee5", "mmepe", "n'Amawbia", "ga-ad\u1ecbr\u1ecb", "nd\u1ecb", "obodo", "mma", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "MTN", "Nigeria", "kwup\u1ee5tara", "\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "\u1ecdh\u1ee5r\u1ee5", "na", "February", "2021", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "petroleum", "Nigeria", "nyefere", "nd\u1ecb", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "n'\u1ee4gb\u1ecd", "River", "n'af\u1ecd", "2000", "."], "ner_tags": [5, 1, 2, 2, 0, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdch\u1ecbch\u1ecb", "South", "East", "Governors", "kwadoro", "usoro", "\u1ecdr\u1ee5", "\u1ecdd\u1ee5 \u1ee5gb\u1ecd elu", "n'Enugu", "."], "ner_tags": [0, 0, 5, 6, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Bish\u1ecdp", "Obinna", "n\u1ee5r\u1ee5", "\u1ecdr\u1ee5", "ah\u1ecba", "nka", "na", "Owerri", "n'af\u1ecd", "2019"], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Facebook", "zigara", "nd\u1ecb", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "\u1ecdr\u1ee5", "\u1ecdh\u1ee5r\u1ee5", "n'Enugu", "n'af\u1ecd", "2020", "."], "ner_tags": [5, 1, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Aha", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Nigerian", "Bottling", "Company", "n'usoro", "\u1ecdr\u1ee5", "mmep\u1ee5ta", "Coca-Cola", "na", "Lagos", "."], "ner_tags": [0, 0, 5, 6, 6, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Obi", "Ezuoke", "h\u1ee5r\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "nkuzi", "n'obodo", "Awka", "na-Anambra", "n'ime", "August", "2018", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["A", "ga-eme", "mmemme", "b\u1ecdch\u1ecb", "nn\u1ecd\u1ecd", "n'\u1ee4l\u1ecd", "Nzuk\u1ecd", "Onitsha", "n'\u1ee5t\u1ee5t\u1ee5", "Eke", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 8, 0]}
+{"tokens": ["Obi", "Emeka", "b\u1ee5r\u1ee5", "onye", "isi", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "na", "Nsukka", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "a", "d\u1ecb", "n'Enugu", ",", "Anambra", ",", "na", "Imo", "broodo", "Nigeria", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Ada", "nwunye", "Chinedu", "ga", "aga", "\u1ee5l\u1ecd", "\u1ecdl\u1ee5", "n'Abuja", "izizi", "Ezimkpa", "."], "ner_tags": [1, 0, 2, 0, 0, 0, 0, 5, 0, 8, 0]}
+{"tokens": ["Eze", "\u1ee4z\u1ecd", "kw\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "n'ah\u1ecba", "\u1ee4m\u1ee5ahia", "n'\u1ee5t\u1ee5t\u1ee5", ":"], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5nne", "na", "ezin\u1ee5l\u1ecd", "Ukachukwu", "b\u1ecbara", "site", "London", "izizi", "izo", "oiru", "weka", "ukwu", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4n\u1ecd", "az\u1ee5", "wunye", "ego", "n'ah\u1ecba", "Lagos", ",", "na", "ya", "z\u1ee5r\u1ee5", "nr\u1ecd", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ha", "gara", "\u1ee5l\u1ecdikpe", "di", "n'Onitsha", "iji", "gosi", "okwu", "ha", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ak\u1ee5k\u1ee5", "\u1ecdma", "egosi", "na", "D\u1ecdk\u1ecbta", "Ngozi", "Nwosu", "n\u1ecd", "n'\u1ecdf\u1ecbs", "ya", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Onyeisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Nd\u1ecbda", "East", "ch\u1ecbk\u1ecdtara", "ihe", "mm\u1ee5ta", "na", "\u1eccka", "."], "ner_tags": [0, 3, 4, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Chinonso", "gbadara", "Australia", "\u1ecbg\u1ee5", "akw\u1ee5kw\u1ecd", "mathematics", "."], "ner_tags": [1, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Ifeoma", "n\u1ecd", "n'\u1ee5l\u1ecd", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Mahadum", "Ibadan", "."], "ner_tags": [1, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["\u1eccr\u1ee5", "mba", "weere", "\u1ecdt\u1ee5t\u1ee5", "nd\u1ecb", "Igbo", "na", "diaspora", "Uganda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nwoke", "aha", "ya", "b\u1ee5r\u1ee5", "\u1ecckpara", "Ezeani", ",", "onye", "Ghana", ","], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "gara", "nleta", "\u1ee5l\u1ecd", "ihe", "nzuk\u1ecd", "Mbaise", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "ngalaba", "akw\u1ee5kw\u1ecd", "nch\u1ecbkwa", "bekee", "na", "University", "of", "Nigeria", "Nsukka", "ji", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "dika", "\u1ecdgw\u1ee5", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Ezin\u1ee5l\u1ecd", "Okonkwo", "bi", "n'Obodo", "Port", "Harcourt", "."], "ner_tags": [0, 3, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "mgbasa", "\u1ecdma", "jirikwa", "Abiola", "Azikiwe", "dina", "Lagos", "mee", "akw\u1ee5kw\u1ecd", "nd\u1ecb", "ajas\u1ecb", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "gara", "ime", "ugwo", "n'\u1ecdf\u1ecbs", "First", "Bank", "n'obodo", "Kwale", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 5, 6, 0]}
+{"tokens": ["Ezin\u1ee5l\u1ecd", "\u1eccnw\u1ee5ka", "ga", "eje", "ezumike", "n'Ugwu", "Ukwu", "n'August", "."], "ner_tags": [0, 3, 0, 0, 0, 5, 6, 8, 0]}
+{"tokens": ["Obi", "gbuoro", "ya", "n'af\u1ecd", "Lagos", "."], "ner_tags": [0, 0, 0, 0, 5, 0]}
+{"tokens": ["Nd\u1ecb", "FBI", "b\u1ecbara", "\u1ecbt\u1ee5le", "okwu", "a", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "akw\u1ee5kw\u1ecd", "University", "of", "Nigeria", "n\u1ecd", "Nsukka", "gbara", "ememme", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Chinwe", "zuru", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "Royal", "Hospital", "\u1ee5t\u1ee5t\u1ee5", "a", "."], "ner_tags": [1, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["Eze", "nd\u1ecb", "Igbo", "Masquerade", "soro", "mmemme", "na", "Enugu", "."], "ner_tags": [0, 0, 5, 1, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ecc", "ga", "aga", "Germany", "\u1ecbz\u1ee5", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Adebayo", "bidoro", "\u1ecdr\u1ee5", "na", "UBA", "n'af\u1ecd", "2022", "."], "ner_tags": [1, 0, 0, 0, 3, 0, 6, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", "World", "Health", "Organization", "kw\u1ecdp\u1ee5tara", "akw\u1ee5kw\u1ecd", "ohere", "\u1ecdhaneze", "."], "ner_tags": [0, 0, 3, 4, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1eccg\u1ecdz\u1ecb", "r\u1ecdp\u1ee5tara", "Tagbo", "\u1ee5t\u1ee5t\u1ee5", "n'\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "St.", "Mary's", "Hospital", "."], "ner_tags": [1, 0, 1, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Emeka", "Werewere", "b\u1ee5", "onye", "Ghana", "ma", "bi", "n", "Abuja", "."], "ner_tags": [1, 1, 0, 0, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4kw\u1ee5", "l\u1ecdk\u1ecd\u1ecdr\u1ecd", "Ozobulu", "\u1ecbgba", "egwu", "na", "August", "Meeting", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 6, 7, 0]}
+{"tokens": ["B\u1ecdl", "b\u1ecd\u1ecdl\u1ee5", "Super", "Eagles", "gsogburu", "mba", "Tunisia", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 5, 0]}
+{"tokens": ["\u1eccg\u1ecd", "d\u1ecb", "na", "London", "\u1ecbr\u1ee5", "akw\u1ee5kw\u1ecd", "ma", "b\u1ee5", "nwanne", "m", "."], "ner_tags": [1, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "laghachiri", "Ugwu", "Anambra", "ka", "\u1ecd", "g\u1ee5", "akw\u1ee5kw\u1ecd", "."], "ner_tags": [0, 0, 1, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Presido", "Joe", "Biden", "kwup\u1ee5tara", "nd\u1ecb", "America", "n'\u1ee5b\u1ecdch\u1ecb", "Independence", "Day", "."], "ner_tags": [0, 1, 2, 0, 0, 5, 0, 6, 7, 0]}
+{"tokens": ["\u1ee4t\u1ee5t\u1ee5", "a,", "Chukwuma", "zutere", "onyeisi", "mba", "Brazil", "."], "ner_tags": [0, 0, 1, 0, 0, 5, 0]}
+{"tokens": ["\u1ecct\u1ee5t\u1ee5", "nd\u1ecb", "hururu", "obodo", "Owerri", "n'anya", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Ncheta", "Biafra", "emezuputara", "n'\u1ee5b\u1ecdch\u1ecb", "May", "30th", "."], "ner_tags": [0, 5, 0, 0, 6, 7, 0]}
+{"tokens": ["Ogechi", "ga-eme", "nt\u1ee5r\u1ee5nd\u1ee5", "n'\u1ee5gb\u1ecd", "eluigwe", "Qatar", "Airways", "."], "ner_tags": [1, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["\u1ecc", "g\u1ee5", "akw\u1ee5kw\u1ecd", "na", "Covenant", "University", "n'af\u1ecd", "2019", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 6, 0]}
+{"tokens": ["Nd\u1ecb", "\u1ecdch\u1ecbch\u1ecb", "steeti", "Imo", "bukwaz\u1ecbr\u1ecb", "onyeisi", "\u1ecdch\u1ecbch\u1ecb", "nke", "Steeti", "Enugu", "n'af\u1ecd", "2020", "."], "ner_tags": [0, 0, 3, 5, 0, 0, 0, 3, 5, 0, 0, 0]}
+{"tokens": ["B\u1ee5", "Dr.", "Ngozi", "Okonjo-Iweala", "b\u1ee5", "onye", "ndkw\u1ecd", "\u1ecdr\u1ee5", "mba\u1ee5wa", ".", "\u1ecc", "siri", "na", "Geneva", "gba", "\u1ecdr\u1ee5", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Government", "Secondary", "School", "Nsukka", "kwup\u1ee5tara", "maara", "site", "n'aka", "Komis\u1ecbna", "Ifeoma", "Nwobodo", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 5, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["\u1eccg\u1ee5g\u1ee5", "mma", "ga-eme", "na", "Awka", "M\u1ecdnde", "\u1ecdz\u1ecd", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0]}
+{"tokens": ["Emeka", "Ojukwu", "b\u1ee5r\u1ee5", "g\u1ecdvan\u1ecd", "steeti", "Anambra", "n'ah\u1ecbr\u1ecb", "."], "ner_tags": [1, 2, 0, 0, 3, 5, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "'United", "Nations'", "n\u1ecd", "n'", "New", "York", "na", "Amer\u1ecbka", "."], "ner_tags": [0, 0, 3, 4, 0, 0, 3, 4, 0, 6, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecdikpe", "Justice", "Mary", "Odili", "t\u1ecdzuru", "ak\u1ee5k\u1ee5", "n'", "Nd\u1ecb", "Iwu", "Nigeria", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Akwa", "\u1ecdk\u1ee5k\u1ecd", "na", "aba", "UK", "b\u1ee5", "ihe", "a", "nabata", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "DEFRA", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Ndozi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "sel\u1ee5", "MTN", "soro", "nd\u1ecb", "\u1ecdkacha", "mma", "na", "Nigeria", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", " \u1ee5b\u1ecdch\u1ecb", " at\u1ecd", "ga-eme", "na", "Ns\u1ee5ka", "enweela", "oke", "nd\u1ecb", "sonye", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Shell", "Petroleum", "Development", "Company", "b\u1ee5", "nke", "mba", "Briten", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 7, 0]}
+{"tokens": ["Nd\u1ecb", "nche", "ns\u1ecd", "Vatican", "City", "n n\u1ecd", "ekwa", "na", "Rome", ",", "Italy", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 8, 0, 0]}
+{"tokens": ["Oge", "mgbaru \u1ecds\u1ecd", "egwuregwu", "Olympics", "Tokyo", "2021", "geeme", "n'af\u1ecd", "\u1ecdzara", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Agha", "Biafra", "z\u1ecdp\u1ee5tara", "nd\u1ecb", "\u1ecdch\u1ecbch\u1ecb", "site", "n'aka", "\u1eccj\u1ee5gw\u1ee5", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["Onye", "isi", "any\u1ecb", "ga-ezute", "na", "Abuja", ",", "Federal", "Capital", "Territory", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 3, 4, 4, 0]}
+{"tokens": ["Onye", "\u1ecdk\u1ee5", "mm\u1ee5ta", "Iheoma", "Eze", "m\u1ee5r\u1ee5", "n'Umudim", "Nnewi", ",", "Anambra", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 5, 5, 0, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Coca-Cola", "l\u1ee5p\u1ee5tara", "mmanya", "na", "Nigeria", "."], "ner_tags": [3, 4, 0, 0, 0, 6, 0]}
+{"tokens": ["\u1ecc b\u1ee5gh\u1ecb", "otu", "maaz\u1ecb", " kwuru", " na", "Ugwu", "\u1eccka", "d\u1ecb", " mma", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0]}
+{"tokens": ["Ejije", "Ogene", " na-eme", "nyocha", "na", "\u1ecdt\u1ee5t\u1ee5", "ogige", "Awgu", "na", "Steeti", "Enugu", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 5, 0, 3, 5, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Zenith", "Bank", "bukwara", " nt\u1ee5z\u1ecbaka", "\u1ecdh\u1ee5r\u1ee5", "nke", "CBN", "."], "ner_tags": [3, 4, 4, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Nwunye", "Paul", "Onyeka", " gara", " ah\u1ecba", "nke ", "\u1ee4gba\u0144e", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "nd\u1ecb", "a", "mak\u1ecdr\u1ecd", "ga", "-", "aga", "n'ah\u1ecba", "Eke", "Owerri", "Tuesday", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 7, 0]}
+{"tokens": ["Nwunye", "m", "zinwoke", "Agu", "n\u1ecd", "na", "Gaermany", "u\u0323z\u1ecd", "af\u1ecd", "ise", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 8, 0, 0, 0, 0]}
+{"tokens": ["Enwere", "m", "ihe", "ndi", "obodo", "Enugu", "k\u1ecbt\u1ecb", "nyere", "n'\u1ecdnwa", "January", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 7, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "NNPC", "kwup\u1ee5tara", "na", "mmep\u1ee5ta", "mman\u1ee5", "gas", "belataara", "."], "ner_tags": [5, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Chukwud\u1ecbl\u1ecb", "d\u1ecdr\u1ecd", "onye", "isi", "akw\u1ee5kw\u1ecd", "aku", "na", "uli", "anyi", "Ugwu", "Eze", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Ach\u1ecdp\u1ee5tara", "otu", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "ukwuu", "na", "Nsukka", "n'af\u1ecd", "1955", "."], "ner_tags": [0, 0, 5, 6, 7, 0, 5, 0, 0, 0]}
+{"tokens": ["Igwes\u1ecb", "Anthony", "An\u1ecdzie", "b\u1ee5", "Eze", "na", "Umuahia", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ee4z\u1ecd", "gara", "Lagos", "site", "n'\u1ee4n\u1ecdcha", "were", "awa", "isii", "."], "ner_tags": [0, 0, 5, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1eccz\u1ecd", "na", "Juliet", "b\u1ecbara", "site", "n'\u1ee5l\u1ecd", "ulo", "akw\u1ee5kw\u1ecd", "Federal", "Polytechnic", "Oko", "."], "ner_tags": [1, 0, 1, 0, 0, 0, 0, 0, 5, 6, 0]}
+{"tokens": ["Nd\u1ecb", "otu", "egwuregwu", "Enyimba", "International", "meriri", "Abia", "Warriors", "."], "ner_tags": [0, 0, 0, 5, 6, 0, 5, 6, 0]}
+{"tokens": ["Mazi", "Obinna", "n\u1ecd\u1ecdr\u1ecd", "Ndi", "ezin\u1ee5l\u1ecd", "ya", "na", "America", "laa", "\u1ee5l\u1ecd", "Izunna", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 8, 0, 0, 0, 1, 0]}
+{"tokens": ["Nz\u1ecd\u1ee5kw\u1ee5", "g\u1ee5nyere", "Chineke", "n'akw\u1ee5kw\u1ecd", "Bible", "d\u1ecb", "n'Igbo", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Biko", "gar\u1ecb", "rie", "nri", "n'\u1ee5l\u1ecdekwa", "S\u1ecdf\u1ecbya", "Okwu", "na", "Owerri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Nnamdi", "Kanu", "m\u1ee5r\u1ee5", "na", "Isiama", "Afara", "ukwu", "na", "Abia", "steeti", "."], "ner_tags": [1, 2, 0, 0, 5, 6, 7, 0, 5, 0]}
+{"tokens": ["Igbo", "sere", "Afo", "\u1eccma", "na", "Leonardo", "mara", "Rembrandt", "."], "ner_tags": [5, 0, 1, 2, 0, 0, 1, 0, 1, 0]}
+{"tokens": ["\u1ee4gb\u1ecd", "elu", "British", "Airways", "butere", "nd\u1ecb", "\u1ecdk\u1ee5", "na", "London", "n'ehihie", "Monday", "."], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 5, 0, 0, 7, 0]}
+{"tokens": ["\u1ee4z\u1ecd", "na", "-", "as\u1ee5s\u1ee5", "Igbo", "na", "Hausa", "b\u1ee5r\u1ee5", "isiokwu", "nke", "mmemme", "a", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecakp\u1ecdr\u1ecd", "akw\u1ee5kw\u1ecd", "Nkem", "Okorie", "zie", "ya", "n'\u1ee5l\u1ecd", "ado", "."], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Onye", "ndu", "\u1ecdch\u1ecbch\u1ecb", "Imo", "State", "Governor", "Hope", "Uzodinma", "zaara", "aj\u1ee5j\u1ee5", "na", "NTA", "."], "ner_tags": [0, 0, 5, 6, 0, 1, 2, 2, 0, 0, 5, 0]}
+{"tokens": ["Nwoke", "aha", "ya", "bu", "Okafor", "Ebuka", "si", "Anambra", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0, 5, 0]}
+{"tokens": ["Nwa", "any\u1ecb", "akw\u1ee5kw\u1ecd", "banyere", "\u1ecbz\u1ecd", "\u1ecdch\u1ecbch\u1ecb", "site", "n'aka", "\u1ecckamm\u1ee5ta", "Nkem", "Eke", "emeziri", "n'obodo", "Enugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 2, 0, 5, 0, 0]}
+{"tokens": ["Aha", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "GTC", "Onitsha", "ap\u1ee5tara", "na", "nd\u1ecb", "ntorob\u1ecba", "n'ebe", "a", "na-am\u1ee5", "ak\u1ee5k\u1ee5", "\u1ecdr\u1ee5", "aka", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "NNPC", "ch\u1ecbk\u1ecdtara", "nzuko", "na", "Abuja", "n'\u1ee5b\u1ecdch\u1ecb", "Wenezdee", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 5, 0, 6, 0]}
+{"tokens": ["Dr", "Chidinma", "Okafor", "b\u1ee5r\u1ee5", "onye", "isi", "\u1ee5l\u1ecd", "\u1ecdgw\u1ee5", "n'ime", "obodo", "Awka", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Ejiri", "\u1ee4gb\u1ecdelu", "Ethiopian", "Airlines", "gazie", "na", "Lagos", "site", "na", "Addis", "Ababa", "."], "ner_tags": [0, 3, 4, 4, 0, 0, 5, 0, 0, 3, 4, 0]}
+{"tokens": ["Ah\u1ecbr\u1ecb", "\u1ecds\u1ecd", "\u1ee5z\u1ecd", "Benin-Ore", "emepechara", "ap\u1ee5\u1ecd", "ime", "\u1ee4wa", "n'\u1ee5b\u1ecdch\u1ecb", "Mondee", "gara", "aga", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 6, 0, 0, 0]}
+{"tokens": ["Agha", "Biafra", "malite", "na", "Af\u1ecd", "1967", "nwetara", "mm\u1ee5\u1ecd", "\u1ecdt\u1ee5t\u1ee5", "nd\u1ecb", "Igbo", "."], "ner_tags": [0, 3, 0, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"tokens": ["Ogechi", "Ibezim", "sonyeere", "na", "mmemme", "a", "n'ah\u1ecba", "Nkworji", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Minista", "\u1ecdgw\u1ee5", "Dr.", "Peter", "Okoli", "kwup\u1ee5tara", "na", "Izunna", "Eze", "agbago", "\u1ecdkwa", "nchekwa", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 1, 2, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Dangote", "Cement", "\u1ecbmalite", "\u1ecdr\u1ee5", "ugbu", "a", "n'Ebonyi", "steeti", "."], "ner_tags": [3, 4, 4, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Onye", "isi", "any\u1ecb", "ahap\u1ee5la", "\u1ecatali", "site", "n'\u1ee5gb\u1ecdelu", "Air", "France", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "Bishop", "Crowther", "Seminary", "wulitere", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "ohuru", "n'Onitsha", "."], "ner_tags": [0, 0, 3, 4, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["G\u1ecdvan\u1ecd", "Gboyega", "Oyetola", "gara", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Osun", "State", "Government", "Secretariat", "."], "ner_tags": [0, 1, 2, 0, 3, 4, 4, 4, 0]}
+{"tokens": ["Akwukwo", "ntinye", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Nigerian", "Army", "malite", "na", "M\u1ecdnde", "n'Abuja", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 6, 0]}
+{"tokens": ["Nwany\u1ecb", "a", "nyere", "akw\u1ee5kw\u1ecd", "nd\u1ecb", "nke", "Lilian", "Eze", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "St.", "Patrick", "Asaba", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Nd\u1ecb", "isi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "Petroleum", "Development", "Company", "zuk\u1ecdtara", "na", "Port", "Harcourt", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 0, 0, 5, 6, 0]}
+{"tokens": ["\u1eccka", "mm\u1ee5ta", "Igbo", "Prof.", "Chuka", "Alozie", "were", "akwado", "emume", "n'\u1ee4nwana", "Abakaliki", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Akw\u1ee5kw\u1ecd", "ak\u1ee5k\u1ecd", "nke", "Ngozi", "Chimamanda", "Adichie", "emerie", "mmeri", "n'ebe", "London", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1eccch\u1ecbch\u1ecb", "Obodo", "Kano", "kpebiri", "ikpughe", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "\u1ecdh\u1ee5\u1ee5", "na", "Bichi", "."], "ner_tags": [0, 3, 4, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Nwanne", "any\u1ecb", "Ebuka", "Ezeala", "kachas\u1ecb", "\u1ecdma", "n'egwuregwu", "Football", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "ha", "."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u1ecc", "g\u00e0r\u00e0", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Federal", "Polytechnic", "Oko", "\u1ecbm\u1ee5", "akw\u1ee5kw\u1ecd", ",", "d\u1ecbka", "\u1ecdk\u00e0", "mm\u1ee5ta", "ngwa\u1ecdr\u1ee5", "eletr\u1ecbk"], "ner_tags": [0, 0, 0, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nd\u1ecb", "nne", "nyere", "Nneka", "Okoye", "az\u1ee5", "n'\u1ecdgb\u1ecd", "Obizi", ",", "\u1eccraifite", "na", "Anambra", "steeti", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 5, 0, 5, 6, 0, 0]}
+{"tokens": ["Dr.", "Chukwuemeka", "Uche", "s\u1ee5p\u1ee5tara", "akw\u1ee5kw\u1ecd", "n'ak\u1ee5k\u1ee5", "as\u1ee5s\u1ee5", "Igbo", "na", "Lagos", "State", "University", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0, 5, 6, 7, 0]}
+{"tokens": ["Ijeoma", " gara ", "United", "Kingdom", "\u1ecbk\u1ee5zi", "\u1ee5m\u1ee5aka", "n'akw\u1ee5kw\u1ecd"], "ner_tags": [1, 0, 5, 6, 0, 0, 0]}
+{"tokens": ["A", "m\u1ee5\u1ee5r\u1ee5", "ya", "na", "Nsukka", ",", "n'Enugu", "steeti", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 6, 0]}
+{"tokens": ["\u1ecc", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "Ndi", "Bank", "of", "Africa", "na", "Abuja", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 6, 0, 5, 0]}
+{"tokens": ["Sir", "Okoro", "Anaeto", "bu", "onye", "isi", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "Royal", "Academy", "n'ihe", "ato"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 3, 4, 0, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "na-ewe", "\u1ecdt\u1ee5t\u1ee5", "nd\u1ecb", "nnukwu", "n'af\u1ecd", "Palm", "Sunday", "iwu", "na", "osisi", "ach\u1ecbcha"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdgw\u1ee5", "na", "Awka", "natara", "ozi", "n'aka", "Minista", "ah\u1ee5ike"], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 1, 0]}
+{"tokens": ["Janet", "Eze", "meriri", "as\u1ecdmpi", "\u1ecbgba", "basketball", "n'ebe", "Lagos", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u1ecc", "jeghachiri", "site", "n'\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "n'af\u1ecd", "2019", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 7, 0]}
+{"tokens": ["A", "kw\u1ee5s\u1ecbr\u1ecb", "\u1ee5gb\u1ecdala", "na", "Bridge", "\u1ee4kw\u1ee5", "Niger", "n'ihi", "mwute", "nd\u1ecb", "d\u1ecdk\u1ecbta"], "ner_tags": [0, 0, 0, 0, 3, 4, 5, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4m\u1ee5", "akw\u1ee5kw\u1ecd", "g\u00e0r\u00e0", "\u1ee4niversity", "of", "Nigeria", "b\u1ee5", "sa\u1ecbt\u1ecb", "ns\u1ee5ghar\u1ecb", "as\u1ee5s\u1ee5"], "ner_tags": [0, 0, 0, 3, 0, 4, 0, 0, 0]}
+{"tokens": ["Eze", "nw\u1ee5r\u1ee5", "n'\u1ee5l\u1ecd", "St.", "Mary's", "Hospital", "n'Awka"], "ner_tags": [1, 0, 0, 0, 3, 4, 0, 5]}
+{"tokens": ["A", "m\u1ee5r\u1ee5", "Samuel", "na", "Ghana", ",", "ma", "di", "onya", "n'\u1ee4m\u1ee5\u1ecdji", "Anambra"], "ner_tags": [0, 0, 1, 0, 5, 0, 0, 0, 0, 5, 6]}
+{"tokens": ["Idi", "Araba", "gbak\u1ecdtara", "na", "Lagos", "\u1ecbkwado", "af\u1ecd", "ohuru"], "ner_tags": [1, 2, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Central", "Bank", "of", "Nigeria", "kwadoro", "\u1ecdn\u1ee5ego", "ego"], "ner_tags": [3, 4, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u1ecc", "r\u1ee5\u1ecdr\u1ecd", "\u1ecdr\u1ee5", "n'Ugwu", "\u1ee4l\u1ecd\u1ecdr\u1ee5", "Enugu", "aline"], "ner_tags": [0, 0, 0, 3, 4, 5, 0]}
+{"tokens": ["Maaz\u1ecb", "Ugochukwu", "b\u1ee5r\u1ee5", "onye", "isi", "otu", "nd\u1ecb", "Ag\u1ee5", "Ishieke"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 1, 2]}
+{"tokens": ["Mmesoma", "Mbah", "egewo", "ule", "na", "Federal", "Government", "College", "Enugu"], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 5]}
+{"tokens": ["Emeka", "Okafor", "s\u0002b\u0000r\u0000e", "n'\u0000e1kw\u0000e1la", "g\u001ecd\u0001bmenti", "Imo", ".", ""], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["\u0000e1ra", "b\u0000e1", "na", "As\u0000e1aba", "nke", "Delta", "b\u00000e", "obodo", "ukw\u0000fa", ".", ""], "ner_tags": [0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Uche", "gbu\u0000e1ra", "akw\u0000e1", "na", "ns\u00001bu", "Aba", ".", ""], "ner_tags": [1, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Nkwado", "ah\u00001bu", "forma", "UNICEF", "mere", "inye", "aku", "na", "uzo", "na", "Enugu", "State", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Chioma", "ji", "ak\u000019", "dara", "n'\u00001bb\u000019", "University", "of", "Nigeria", "Nsukka", "."], "ner_tags": [1, 0, 0, 0, 0, 3, 4, 4, 6, 0]}
+{"tokens": ["Peter", "Obi", "bido", "bu", "g\u00001ecd\u00001bmenti", "Anambra", "steeti", "."], "ner_tags": [1, 2, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Otutu", "umuaka", "gara", "Rivers", "State", "maka", "mmemme", "ah\u00001bu", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"tokens": ["Ngozi", "Okonjo-Iweala", "na", "agbaghara", "maka", "akazi", "World", "Bank", "."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Ebe", "okwu", "ah\u00001bu", "mere", "n'obodo", "Onitsha", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dr", "Emmanuel", "Ifediata", "ziere", "akw\u000019kw\u000019", "na", "Lagos", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 5, 0]}
+{"tokens": ["Chinedu", "kwutere", "n'ihe", "ga-eme", "nke", "April", "23", "."], "ner_tags": [1, 0, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["Ndi", "Mbaise", "emeela", "mmemme", "Iriji", "nke", "ah\u00001bu", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Akuko", "gi", "banyere", "Governor", "Ben", "Ayade", "b\u00001a", "Cross", "River", "State", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 5, 5, 5, 0]}
+{"tokens": ["Nwoke", "ah\u00001bu", "buru", "onye", "isi", "Nnewi", "North", "Local", "Government", "Area", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 6, 6, 6, 0]}
+{"tokens": ["Eme", "kwuru", "maka", "akwukwo", "St.", "Patrick's", "Secondary", "School", "Obosi", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 4, 5, 0]}
+{"tokens": ["Onye", "isi", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "aha", "ya", "bu", "Prof.", "C.C.", "Ebizie", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Idemili", "River", "gara", "alo", "na", "Onitsha", "."], "ner_tags": [5, 5, 0, 0, 0, 5, 0]}
+{"tokens": ["Onye", "na-anyi", "bu", "Chief", "Maxwell", "Obiora", "site", "na", "Oba", "."], "ner_tags": [0, 0, 0, 1, 2, 2, 0, 0, 5, 0]}
+{"tokens": ["Ebe", "a", "ka", "aku", "mmuta", "guzoro", "na", "Enyimba", "Stadium", "Aba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"tokens": ["Nna", "anyi", "si", "na", "UNESCO", "enyerela", "aku", "na", "uzo", "n\u00001b\u00001bb\u0000e1", "Imo", "State", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Onyeisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Enugu", "Electricity", "Distribution", "Company", "b\u1ecbara", "\u1ee5z\u1ecd", "na", "Nd\u1ecb", "Enugu"], "ner_tags": [0, 0, 3, 4, 4, 4, 0, 0, 0, 0, 3]}
+{"tokens": ["Nwata", "any\u1ecb", "si", "Owerri", "gara", "\u1ee5l\u1ecdakw\u1ee5kw\u1ecd", "na", "Lagos", "ngwa."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 3, 0]}
+{"tokens": ["Ihe", "omume", "Emeka", "Okafor", "kachas\u1ecb", "emere", "n'\u1ecdgbak\u1ecd", "a."], "ner_tags": [0, 0, 1, 2, 0, 0, 0, 0]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "ndi", "ndek\u1ecd", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "University", "of", "Nigeria", "Nsukka", "af\u1ecd", "gara."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0, 0]}
+{"tokens": ["A", "kara", "anyi", "\u1ee5gw\u1ecd", "any\u1ecb", "n'\u1ecdl\u1ecdr\u1ecba", "na", "St.", "Thomas", "Catholic", "Church", "Awka."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 3]}
+{"tokens": ["Ejiri", "onye", "isi", "\u1ecdr\u1ee5", "Abia", "Women's", "Development", "Centre", "dozie", "mpempe", "\u1ecdr\u1ee5."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 0, 0, 0]}
+{"tokens": ["Chinedu", "Uzochukwu", "ziere", "akw\u1ee5kw\u1ecd", "na", "Federal", "Polytechnic", "Oko."], "ner_tags": [1, 2, 0, 0, 0, 3, 4, 3, 0]}
+{"tokens": ["Nd\u1ecb", "na-ah\u1ee5", "n'\u1ecdt\u1ee5t\u1ee5", "mmemme", "g\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "na", "University", "of", "Ibadan."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 3, 0]}
+{"tokens": ["Mmad\u1ee5", "\u1ecd b\u1ee5la", "bi", "na", "\u1ee4z\u1ecd-Uwani", "Ga-Ebutu", "nke", "Enugu", "State."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 3, 4]}
+{"tokens": ["Nwany\u1ecb", "any\u1ecb", "s\u1ecbr\u1ecb", "na", "\u1ecd", "b\u1ee5", "onye", "Amer\u1ecbka", "mana", "\u1ecd", "m\u1ee5r\u1ecba", "na", "Nigeria."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 3, 0]}
+{"tokens": ["\u1ecc", "r\u1ee5kw\u1ecdla", "\u1ecdr\u1ee5", "na", "United", "Nations", "UNICEF", "na", "Geneva."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 0, 3, 0]}
+{"tokens": ["A", "ga-enyocha", "okwu", "nd\u1ecb", "nne", "na", "General", "Hospital", "Onitsha."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 3, 0]}
+{"tokens": ["\u1ee4l\u1ecd", "\u1ecdr\u1ee5", "First", "Bank", "of", "Nigeria", "PLC", "emeghewo", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ohuru", "na", "Aba."], "ner_tags": [0, 0, 3, 4, 4, 4, 4, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Ndo", "maka", "ihe", "emeela", "n'ime", "\u1ee4l\u1ecd\u1ecdr\u1ee5", "National", "Agency", "for", "Food", "and", "Drug", "Administration", "and", "Control", "(NAFDAC)"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4]}
+{"tokens": ["\u1ee4f\u1ecdd\u1ee5", "onyemegide", "soro", "Patricia", "Ekwueme", "na", "Osita", "Onyeka", "KWADO", "na", "aw\u1ee5kwas\u1ecb", "nd\u1ecb", "ntuliaka"], "ner_tags": [0, 0, 0, 1, 2, 0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Gburugburu", "\u1ecdha", "na", "eze", "marala", "na", "Afr\u1ecbka", "bu", "nke", "olileanya", "\u1ecdh\u1ee5r\u1ee5."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Chika", "Oguejiofor", "t\u1ecdr\u1ecd", "nto", "n'\u1ee5b\u1ecdch\u1ecb", "\u1ecdkwa", "nk\u1ecbta", "na", "Nigeria"], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 3]}
+{"tokens": ["Nd\u1ecbisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Nnamdi", "Azikiwe", "University", "Awka", "kwadoro", "n\u1ecdmba", "helpline", "08012345678."], "ner_tags": [0, 0, 1, 2, 3, 3, 0, 0, 0, 0]}
+{"tokens": ["\u1eccr\u1ecba", "COVID-19", "gbasara", "na", "\u1ecdt\u1ee5t\u1ee5", "obodo", "Nigeria", "na", "South", "Africa."], "ner_tags": [0, 3, 0, 0, 0, 0, 3, 0, 3, 4]}
+{"tokens": ["Nd\u1ecb", "\u1ecdr\u1ee5", "National", "Population", "Commission", "wakporo", "\u1ee4m\u1ee5aka", "na", "\u1ee4mudioka", "na", "Idemili", "North."], "ner_tags": [0, 0, 3, 4, 4, 0, 3, 0, 3, 0, 3, 4]}
+{"tokens": ["Onyedika", "gara", "Lagos", "na", "Jen\u1ee5war\u1ecb", "ime", "\u1ecdr\u1ee5", "."], "ner_tags": [0, 0, 1, 0, 3, 0, 0, 0]}
+{"tokens": ["\u1ee4gb\u1ecdala", "site", "n'\u1ee5l\u1ecd", "ukwa", "Kano", "ruru", "Abuja", "n'abal\u1ecb", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 1, 3, 0]}
+{"tokens": ["Chinonso", "z\u1ee5r\u1ee5", "akw\u1ee5kw\u1ecd", "n'\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "GTC", "Onitsha", "."], "ner_tags": [1, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Nkw\u1ee5nye", "Ego", "ime", "\u1ee5l\u1ecd", "\u1ecdr\u1ee5", "ego", "nke", "Union", "Bank", "ga-eme", "n'Ag\u1ecdst", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 3, 4, 0, 0, 3, 0]}
+{"tokens": ["\u1ee4m\u1ee5aka", "akp\u1ecdr\u1ecd", "Martha", "na", "Ifediora", "b\u1ee5", "nd\u1ecb", "nnyocha", "na", "Nsukka", "."], "ner_tags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Aha", "\u1ee5l\u1ecd", "akw\u1ee5kw\u1ecd", "ya", "b\u1ee5", "Federal", "Government", "College", "Enugu", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 4, 4, 4, 0]}
+{"tokens": ["Emeka", "gara", "\u1ee5l\u1ecd", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Shell", "n'\u1ee5t\u1ee5t\u1ee5", "."], "ner_tags": [1, 0, 0, 0, 3, 0, 3, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Julius", "Berger", "emebere", "\u1ee5z\u1ecd", "n'Aba", "."], "ner_tags": [3, 4, 4, 0, 0, 1, 0]}
+{"tokens": ["Nd\u1ecb", "g\u1ee5nyere", "Onyeisi", "Peter", "Obi", "Tinyere", "n'\u1ecdr\u1ee5", "G\u1ecdvan\u1ecd", "Anambra", "State", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 3, 4, 0]}
+{"tokens": ["Any\u1ecb", "n\u1ecdr\u1ecd", "na", "\u1ee4l\u1ecd\u1ecdr\u1ee5", "Guinness", "Nigeria", "tinyere", "\u1ee4f\u1ecdd\u1ee5", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "nd\u1ecb", "ozo", "."], "ner_tags": [0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Isabella", "b\u1ee5r\u1ee5", "onye", "na-ah\u1ee5", "\u1ecdr\u1ee5", "n'USA", "tupu", "\u1ecdba", "n'Igbo", "."], "ner_tags": [1, 0, 0, 0, 0, 3, 0, 0, 1, 0]}
+{"tokens": ["Oge", "Ezina\u1ee5l\u1ecd", "Okeke", "gara", "n'ihu", "\u1ecdgbak\u1ecd", "Kiristi", "n'\u1ee5b\u1ecdch\u1ecb", "Izendu", "."], "ner_tags": [0, 1, 2, 0, 0, 3, 0, 0, 3, 0, 1, 0]}
+{"tokens": ["\u1ee4b\u1ecdch\u1ecb", "Ntinye", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "MTN", "ga-ab\u1ecba", "n'\u1ecdnwa", "Mee", "."], "ner_tags": [0, 1, 3, 4, 0, 0, 3, 0]}
+{"tokens": ["Nke", "a", "mere", "na", "Nzuk\u1ecd", "Nd\u1ecb", "Na-ah\u1ee5", "Ihe", "Onyeisi", "n'Ikeja", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Ugwuanyi", "b\u1ee5r\u1ee5", "G\u1ecdvan\u1ecd", "Enugu", "site", "na", "2015", "ruo", "2023", "."], "ner_tags": [1, 0, 0, 3, 0, 0, 7, 8, 8, 0]}
+{"tokens": ["Nd\u1ecbisi", "\u1ee5l\u1ecd\u1ecdr\u1ee5", "Dangote", "Sugar", "Refinery", "kp\u1ecdr\u1ecd", "nd\u1ecb", "\u1ecdkw\u1ecd", "\u1ecdr\u1ee5", "\u1ecbb\u1ecba", "na", "Nnewi", "."], "ner_tags": [0, 3, 4, 4, 4, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Chukwuemeka", "Odumegwu", "Ojukwu", "University", "ga-enweta", "asambodo", "n'af\u1ecd", "2024", "."], "ner_tags": [1, 2, 2, 3, 0, 0, 0, 7, 8, 0]}
+{"tokens": ["\u1ee4l\u1ecd\u1ecdr\u1ee5", "Chevron", "t\u1ecdp\u1ee5tara", "\u1ecdt\u1ee5t\u1ee5", "\u1ecdr\u1ee5", "n'obodo", "Warri", "na", "Delta", "State", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 1, 0, 3, 4, 0]}
+{"tokens": ["N'\u1ee5b\u1ecdch\u1ecb", "M\u1ecdnde", "nd\u1ecbicheiche", "site", "n'\u1ee4l\u1ecd\u1ecdr\u1ee5", "British", "Council", "ruru", "Enugu", "."], "ner_tags": [3, 4, 0, 0, 3, 4, 4, 0, 1, 0]}
+{"tokens": ["Zik", "b\u1ee5r\u1ee5", "onyeisi", "Nd\u1ecb", "Na-ah\u1ee5", "Onyeisi", "Nd\u1ecb", "Na-ah\u1ee5", "mmepe", "n'ala", "Igbo", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}

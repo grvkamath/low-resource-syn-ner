@@ -1,0 +1,277 @@
+lang,raw_data_source,size,f1,data_source,data_type
+kn,ai4bharat/naamapadam,100,0.4857784431137724,Naamapadam,Organic
+kn,datasets/aya-expanse-32b_generations/kn-aya-expanse-32b,100,0.0,Aya Expanse 32B,Synthetic
+kn,datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14,100,0.034447821681864235,GPT-4.1,Synthetic
+kn,datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+kn,ai4bharat/naamapadam,250,0.6175595238095237,Naamapadam,Organic
+kn,datasets/aya-expanse-32b_generations/kn-aya-expanse-32b,180,0.0,Aya Expanse 32B,Synthetic
+kn,datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14,250,0.0,GPT-4.1,Synthetic
+kn,datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+kn,ai4bharat/naamapadam,500,0.664954128440367,Naamapadam,Organic
+kn,datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14,500,0.08167330677290836,GPT-4.1,Synthetic
+kn,datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct,500,0.0,Llama-3.1-8B-Instruct,Synthetic
+kn,ai4bharat/naamapadam,1000,0.689655172413793,Naamapadam,Organic
+kn,datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14,1000,0.1534752912816392,GPT-4.1,Synthetic
+kn,datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct,1000,0.07282913165266106,Llama-3.1-8B-Instruct,Synthetic
+kn,ai4bharat/naamapadam,2500,0.7879017013232514,Naamapadam,Organic
+kn,datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14,2500,0.1076987799747581,GPT-4.1,Synthetic
+kn,datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct,2500,0.0,Llama-3.1-8B-Instruct,Synthetic
+kn,ai4bharat/naamapadam,5000,0.79939781708694,Naamapadam,Organic
+kn,datasets/gpt-4_generations/kn-gpt-4.1-2025-04-14,4899,0.0,GPT-4.1,Synthetic
+kn,datasets/Llama-3.1-8B-Instruct_generations/kn-Llama-3.1-8B-Instruct,3450,0.05445180279617366,Llama-3.1-8B-Instruct,Synthetic
+kn,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+kn,ai4bharat/naamapadam,0,0.0,Naamapadam,Organic
+kn,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+kn,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+ta,ai4bharat/naamapadam,100,0.3478260869565218,Naamapadam,Organic
+ta,datasets/aya-expanse-32b_generations/ta-aya-expanse-32b,100,0.0,Aya Expanse 32B,Synthetic
+ta,datasets/gpt-4_generations/ta-gpt-4.1-2025-04-14,100,0.018143009605122735,GPT-4.1,Synthetic
+ta,datasets/Llama-3.1-8B-Instruct_generations/ta-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+ta,ai4bharat/naamapadam,250,0.5509868421052633,Naamapadam,Organic
+ta,datasets/aya-expanse-32b_generations/ta-aya-expanse-32b,189,0.0057761732851985565,Aya Expanse 32B,Synthetic
+ta,datasets/gpt-4_generations/ta-gpt-4.1-2025-04-14,250,0.0,GPT-4.1,Synthetic
+ta,datasets/Llama-3.1-8B-Instruct_generations/ta-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+ta,ai4bharat/naamapadam,500,0.5792260692464358,Naamapadam,Organic
+ta,datasets/gpt-4_generations/ta-gpt-4.1-2025-04-14,500,0.0,GPT-4.1,Synthetic
+ta,datasets/Llama-3.1-8B-Instruct_generations/ta-Llama-3.1-8B-Instruct,500,0.0,Llama-3.1-8B-Instruct,Synthetic
+ta,ai4bharat/naamapadam,1000,0.5603517186250999,Naamapadam,Organic
+ta,datasets/gpt-4_generations/ta-gpt-4.1-2025-04-14,1000,0.0,GPT-4.1,Synthetic
+ta,datasets/Llama-3.1-8B-Instruct_generations/ta-Llama-3.1-8B-Instruct,1000,0.0,Llama-3.1-8B-Instruct,Synthetic
+ta,ai4bharat/naamapadam,2500,0.676336510567758,Naamapadam,Organic
+ta,datasets/gpt-4_generations/ta-gpt-4.1-2025-04-14,2500,0.003305785123966942,GPT-4.1,Synthetic
+ta,datasets/Llama-3.1-8B-Instruct_generations/ta-Llama-3.1-8B-Instruct,2500,0.08163265306122448,Llama-3.1-8B-Instruct,Synthetic
+ta,ai4bharat/naamapadam,5000,0.7338371116708649,Naamapadam,Organic
+ta,datasets/gpt-4_generations/ta-gpt-4.1-2025-04-14,4944,0.0,GPT-4.1,Synthetic
+ta,datasets/Llama-3.1-8B-Instruct_generations/ta-Llama-3.1-8B-Instruct,3046,0.0,Llama-3.1-8B-Instruct,Synthetic
+ta,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+ta,ai4bharat/naamapadam,0,0.0,Naamapadam,Organic
+ta,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+ta,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+te,ai4bharat/naamapadam,100,0.5483630952380952,Naamapadam,Organic
+te,datasets/aya-expanse-32b_generations/te-aya-expanse-32b,100,0.0,Aya Expanse 32B,Synthetic
+te,datasets/gpt-4_generations/te-gpt-4.1-2025-04-14,100,0.0,GPT-4.1,Synthetic
+te,datasets/Llama-3.1-8B-Instruct_generations/te-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+te,ai4bharat/naamapadam,250,0.6868468468468468,Naamapadam,Organic
+te,datasets/aya-expanse-32b_generations/te-aya-expanse-32b,217,0.003944773175542406,Aya Expanse 32B,Synthetic
+te,datasets/gpt-4_generations/te-gpt-4.1-2025-04-14,250,0.02425015954052329,GPT-4.1,Synthetic
+te,datasets/Llama-3.1-8B-Instruct_generations/te-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+te,ai4bharat/naamapadam,500,0.7228381374722838,Naamapadam,Organic
+te,datasets/gpt-4_generations/te-gpt-4.1-2025-04-14,500,0.1078740157480315,GPT-4.1,Synthetic
+te,datasets/Llama-3.1-8B-Instruct_generations/te-Llama-3.1-8B-Instruct,500,0.0,Llama-3.1-8B-Instruct,Synthetic
+te,ai4bharat/naamapadam,1000,0.7126099706744868,Naamapadam,Organic
+te,datasets/gpt-4_generations/te-gpt-4.1-2025-04-14,1000,0.0,GPT-4.1,Synthetic
+te,datasets/Llama-3.1-8B-Instruct_generations/te-Llama-3.1-8B-Instruct,1000,0.0,Llama-3.1-8B-Instruct,Synthetic
+te,ai4bharat/naamapadam,2500,0.792838874680307,Naamapadam,Organic
+te,datasets/gpt-4_generations/te-gpt-4.1-2025-04-14,2500,0.032900432900432895,GPT-4.1,Synthetic
+te,datasets/Llama-3.1-8B-Instruct_generations/te-Llama-3.1-8B-Instruct,2500,0.0,Llama-3.1-8B-Instruct,Synthetic
+te,ai4bharat/naamapadam,5000,0.8366533864541832,Naamapadam,Organic
+te,datasets/gpt-4_generations/te-gpt-4.1-2025-04-14,4931,0.18023025009924573,GPT-4.1,Synthetic
+te,datasets/Llama-3.1-8B-Instruct_generations/te-Llama-3.1-8B-Instruct,3499,0.3096910112359551,Llama-3.1-8B-Instruct,Synthetic
+te,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+te,ai4bharat/naamapadam,0,0.0,Naamapadam,Organic
+te,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+te,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+ml,ai4bharat/naamapadam,100,0.6462167689161554,Naamapadam,Organic
+ml,datasets/aya-expanse-32b_generations/ml-aya-expanse-32b,100,0.0,Aya Expanse 32B,Synthetic
+ml,datasets/gpt-4_generations/ml-gpt-4.1-2025-04-14,100,0.017532874139010644,GPT-4.1,Synthetic
+ml,datasets/Llama-3.1-8B-Instruct_generations/ml-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+ml,ai4bharat/naamapadam,250,0.6194690265486726,Naamapadam,Organic
+ml,datasets/aya-expanse-32b_generations/ml-aya-expanse-32b,250,0.0,Aya Expanse 32B,Synthetic
+ml,datasets/gpt-4_generations/ml-gpt-4.1-2025-04-14,250,0.022963367960634227,GPT-4.1,Synthetic
+ml,datasets/Llama-3.1-8B-Instruct_generations/ml-Llama-3.1-8B-Instruct,250,0.0051712992889463485,Llama-3.1-8B-Instruct,Synthetic
+ml,ai4bharat/naamapadam,500,0.7035897435897436,Naamapadam,Organic
+ml,datasets/aya-expanse-32b_generations/ml-aya-expanse-32b,396,0.0013227513227513227,Aya Expanse 32B,Synthetic
+ml,datasets/gpt-4_generations/ml-gpt-4.1-2025-04-14,500,0.2831973898858075,GPT-4.1,Synthetic
+ml,datasets/Llama-3.1-8B-Instruct_generations/ml-Llama-3.1-8B-Instruct,500,0.0,Llama-3.1-8B-Instruct,Synthetic
+ml,ai4bharat/naamapadam,1000,0.7181571815718159,Naamapadam,Organic
+ml,datasets/gpt-4_generations/ml-gpt-4.1-2025-04-14,1000,0.0,GPT-4.1,Synthetic
+ml,datasets/Llama-3.1-8B-Instruct_generations/ml-Llama-3.1-8B-Instruct,1000,0.0,Llama-3.1-8B-Instruct,Synthetic
+ml,ai4bharat/naamapadam,2500,0.7433871521813811,Naamapadam,Organic
+ml,datasets/gpt-4_generations/ml-gpt-4.1-2025-04-14,2500,0.050215982721382287,GPT-4.1,Synthetic
+ml,datasets/Llama-3.1-8B-Instruct_generations/ml-Llama-3.1-8B-Instruct,2500,0.3252566735112936,Llama-3.1-8B-Instruct,Synthetic
+ml,ai4bharat/naamapadam,5000,0.8306423909309515,Naamapadam,Organic
+ml,datasets/gpt-4_generations/ml-gpt-4.1-2025-04-14,4859,0.25188586421777626,GPT-4.1,Synthetic
+ml,datasets/Llama-3.1-8B-Instruct_generations/ml-Llama-3.1-8B-Instruct,3430,0.32829525483304045,Llama-3.1-8B-Instruct,Synthetic
+ml,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+ml,ai4bharat/naamapadam,0,0.0,Naamapadam,Organic
+ml,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+ml,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+kin,masakhane/masakhaner2,100,0.06981192221868028,MasakhaNER 2,Organic
+kin,datasets/aya-expanse-32b_generations/kin-aya-expanse-32b,100,0.1704708699122107,Aya Expanse 32B,Synthetic
+kin,datasets/gpt-4_generations/kin-gpt-4.1-2025-04-14,100,0.2866601752677702,GPT-4.1,Synthetic
+kin,datasets/Llama-3.1-8B-Instruct_generations/kin-Llama-3.1-8B-Instruct,100,0.14825462012320326,Llama-3.1-8B-Instruct,Synthetic
+kin,masakhane/masakhaner2,250,0.5253509687898829,MasakhaNER 2,Organic
+kin,datasets/aya-expanse-32b_generations/kin-aya-expanse-32b,250,0.18510992056161094,Aya Expanse 32B,Synthetic
+kin,datasets/gpt-4_generations/kin-gpt-4.1-2025-04-14,250,0.3368599238256454,GPT-4.1,Synthetic
+kin,datasets/Llama-3.1-8B-Instruct_generations/kin-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+kin,masakhane/masakhaner2,500,0.6594902251917842,MasakhaNER 2,Organic
+kin,datasets/aya-expanse-32b_generations/kin-aya-expanse-32b,500,0.26317985811656697,Aya Expanse 32B,Synthetic
+kin,datasets/gpt-4_generations/kin-gpt-4.1-2025-04-14,500,0.41488888888888886,GPT-4.1,Synthetic
+kin,datasets/Llama-3.1-8B-Instruct_generations/kin-Llama-3.1-8B-Instruct,500,0.1932841932841933,Llama-3.1-8B-Instruct,Synthetic
+kin,masakhane/masakhaner2,1000,0.6922578135131631,MasakhaNER 2,Organic
+kin,datasets/aya-expanse-32b_generations/kin-aya-expanse-32b,1000,0.2999518536350505,Aya Expanse 32B,Synthetic
+kin,datasets/gpt-4_generations/kin-gpt-4.1-2025-04-14,1000,0.44121044121044123,GPT-4.1,Synthetic
+kin,datasets/Llama-3.1-8B-Instruct_generations/kin-Llama-3.1-8B-Instruct,1000,0.26790194943061185,Llama-3.1-8B-Instruct,Synthetic
+kin,masakhane/masakhaner2,2500,0.7336233030183209,MasakhaNER 2,Organic
+kin,datasets/aya-expanse-32b_generations/kin-aya-expanse-32b,1433,0.30935088515660464,Aya Expanse 32B,Synthetic
+kin,datasets/gpt-4_generations/kin-gpt-4.1-2025-04-14,2500,0.4801435943459726,GPT-4.1,Synthetic
+kin,datasets/Llama-3.1-8B-Instruct_generations/kin-Llama-3.1-8B-Instruct,2500,0.2119350592365072,Llama-3.1-8B-Instruct,Synthetic
+kin,masakhane/masakhaner2,5000,0.789751512810609,MasakhaNER 2,Organic
+kin,datasets/gpt-4_generations/kin-gpt-4.1-2025-04-14,2683,0.4700864048999234,GPT-4.1,Synthetic
+kin,datasets/Llama-3.1-8B-Instruct_generations/kin-Llama-3.1-8B-Instruct,2842,0.2872166817769719,Llama-3.1-8B-Instruct,Synthetic
+kin,masakhane/masakhaner2,0,0.0,MasakhaNER 2,Organic
+kin,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+kin,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+kin,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+swa,masakhane/masakhaner2,100,0.7036477444420463,MasakhaNER 2,Organic
+swa,datasets/aya-expanse-32b_generations/swa-aya-expanse-32b,100,0.4289772727272727,Aya Expanse 32B,Synthetic
+swa,datasets/gpt-4_generations/swa-gpt-4.1-2025-04-14,100,0.5393810032017076,GPT-4.1,Synthetic
+swa,datasets/Llama-3.1-8B-Instruct_generations/swa-Llama-3.1-8B-Instruct,100,0.26997140133460434,Llama-3.1-8B-Instruct,Synthetic
+swa,masakhane/masakhaner2,250,0.8437431514354591,MasakhaNER 2,Organic
+swa,datasets/aya-expanse-32b_generations/swa-aya-expanse-32b,250,0.6089206505667816,Aya Expanse 32B,Synthetic
+swa,datasets/gpt-4_generations/swa-gpt-4.1-2025-04-14,250,0.7142105816766593,GPT-4.1,Synthetic
+swa,datasets/Llama-3.1-8B-Instruct_generations/swa-Llama-3.1-8B-Instruct,250,0.3842605938310752,Llama-3.1-8B-Instruct,Synthetic
+swa,masakhane/masakhaner2,500,0.8875311156370219,MasakhaNER 2,Organic
+swa,datasets/aya-expanse-32b_generations/swa-aya-expanse-32b,476,0.5701202060675444,Aya Expanse 32B,Synthetic
+swa,datasets/gpt-4_generations/swa-gpt-4.1-2025-04-14,500,0.7412997903563943,GPT-4.1,Synthetic
+swa,datasets/Llama-3.1-8B-Instruct_generations/swa-Llama-3.1-8B-Instruct,500,0.42622073578595315,Llama-3.1-8B-Instruct,Synthetic
+swa,masakhane/masakhaner2,1000,0.8837417477900861,MasakhaNER 2,Organic
+swa,datasets/gpt-4_generations/swa-gpt-4.1-2025-04-14,1000,0.7385883347421809,GPT-4.1,Synthetic
+swa,datasets/Llama-3.1-8B-Instruct_generations/swa-Llama-3.1-8B-Instruct,1000,0.33431855500821017,Llama-3.1-8B-Instruct,Synthetic
+swa,masakhane/masakhaner2,2500,0.9082299887260428,MasakhaNER 2,Organic
+swa,datasets/gpt-4_generations/swa-gpt-4.1-2025-04-14,2500,0.8029418126757516,GPT-4.1,Synthetic
+swa,datasets/Llama-3.1-8B-Instruct_generations/swa-Llama-3.1-8B-Instruct,2086,0.4652260307998013,Llama-3.1-8B-Instruct,Synthetic
+swa,masakhane/masakhaner2,5000,0.9165250877789105,MasakhaNER 2,Organic
+swa,datasets/gpt-4_generations/swa-gpt-4.1-2025-04-14,2619,0.7796282368110026,GPT-4.1,Synthetic
+swa,masakhane/masakhaner2,0,0.0,MasakhaNER 2,Organic
+swa,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+swa,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+swa,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+yor,masakhane/masakhaner2,100,0.28274325328051503,MasakhaNER 2,Organic
+yor,datasets/aya-expanse-32b_generations/yor-aya-expanse-32b,100,0.15402351856121743,Aya Expanse 32B,Synthetic
+yor,datasets/gpt-4_generations/yor-gpt-4.1-2025-04-14,100,0.20133075767332045,GPT-4.1,Synthetic
+yor,datasets/Llama-3.1-8B-Instruct_generations/yor-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+yor,masakhane/masakhaner2,250,0.5067331670822943,MasakhaNER 2,Organic
+yor,datasets/aya-expanse-32b_generations/yor-aya-expanse-32b,250,0.13656746840603343,Aya Expanse 32B,Synthetic
+yor,datasets/gpt-4_generations/yor-gpt-4.1-2025-04-14,250,0.2853982300884956,GPT-4.1,Synthetic
+yor,datasets/Llama-3.1-8B-Instruct_generations/yor-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+yor,masakhane/masakhaner2,500,0.5654091131798139,MasakhaNER 2,Organic
+yor,datasets/aya-expanse-32b_generations/yor-aya-expanse-32b,406,0.197242435848334,Aya Expanse 32B,Synthetic
+yor,datasets/gpt-4_generations/yor-gpt-4.1-2025-04-14,500,0.3522413426811132,GPT-4.1,Synthetic
+yor,datasets/Llama-3.1-8B-Instruct_generations/yor-Llama-3.1-8B-Instruct,500,0.017740429505135387,Llama-3.1-8B-Instruct,Synthetic
+yor,masakhane/masakhaner2,1000,0.6779744346116028,MasakhaNER 2,Organic
+yor,datasets/gpt-4_generations/yor-gpt-4.1-2025-04-14,1000,0.3555643251775848,GPT-4.1,Synthetic
+yor,datasets/Llama-3.1-8B-Instruct_generations/yor-Llama-3.1-8B-Instruct,1000,0.052319497732821754,Llama-3.1-8B-Instruct,Synthetic
+yor,masakhane/masakhaner2,2500,0.7178205448637841,MasakhaNER 2,Organic
+yor,datasets/gpt-4_generations/yor-gpt-4.1-2025-04-14,2500,0.43623000432338954,GPT-4.1,Synthetic
+yor,datasets/Llama-3.1-8B-Instruct_generations/yor-Llama-3.1-8B-Instruct,2500,0.1718569780853518,Llama-3.1-8B-Instruct,Synthetic
+yor,masakhane/masakhaner2,5000,0.8261083743842366,MasakhaNER 2,Organic
+yor,datasets/gpt-4_generations/yor-gpt-4.1-2025-04-14,4187,0.3673383711167086,GPT-4.1,Synthetic
+yor,datasets/Llama-3.1-8B-Instruct_generations/yor-Llama-3.1-8B-Instruct,2531,0.01135825840037861,Llama-3.1-8B-Instruct,Synthetic
+yor,masakhane/masakhaner2,0,0.0,MasakhaNER 2,Organic
+yor,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+yor,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+yor,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+ibo,masakhane/masakhaner2,100,0.48397334179625523,MasakhaNER 2,Organic
+ibo,datasets/aya-expanse-32b_generations/ibo-aya-expanse-32b,100,0.280582392162199,Aya Expanse 32B,Synthetic
+ibo,datasets/gpt-4_generations/ibo-gpt-4.1-2025-04-14,100,0.2909010892287381,GPT-4.1,Synthetic
+ibo,datasets/Llama-3.1-8B-Instruct_generations/ibo-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+ibo,masakhane/masakhaner2,250,0.6848978337686281,MasakhaNER 2,Organic
+ibo,datasets/aya-expanse-32b_generations/ibo-aya-expanse-32b,250,0.40118343195266276,Aya Expanse 32B,Synthetic
+ibo,datasets/gpt-4_generations/ibo-gpt-4.1-2025-04-14,250,0.465680697762609,GPT-4.1,Synthetic
+ibo,datasets/Llama-3.1-8B-Instruct_generations/ibo-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+ibo,masakhane/masakhaner2,500,0.6953892668178383,MasakhaNER 2,Organic
+ibo,datasets/aya-expanse-32b_generations/ibo-aya-expanse-32b,500,0.41998282278843396,Aya Expanse 32B,Synthetic
+ibo,datasets/gpt-4_generations/ibo-gpt-4.1-2025-04-14,500,0.47063080448679295,GPT-4.1,Synthetic
+ibo,datasets/Llama-3.1-8B-Instruct_generations/ibo-Llama-3.1-8B-Instruct,500,0.0,Llama-3.1-8B-Instruct,Synthetic
+ibo,masakhane/masakhaner2,1000,0.780607548327708,MasakhaNER 2,Organic
+ibo,datasets/aya-expanse-32b_generations/ibo-aya-expanse-32b,874,0.4596864501679731,Aya Expanse 32B,Synthetic
+ibo,datasets/gpt-4_generations/ibo-gpt-4.1-2025-04-14,1000,0.4991255213238262,GPT-4.1,Synthetic
+ibo,datasets/Llama-3.1-8B-Instruct_generations/ibo-Llama-3.1-8B-Instruct,1000,0.1987647389107243,Llama-3.1-8B-Instruct,Synthetic
+ibo,masakhane/masakhaner2,2500,0.7863327149041435,MasakhaNER 2,Organic
+ibo,datasets/gpt-4_generations/ibo-gpt-4.1-2025-04-14,2500,0.46123407938666994,GPT-4.1,Synthetic
+ibo,datasets/Llama-3.1-8B-Instruct_generations/ibo-Llama-3.1-8B-Instruct,2276,0.0,Llama-3.1-8B-Instruct,Synthetic
+ibo,masakhane/masakhaner2,5000,0.8230745437673989,MasakhaNER 2,Organic
+ibo,datasets/gpt-4_generations/ibo-gpt-4.1-2025-04-14,3473,0.5349663196570729,GPT-4.1,Synthetic
+ibo,masakhane/masakhaner2,0,0.0,MasakhaNER 2,Organic
+ibo,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+ibo,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+ibo,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+da,datasets/universal_ner/da_ddt,100,0.5512010113780025,Universal NER,Organic
+da,datasets/aya-expanse-32b_generations/da-aya-expanse-32b,100,0.0,Aya Expanse 32B,Synthetic
+da,datasets/gpt-4_generations/da-gpt-4.1-2025-04-14,100,0.6554973821989528,GPT-4.1,Synthetic
+da,datasets/Llama-3.1-8B-Instruct_generations/da-Llama-3.1-8B-Instruct,100,0.044142614601018676,Llama-3.1-8B-Instruct,Synthetic
+da,datasets/universal_ner/da_ddt,250,0.7924107142857142,Universal NER,Organic
+da,datasets/aya-expanse-32b_generations/da-aya-expanse-32b,250,0.15339233038348082,Aya Expanse 32B,Synthetic
+da,datasets/gpt-4_generations/da-gpt-4.1-2025-04-14,250,0.6215384615384616,GPT-4.1,Synthetic
+da,datasets/Llama-3.1-8B-Instruct_generations/da-Llama-3.1-8B-Instruct,250,0.08793969849246233,Llama-3.1-8B-Instruct,Synthetic
+da,datasets/universal_ner/da_ddt,500,0.856179775280899,Universal NER,Organic
+da,datasets/aya-expanse-32b_generations/da-aya-expanse-32b,500,0.24897959183673468,Aya Expanse 32B,Synthetic
+da,datasets/gpt-4_generations/da-gpt-4.1-2025-04-14,500,0.7481713688610241,GPT-4.1,Synthetic
+da,datasets/Llama-3.1-8B-Instruct_generations/da-Llama-3.1-8B-Instruct,500,0.20863309352517986,Llama-3.1-8B-Instruct,Synthetic
+da,datasets/universal_ner/da_ddt,1000,0.8637873754152824,Universal NER,Organic
+da,datasets/aya-expanse-32b_generations/da-aya-expanse-32b,579,0.20992907801418442,Aya Expanse 32B,Synthetic
+da,datasets/gpt-4_generations/da-gpt-4.1-2025-04-14,1000,0.7061310782241014,GPT-4.1,Synthetic
+da,datasets/Llama-3.1-8B-Instruct_generations/da-Llama-3.1-8B-Instruct,1000,0.13953488372093026,Llama-3.1-8B-Instruct,Synthetic
+da,datasets/universal_ner/da_ddt,2500,0.8320180383314544,Universal NER,Organic
+da,datasets/gpt-4_generations/da-gpt-4.1-2025-04-14,2500,0.819047619047619,GPT-4.1,Synthetic
+da,datasets/Llama-3.1-8B-Instruct_generations/da-Llama-3.1-8B-Instruct,2500,0.17861975642760483,Llama-3.1-8B-Instruct,Synthetic
+da,datasets/universal_ner/da_ddt,4383,0.8303571428571428,Universal NER,Organic
+da,datasets/gpt-4_generations/da-gpt-4.1-2025-04-14,4112,0.787190082644628,GPT-4.1,Synthetic
+da,datasets/Llama-3.1-8B-Instruct_generations/da-Llama-3.1-8B-Instruct,3051,0.17772215269086356,Llama-3.1-8B-Instruct,Synthetic
+da,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+da,datasets/universal,0,0.0,Universal NER,Synthetic
+da,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+da,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+sv,datasets/universal_ner/sv_talbanken,100,0.0,Universal NER,Organic
+sv,datasets/aya-expanse-32b_generations/sv-aya-expanse-32b,100,0.26498422712933756,Aya Expanse 32B,Synthetic
+sv,datasets/gpt-4_generations/sv-gpt-4.1-2025-04-14,100,0.363265306122449,GPT-4.1,Synthetic
+sv,datasets/Llama-3.1-8B-Instruct_generations/sv-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+sv,datasets/universal_ner/sv_talbanken,250,0.7878787878787878,Universal NER,Organic
+sv,datasets/aya-expanse-32b_generations/sv-aya-expanse-32b,250,0.06779661016949153,Aya Expanse 32B,Synthetic
+sv,datasets/gpt-4_generations/sv-gpt-4.1-2025-04-14,250,0.42148760330578516,GPT-4.1,Synthetic
+sv,datasets/Llama-3.1-8B-Instruct_generations/sv-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+sv,datasets/universal_ner/sv_talbanken,500,0.8345323741007193,Universal NER,Organic
+sv,datasets/aya-expanse-32b_generations/sv-aya-expanse-32b,500,0.5565217391304347,Aya Expanse 32B,Synthetic
+sv,datasets/gpt-4_generations/sv-gpt-4.1-2025-04-14,500,0.3985102420856611,GPT-4.1,Synthetic
+sv,datasets/Llama-3.1-8B-Instruct_generations/sv-Llama-3.1-8B-Instruct,500,0.0,Llama-3.1-8B-Instruct,Synthetic
+sv,datasets/universal_ner/sv_talbanken,1000,0.8099999999999999,Universal NER,Organic
+sv,datasets/aya-expanse-32b_generations/sv-aya-expanse-32b,613,0.2704761904761905,Aya Expanse 32B,Synthetic
+sv,datasets/gpt-4_generations/sv-gpt-4.1-2025-04-14,1000,0.7041036717062635,GPT-4.1,Synthetic
+sv,datasets/Llama-3.1-8B-Instruct_generations/sv-Llama-3.1-8B-Instruct,1000,0.3924528301886792,Llama-3.1-8B-Instruct,Synthetic
+sv,datasets/universal_ner/sv_talbanken,2500,0.872289156626506,Universal NER,Organic
+sv,datasets/gpt-4_generations/sv-gpt-4.1-2025-04-14,2500,0.8139534883720931,GPT-4.1,Synthetic
+sv,datasets/Llama-3.1-8B-Instruct_generations/sv-Llama-3.1-8B-Instruct,2500,0.051118210862619806,Llama-3.1-8B-Instruct,Synthetic
+sv,datasets/universal_ner/sv_talbanken,4303,0.8710462287104623,Universal NER,Organic
+sv,datasets/gpt-4_generations/sv-gpt-4.1-2025-04-14,4215,0.6899563318777293,GPT-4.1,Synthetic
+sv,datasets/Llama-3.1-8B-Instruct_generations/sv-Llama-3.1-8B-Instruct,3059,0.11081794195250659,Llama-3.1-8B-Instruct,Synthetic
+sv,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+sv,datasets/universal,0,0.0,Universal NER,Synthetic
+sv,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+sv,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic
+sk,datasets/universal_ner/sk_snk,100,0.0,Universal NER,Organic
+sk,datasets/aya-expanse-32b_generations/sk-aya-expanse-32b,100,0.0,Aya Expanse 32B,Synthetic
+sk,datasets/gpt-4_generations/sk-gpt-4.1-2025-04-14,100,0.26177174780526735,GPT-4.1,Synthetic
+sk,datasets/Llama-3.1-8B-Instruct_generations/sk-Llama-3.1-8B-Instruct,100,0.0,Llama-3.1-8B-Instruct,Synthetic
+sk,datasets/universal_ner/sk_snk,250,0.4827586206896551,Universal NER,Organic
+sk,datasets/aya-expanse-32b_generations/sk-aya-expanse-32b,250,0.2511868795856711,Aya Expanse 32B,Synthetic
+sk,datasets/gpt-4_generations/sk-gpt-4.1-2025-04-14,250,0.2954939341421144,GPT-4.1,Synthetic
+sk,datasets/Llama-3.1-8B-Instruct_generations/sk-Llama-3.1-8B-Instruct,250,0.0,Llama-3.1-8B-Instruct,Synthetic
+sk,datasets/universal_ner/sk_snk,500,0.6831785345717233,Universal NER,Organic
+sk,datasets/aya-expanse-32b_generations/sk-aya-expanse-32b,500,0.266786840919333,Aya Expanse 32B,Synthetic
+sk,datasets/gpt-4_generations/sk-gpt-4.1-2025-04-14,500,0.26813880126182965,GPT-4.1,Synthetic
+sk,datasets/Llama-3.1-8B-Instruct_generations/sk-Llama-3.1-8B-Instruct,500,0.05380333951762523,Llama-3.1-8B-Instruct,Synthetic
+sk,datasets/universal_ner/sk_snk,1000,0.6099851705388039,Universal NER,Organic
+sk,datasets/aya-expanse-32b_generations/sk-aya-expanse-32b,738,0.28397944885567494,Aya Expanse 32B,Synthetic
+sk,datasets/gpt-4_generations/sk-gpt-4.1-2025-04-14,1000,0.30218855218855223,GPT-4.1,Synthetic
+sk,datasets/Llama-3.1-8B-Instruct_generations/sk-Llama-3.1-8B-Instruct,1000,0.1520223152022315,Llama-3.1-8B-Instruct,Synthetic
+sk,datasets/universal_ner/sk_snk,2500,0.7269824374667376,Universal NER,Organic
+sk,datasets/gpt-4_generations/sk-gpt-4.1-2025-04-14,2500,0.3083403538331929,GPT-4.1,Synthetic
+sk,datasets/Llama-3.1-8B-Instruct_generations/sk-Llama-3.1-8B-Instruct,2500,0.004246284501061571,Llama-3.1-8B-Instruct,Synthetic
+sk,datasets/universal_ner/sk_snk,5000,0.7681239623685668,Universal NER,Organic
+sk,datasets/gpt-4_generations/sk-gpt-4.1-2025-04-14,4508,0.2921154674709177,GPT-4.1,Synthetic
+sk,datasets/Llama-3.1-8B-Instruct_generations/sk-Llama-3.1-8B-Instruct,3558,0.0,Llama-3.1-8B-Instruct,Synthetic
+sk,datasets/Llama-3.1-8B-Instruct,0,0.0,Llama-3.1-8B-Instruct,Synthetic
+sk,datasets/universal,0,0.0,Universal NER,Synthetic
+sk,datasets/aya-expanse-32b,0,0.0,Aya Expanse 32B,Synthetic
+sk,datasets/gpt-4,0,0.0,GPT-4.1,Synthetic

@@ -1,0 +1,175 @@
+{"tokens": ["Det", "svenska", "regeringen", "har", "beslutat", "att", "\u00f6ka", "bostadsbidraget", "f\u00f6r", "unga", "familjer", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Climate-krisen", "\u00e4r", "en", "av", "de", "st\u00f6rsta", "utmaningar", "vi", "st\u00e4mbar", "med", "idag", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00c5ret", "2023", "har", "seende", "en", "rekordh\u00f6g", "antal", "asyls\u00f6kande", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nybyggda", "huset", "p\u00e5", "gatan", "'Linn\u00e9a'", "\u00e4r", "f\u00f6r\u00f6drat", "med", "moderna", "anl\u00e4ggningar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "behovet", "av", "mer", "bost\u00e4der", "\u00f6kar", "med", "t\u00e4tning", "med", "varje", "\u00e5r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "k\u00f6nsliga", "debatten", "om", "\u00e4ktenskap", "och", "familj", "har", "varit", "intensiv", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sociala", "medel", "som", "bidrar", "till", "att", "minska", "ensamhet", "blir", "allt", "mer", "viktiga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nya", "bostadslaget", "ger", "hyresg\u00e4sterna", "mer", "r\u00e4ttigheter", "och", "skydd", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Med", "hj\u00e4lp", "av", "modern", "teknologi", "kan", "vi", "nu", "redera", "bost\u00e4der", "mer", "effektivt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4ngden", "av", "asyls\u00f6kande", "har", "\u00f6kat", "st\u00e4rk", "\u00e5r", "p\u00e5", "trakten", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "svenska", "spr\u00e5ket", "utg\u00f6r", "en", "viktig", "del", "av", "v\u00e5r", "kulturerarva", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Milj\u00f6m\u00e5len", "\u00e4r", "en", "viktig", "del", "av", "svensk", "politisk", "agenda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "bostadsmarknaden", "\u00e4r", "k\u00e4nd", "f\u00f6r", "sin", "dynamiska", "karakter", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "m\u00e5ste", "arbeta", "tillsammans", "f\u00f6r", "att", "skapa", "en", "h\u00e4lsosam", "och", "h\u00e4llbar", "samh\u00e4lle", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "folkm\u00e4ssan", "har", "v\u00e4xt", "p\u00e5", "en", "stabil", "takt", "de", "senaste", "\u00e5ren", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bostadskrisen", "\u00e4r", "ett", "komplext", "fr\u00e5ga", "som", "kr\u00e4ver", "m\u00e5nga", "olika", "l\u00f6sningar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nya", "lagar", "om", "\u00e4ktenskap", "ger", "mer", "r\u00e4ttigheter", "til", "LGBTQ+", "personer", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sjukv\u00e5rden", "i", "Sverige", "\u00e4r", "av", "h\u00f6g", "kvalitet", "och", "tillg\u00e4nglig", "f\u00f6r", "alla", "borgare", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "kronan", "sank", "mot", "euro", "i", "dag", "."], "ner_tags": [2, 1, 2, 0, 2, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6r", "m\u00e4nga", "\u00e4r", "det", "en", "k\u00e4mp", "om", "att", "finna", "ett", "boende", "i", "Stockholms", "kommun", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0]}
+{"tokens": ["Det", "\u00e4r", "k\u00e4nt", "att", "m\u00e4nniskor", "ha", "en", "k\u00e4nsla", "f\u00f6r", "sitt", "eget", "utseende", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Exemplet", "visar", "hur", "en", "kombinera", "av", "konjunktioner", "och", "verb", "kan", "g\u00f6ra", "en", "text", "v\u00e4rden", "f\u00f6r", "h\u00e5llande", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Med", "den", "nya", "lagstiftningen", "kommer", "nytt", "ansvar", "f\u00f6r", "utbildning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "h\u00e4rda", "v\u00e4der", "har", "plagat", "s\u00f6dra", "Europa", "i", "den", "senare", "delen", "av", "\u00e5r", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nga", "barn", "har", "ingen", "chans", "att", "f\u00e5", "en", "plats", "i", "den", "offentliga", "skolan", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "kan", "se", "ut", "som", "om", "v\u00e4r", "sjukv\u00e5rd", "\u00e4r", "p\u00e5", "v\u00e4g", "att", "kollapsa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Regeringen", "har", "k\u00e4nnet", "av", "att", "arbeta", "med", "den", "sv\u00e5ra", "uppgiften", "att", "minska", "utsl\u00e4ppen", "av", "v\u00e4rda", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "ha", "en", "god", "dialog", "mellan", "arbetsgivaren", "och", "arbetstagaren", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0]}
+{"tokens": ["Den", "svenska", "spr\u00e5ket", "\u00e4r", "en", "av", "de", "st\u00f6rsta", "i", "Nord", "Europa", "."], "ner_tags": [2, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Klima", "\u00e4r", "ett", "viktigt", "fr\u00e5ga", "f\u00f6r", "oss", "alla", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stockholm", "\u00e4r", "huvudstaden", "i", "Sverige"], "ner_tags": [5, 0, 0, 0, 5]}
+{"tokens": ["V\u00e5r", "nya", "husdjur", "\u00e4r", "en", "katt"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Regeringen", "har", "beslutat", "att", "\u00f6ka", "skatterna"], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"tokens": ["Apple", "\u00e4r", "en", "amerikansk", "teknologisk", "f\u00f6retag"], "ner_tags": [5, 0, 0, 4, 0, 0]}
+{"tokens": ["Klima", "\u00e4r", "en", "viktig", "fr\u00e5ga", "idag"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Alexander", "Skarsg\u00e5rd", "spelade", "i", "True", "Blood"], "ner_tags": [1, 0, 0, 0, 5, 0]}
+{"tokens": ["Vi", "reser", "till", "Paris", "i", "juni"], "ner_tags": [0, 0, 0, 5, 0, 0]}
+{"tokens": ["Hela", "familjen", "arbetar", "p\u00e5", "forskning"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "boken", "om", "historie", "\u00e4r", "intressant"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Microsoft", "k\u00f6pte", "LinkedIn", "i", "2016"], "ner_tags": [5, 0, 5, 0, 0]}
+{"tokens": ["V\u00e4dret", "\u00e4r", "snyggt", "idag", "i", "Stockholm"], "ner_tags": [0, 0, 0, 0, 0, 5]}
+{"tokens": ["Kungen", "av", "Sverige", "\u00e4r", "Karl", "XVI", "Gustaf"], "ner_tags": [5, 0, 5, 0, 1, 0, 0]}
+{"tokens": ["Vi", "diskuterar", "nu", "nytt", "lagf\u00f6rslag"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "m\u00e5nga", "bra", "restauranger", "h\u00e4r"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Facebook", "\u00e4r", "en", "social", "medieplattform"], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["Mina", "favoriter", "\u00e4r", "filmerna", "av", "Steven", "Spielberg"], "ner_tags": [0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Den", "nya", "t\u00e5gstationen", "\u00f6ppnades", "i", "2022"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "pratar", "om", "artificiell", "intelligenz"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Den", "\u00f6versta", "domstolen", "beslutade", "i", "fallet"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Google", "\u00e4r", "en", "av", "st\u00f6rsta", "s\u00f6kmotorn", "i", "v\u00e4rlden"], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kina", "har", "en", "st\u00f6rre", "befolkning", "\u00e4n", "Indien", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["USA", "och", "Kina", "l\u00e4r", "sich", "varandra", "i", "en", "kold", "krig", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "k\u00f6nunkunget", "Victoria", "bes\u00f6kte", "Storbritannien", "i", "1844", "."], "ner_tags": [0, 5, 5, 5, 0, 5, 0, 0, 0]}
+{"tokens": ["Europa", "\u00e4r", "kontinentet", "med", "m\u00e5nga", "l\u00e4nder", "och", "kultura", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Amazonen", "\u00e4r", "en", "av", "v\u00e4rldens", "st\u00f6rsta", "floder", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatkrisen", "\u00e4r", "ett", "v\u00e5rldsomsp\u00e5rande", "problem", "som", "p\u00e5verkar", "m\u00e5nga", "l\u00e4nder", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "svedjesta", "konungariket", "byggdes", "upp", "av", "flera", "sm\u00e5", "konungar", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Inca-riket", "var", "ett", "gammalt", "s\u00f6damerikanskt", "riket", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "moderna", "samh\u00e4llet", "byggdes", "p\u00e5", "vernad", "arbete", "och", "teknisk", "utveckling", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Demokrati", "\u00e4r", "ett", "politisk", "system", "d\u00e4r", "medborgarna", "har", "makten", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Napol\u00e9on", "Bonaparte", "var", "en", "fransk", "krigare", "och", "statth\u00e5llare", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "sista", "\u00e4ktenskapet", "mellan", "Sverige", "och", "Norge", "var", "1905", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"tokens": ["Internet", "\u00e4r", "ett", "globalt", "n\u00e4tverk", "av", "datorer", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f6nunkunget", "Carl", "XVI", "Gustaf", "\u00e4r", "Sveriges", "konung", "sedan", "1973", "."], "ner_tags": [5, 5, 5, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["V\u00e4rldsbank", "\u00e4r", "en", "international", "organisation", "som", "st\u00f6r", "ekonomisk", "utveckling", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "romerska", "riket", "var", "ett", "gammalt", "medelhavsriket", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00e5ren", "av", "en", "atom", "delar", "sig", "ut", "i", "en", "kernreaktion", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e5nsklighetens", "utveckling", "har", "varit", "en", "l\u00e5ng", "process", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "Stockholm", "\u00e4r", "Kungstr\u00e4dg\u00f6rden", "en", "v\u00e5l", "k\u00e4nd", "turistattraktion", "d\u00e4r", "man", "kan", "se", "m\u00e4ktiga", "tr\u00e4d", "och", "vackra", "blommor", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "rik", "historia", "av", "konst", "och", "kultur", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 6, 0, 6, 0]}
+{"tokens": ["Stockholm", "\u00e4r", "huvudstaden", "i", "Sverige", "och", "har", "m\u00e5nga", "turistattraktioner", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["G\u00f6taland", "\u00e4r", "en", "stor", "region", "i", "s\u00f6dra", "Sverige", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Dalarna", "k\u00e4nnetecknas", "av", "sina", "frodiga", "skogar", "och", "fj\u00e4ll", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Lake", "Malaren", "\u00e4r", "Sveriges", "tredje", "st\u00f6rsta", "sj\u00f6", "."], "ner_tags": [5, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Nobelpristagaren", "Astrid", "Lindgren", "skrev", "m\u00e5nga", "k\u00e4nda", "barnb\u00f6cker", "."], "ner_tags": [6, 5, 5, 0, 0, 0, 6]}
+{"tokens": ["IKEA", "\u00e4r", "en", "v\u00e4rldsber\u00f6md", "m\u00f6belf\u00f6retag", "med", "huvudkontor", "i", "\u00c4lmhult", "."], "ner_tags": [6, 0, 0, 0, 6, 0, 0, 5, 5, 0]}
+{"tokens": ["Volvo", "\u00e4r", "en", "svensk", "bilm\u00e4rke", "som", "producerar", "bilar", "och", "lastfordon", "."], "ner_tags": [6, 0, 0, 5, 6, 0, 0, 0, 0, 0]}
+{"tokens": ["Abba", "var", "en", "v\u00e4lk\u00e4nd", "popgrupp", "fr\u00e5n", "Sverige", "i", "de", "1970-tal", "."], "ner_tags": [6, 0, 0, 0, 6, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Gamla", "Stan", "i", "Stockholm", "\u00e4r", "en", "historisk", "del", "av", "staden", "."], "ner_tags": [0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vasa", "\u00e4r", "en", "ber\u00f6kta", "segelseglare", "som", "ligger", "i", "Stockholm", "."], "ner_tags": [6, 0, 0, 0, 6, 0, 0, 0, 5, 0]}
+{"tokens": ["Sveriges", "kung", "Carl", "XVI", "Gustaf", "\u00e4r", "den", "nuvarande", "monarken", "."], "ner_tags": [5, 0, 5, 5, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Drottningholm", "\u00e4r", "en", "slott", "och", "tr\u00e4dg\u00e5rd", "n\u00e4ra", "Stockholm", "."], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["S\u00f6derhamn", "\u00e4r", "en", "kostnadsbeskrivning", "i", "s\u00f6dra", "Sverige", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Lappland", "\u00e4r", "en", "region", "i", "nordliga", "Sverige", "k\u00e4nd", "f\u00f6r", "sin", "vackra", "natur", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Midsommar", "\u00e4r", "en", "svensk", "tradition", "med", "dans", "och", "fester", "."], "ner_tags": [6, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Fika", "\u00e4r", "en", "svensk", "kustom", "att", "ta", "en", "paus", "f\u00f6r", "kaffi", "och", "n\u00e5got", "s\u00f6t", "."], "ner_tags": [6, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00e5llplats", "\u00e4r", "en", "svensk", "begrepp", "f\u00f6r", "en", "offentlig", "v\u00e4ntingsplats", "."], "ner_tags": [6, 0, 0, 5, 6, 0, 0, 0, 0]}
+{"tokens": ["Saami", "\u00e4r", "en", "inhemsk", "folkgrupp", "i", "nordliga", "Sverige", "."], "ner_tags": [6, 0, 0, 0, 6, 0, 0, 5, 0]}
+{"tokens": ["G\u00f6ta", "Canal", "\u00e4r", "en", "vattenweg", "i", "Sverige", "som", "f\u00f6rbinder", "Baltiska", "havet", "med", "Katttegat", "."], "ner_tags": [6, 0, 0, 0, 6, 0, 5, 0, 0, 5, 5, 0, 0]}
+{"tokens": ["Kristianstad", "\u00e4r", "en", "stad", "i", "s\u00f6dra", "Sverige", "k\u00e4nd", "f\u00f6r", "sin", "vackra", "natur", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00d6land", "\u00e4r", "en", "\u00f6", "i", "\u00d6stermanie", "k\u00e4nd", "f\u00f6r", "sin", "vackra", "landskap", "."], "ner_tags": [5, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "\u00e4r", "ett", "konstitutionellt", "monarki", "med", "en", "arbetarunion", "som", "reglerar", "landet", "via", "en", "demokrati", "med", "flera", "partier", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stockholm", "\u00e4r", "huvudstaden", "i", "Sverige", "och", "ett", "viktigt", "finanscenter", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["G\u00f6teborg", "\u00e4r", "en", "st\u00f6rre", "stad", "i", "Sverige", "med", "en", "kustlinje", "vid", "Kattegat", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Malm\u00f6", "\u00e4r", "en", "andring", "i", "Sverige", "med", "en", "st\u00f6rre", "invandrarbevolkning", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kina", "\u00e4r", "en", "storknappad", "land", "med", "en", "kraftfull", "ekonomi", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["USA", "\u00e4r", "en", "federal", "republik", "med", "50", "stater", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Europa", "\u00e4r", "ett", "kontinent", "med", "m\u00e5nga", "l\u00e4nder", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Atlanten", "\u00e4r", "en", "ocean", "som", "omger", "m\u00e5nga", "kontinenter", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Bergen", "\u00e4r", "en", "norsk", "stad", "med", "en", "ber\u00f6md", "fj\u00e4llkluva", "."], "ner_tags": [5, 0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Paris", "\u00e4r", "huvudstaden", "i", "Frankrike", "och", "ett", "kulturellt", "centrum", "."], "ner_tags": [5, 0, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Microsoft", "\u00e4r", "en", "amerikansk", "teknologisk", "multinational", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Apple", "\u00e4r", "en", "annan", "amerikansk", "teknologisk", "f\u00f6retag", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Google", "\u00e4r", "en", "global", "s\u00f6kmotor", "och", "teknologisk", "koncern", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Amazon", "\u00e4r", "en", "amerikansk", "e-handel", "koncern", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Elon", "Musk", "\u00e4r", "en", "k\u00e4nd", "sj\u00f6man", "och", "entrepren\u00f6r", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bill", "Gates", "\u00e4r", "en", "amerikansk", "programmerare", "och", "filantrop", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatfor\u00e4ndringarna", "har", "stor", "p\u00e5verkan", "p\u00e5", "v\u00e4rlden", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Globaliseringen", "har", "f\u00f6r\u00e4ndrat", "v\u00e4rlden", "economiskt", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Internet", "har", "revolutionerat", "kommunikationen", "."], "ner_tags": [5, 0, 0, 0, 0]}
+{"tokens": ["K\u00fcnstlig", "intelligence", "\u00e4r", "en", "viktig", "teknologisk", "utveckling", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f6p", "en", "ny", "bil", "p\u00e5", "Autob\u00e5den", "i", "Stockholm", "."], "ner_tags": [0, 0, 0, 6, 0, 6, 0, 5, 0]}
+{"tokens": ["Den", "st\u00f6rsta", "f\u00f6r\u00e4ndringen", "i", "v\u00e4derappens", "prognoser", "arbetar", "med", "klimatomr\u00e5det", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["M\u00e4nniskor", "fr\u00e5n", "Kina", "och", "Indien", "kommer", "att", "b\u00e4ra", "huvud", "i", "v\u00e4rldsekonomin", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nybyggda", "huset", "p\u00e5", "Bergsgatan", "12", "har", "en", "vacker", "tr\u00e4dg\u00e5rd", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f6lj", "riktningarna", "p\u00e5", "skylten", "f\u00f6r", "att", "n\u00e4sta", "stopp", "ar", "Skanstull", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["\u00c5r", "2023", "kommer", "att", "vara", "ett", "viktigt", "\u00e5r", "f\u00f6r", "milj\u00f6m\u00e5len", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hund", "och", "katt", "ar", "de", "vanligaste", "husdjur", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "nya", "COVID-19", "varianten", "har", "f\u00f6rt", "till", "en", "ny", "v\u00e4g", "f\u00f6r", "vaccinutvecklingen", "."], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Solen", "er", "v\u00e4r", "v\u00e4rldens", "st\u00f6rsta", "k\u00e4lla", "av", "energi", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["T\u00e5", "g\u00e5", "till", "teatern", "p\u00e5", "Stortorget", "i", "Gamla", "Stan", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Det", "f\u00f6rsta", "mobiltelefonen", "var", "en", "k\u00e4mp", "mellan", "olika", "teknologiska", "f\u00f6retag", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Internet", "har", "f\u00f6r\u00e4ndrat", "v\u00e4r", "vardag", "drastiskt", "."], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nationala", "park", "i", "USA", "er", "en", "av", "v\u00e4rldens", "m\u00e4st", "bes\u00f6kte", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f6p", "f\u00f6r", "100", "kronor", "p\u00e5", "den", "ny", "app", "f\u00f6r", "matbest\u00e4llningar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 6, 0, 0]}
+{"tokens": ["M\u00e4nniskor", "har", "t\u00e5t", "100", "olika", "sjukdomar", "under", "sin", "livstid", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "moderna", "konst", "i", "Stockholm", "er", "v\u00e4l", "utvecklad", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Klimatm\u00e5ttet", "i", "Paris", "var", "ett", "viktigt", "steg", "f\u00f6r", "v\u00e4rldens", "klimatpolitiska", "arbete", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "f\u00f6rsta", "k\u00f6nsliga", "djur", "var", "hittad", "i", "Australien", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "digitala", "valutan", "Bitcoin", "har", "g\u00e5tt", "upp", "i", "v\u00e4rde", "."], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00e4nniskor", "fr\u00e5n", "olika", "kulturer", "kommer", "att", "m\u00f6tas", "p\u00e5", "Olympiska", "spelen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["De", "tio", "st\u00f6rsta", "ekonomierna", "i", "v\u00e4rlden", "k\u00f6r", "p\u00e5", "olika", "v\u00e4gar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stockholm", "har", "en", "rik", "historiskt", "bakgrund", "och", "\u00e4r", "k\u00e4nd", "f\u00f6r", "sina", "vackra", "arkitekturen", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Norge", "\u00e4r", "k\u00e4nd", "f\u00f6r", "sina", "stora", "fj\u00e4llketten", "och", "vackra", "fjordlandskap", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr", "Emma", "Nilsson", "\u00e4r", "en", "framsideliggande", "forskar", "inom", "medieval", "historia", "."], "ner_tags": [2, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatkrisen", "kr\u00e4ver", "snabba", "\u00e5tg\u00e4rder", "f\u00f6r", "att", "minska", "utsl\u00e4ppen", "av", "v\u00e4xthusgasser", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "har", "en", "stark", "teknologisk", "sektor", "med", "m\u00e5nga", "innovativa", "f\u00f6retag", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nyaste", "utg\u00e5van", "av", "tidskriften", "Science", "fokuserar", "p\u00e5", "artificiell", "intelligens", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Barn", "i", "Ethiopien", "f\u00e5r", "nu", "b\u00e4ttre", "chanser", "att", "g\u00e5", "i", "skola", "dank", "ny", "utvecklingsprojekt", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Professor", "Hans", "Persson", "f\u00f6respr\u00e5kar", "en", "ny", "ansats", "f\u00f6r", "h\u00e5llbar", "utveckling", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Mikroplast", "\u00e4r", "ett", "allt", "st\u00f6rre", "problem", "i", "v\u00e5r", "oceaner", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "boken", "Titel", "beskriver", "livet", "i", "medeltida", "Uppland", "."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Kina", "\u00e4r", "v\u00e4rldens", "st\u00f6rsta", "exporterare", "av", "varor", "och", "tj\u00e4nster", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "senaste", "rapporten", "fr\u00e5n", "FN", "varnar", "f\u00f6r", "\u00f6kad", "social", "oro", "globalt", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Solenergi", "blir", "allt", "mer", "populer", "som", "en", "h\u00e5llbar", "energik\u00e4lla", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Professor", "Anna", "Larsson", "f\u00e5r", "prestigefylld", "pris", "f\u00f6r", "hennes", "forskning", "inom", "molekyl\u00e4r", "biologi", "."], "ner_tags": [1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "norska", "regementet", "har", "en", "l\u00e5ng", "historia", "och", "\u00e4r", "k\u00e4ndt", "f\u00f6r", "sin", "diskretion", "."], "ner_tags": [0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "lagen", "om", "klimatanpassning", "tr\u00e4der", "i", "kraft", "n\u00e4sta", "\u00e5r", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Indien", "\u00e4r", "en", "av", "v\u00e4rldens", "st\u00f6rsta", "demokratier", "med", "en", "rik", "kultur", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "svenska", "f\u00f6retagsgruppen", "AB", "X", "har", "k\u00fcnd", "sina", "medarbetare", "om", "en", "ny", "strategi", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Klimatforskaren", "Dr", "Erik", "Gustafsson", "var", "en", "pioneer", "inom", "sitt", "f\u00e4lt", "."], "ner_tags": [0, 2, 2, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "europaiska", "unionen", "arbetar", "f\u00f6r", "att", "st\u00e4rka", "samarbdet", "inom", "forskning", "och", "utveckling", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "tekniken", "ger", "m\u00f6jlighet", "till", "mer", "effektiv", "produktion", "av", "nyttig", "proteiner", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sverige", "\u00e4r", "en", "av", "de", "l\u00e4nderna", "som", "anst\u00e5r", "b\u00e4st", "i", "h\u00e5llbarhetsfr\u00e5gan", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Stockholm", "s\u00e4gs", "som", "en", "v\u00e4l", "utvecklad", "stad", "med", "m\u00e5nga", "kulturliv", "och", "museer", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Regeringen", "har", "best\u00e5tt", "att", "verka", "f\u00f6r", "en", "h\u00e4lsosam", "utveckling", "av", "den", "svenska", "ekonomin", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Hans", "k\u00e4rlek", "f\u00f6r", "musik", "var", "djup", "och", "han", "spelade", "piano", "varje", "dag", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "sista", "t\u00e5gen", "fr\u00e5n", "G\u00f6teborg", "till", "Malm\u00f6", "avg\u00e5r", "kl", "23:59", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Det", "nyttade", "sig", "om", "att", "de", "hade", "f\u00e5tt", "ny", "bil", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "lilla", "fiskeb\u00e4tnen", "fanns", "fulla", "av", "fisk", "och", "andras", "djur", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr", "Smith", "arbetar", "p\u00e5", "Karolinska", "universitetssjukhuset", "i", "Stockholms", "l\u00e4n", "."], "ner_tags": [1, 0, 0, 0, 5, 0, 0, 5, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "ha", "en", "bra", "milj\u00f6", "f\u00f6r", "barn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "stora", "s\u00e4gornas", "skogar", "\u00e4r", "v\u00e4l", "bevarade", "i", "Sverige", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "var", "en", "v\u00e4ldig", "k\u00e4mp", "mellan", "de", "tv\u00e5", "k\u00e4rleken", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Den", "nya", "laga", "om", "milj\u00f6avfall", "f\u00f6rs\u00f6ker", "att", "minska", "avf\u00f6ringen", "av", "skadliga", "chemikalier", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Han", "k\u00e4mpade", "i", "v\u00e4rldskriget", "ii", "och", "f\u00f6rdes", " tillbaka", "till", "Sverige", "i", "1945", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Den", "g\u00f6lda", "bil", "stod", "parkerad", "utanf\u00f6r", "kyrkan", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "f\u00f6rsta", "koncerter", "i", "Sverige", "var", "en", "stor", "sukcess", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["H\u00e5llplatserna", "p\u00e5", "centralstationen", "var", "v\u00e4l", "fyllda", "med", "resen\u00e4rer", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "g\u00f6rda", "fru", "k\u00e4mpar", "f\u00f6r", "sina", "barn", "att", "f\u00e5", "en", "b\u00e4ttrs", "utbildning", "."], "ner_tags": [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nya", "k\u00e4llaren", "serverar", "utm\u00e4rkt", "vin", "och", "mat", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "\u00e4r", "viktigt", "att", "f\u00f6lj", "trafikreglerna", "n\u00e4r", "du", "k\u00f6r", "bil", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "sista", "b\u00e4tnen", "avg\u00e5r", "kl", "18:00", "fr\u00e5n", "kajen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Den", "g\u00f6rda", "m\u00e4nniskan", "hade", "en", "v\u00e4ldig", "k\u00e4mp", "med", "sin", "sjukdom", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 1, 0]}
+{"tokens": ["Den", "nya", "filmen", "om", "kriget", "premjerades", "i", "Stockholm", "i", "m\u00e5ndag", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 5, 0, 0, 0]}

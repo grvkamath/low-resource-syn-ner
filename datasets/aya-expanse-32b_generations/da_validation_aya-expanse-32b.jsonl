@@ -1,0 +1,271 @@
+{"tokens": ["I", "K\u00f8benhavn", "er", "Tivoli", "et", "ber\u00f8mt", "tivoli", "og", "en", "af", "Danmarks", "eldste", "attraktioner", "."], "ner_tags": [0, 3, 0, 4, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["\u00c5benr\u00e5", "er", "en", "by", "i", "S\u00f8nderjylland", "og", "har", "en", "rik", "historie", "."], "ner_tags": [3, 0, 4, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hvis", "du", "k\u00f8ber", "en", "bil", "fra", "Datsun", ",", "f\u00e5r", "du", "en", "garanti", "p\u00e5", "5", "\u00e5r", "."], "ner_tags": [0, 0, 0, 4, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Professor", "Hans", "Jensen", "holdt", "en", "forel\u00e6sning", "om", "kvantmechanik", "i", "Aarhus", "Universitet", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"tokens": ["Det", "nye", "museum", "i", "Odense", "er", "dediceret", "til", "Hans", "Christian", "Andersen", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["FC", "K\u00f8benhavn", "vandt", "Superligaen", "i", "2020", "-", "2021", "s\u00e6sonen", "."], "ner_tags": [3, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jyllands-Posten", "er", "en", "af", "Danmarks", "st\u00f8rste", "aviser", "."], "ner_tags": [3, 0, 4, 0, 5, 0, 0, 0]}
+{"tokens": ["Den", "Gamle", "Dansk", "Tidende", "er", "et", "historisk", "blad", "fra", "1767", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["H.C.", "Andersen", "skrev", "mange", "ber\u00f8mte", "eventyr", "og", "fort\u00e6llinger", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ny", "studie", "af", "K\u00f8benhavns", "Universitet", "viser", "at", "klimatisering", "er", "n\u00f8dvendig", "."], "ner_tags": [0, 0, 5, 0, 4, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "Dansk", "S\u00f8fart", "har", "en", "lang", "historie", "i", "Den", "Danske", "S\u00f8", "og", "omfatter", "b\u00e5de", "handel", "og", "fiskeri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["\u00c5rhus", "er", "Danmarks", "tredje", "st\u00f8rste", "by", "efter", "K\u00f8benhavn", "og", "\u00c5lborg", "."], "ner_tags": [3, 0, 5, 0, 0, 0, 0, 3, 0, 0]}
+{"tokens": ["Den", "bl\u00e5", "postkasse", "er", "et", "kendetegn", "for", "den", "dansk", "landsby", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Greenland", "er", "en", "autonom", "del", "af", "Det", "Danske", "Kongerige", "."], "ner_tags": [3, 0, 4, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Faroe", "\u00d8er", "er", "en", "selvstyrende", "del", "af", "Kongeriget", "Danmark", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "Danske", "Rige", "best\u00e5r", "af", "Danmark", ",", "Gr\u00f8nland", ",", "og", "F\u00e6r\u00f8erne", "."], "ner_tags": [0, 0, 0, 0, 5, 3, 0, 0, 3, 0]}
+{"tokens": ["Den", "Dansk", "Sprog", "er", "en", "af", "de", "nordgermaniske", "sproger", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Det", "Dansk", "Sprogn\u00e6tningsmuseum", "er", "et", "museum", "i", "K\u00f8benhavn", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 3, 0]}
+{"tokens": ["Den", "Dansk", "Filmskole", "er", "et", "uddannelsesinstitution", "i", "Copenhagen", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 3, 0]}
+{"tokens": ["Den", "Dansk", "Bank", "er", "Danmarks", "f\u00f8rste", "bank", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Den", "Dansk", "Radio", "er", "et", "statligt", "radio", "selskab", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0]}
+{"tokens": ["Den", "Dansk", "Telegraf", "var", "det", "f\u00f8rste", "telegraf", "i", "Danmark", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0, 5, 0]}
+{"tokens": ["Jeg", "g\u00e5r", "til", "kinoen", "i", "aften", "for", "at", "se", "den", "nye", "film"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bussen", "k\u00f8rte", "forbi", "det", "gamle", "r\u00e5dhus"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "elsker", "at", "l\u00e6se", "b\u00f8ger", "fra", "Hans", "Christian", "Andersen"], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 1, 1]}
+{"tokens": ["De", "har", "lukket", "butikken", "p\u00e5", "grund", "af", "et", "brande"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "smuk", "dag", "for", "at", "g\u00e5", "en", "tur", "i", "dyrenes", "have"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Min", "bedste", "ven", "bor", "i", "\u00c5rhus"], "ner_tags": [0, 0, 0, 0, 0, 1]}
+{"tokens": ["Jeg", "skal", "tage", "et", "billede", "af", "den", "gamle", "kirke"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "spiller", "musik", "p\u00e5", "festivalen", "i", "Roskilde"], "ner_tags": [0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["Jeg", "har", "k\u00f8bt", "en", "ny", "smartphone", "fra", "Apple"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["L\u00e6gehuset", "er", "\u00e5bent", "fra", "kl.", "8", "til", "kl.", "17"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "har", "fundet", "en", "nydelig", "restaurant", "i", "N\u00f8rrebro"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["Jeg", "skal", "til", "en", "konferanse", "i", "Berlin", "n\u00e6ste", "uge"], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["B\u00f8rnehaveb\u00f8rnene", "lejre", "om", "farverne", "i", "skoven"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "holde", "sig", "varm", "i", "den", "kolde", "vinter"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "l\u00e6ser", "en", "artikel", "om", "klima\u00e6ndringen", "i", "avisem"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "har", "\u00e5bnet", "en", "ny", "udstilling", "i", "Statens", "Museum", "for", "Kunst"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 1, 1]}
+{"tokens": ["Jeg", "skal", "til", "en", "f\u00f8dselsdagsfest", "i", "weekenden"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "har", "sat", "en", "annonser", "i", "avisem", "om", "et", "nyt", "job"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "har", "set", "en", "s\u00f8de", "kat", "i", "nabolaget"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "har", "en", "salgsudsolgning", "i", "supermarkedet", "i", "dag"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dannevirke", "er", "et", "danskt", "sprog", "og", "skriftspr\u00e5g", "i", "Gr\u00f8nland", "."], "ner_tags": [5, 0, 0, 5, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Hans", "Christian", "Andersen", "er", "en", "ber\u00f8mt", "dansk", "forfatter", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["K\u00f8benhavn", "er", "hovedstaden", "i", "Danmark", "og", "er", "kendt", "for", "sin", "livlige", "havnefront", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "film", "Festen", "vandt", "en", "Oscar", "i", "1999", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "danske", "konge", "Fredrik", "IX", "er", "den", "nuv\u00e6rende", "monark", "af", "Danmark", "."], "ner_tags": [0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Sm\u00f8rrebr\u00f8d", "er", "et", "traditionelt", "dansk", "madlavning", "og", "er", "popul\u00e6rt", "i", "hele", "landet", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "Danse", "er", "den", "officielle", "nationaldans", "af", "Danmark", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"tokens": ["Den", "dansk", "sandsynligvis", "bedste", "fodboldspiller", "i", "verdens", "historie", "er", "mikset", "om", "at", "v\u00e6re", "Michael", "Laudrup", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"tokens": ["Den", "bl\u00e5", "fane", "med", "hvide", "kroer", "er", "den", "dansk", "flag", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Den", "dansk", "skribent", "Hans", "Kirk", "skrev", "flere", "ber\u00f8mte", "romanser", "."], "ner_tags": [0, 5, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "danske", "s\u00f8fart", "har", "en", "lang", "historie", "og", "er", "stolt", "af", "sit", "maritim", "arving", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "sanger", "M\u00f8me", "har", "f\u00e5et", "international", "anerkendelse", "for", "sin", "unike", "musik", "."], "ner_tags": [0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "arkitekt", "J\u00f8rn", "Uthzon", "entwurfte", "det", "ber\u00f8mte", "Sydney", "Opera", "Hus", "."], "ner_tags": [0, 5, 1, 0, 0, 0, 0, 0, 4, 4, 4, 0]}
+{"tokens": ["Den", "dansk", "k\u00e6rlighed", "til", "fodbold", "er", "kendetegnet", "af", "den", "starke", "fodboldkultur", "i", "landet", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "konditor", "lafner", "en", "udm\u00e6rket", "kage", "for", "kongen", "."], "ner_tags": [0, 5, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "film", "Babe", "blev", "udn\u00e6vnt", "til", "bedste", "komedie", "af", "\u00e5ret", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "snavset", "er", "et", "national", "symbol", "og", "er", "oftest", "forenet", "med", "den", "dansk", "flag", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Den", "dansk", "skole", "f\u00f8lger", "et", "national", "curriculum", "og", "garanterer", "en", "h\u00f8j", "undervisningsstandard", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "k\u00e6rlighed", "til", "design", "er", "synliggjort", "i", "mange", "internationale", "museer", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "s\u00f8", "er", "en", "vigtig", "del", "af", "landets", "geografi", "og", "ekonomi", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "k\u00e6rlighed", "til", "cykling", "er", "kendetegnet", "af", "den", "h\u00f8je", "anden", "for", "den", "sport", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Prof. Dr. Ole Rasmussen", "er", "en", "kendt", "dansk", "l\u00e6ge", "og", "forsker", "p\u00e5", "Rigshospitalet."], "ner_tags": [1, 0, 0, 0, 5, 6, 0, 6, 0, 0]}
+{"tokens": ["Den", "nyeste", "udgave", "af", "tidsskriftet", "Science", "blev", "udgivet", "i", "s\u00f8ndag."], "ner_tags": [0, 0, 0, 0, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["Jens", "Jensen", "k\u00f8bte", "en", "ny", "bil", "i", "fredag."], "ner_tags": [1, 1, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "bes\u00f8ge", "den", "dansk", "ambassaden", "i", "Berlin", "for", "at", "f\u00e5", "hj\u00e6lp."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 4, 4, 0, 0, 0, 0]}
+{"tokens": ["Lise", "og", "Hans", "har", "planer", "om", "at", "flytte", "til", "K\u00f8benhavn", "n\u00e6ste", "\u00e5r."], "ner_tags": [1, 1, 1, 0, 0, 0, 0, 0, 4, 4, 0, 0, 0]}
+{"tokens": ["Det", "dansk", "selskab", "Mink", "A/S", "er", "et", "af", "de", "st\u00f8rste", "i", "branchen."], "ner_tags": [0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "m\u00f8dte", "min", "ven", "S\u00f8ren", "p\u00e5", "festen", "i", "l\u00f8rdag."], "ner_tags": [0, 0, 0, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Den", "ber\u00f8mte", "dansk", "malers", "Kirsten", "Kovach", "udstiller", "i", "New York."], "ner_tags": [0, 0, 5, 6, 1, 0, 0, 4, 0]}
+{"tokens": ["Vi", "bes\u00f8gt", "den", "historiske", "slottet", "i", "Odense", "i", "sommerferien."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0, 0]}
+{"tokens": ["Prof.", "Mette", "Hansen", "holdte", "en", "foredrag", "om", "klimaandlagning", "i", "Aarhus."], "ner_tags": [2, 1, 1, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Den", "dansk", "film", "Fra", "dagen", "til", "dagen", "vandt", "prisen", "i", "Cannes."], "ner_tags": [0, 5, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "k\u00f8ber", "altid", "min", "k\u00f8dm\u00e6lk", "p\u00e5", "lokal", "d\u00e6km\u00e6lkfabrik", "i", "Viborg."], "ner_tags": [0, 0, 0, 0, 0, 0, 4, 0, 4, 0]}
+{"tokens": ["S\u00f8ren", "er", "en", "talentfuld", "fodboldspiller", "i", "F.C.", "Copenhagen."], "ner_tags": [1, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Den", "nye", "biblioteket", "i", "Randers", "er", "et", "imponerende", "bygningsv\u00e6rk."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "har", "l\u00e6st", "den", "ber\u00f8mte", "roman", "K\u00e6rlighed", "i", "Nimegu", "af", "Dorte", "Hansen."], "ner_tags": [0, 0, 0, 0, 5, 4, 0, 0, 0, 1, 1, 0]}
+{"tokens": ["Det", "er", "en", "sk\u00f8n", "dag", "for", "at", "g\u00e5", "p\u00e5", "tur", "til", "Mons", "klint."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Lise", "arbejder", "p\u00e5", "en", "interessant", "forskningsprojekt", "p\u00e5", "Universitetet", "i", "Odense."], "ner_tags": [1, 0, 0, 0, 0, 0, 4, 0, 4, 0]}
+{"tokens": ["Den", "dansk", "skuespiller", "Lars", "Mikkelsen", "spilte", "en", "st\u00f8rre", "rolle", "i", "filmen", "Broen."], "ner_tags": [0, 5, 1, 0, 0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Jeg", "elsker", "at", "l\u00e6se", "dansk", "litteratur", "fra", "1900-tallet."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0]}
+{"tokens": ["Den", "ber\u00f8mte", "dansk", "komponist", "Carl", "Nielsen", "skrev", "mange", "ber\u00f8mte", "symfonier."], "ner_tags": [0, 0, 5, 1, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Vi", "bes\u00f8gte", "den", "dansk", "k\u00f8n", "i", "Aarhus", "i", "g\u00e5r."], "ner_tags": [0, 0, 0, 5, 0, 4, 0, 0, 0]}
+{"tokens": ["S\u00f8ren", "Kierkegaard", "er", "en", "betydelig", "dansk", "filosof", "fra", "19.", "\u00e5rhundrede."], "ner_tags": [1, 1, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "var", "en", "sk\u00f8n", "dag", "for", "at", "g\u00e5", "p\u00e5", "gatur", "i", "Den", "K\u00f8benhavnske", "M\u00e5nebro", "og", "se", "den", "bl\u00e5", "kulor", "blive", "malet", "p\u00e5", "hvidt", "og", "r\u00f8d", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "k\u00e6mper", "med", "at", "f\u00e5", "opst\u00e5et", "en", "m\u00e5de", "at", "hun", "kan", "se", "den", "skr\u00e6nkede", "verden", "den", "hun", "er", "kommet", "til", "at", "bo", "i", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "skam", "for", "K\u00f8benhavn", "at", "de", "ikke", "kan", "f\u00e5", "den", "gade", "ren", "f\u00f8r", "den", "julemarkeds-h\u00f8jdepunkt", "i", "den", "f\u00f8rste", "uge", "i", "december", "."], "ner_tags": [0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "h\u00e5rd", "opgave", "at", "skrive", "om", "nogle", "mennesker", "uden", "at", "bruge", "ordet", "negere", "et", "par", "gange", "i", "hver", "l\u00e6ngde", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "et", "godt", "tilbud", "af", "de", "flere", "k\u00f8benhavner", "som", "har", "b\u00e5ret", "ind", "p\u00e5", "en", "l\u00e6ngere", "ferie", "i", "S\u00f8r-Europa", "den", "juleferie", "i", "december", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "et", "s\u00f8rgelig", "skud", "for", "at", "han", "ikke", "kan", "v\u00e6re", "med", "p\u00e5", "koncerten", "i", "Forum", "i", "aften", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["De", "fleste", "h\u00f8jere", "l\u00e6rer", "f\u00e5r", "f\u00e5rere", "elever", "til", "at", "de", "kan", "komme", "i", "kontakt", "med", "de", "bedste", "l\u00e6rer", "p\u00e5", "skolen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "god", "ide", "at", "k\u00f8be", "en", "turistkort", "hvis", "du", "bes\u00f8ger", "K\u00f8benhavn", "i", "n\u00e5rheden", "af", "julef\u00e6rge", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Han", "skrev", "en", "l\u00e6ng,"], "ner_tags": [0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "skam", "for", "at", "det", "skete", "p\u00e5", "et", "s\u00f8dan", "k\u00f8benhavns", "event", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "synes", "det", "er", "en", "sk\u00f8n", "dag", "for", "at", "g\u00e5", "ud", "og", "nyde", "solen", "og", "den", "varme", "v\u00e6r", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{}
+{"tokens": ["Han", "beskrev", "sin", "f\u00f8rste", "gang", "i", "en", "interview", "i", "avisen", "Politiken", ",", "hvor", "han", "fortalte", "om", "sin", "livshistorie", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ministeriet", "for", "F\u00f8devarer", "og", "Landbrug", "har", "officielt", "indrettet", "en", "unters\u00f8gelse", "af", "de", "nye", "f\u00f8devarefirkanters", "s\u00f8jler.", "De", "bliver", "unders\u00f8gt", "for", "at", "se", "om", "de", "opfylder", "de", "krav", "der", "er", "sat", "i", "de", "nye", "f\u00f8devarelover.", "De", "f\u00f8rste", "resultater", "forventes", "om", "en", "m\u00e5ned."], "ner_tags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["P\u00e5", "den", "nye", "Konkurrencedyster", "i", "Aarhus", "blev", "der", "arrangeret", "en", "sp\u00e6ndende", "debat", "om", "milj\u00f8politikk", "."], "ner_tags": [0, 0, 0, 7, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ministeriet", "for", "Udenrigs", "Angeleger", "har", "just", "udgivet", "en", "ny", "rapport", "om", "den", "danske", "handel", "med", "Kina", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "er", "en", "skam", "for", "Den", "Danske", "Fodboldforbund", "at", "de", "ikke", "kan", "finde", "et", "nyt", "hold", "for", "VM", "-", "kvalifikationer", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0]}
+{"tokens": ["Prof. Dr.", "Hans", "Jensen", "fra", "K\u00f8benhavns", "Universitet", "holdte", "en", "inspirerende", "foredrag", "om", "kvantteori", "i", "det", "fyldte", "Koncerthuset", "."], "ner_tags": [0, 1, 2, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["N\u00e5r", "du", "bes\u00f8ger", "Den", "Bl\u00e5", "Planet", ",", "m\u00e5", "du", "se", "den", "ber\u00f8mt", "bl\u00e5", "s\u00f8", "og", "dens", "unike", "dyr", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "danske", "selskab", "Green", "Tech", "A/S", "har", "vundet", "en", "prestigefyldt", "uddekning", "for", "sin", "innovative", "gr\u00f8nne", "teknologi", "."], "ner_tags": [0, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e6s", "mere", "om", "den", "sp\u00e6ndende", "historie", "bag", "den", "ber\u00f8mt", "dansk", "k\u00f8benhavnske", "kro", "Sch\u00f8nnemann", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Efter", "en", "lang", "og", "h\u00e5rd", "kamp", "vandt", "Tora", "Hansen", "guld", "i", "kategori", "for", "dame", "i", "WMMA", "-", "turneringen", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Bes\u00f8g", "den", "magiske", "Tivoli", "Gardens", "i", "K\u00f8benhavn", ",", "hvor", "du", "kan", "n\u00f8je", "med", "de", "sk\u00f8nne", "g\u00e5rde", "og", "sp\u00e6ndende", "attraktioner", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Nyheder", "om", "politikk", ",", "\u00f8konomi", "og", "kultur", "fra", "den", "danske", "medier", "DR", "er", "altid", "tilg\u00e6ngelig", "online", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"tokens": ["Den", "nye", "udgave", "af", "magasinet", "Viden", "fokuserer", "p\u00e5", "den", "seneste", "udvikling", "indenfor", "kunstig", "intelligens", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f8benhavns", "Hovedbaneg\u00e5rd", "er", "et", "vigtigt", "transport", "knudepunkt", "for", "b\u00e5de", "lokale", "og", "internationale", "rejsende", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e6s", "om", "den", "ber\u00f8mt", "dansk", "skribent", "Hans", "Christian", "Andersen", "'s", "liv", "og", "v\u00e6rk", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 2, 0, 0, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "f\u00f8lge", "vejret", "n\u00e5r", "du", "planl\u00e6gger", "din", "rejse", "til", "de", "smukke", "Alper", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "dansk", "film", "K\u00f8dproppen", "har", "f\u00e5et", "stor", "prais", "p\u00e5", "internationale", "filmfestivaler", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bes\u00f8g", "det", "historiske", "K\u00e6rlighedsbyen", "i", "Odense", ",", "hvor", "Hans", "Christian", "Andersen", "'s", "barndomshjem", "st\u00e5r", "til", "s\u00e6lgs", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 1, 2, 2, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "k\u00f8benhavnske", "band", "Mew", "giver", "et", "udm\u00e6rket", "koncert", "i", "den", "fyldte", "Falcon", "Teater", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["L\u00e6s", "om", "de", "nyeste", "udviklinger", "inde", "p\u00e5", "det", "danske", "jobmark", "og", "de", "muligheder", "for", "uddanmelse", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "ber\u00f8mt", "dansk", "s\u00f8fartsmuseum", "i", "Elseneur", "pr\u00e6senterer", "en", "ny", "udstilling", "om", "den", "guldalder", "af", "dansk", "s\u00f8fart", "."], "ner_tags": [0, 5, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["T\u00e6nk", "p\u00e5", "at", "booke", "et", "oplevelser", "i", "det", "smukke", "Naturpark", "Mols", "Bjerge", "for", "en", "uforglemmelig", "dag", "i", "naturen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "k\u00f8benhavnske", "restaurant", "Noma", "er", "kendt", "for", "sin", "innovative", "nordisk", "k\u00f8kken", "oplevelse", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["F\u00f8lg", "de", "nyeste", "nyheder", "om", "det", "danske", "folkeforslag", "til", "at", "forbedre", "undervisningen", "i", "skolerne", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Bes\u00f8g", "den", "ber\u00f8mt", "dansk", "designer", "Vibeke", "Overgaard", "'s", "udstilling", "af", "kontempor\u00e6r", "kunst", "i", "Statens", "Museum", "for", "Kunst", "."], "ner_tags": [0, 0, 5, 5, 1, 2, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"tokens": ["Den", "dansk", "fodboldspiller", "Christian", "Eriksen", "skrev", "en", "ber\u00f8mt", "m\u00e5l", "i", "den", "seneste", "kamp", "for", "sin", "klub", "."], "ner_tags": [0, 5, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dette", "er", "en", "artikel", "om", "den", "danske", "politiker", "Mette", "Frederiksen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["K\u00f8benhavn", "er", "den", "st\u00f8rste", "by", "i", "Danmark"], "ner_tags": [3, 0, 0, 0, 0, 0, 4]}
+{"tokens": ["Vejle", "er", "en", "sm\u00e5by", "i", "S\u00f8nderjylland"], "ner_tags": [3, 0, 0, 0, 0, 4]}
+{"tokens": ["Den", "danske", "sundhedsv\u00e6sen", "er", "officielt", "kaldet", "Folkesundhedsordningen"], "ner_tags": [0, 0, 1, 0, 0, 0, 1]}
+{"tokens": ["Hans", "Christian", "Andersen", "var", "en", "ber\u00f8mt", "dansk", "forfatter"], "ner_tags": [0, 2, 2, 0, 0, 0, 0, 1]}
+{"tokens": ["Det", "Dansk", "Rige", "er", "den", "officielle", "navn", "p\u00e5", "Danmark"], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 4]}
+{"tokens": ["\u00c5rhus", "er", "et", "af", "Danmarks", "st\u00f8rste", "universitetsbyer"], "ner_tags": [3, 0, 0, 0, 4, 0, 0]}
+{"tokens": ["Den", "Bl\u00e5", "Plan", "er", "en", "dansk", "politisk", "parti"], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["DGI", "er", "et", "dansk", "fritids-", "og", "idr\u00e6tsorganisation"], "ner_tags": [3, 0, 0, 0, 0, 0, 1]}
+{"tokens": ["Frederik", "er", "en", "dansk", "prins", "og", "arvinger", "til", "dronningen"], "ner_tags": [0, 0, 0, 4, 1, 0, 1, 0, 1]}
+{"tokens": ["Den", "danse", "er", "en", "ber\u00f8mt", "dansk", "folkdans"], "ner_tags": [0, 0, 0, 0, 0, 4, 1]}
+{"tokens": ["Ny", "\u00c5r", "er", "et", "dansk", "nyt\u00e5rsfest"], "ner_tags": [0, 0, 0, 0, 4, 0]}
+{"tokens": ["Sm\u00f8rrebr\u00f8d", "er", "en", "dansk", "lunsj"], "ner_tags": [0, 0, 0, 4, 0]}
+{"tokens": ["H.C.", "Andersen", "var", "f\u00f8dt", "i", "Odense"], "ner_tags": [0, 2, 0, 0, 0, 3]}
+{"tokens": ["Den", "Dansk", "Nationalbank", "er", "Danmarks", "centralbank"], "ner_tags": [0, 4, 0, 0, 4, 0]}
+{"tokens": ["Dansk", "Design", "er", "et", "ber\u00f8mt", "dansk", "designm\u00e6rke"], "ner_tags": [4, 0, 0, 0, 0, 4]}
+{"tokens": ["Den", "Gr\u00f8nne", "Parti", "er", "en", "dansk", "politisk", "partie"], "ner_tags": [0, 4, 0, 0, 0, 0, 1]}
+{"tokens": ["Dansk", "Film", "er", "en", "kategori", "af", "film", "i", "Danmark"], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 4]}
+{"tokens": ["Den", "dansk", "sange", "er", "en", "nationalsang"], "ner_tags": [0, 4, 0, 0, 0, 1]}
+{"tokens": ["Dansk", "Fodboldunionen", "er", "den", "h\u00f8jeste", "fodboldforening", "i", "Danmark"], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Den", "dansk", "k\u00f8n", "er", "kendt", "for", "sin", "h\u00f8je", "livsniveau"], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["I", "f\u00f8lgende", "artikel", "l\u00e6ser", "vi", "n\u00e6ste", "kapitel", "i", "den", "danske", "sag", "om", "den", "tyske", "spion", "Kurt", "F.", "Wagener", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0]}
+{"tokens": ["Det", "nye", "klimatlov", "er", "blevet", "vedtaget", "af", "den", "dansk", "folketing", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["L\u00f8n", "for", "l\u00e6gneskiftet", "er", "stiget", "med", "10%", "siden", "januar", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"tokens": ["Den", "nyeste", "udgave", "af", "National Geographic", "er", "fuld", "af", "sp\u00e6ndende", "artikler"], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "g\u00e5r", "til", "teatret", "for", "at", "se", "den", "nye", "vorstilling", "af", "Hamlet"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "undg\u00e5", "at", "k\u00f8re", "i", "en", "milj\u00f8zone"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Prof.", "Dr.", "Hans", "Jensen", "holdt", "en", "fasinerende", "forel\u00e6sning", "om", "kvantumfysik"], "ner_tags": [5, 5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "s\u00f8gning", "efter", "olie", "i", "Nordsee", "er", "en", "komplekset", "sag"], "ner_tags": [0, 5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "k\u00e6ber", "min", "dagligvarer", "i", "den", "lille", "lokale", "dagligvarebutik"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Koncerter", "af", "den", "ber\u00f8mte", "pianospiller", "er", "altid", "solgt", "ud"], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0]}
+{"tokens": ["Den", "nye", "skole", "for", "dyslektiske", "born", "\u00e5bner", "i", "februar"], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Lufthavnen", "er", "lukket", "pga.", "d\u00e5rlig", "vejret"], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"tokens": ["Dr.", "Maria", "Smith", "er", "en", "kendt", "biolog", "p\u00e5", "universitetet"], "ner_tags": [5, 5, 5, 0, 0, 5, 5, 0, 0]}
+{"tokens": ["Det", "er", "ikke", "lovligt", "at", "fotografere", "indenfor", "det", "dyrkede", "omr\u00e5de"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "ber\u00f8mte", "maleri", "af", "Mona", "Lisa", "er", "at", "se", "i", "Louvre", "museet"], "ner_tags": [0, 5, 0, 0, 5, 5, 0, 0, 0, 5]}
+{"tokens": ["Jeg", "tager", "t\u00e6gen", "til", "K\u00f8benhavn", "i", "morgen"], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Det", "nye", "hotel", "p\u00e5", "hovedgaden", "er", "et", "sk\u00f8nt", "sted", "at", "bo"], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["L\u00e6ge", "raderer", "de", "gamle", "l\u00e6gemidler", "fra", "apoteket"], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "fodboldlandshold", "spiller", "imorgen", "mod", "Tyskland"], "ner_tags": [0, 5, 0, 0, 0, 0, 5]}
+{"tokens": ["Jeg", "l\u00e6ser", "en", "interessant", "artikel", "om", "artificiel", "intelligence"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "stor", "koncerthalle", "er", "fylt", "med", "enthousiastske", "musikfans"], "ner_tags": [0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Prof.", "S\u00f8rensen", "har", "skrevet", "en", "ny", "bog", "om", "historie", "af", "Danmark"], "ner_tags": [5, 5, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "sk\u00f8n", "dag", "for", "at", "g\u00e5", "p\u00e5", "tur", "i", "den", "lille", "by"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "sk\u00f8n", "dag", "i", "K\u00f8benhavn", "med", "sol", "og", "let", "brise"], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 6, 0, 0]}
+{"tokens": ["Politikeren", "afsluttede", "sin", "tale", "med", "en", "kraftfuld", "opfordring", "til", "handling"], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "elsker", "at", "l\u00e6se", "b\u00f8ger", "fra", "1920-ernes", "Moderne", "Tid"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Det", "nye", "museum", "p\u00e5", "Nyhavn", "er", "et", "imponerende", "byggem\u00e5l"], "ner_tags": [0, 0, 6, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Han", "beskrev", "symptomerne", "som", "svimmelhed", ",", "h\u00e5ndspr\u00e6ng", "og", "h\u00e5rd", "hovedv\u00e6rge"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "vi", "tager", "ansvar", "for", "vores", "milj\u00f8"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Selvom", "vindens", "styrke", "var", "uvanligt", "h\u00e5rd", ",", "sejlere", "navigerede", "med", "mesterlighed"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0]}
+{"tokens": ["Den", "ber\u00f8mte", "skulptur", "st\u00e5r", "stolkt", "i", "den", "ny", "park"], "ner_tags": [0, 6, 0, 0, 0, 0, 0, 0, 6]}
+{"tokens": ["Jeg", "har", "altid", "v\u00e6ret", "interesseret", "i", "astronomi", "og", "stjernerne"], "ner_tags": [0, 0, 0, 0, 0, 0, 6, 0, 0]}
+{"tokens": ["Det", "er", "en", "tragisk", "historie", "om", "en", "ung", "kvinde", "med", "en", "dr\u00f8m"], "ner_tags": [0, 0, 0, 0, 6, 0, 0, 0, 2, 0, 0]}
+{"tokens": ["L\u00e6ge", "adviserer", "en", "sund", "kost", "og", "regelmessig", " \uc6b4\ub3d9rning"], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "nye", "teaterstykke", "har", "en", "stark", "besked", "om", "menskeligt", "\u00f8delagelse"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 6, 0]}
+{"tokens": ["Han", "var", "en", "ber\u00f8mt", "vident", "i", "sin", "dag"], "ner_tags": [0, 0, 0, 6, 0, 0, 0, 0]}
+{"tokens": ["Dette", "er", "et", "kompleks", "sp\u00f8rgsm\u00e5l", "med", "mange", "facetter"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "gamle", "by", "bevarer", "sin", "historiske", "charmer", "med", "sm\u00e5", "gader", "og", "huse"], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kunstneren", "skabte", "et", "unikt", "kunstv\u00e6rk", "med", "farrige", "former", "og", "tekster"], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "vi", "respekterer", "hinandens", "forskellige", "kulturer"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "kender", "ham", "fra", "mine", "studietider", "p\u00e5", "universitetet"], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"tokens": ["Den", "ny", "undervisningsmetode", "g\u00f8r", "eleverne", "mer", "engagerede", "i", "l\u00e6ren"], "ner_tags": [0, 6, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "en", "sk\u00f8n", "tradition", "at", "fejre", "sommerfesten", "med", "venner", "og", "familie"], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hun", "er", "en", "inspirerende", "leder", "med", "en", "klart", "syn", "p\u00e5", "fremtiden"], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "vi", "forsvarlig", "bruger", "vores", "ressourcer"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f8benhavn", "er", "Den", "store", "s\u00f8", "i", "Denmark", "og", "hovedstaden", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dansk", "R\u00f8de Kors", "er", "en", "humanit\u00e6r", "organisation", "."], "ner_tags": [3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Socialdemokraterne", "vandt", "valget", "i", "2022", "."], "ner_tags": [2, 0, 0, 0, 0, 0]}
+{"tokens": ["Slaget", "om", "K\u00f8benhavn", "i", "1801", "var", "en", "bedr\u00e5velig", "n\u00e6gtelse", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Danmarkssundet", "er", "et", "vannemellem", "Gr\u00f8nland", "og", "Danmark", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Julefrokost", "er", "en", "tradisjon", "hvor", "man", "moder", "giver", "gaver", "."], "ner_tags": [0, 0, 0, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hans", "Christian", "Andersen", "skrev", "ber\u00f8mte", "eventyr", "som", "\"", "Den", "lille", "s\u00f8ster", "\""], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Niels", "Bohr", "udviklede", "atommodellen", "i", "1913", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["FC", "K\u00f8benhavn", "vandt", "Superligaen", "i", "2022", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0]}
+{"tokens": ["Grundloven", "blev", "indf\u00f8rt", "p\u00e5", "Grundlovsdag", "den", "5", "juni", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sm\u00f8rrebr\u00f8d", "er", "et", "typisk", "dansk", "mad", "med", "br\u00f8d", "og", "toppings", "."], "ner_tags": [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dansk", "Modern", "var", "et", "kunstnerisk", "bev\u00e6gelse", "i", "1950'erne", "."], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["M\u00d8", "er", "en", "ber\u00f8mt", "dansk", "popsanger", "."], "ner_tags": [0, 0, 0, 0, 4, 0, 5]}
+{"tokens": ["Den", "Sorte", "Diamant", "er", "et", "ber\u00f8mt", "bibliotek", "i", "K\u00f8benhavn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 5]}
+{"tokens": ["Danmark", "er", "kendt", "for", "sin", "st\u00e6rk", "cykelkultur", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 4, 0]}
+{"tokens": ["Paronymer", "er", "ord", "som", "lyder", "lig", "men", "har", "forskellig", "betydning", "."], "ner_tags": [0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Anders", "Bech", "er", "en", "kendt", "dansk", "mode", "designer", "."], "ner_tags": [0, 5, 0, 0, 0, 4, 0, 0]}
+{"tokens": ["Rita", "er", "en", "popul\u00e6r", "dansk", "TV-serie", "om", "en", "l\u00e6rer", "."], "ner_tags": [0, 5, 0, 0, 4, 0, 0, 0, 0]}
+{"tokens": ["Odin", "er", "en", "nordisk", "gud", "af", "krigere", "og", "d\u00f8dsrike", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dansk", "Design", "Prisen", "er", "en", "\u00e6renpr\u00e6get", "udn\u00e6vnelse", "for", "design", "."], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Kobenhavn", "er", "Danmarks", "st\u00f8rste", "by", "og", "hovedstad", "."], "ner_tags": [5, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Jutland", "er", "den", "st\u00f8rste", "\u00f8", "i", "Danmark", "og", "dette", "g\u00f8r", "den", "til", "et", "vigtigt", "landbrugsomr\u00e5de", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Hans", "Christianson", "er", "en", "kendt", "dansk", "skribent", "."], "ner_tags": [1, 0, 0, 0, 0, 4, 0, 0]}
+{"tokens": ["Det", "dansk", "sprog", "er", "en", "germansk", "sprog", "og", "talet", "af", "omkring", "5,5", "millioner", "menighed", "."], "ner_tags": [0, 4, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "danse", "er", "den", "nationaldans", "af", "Danmark", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["\u00c5rhus", "er", "Danmarks", "tredje", "st\u00f8rste", "by", "efter", "K\u00f8benhavn", "og", "Odense", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 0, 5, 0, 5, 0]}
+{"tokens": ["Den", "dansk", "konge", "er", "en", "symbolisk", "hovedstattholder", "."], "ner_tags": [0, 4, 1, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "dansk", "parlamet", "er", "kendt", "som", "Folketinget", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "dansk", "k\u00f8bmandsfl\u00e5de", "er", "en", "af", "de", "st\u00f8rste", "i", "Verdens", "s\u00f8fart", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "dansk", "k\u00e6rlighed", "til", "fodbold", "er", "kendt", "verdelandet", "udover", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Sm\u00f8rrebr\u00f8d", "er", "et", "typisk", "dansk", "mad", "med", "flere", "lag", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "film", "er", "en", "v\u00e6rdifuld", "del", "af", "den", "nordiske", "kinematografiske", "tradition", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0]}
+{"tokens": ["Den", "dansk", "maleri", "fra", "Renesancen", "til", "1900-tallet", "er", "velrepr\u00e6senteret", "i", "Statens", "Museum", "for", "Kunst", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "musikk", "er", "ikke", "kun", "kendt", "i", "Danmark", ","], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "dansk", "litteratur", "har", "en", "rig", "histoire", "fra", "Middle", "Alder", "til", "i", "dag", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "teater", "er", "kendt", "for", "sin", "h\u00f8je", "kvalitet", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "arkitektur", "er", "ber\u00f8mt", "for", "sin", "minimalistiske", "stil", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "design", "er", "kendetegnet", "af", "sin", "funktionalisme", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "vin", "er", "specielt", "popul\u00e6r", "i", "de", "senere", "\u00e5r", ".", "S\u00f8moderen", "er", "et", "af", "de", "mest", "kendte", "vinomr\u00e5der", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"tokens": ["Den", "dansk", "k\u00f8kken", "er", "kendt", "for", "sin", "frugt", "og", "gr\u00f8ntsagsbaserede", "mad", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "mode", "er", "blevet", "mere", "og", "mere", "internationalt", "anerkendt", "."], "ner_tags": [0, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["K\u00f8benhavn", "er", "Danmarks", "hovedstad", "."], "ner_tags": [2, 0, 2, 2, 0]}
+{"tokens": ["Hans", "Christian", "Andersen", "skrev", "mange", "ber\u00f8mte", "eventyr", "."], "ner_tags": [1, 1, 1, 0, 0, 0, 0]}
+{"tokens": ["Vesten", "har", "stort", "indflydelse", "p\u00e5", "den", "danske", "kultur", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Dansk", "fodboldlandsholdet", "vandt", "EM", "i", "2021", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Ny", "lov", "om", "klimaforurening", "blev", "vedtaget", "i", "parlamentet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 2]}
+{"tokens": ["Den", "ber\u00f8mte", "Tivoli", "er", "beliggende", "i", "K\u00f8benhavn", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 2]}
+{"tokens": ["Mikkeller", "er", "et", "popul\u00e6rt", "dansk", "\u00f8l", "m\u00e6rke", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0]}
+{"tokens": ["Den", "danske", "film", "Jubel", "vandt", "flere", "priser", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0]}
+{"tokens": ["Arktisk", "k\u00f8lig", "luft", "p\u00e5verder", "den", "danske", "landbrug", "."], "ner_tags": [0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Dansk", "design", "er", "kendetegnet", "af", "sin", "minimalistiske", "stil", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "danse", "er", "et", "popul\u00e6rt", "s\u00f8stervedenskab", "i", "Danmark", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Ny", "udgave", "af", "den", "danse", "Magasin", "er", "udgivet", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0]}
+{"tokens": ["Dansk", "k\u00f8kken", "er", "kendetegnet", "af", "sin", "brug", "af", "fisk", "og", "gr\u00f8ntsager", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "skole", "fokuserer", "p\u00e5", "l\u00e6ring", "gennem", "praksis", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Vindm\u00f8ller", "er", "et", "almindeligt", "syn", "i", "den", "dansk", "landside", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 2, 2, 0]}
+{"tokens": ["Den", "dansk", "sangen", "\"", "Den", "vilde", "Julemand", "\"", "er", "velkendt", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Dansk", "keramiker", "skabte", "unikke", "keramisk", "kunst", "."], "ner_tags": [2, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "dansk", "s\u00f8fart", "har", "en", "lang", "historie", "i", "Handel", "og", "Krigsministeriet", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"tokens": ["Dansk", "folk", "elsker", "sin", "fodbold", "og", "h\u00f8jer", "flaget", "h\u00f8jt", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": [], "ner_tags": []}
+{"tokens": ["Denne", "dag", "bliver", "min", "f\u00f8rste", "gang", "jeg", "bes\u00f8ger", "K\u00f8benhavn", "Universitet", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Dr.", "Hans", "J\u00f8rgen", "Nielsen", "er", "en", "kendt", "l\u00e6ge", "og", "forskker", "p\u00e5", "Rigshospitalet", "."], "ner_tags": [0, 1, 2, 2, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"tokens": ["Det", "nye", "musikalske", "st\u00f8r", "The", "Mallo", "bliver", "officielt", "\u00e5bnet", "i", "September", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jens", "Olson", "er", "en", "ber\u00f8m", "filmregiss\u00f8r", "og", "skribent", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "nye", "lov", "om", "k\u00f8nsneutralitets", "p\u00e5", "arbejdspladsen", "tr\u00e6der", "i", "kraft", "i", "n\u00e5ste", "m\u00e5ned", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["S\u00f8ndag", "den", "12.", "maj", "holder", "vi", "v\u00e5r", "j\u00e6rlig", "grillfest", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Min", "s\u00f8ster", "studerer", "p\u00e5", "Aarhus", "Universitet", "og", "er", "p\u00e5", "f\u00f8rste", "\u00e5r", "p\u00e5", "juridisk", " fakultet", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "danske", "team", "k\u00e5re", "h\u00f8jere", "priser", "p\u00e5", "m\u00e5l", "end", "de", "tyske", "konkurrenter", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Professor", "Mette", "Schj\u00f8dt", "holdt", "en", "inspirerende", "forel\u00e6sning", "om", "klimaandet", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "k\u00f8ber", "mine", "b\u00f8rner", "nye", "skoleb\u00f8ker", "hos", "Keld", "Hansen", "p\u00e5", "Vesterbrogade", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 3]}
+{"tokens": ["Den", "gamle", "m\u00f8nster", "for", "at", "slutte", "med", "en", "skandale", "er", "ikke", "l\u00e6ngere", "aktuelt", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Lufthavnen", "i", "K\u00f8benhavn", "er", "en", "af", "de", "st\u00f8rste", "i", "Nordens", "region", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Min", "bedste", "ven", "Peter", "er", "en", "talenteret", "musikker", "og", "spiller", "piano", "i", "en", "lokal", "bar", "."], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "er", "vigtigt", "at", "have", "en", "god", "forst\u00e5else", "af", "de", "nye", "regler", "for", "beskatning", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Koncerteren", "i", "Tivoli", "er", "altid", "en", "fantastisk", "oplevelse", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "har", "lavet", "en", "liste", "over", "mine", "yndlings", "restaurant", "i", "byen", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Professor", "Anna", "Lund", "er", "en", "fremragende", "forsker", "p\u00e5", "kodekologi", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Den", "ny", "byplan", "for", "Odense", "er", "nu", "officielt", "godkendt", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0]}
+{"tokens": ["Jeg", "g\u00e5r", "til", "teater", "hver", "l\u00f8rdag", "aften", "med", "min", "familie", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Det", "danske", "selskab", "Harboe", "A/S", "er", "et", "af", "de", "eldste", "i", "branchen", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Min", "ferie", "i", "Tyskland", "var", "en", "uforglemmelig", "oplevelse", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0]}

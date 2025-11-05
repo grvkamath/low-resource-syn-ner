@@ -1,0 +1,954 @@
+{"id": "1001", "tokens": ["Gorilla", "Vipers", "SC", "Dela", "ya", "miliyoni", "mu", "gihugu", "."], "ner_tags": [3, 4, 3, 4, 0, 0, 0, 6, 0]}
+{"id": "1002", "tokens": ["Abana", "batanze", "kuri", "ukuri", "gwa", "kigero", "cha", "basketball", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"id": "1003", "tokens": ["Umunyarwanda", "muhorana", "na", "abafundishe", "b'umugereza", "muri", "bungana", "na", "Bwongereza", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1004", "tokens": ["Ava", "Laburare", "iri", "umwanya", "muri", "Polisi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "1005", "tokens": ["Amaherezo", "kuri", "gihugu", "hagati", "ya", "Rwanda", "na", "Uburundi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"id": "1006", "tokens": ["Ubuyanja", "buri", "mwaka", "bafite", "ubwoko", "bwihinduranyije", "butandukanye", "bwo", "mu", "Afurika", "y'Epfo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1007", "tokens": ["Abakunzi", "b'umuganga", "bazanyurwa", "muri", "Rusizi", "kuko", "bafashe", "umuhoro", "zaburaye", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"id": "1008", "tokens": ["Ruhanga", "Rwanda", "ni", "umuhanga", "muri", "basketball", "mu", "Afurika", "."], "ner_tags": [0, 5, 0, 0, 0, 7, 0, 0, 0]}
+{"id": "1009", "tokens": ["Abagore", "mu", "Rwanda", "bafite", "ubwoko", "bwa", "basketball", "buhiri", "mpamvu", "zitandukanye", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 7, 0, 0, 0, 0]}
+{"id": "1010", "tokens": ["Urerwa", "rw'umupira", "w'umuterekano", "muri", "Rwanda", "muri", "Afurika", "y'Epfo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"id": "1011", "tokens": ["Abagore", "barasaba", "kuri", "kuri", "Cyarwa", "mu", "Afurika", "y'Epfo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1012", "tokens": ["Ava", "Laburare", "kure", "Ava", "Komuntu", "muri", "Rusizi", "yo", "kure", "kure", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "1013", "tokens": ["Urerwa", "rw'umupira", "w'umuterekano", "muri", "Bwongereza", "muri", "Afurika", "y'Epfo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"id": "1014", "tokens": ["Mugabo", "muhorana", "na", "abafundishe", "b'umugereza", "muri", "bungana", "na", "Bwongereza", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1015", "tokens": ["Abahushije", "penaliti", "ebyiri", "za", "Rwanda", "ni", "Daniel", "Olmo", "na", "Alvaro", "Morata", "mu", "gihe", "imwe", "y'u", "Butaliyani", "yahushijwe", "na", "Manuel", "Locatelli", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 1, 2, 0, 1, 2, 0, 0, 0, 5, 6, 0, 0, 1, 2, 0]}
+{"id": "1016", "tokens": ["Umunyarwanda", "yaravuze", "ngo", "abarinzi", "bajya", "inama", "n'inyoni", "zijya", "izindi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1017", "tokens": ["Ibiporo", "kuri", "Bwongereza", "y'umupira", "w'umuterekano", "n'umuhoro", "hagati", "ya", "Rwanda", "na", "Uburundi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0, 5, 0]}
+{"id": "1018", "tokens": ["Urerwa", "rw'umupira", "w'umuterekano", "muri", "Rusizi", "muri", "Afurika", "y'Epfo", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 5, 0]}
+{"id": "1019", "tokens": ["Abagore", "mu", "Rwanda", "bafite", "ubwoko", "bwa", "basketball", "buhiri", "mpamvu", "zitandukanye", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 7, 0, 0, 0, 0]}
+{"id": "1020", "tokens": ["Mugabo", "muhorana", "na", "abafundishe", "b'umugereza", "muri", "bungana", "na", "Bwongereza", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1", "tokens": ["Kabiri", "mu", "bitekerezo", "ya", "umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "2", "tokens": ["Rwanda", "uruganda", "rw'abaturanyi", "bana", "n'umugambi", "mu", "Turwanda", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"id": "3", "tokens": ["Kipimo", "cha", "cya", "kugeza", "amaguru", "abandi", "mu", "mashuri", "ya", "bunzi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "4", "tokens": ["Umuganga", "y'icyo", "kibazo", "cy'umugambi", "muri", "Kigali", "mu", "2022", "nyuma", "y'umugambi", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "5", "tokens": ["Ishuri", "risha", "n'umugambi", "mu", "Rwanda", "muri", "Rwenzori", "mu", "2023", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "6", "tokens": ["Inama", "y'abakoloni", "yateranye", "mu", "gihe", "hari", "hashize", "iminsi", "icyenda", "habaye", "."], "ner_tags": [0, 1, 0, 0, 0, 7, 8, 8, 8, 0, 0]}
+{"id": "7", "tokens": ["Umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0]}
+{"id": "8", "tokens": ["Inama", "y'abahamya", "yateranye", "mu", "gihe", "hari", "hashize", "iminsi", "icyenda", "habaye", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 8, 8, 0, 0]}
+{"id": "9", "tokens": ["Uwahlenzi", "muri", "Kigali", "mu", "2023", "nyuma", "y'uwahlenzi", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0]}
+{"id": "10", "tokens": ["Kabiri", "mu", "bitekerezo", "ya", "umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "11", "tokens": ["Kibazo", "cy'umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "12", "tokens": ["Umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0]}
+{"id": "13", "tokens": ["Kabiri", "mu", "bitekerezo", "ya", "umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "14", "tokens": ["Ishuri", "risha", "n'umugambi", "mu", "Rwanda", "muri", "Rwenzori", "mu", "2023", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "15", "tokens": ["Kabiri", "mu", "bitekerezo", "ya", "umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "16", "tokens": ["Umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0]}
+{"id": "17", "tokens": ["Ishuri", "risha", "n'umugambi", "mu", "Rwanda", "muri", "Rwenzori", "mu", "2023", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "18", "tokens": ["Umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 5, 5, 0, 0, 0, 0]}
+{"id": "19", "tokens": ["Inama", "y'abakoloni", "yateranye", "mu", "gihe", "hari", "hashize", "iminsi", "icyenda", "habaye", "."], "ner_tags": [0, 1, 0, 0, 0, 7, 8, 8, 8, 0, 0]}
+{"id": "20", "tokens": ["Kabiri", "mu", "bitekerezo", "ya", "umugambi", "muri", "Kigali", "mu", "2023", "nyuma", "y'umugambi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "211", "tokens": ["Minisiteri", "y'Ubuzima", "y'umuryango", "w'abikorera", "yamwijimuye", "."], "ner_tags": [3, 4, 0, 0, 0, 0]}
+{"id": "421", "tokens": ["Kaminuza", "ya", "Kigali", "n'umunara", "muri", "cyicaro", "cya", "mashirika", "y'ubutabire,"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "812", "tokens": ["Uwiteka", "n'abaturage", "n'ibitero", "biraguzwa", "ko", "kufata", "nkabonge", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "130", "tokens": ["Safari", "y'abahamwe", "yamwitwa", "Uburayi", "."], "ner_tags": [0, 0, 0, 1, 0]}
+{"id": "305", "tokens": ["Abakozi", "bakora", "kubumburira", "abaturage", "ku", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "635", "tokens": ["Ikipe", "y'umunyimbo", "yakora", "kigwa", "umunwa", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "814", "tokens": ["Ihuriro", "lipfunikira", "abakomereza", "umutungo", "wo", "Covid", "-", "19", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "229", "tokens": ["Uwambuye", "baiteka", "kuri", "muhanga", "."], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "517", "tokens": ["Ikipe", "y'umurage", "yamwitwa", "Safari", "y'Abanyamahoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "831", "tokens": ["Umwami", "y'umutungo", "wo", "wari", "mukuru", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "419", "tokens": ["Umunsi", "w'igikombe", "muri", "kigo", "cya", "Cricket", "."], "ner_tags": [0, 0, 0, 0, 1, 0, 0]}
+{"id": "723", "tokens": ["Ikigo", "cya", "gukomeza", "umubano", "n'abaturage", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "214", "tokens": ["Abaturage", "bakora", "uburima", "n'ibitukura", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "610", "tokens": ["Kaminuza", "ya", "Rubavu", "ya", "muryango", "m'abikomereza", "ubumenyi", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"id": "928", "tokens": ["Inzoka", "z'ibitukura", "z'umuntu", "zishyirwa", "."], "ner_tags": [0, 0, 1, 0, 0]}
+{"id": "734", "tokens": ["Uwambuye", "mukuru", "mwambuye", "bavumbuye", "bafata", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "628", "tokens": ["Umuhanga", "kuri", "urukara", "muri", "kanada", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "417", "tokens": ["Umunyamaboko", "mu", "bivugabura", "bikurikira", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "916", "tokens": ["Minisiteri", "y'Ubuzima", "ya", "muryango", "w'abikomereza", "umubano", "."], "ner_tags": [3, 4, 0, 0, 0, 0]}
+{"id": "844", "tokens": ["Kaminuza", "ya", "Kigali", "ya", "muryango", "w'abikora", "ubumenyi", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"id": "728", "tokens": ["Uwambuye", "bavumbuye", "bafata", "."], "ner_tags": [0, 0, 0, 0]}
+{"id": "612", "tokens": ["Umuhanga", "kuri", "urukara", "muri", "Afurika", "."], "ner_tags": [0, 0, 0, 0, 1, 0]}
+{"id": "416", "tokens": ["Umunyamategeko", "wa", "kigali", "n'umuhanga", "."], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "6801", "tokens": ["Dottore", "Walter", "Medici", "("], "ner_tags": [0, 1, 2, 0]}
+{"id": "6802", "tokens": ["Ikipe", "y'umupira", "w'ukuru", "y'Itegeko", "ry'umupira", "muri", "Rwanda"], "ner_tags": [2, 0, 0, 0, 0, 0, 3]}
+{"id": "6803", "tokens": ["Cyayi", "muri", "Afurika", "y'Intangiriro", "z'abaturage"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "6804", "tokens": ["Professor", "John", "Doe", "("], "ner_tags": [3, 1, 2, 0]}
+{"id": "6805", "tokens": ["Nyakwigamba", "muri", "Uburayi", "y'Umujyi", "wa", "Kigali"], "ner_tags": [0, 0, 0, 0, 0, 5]}
+{"id": "6806", "tokens": ["Ikipe", "y'umupira", "w'ukuru", "y'Uburayi"], "ner_tags": [2, 0, 0, 0]}
+{"id": "6807", "tokens": ["Dr.", "Irene", "Ndemezo", "("], "ner_tags": [3, 1, 2, 0]}
+{"id": "6808", "tokens": ["Kabiri", "y'umupira", "w'ukuru", "muri", "Rwanda"], "ner_tags": [0, 2, 0, 0, 3]}
+{"id": "6809", "tokens": ["Kaminuza", "y'igihugu", "y'Uburundi"], "ner_tags": [0, 0, 0]}
+{"id": "6810", "tokens": ["African", "Cup", "("], "ner_tags": [3, 0, 0]}
+{"id": "6811", "tokens": ["Ikipe", "y'umupira", "w'ukuru", "y'Uburundi"], "ner_tags": [2, 0, 0, 0]}
+{"id": "6812", "tokens": ["Kaminuza", "y'igihugu", "y'Rwanda"], "ner_tags": [0, 0, 0]}
+{"id": "6813", "tokens": ["Kabiri", "y'umupira", "w'ukuru", "muri", "Rwanda"], "ner_tags": [0, 2, 0, 0, 3]}
+{"id": "6814", "tokens": ["Ikipe", "y'umupira", "w'ukuru", "y'Itegeko", "ry'umupira", "muri", "Rwanda"], "ner_tags": [2, 0, 0, 0, 0, 0, 3]}
+{"id": "6815", "tokens": ["African", "Games", "("], "ner_tags": [3, 0, 0]}
+{"id": "6816", "tokens": ["Kaminuza", "y'igihugu", "y'Uburayi"], "ner_tags": [0, 0, 0]}
+{"id": "6817", "tokens": ["Kabiri", "y'umupira", "w'ukuru", "muri", "Rwanda"], "ner_tags": [0, 2, 0, 0, 3]}
+{"id": "6818", "tokens": ["Ikipe", "y'umupira", "w'ukuru", "y'Uburundi"], "ner_tags": [2, 0, 0, 0]}
+{"id": "6819", "tokens": ["Kaminuza", "y'igihugu", "y'Rwanda"], "ner_tags": [0, 0, 0]}
+{"id": "6820", "tokens": ["Kabiri", "y'umupira", "w'ukuru", "muri", "Rwanda"], "ner_tags": [0, 2, 0, 0, 3]}
+{"id": "1000", "tokens": ["Abaturage", "hafi", "ya", "Kigali", "bazafashwe", "hafi", "ya", "koranabuhanga", "mu", "burenganzira", "bwo", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "gukora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1001", "tokens": ["Kigali", "iki", "gitwa", "umuhanga", "umwiza", "kuri", "ibicuruzwa", "mu", "nshingano", "za", "Pikinini", ","], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1002", "tokens": ["Abakoloni", "bagabanya", "abaturage", "hafi", "ya", "Kigali", "na", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1003", "tokens": ["Umunyamababa", "yari", "Kigali", "yari", "agaciro", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1004", "tokens": ["Abaturage", "hafi", "ya", "Kigali", "bazafashwe", "hafi", "ya", "koranabuhanga", "mu", "burenganzira", "bwo", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "gukora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1005", "tokens": ["Kigali", "iki", "gitwa", "umuhanga", "umwiza", "kuri", "ibicuruzwa", "mu", "nshingano", "za", "Pikinini", "na", "abafunzwa", "z'ishirini"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1006", "tokens": ["Abakoloni", "bagabanya", "abaturage", "hafi", "ya", "Kigali", "na", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1007", "tokens": ["Abaturage", "hafi", "ya", "Kigali", "bazafashwe", "hafi", "ya", "koranabuhanga", "mu", "burenganzira", "bwo", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "gukora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1008", "tokens": ["Abakoloni", "bagabanya", "abaturage", "hafi", "ya", "Kigali", "na", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1009", "tokens": ["Umunyamababa", "yari", "Kigali", "yari", "agaciro", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1010", "tokens": ["Abaturage", "hafi", "ya", "Kigali", "bazafashwe", "hafi", "ya", "koranabuhanga", "mu", "burenganzira", "bwo", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "gukora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1011", "tokens": ["Kigali", "iki", "gitwa", "umuhanga", "umwiza", "kuri", "ibicuruzwa", "mu", "nshingano", "za", "Pikinini", "na", "abafunzwa", "z'ishirini"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1012", "tokens": ["Abakoloni", "bagabanya", "abaturage", "hafi", "ya", "Kigali", "na", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1013", "tokens": ["Abaturage", "hafi", "ya", "Kigali", "bazafashwe", "hafi", "ya", "koranabuhanga", "mu", "burenganzira", "bwo", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "gukora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1014", "tokens": ["Kigali", "iki", "gitwa", "umuhanga", "umwiza", "kuri", "ibicuruzwa", "mu", "nshingano", "za", "Pikinini", "na", "abafunzwa", "z'ishirini"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1015", "tokens": ["Abakoloni", "bagabanya", "abaturage", "hafi", "ya", "Kigali", "na", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1016", "tokens": ["Abaturage", "hafi", "ya", "Kigali", "bazafashwe", "hafi", "ya", "koranabuhanga", "mu", "burenganzira", "bwo", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "gukora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1017", "tokens": ["Abakoloni", "bagabanya", "abaturage", "hafi", "ya", "Kigali", "na", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1018", "tokens": ["Abaturage", "hafi", "ya", "Kigali", "bazafashwe", "hafi", "ya", "koranabuhanga", "mu", "burenganzira", "bwo", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "gukora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1019", "tokens": ["Kigali", "iki", "gitwa", "umuhanga", "umwiza", "kuri", "ibicuruzwa", "mu", "nshingano", "za", "Pikinini", "na", "abafunzwa", "z'ishirini"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1020", "tokens": ["Abakoloni", "bagabanya", "abaturage", "hafi", "ya", "Kigali", "na", "kugabanya", "abafunzwa", "mu", "uburenganzira", "bwo", "kugora", "ibicuruzwa", "mu", "nshingano", "ya", "Pikinini"], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "2023", "tokens": ["Bamwe", "mu", "bakinnyi", "basoje", "amasezerano", "yabo", ",", "bakomeje", "ibiganiro", "n'andi", "makipe", "yifuza", "kuzabakinisha", "mu", "mwaka", "utaha", "w'imikino", "nubwo", "hataramenyekana", "igihe", "cyo", "muheto"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0]}
+{"id": "2024", "tokens": ["Yego", "ariko", "bagiye", "kumukorera", "ikintu", "batigeze", "bakora", "mbere", "hose", "mu", "gihugu", "y'eperi", "kwa", "urukingo", "gutaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "2025", "tokens": ["Ubushakashatsi", "bwakorewe", "ku", "bakinnyi", "b'umupira", "w'amaguru", "bo", "mu", "Butaliyani", ",", "bwerekanye", "ko", "baba", "bafite", "ibyago", "byo", "kwandura", "iyi", "ndwara", "inshuro", "esheshatu", "ikinyoma"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2026", "tokens": ["Abantu", "duka", "zilizote", "y'u", "Butaliyani", "mu", "muheto", "w'ikibuga", "Cyber", "Punk", "Festival", "yatangijwe", "ku", "wa", "11", "ikazasozwa", "ku", "wa", "17", "Nyakanga", "uyu", "mwaka", "."], "ner_tags": [0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 8, 8, 8, 8, 8, 8]}
+{"id": "2027", "tokens": ["Uburyo", "rurimo", "abantu", "bafite", "ibyago", "byo", "kwandura", "iyi", "ndwara", "inshuro", "esheshatu", "kuri", "urukingo", "gutaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2028", "tokens": ["Muri", "bo", "twasanze", "harimo", "abantu", "31", "bafite", "ubwoko", "bwa", "Coronavirus", "bwihinduranyije", "butandukanye", "bwo", "mu", "Bwongereza", "no", "muri", "Afurika", "y'Epfo", ".", "ikipe", "y'umupira", "mupira"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 6, 0, 0, 0]}
+{"id": "2029", "tokens": ["Bivuge", "unakomeze", "urigire", "kuko", "ntabwo", "dushaka", "izo", "mpinduka", "mu", "gihe", "cyo", "muheto"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2030", "tokens": ["Yahise", "abwira", "uyu", "mwana", "ko", "batari", "bumuhe", "\"\"\"\"", "Yego", "\"\"\"\"", "ariko", "bagiye", "kumukorera", "ikintu", "batigeze", "bakora", "mbere", "hose", "mu", "gihugu", "y'eperi", "kwa", "urukingo", "gutaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"id": "2031", "tokens": ["Bamwe", "mu", "bakinnyi", "basoje", "amasezerano", "yabo", ",", "bakomeje", "ibiganiro", "n'andi", "makipe", "yifuza", "kuzabakinisha", "mu", "mwaka", "utaha", "w'imikino", "nubwo", "hataramenyekana", "igihe", "cya", "muheto"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 0, 0, 0, 0]}
+{"id": "2032", "tokens": ["Ubushakashatsi", "bwakorewe", "ku", "bakinnyi", "b'umupira", "w'amaguru", "bo", "mu", "Butaliyani", ",", "bwerekanye", "ko", "baba", "bafite", "ibyago", "byo", "kwandura", "iyi", "ndwara", "inshuro", "ikinyoma"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2033", "tokens": ["Yego", "ariko", "bagiye", "kumukorera", "ikintu", "batigeze", "bakora", "mbere", "hose", "mu", "gihugu", "y'eperi", "kwa", "urukingo", "gutaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "2034", "tokens": ["Abantu", "duka", "zilizote", "y'u", "Butaliyani", "mu", "muheto", "w'ikibuga", "Cyber", "Punk", "Festival", "yatangijwe", "ku", "wa", "11", "ikazasozwa", "ku", "wa", "17", "Nyakanga", "uyu", "mwaka", "."], "ner_tags": [0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 8, 8, 8, 8, 8, 8]}
+{"id": "2035", "tokens": ["Muri", "bo", "twasanze", "harimo", "abantu", "31", "bafite", "ubwoko", "bwa", "Coronavirus", "bwihinduranyije", "butandukanye", "bwo", "mu", "Bwongereza", "no", "muri", "Afurika", "y'Epfo", ".", "ikipe", "y'umupira", "mupira"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 6, 0, 0, 0]}
+{"id": "2036", "tokens": ["Bivuge", "unakomeze", "urigire", "kuko", "ntabwo", "dushaka", "izo", "mpinduka", "mu", "gihe", "cyo", "muheto"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2037", "tokens": ["Yahise", "abwira", "uyu", "mwana", "ko", "batari", "bumuhe", "\"\"\"\"", "Yego", "\"\"\"\"", "ariko", "bagiye", "kumukorera", "ikintu", "batigeze", "bakora", "mbere", "hose", "mu", "gihugu", "y'eperi", "kwa", "urukingo", "gutaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"id": "2038", "tokens": ["Ubushakashatsi", "bwakorewe", "ku", "bakinnyi", "b'umupira", "w'amaguru", "bo", "mu", "Butaliyani", ",", "bwerekanye", "ko", "baba", "bafite", "ibyago", "byo", "kwandura", "iyi", "ndwara", "inshuro", "esheshatu", "ikinyoma"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2039", "tokens": ["Bivuge", "unakomeze", "urigire", "kuko", "ntabwo", "dushaka", "izo", "mpinduka", "mu", "gihe", "cyo", "muheto"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2040", "tokens": ["Yego", "ariko", "bagiye", "kumukorera", "ikintu", "batigeze", "bakora", "mbere", "hose", "mu", "gihugu", "y'eperi", "kwa", "urukingo", "gutaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "2041", "tokens": ["Abantu", "duka", "zilizote", "y'u", "Butaliyani", "mu", "muheto", "w'ikibuga", "Cyber", "Punk", "Festival", "yatangijwe", "ku", "wa", "11", "ikazasozwa", "ku", "wa", "17", "Nyakanga", "uyu", "mwaka", "."], "ner_tags": [0, 0, 0, 7, 5, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 8, 8, 8, 8, 8, 8]}
+{"id": "2042", "tokens": ["Muri", "bo", "twasanze", "harimo", "abantu", "31", "bafite", "ubwoko", "bwa", "Coronavirus", "bwihinduranyije", "butandukanye", "bwo", "mu", "Bwongereza", "no", "muri", "Afurika", "y'Epfo", ".", "ikipe", "y'umupira", "mupira"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5, 6, 0, 0, 0]}
+{"id": "2043", "tokens": ["Bivuge", "unakomeze", "urigire", "kuko", "ntabwo", "dushaka", "izo", "mpinduka", "mu", "gihe", "cyo", "muheto"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2044", "tokens": ["Yahise", "abwira", "uyu", "mwana", "ko", "batari", "bumuhe", "\"\"\"\"", "Yego", "\"\"\"\"", "ariko", "bagiye", "kumukorera", "ikintu", "batigeze", "bakora", "mbere", "hose", "mu", "gihugu", "y'eperi", "kwa", "urukingo", "gutaha"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"id": "2045", "tokens": ["Ubushakashatsi", "bwakorewe", "ku", "bakinnyi", "b'umupira", "w'amaguru", "bo", "mu", "Butaliyani", ",", "bwerekanye", "ko", "baba", "bafite", "ibyago", "byo", "kwandura", "iyi", "ndwara", "inshuro", "esheshatu", "ikinyoma"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1010", "tokens": ["Akayihesabwa", "kuri", "habari", "ni", "Emmanuel", "Rutazilingana", ","], "ner_tags": [7, 0, 0, 0, 1, 2, 0]}
+{"id": "1011", "tokens": ["Kuwa", "nitwiteka", "nya", "hakigari", "mu", "Rwanda", ","], "ner_tags": [0, 0, 0, 0, 5, 0, 0]}
+{"id": "1012", "tokens": ["Umuhinzi", "umwe", "wambere", "wa", "vunabara", "Rwanda", ","], "ner_tags": [0, 8, 8, 0, 0, 5, 0]}
+{"id": "1014", "tokens": ["Kwiyumba", "kwiheneye", "umunota", "umwe", "nayo", "mu", "Kivu", ","], "ner_tags": [0, 0, 7, 8, 0, 5, 0, 0]}
+{"id": "1015", "tokens": ["Mwanjano", "w'enye", "umunota", "umejimbo", "n'umunyamabanga", "w'ingabo", ","], "ner_tags": [0, 0, 7, 8, 0, 3, 0]}
+{"id": "1016", "tokens": ["Akarere", "katika", "Amajyaruguru", ","], "ner_tags": [0, 0, 0, 0]}
+{"id": "1017", "tokens": ["Inzego", "zitatu", "z'amategeko", "zambika", ","], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "1018", "tokens": ["Muhabura", "yumunota", "umwe", "muhanga", ","], "ner_tags": [0, 7, 8, 3, 0]}
+{"id": "1019", "tokens": ["Gatatu", "umuhinzi", "wambere", "wa", "vunabara", ","], "ner_tags": [7, 8, 8, 0, 5, 0]}
+{"id": "1020", "tokens": ["Muri", "kera", "muhanga", ","], "ner_tags": [0, 0, 3, 0]}
+{"id": "1021", "tokens": ["Igihe", "gitatu", "cya", "rukiko", "y'Umunyamabanga", ","], "ner_tags": [0, 7, 8, 3, 0]}
+{"id": "1022", "tokens": ["Kuva", "muhanga", "umwe", ","], "ner_tags": [0, 3, 8, 0]}
+{"id": "1023", "tokens": ["Inkuru", "z'abaturage", ","], "ner_tags": [0, 0, 0, 0]}
+{"id": "1024", "tokens": ["Kandi", "abavumbi", "bataraboga", "muganga", ","], "ner_tags": [7, 8, 0, 3, 0]}
+{"id": "1025", "tokens": ["Muryango", "umwe", "w'abafashe", ","], "ner_tags": [0, 8, 7, 0]}
+{"id": "1026", "tokens": ["Akazi", "ya", "umunota", "umwe", ","], "ner_tags": [0, 0, 7, 8, 0]}
+{"id": "1027", "tokens": ["Gihugu", "katika", "Amajyaruguru", ","], "ner_tags": [0, 0, 0, 0]}
+{"id": "1028", "tokens": ["Inzego", "z'umuhinzi", "wambere", ","], "ner_tags": [0, 0, 8, 0]}
+{"id": "1029", "tokens": ["Muhanga", "umwe", "mwami", ","], "ner_tags": [3, 8, 0, 0]}
+{"id": "2083", "tokens": ["Umushinga", "muhitimurikiranigina", "u", "w'amafoto", "w'abakoloni", "barishwe", "kuri", "kibanza", "cya", "Afrika", "muri", "miyaremye", "ikipe", "ya", "Burundi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 5, 0]}
+{"id": "1021", "tokens": ["Kuri", "umugambuliro", "w'abakoloni", "bajya", "kuguruka", "u", "Bugesera", "mwana", "wa", "Burayi", "muri", "miyaremye", "ikipe", "ya", "Urusi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2119", "tokens": ["Muke", "Rwanda", "mwana", "wa", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "."], "ner_tags": [0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2087", "tokens": ["Ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "yagaragatwa", "na", "abahanga", "muri", "Afrika", "muri", "miyaremye", "umutungo", "muri", "Burundi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2124", "tokens": ["Uyu", "mukino", "utarabereye", "igihe", "kubera", "icyorezo", "cya", "COVID", "-", "19", "watsinzwe", "na", "Uganda", "ku", "manota", "77", "-", "65", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1046", "tokens": ["Hinjiye", "Jules", "Kambale", "(", "Waguzwe", "muri", "Tanzania", ")", "yo", "muri", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Rwanda", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2049", "tokens": ["Uyu", "mwana", "wa", "Rwanda", "watsinzwe", "na", "Uganda", "ku", "manota", "77", "-", "65", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "2064", "tokens": ["Muke", "Abanyamahanga", "bato", "w'abakoloni", "barishwe", "muri", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "."], "ner_tags": [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2091", "tokens": ["Ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "yagaragatwa", "na", "abahanga", "muri", "Afrika", "muri", "miyaremye", "umutungo", "muri", "Burundi", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "2056", "tokens": ["Uyu", "mukino", "utarabereye", "igihe", "kubera", "icyorezo", "cya", "COVID", "-", "19", "watsinzwe", "na", "Uganda", "ku", "manota", "77", "-", "65", "muri", "miyaremye", "Afrofuturisme", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1011", "tokens": ["Muke", "Rwanda", "mwana", "wa", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "muri", "miyaremye", "umutungo", "muri", "Burundi", "."], "ner_tags": [0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5]}
+{"id": "2080", "tokens": ["Umuhindu", "w'abakoloni", "barishwe", "kuri", "kibanza", "cya", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2103", "tokens": ["Muke", "Rwanda", "mwana", "wa", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "muri", "miyaremye", "umutungo", "muri", "Burundi", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1035", "tokens": ["Ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "yagaragatwa", "na", "abahanga", "muri", "Afrika", "muri", "miyaremye", "umutungo", "muri", "Burundi", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "2068", "tokens": ["Uyu", "mukino", "utarabereye", "igihe", "kubera", "icyorezo", "cya", "COVID", "-", "19", "watsinzwe", "na", "Uganda", "ku", "manota", "77", "-", "65", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1043", "tokens": ["Muke", "Rwanda", "mwana", "wa", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "muri", "miyaremye", "umutungo", "muri", "Burundi", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "2074", "tokens": ["Umuhindu", "w'abakoloni", "barishwe", "kuri", "kibanza", "cya", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1039", "tokens": ["Ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "yagaragatwa", "na", "abahanga", "muri", "Afrika", "muri", "miyaremye", "umutungo", "muri", "Burundi", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "2097", "tokens": ["Uyu", "mukino", "utarabereye", "igihe", "kubera", "icyorezo", "cya", "COVID", "-", "19", "watsinzwe", "na", "Uganda", "ku", "manota", "77", "-", "65", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2106", "tokens": ["Muke", "Rwanda", "mwana", "wa", "Afrika", "muri", "miyaremye", "ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "muri", "miyaremye", "umutungo", "muri", "Burundi", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1049", "tokens": ["Ikipe", "ya", "kabiri", "nk'ikipe", "ya", "Misiri", "yagaragatwa", "na", "abahanga", "muri", "Afrika", "muri", "miyaremye", "umutungo", "muri", "Burundi", "muri", "miyaremye", "umutungo", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "4123", "tokens": ["Ikipe", "ya", "APR", "ya", "wamenyekanye", "kandi", "yamaze", "kurukana", "hakuna", "ubera", "mu", "gihugu", "."], "ner_tags": [3, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "9021", "tokens": ["U Rwanda", "raramutse", "ku", "kera", "haba", "urutahizamu", "uko", "mwaka", "2018", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"id": "7512", "tokens": ["Umujyi", "wa", "Butare", "ni", "wo", "wabonetsemo", "abanduye", "agutiwe", "umunani", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5]}
+{"id": "6543", "tokens": ["Uyu", "mwaka", "umunani", "ni", "umunani", "unjye", "utukeneye", "urya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "4321", "tokens": ["Ikipe", "ya", "y'Umujyi", "wa", "Kigali", "yamaze", "gutakaza", "nyuma", "y'ikipe", "ya", "APR", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 0, 0, 3, 0, 0]}
+{"id": "9876", "tokens": ["Umwarimu", "wa", "Rubavu", "habonetse", "umunani", "."], "ner_tags": [0, 0, 5, 0, 5]}
+{"id": "9211", "tokens": ["Ninshi", "muri", "akarere", "ka", "Ngoma", "kandi", "yamenyekanye", "muri", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1234", "tokens": ["Mwarimu", "mwarimu", "na", "mwarimu", "wamenyekanye", "muri", "kabera", "."], "ner_tags": [1, 1, 1, 1, 0, 0, 0]}
+{"id": "7890", "tokens": ["Umuhanga", "muhanga", "na", "umuhanga", "wamenyekanye", "muri", "rwanda", "."], "ner_tags": [2, 2, 2, 2, 0, 0, 0]}
+{"id": "5566", "tokens": ["U Rwanda", "raramutse", "ku", "kera", "haba", "urutahizamu", "uko", "mwaka", "2015", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"id": "2345", "tokens": ["Ikipe", "ya", "y'umujyi", "wa", "Kigali", "yamaze", "gutakaza", "umunani", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 5]}
+{"id": "5678", "tokens": ["Umuso", "muri", "rwanda", "muri", "2022", "ni", "umuso", "unjye", "utukeneye", "urya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "3456", "tokens": ["Umujyi", "wa", "Ruhengeri", "ni", "wo", "wabonetsemo", "abanduye", "bagera", "kuri", "166", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "4567", "tokens": ["U Rwanda", "raramutse", "ku", "kera", "haba", "urutahizamu", "uko", "mwaka", "2020", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 8, 0]}
+{"id": "5678", "tokens": ["Ikipe", "ya", "APR", "yamaze", "gutakaza", "umunani", "."], "ner_tags": [3, 2, 0, 0, 0, 5]}
+{"id": "6789", "tokens": ["Umwarimu", "mwarimu", "na", "umwarimu", "wamenyekanye", "muri", "kabera", "."], "ner_tags": [1, 1, 1, 1, 0, 0, 0]}
+{"id": "7654", "tokens": ["Umuhanga", "muhanga", "na", "umuhanga", "wamenyekanye", "muri", "rwanda", "."], "ner_tags": [2, 2, 2, 2, 0, 0, 0]}
+{"id": "8765", "tokens": ["Umujyi", "wa", "Gisenyi", "ni", "wo", "wabonetsemo", "abanduye", "umunani", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 5]}
+{"id": "41", "tokens": ["Bwana", "President", "Paul", "Kagame", "atikwiye", "kurenga", "imidugudu", "y'abaturage", "."], "ner_tags": [0, 1, 1, 1, 0, 0, 5, 5, 0]}
+{"id": "15", "tokens": ["Umuhinzi", "w'uburayi", "yabanje", "guhinduranya", "umucungwa", "umuhogo", "n'abaturage", "."], "ner_tags": [1, 0, 0, 0, 2, 2, 5, 0]}
+{"id": "641", "tokens": ["Inyuma", "y'ikipe", "y'umupira", "w'ikipe", "yabanye", "kugirira", "inda", "y'ikipe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "912", "tokens": ["Kuri", "kibanza", "c", "Kigali", "c", "y'uburayi", "bagezwe", "umuhigo", "w'ikipe", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 2, 0, 0]}
+{"id": "591", "tokens": ["Muri", "Rusange", "abantu", "babanze", "abahure", "kuri", "kikundu", "c", "y'uburayi", "."], "ner_tags": [0, 0, 5, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "137", "tokens": ["Umwana", "w'umugabo", "w'abakobwa", "w'ubukerarugendo", "w'umuganda", "yabaye", "umuganda", "muri", "Rwanda", "."], "ner_tags": [0, 1, 2, 1, 1, 0, 1, 0, 5, 0]}
+{"id": "428", "tokens": ["Bwana", "Premier", "minisitiri", "y'ubuzima", "yabaye", "umunyamabanga", "muri", "Rwanda", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 5, 0]}
+{"id": "19", "tokens": ["Iyo", "umuganda", "umwe", "wabaye", "umuganda", "w'uburayi", "n'abaturage", "."], "ner_tags": [0, 1, 1, 0, 1, 0, 5, 0]}
+{"id": "854", "tokens": ["Kuri", "kibanza", "c", "Butaliyani", "c", "y'uburayi", "bagezwe", "umuhigo", "w'ikipe", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 2, 0, 0]}
+{"id": "535", "tokens": ["Abanyeshi", "b'ikipe", "yabuye", "abagabanya", "abagabanya", "abakobwa", "muri", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 2, 0, 5, 0]}
+{"id": "47", "tokens": ["Muri", "Rusange", "abantu", "babanze", "abahure", "kuri", "kikundu", "c", "y'uburayi", "."], "ner_tags": [0, 0, 5, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "942", "tokens": ["Bwana", "umunyamabanga", "muri", "Leta", "za", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "24", "tokens": ["Ikipe", "y'uburayi", "yabaye", "y'abakobwa", "y'abakobwa", "y'ikipe", "y'uburayi", "."], "ner_tags": [0, 0, 0, 2, 2, 0, 0, 0]}
+{"id": "913", "tokens": ["Kuri", "kibanza", "c", "Ghana", "c", "y'uburayi", "bagezwe", "umuhigo", "w'ikipe", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 2, 0, 0]}
+{"id": "649", "tokens": ["Iki", "kipe", "y'umupira", "w'ikipe", "yabanye", "kugirira", "inda", "y'ikipe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "18", "tokens": ["Abakobwa", "b'ikipe", "yabuye", "abagabanya", "abagabanya", "abakobwa", "muri", "Rwanda", "."], "ner_tags": [2, 0, 0, 0, 0, 2, 0, 5, 0]}
+{"id": "193", "tokens": ["Muri", "Rusange", "abantu", "babanze", "abahure", "kuri", "kikundu", "c", "y'uburayi", "."], "ner_tags": [0, 0, 5, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "761", "tokens": ["Kuri", "kibanza", "c", "Serbia", "c", "y'uburayi", "bagezwe", "umuhigo", "w'ikipe", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 2, 0, 0]}
+{"id": "26", "tokens": ["Iyo", "umuganda", "umwe", "wabaye", "umuganda", "w'uburayi", "n'abaturage", "."], "ner_tags": [0, 1, 1, 0, 1, 0, 5, 0]}
+{"id": "944", "tokens": ["Bwana", "umunyamabanga", "muri", "Leta", "za", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "539", "tokens": ["Kuva", "icyorezo", "cya", "SARS-CoV-2", "cyagaragara", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "812", "tokens": ["Ikiyaga", "Nyabihanga", "kagaruka", "mu", "buzima", "b'abantu", "b'ikipe", "y'umunyamaboko", "yaramurekuye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 2, 0, 0]}
+{"id": "982", "tokens": ["Abakinnye", "umuhanga", "abasize", "abavu", "b'abantu", "b'abantu", "b'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "342", "tokens": ["Kuwa", "gutagaza", "umuhanga", "abasize", "abavu", "b'abantu", "b'abantu", "b'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "741", "tokens": ["Mu", "Rwanda", "ikiganiro", "cy'amaguru", "kuri", "televisheni", "ya", "Burundi", "."], "ner_tags": [5, 0, 0, 0, 0, 6, 0, 0, 0]}
+{"id": "627", "tokens": ["Igikombe", "cya", "Shampiyona", "cya", "Premier", "League", "nyuma", "y'uko", "yegukanye", "umugambuliro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "867", "tokens": ["Ikiyaga", "Kivu", "kagaruka", "mu", "buzima", "b'abantu", "b'abantu", "b'ikipe", "y'umunyamaboko", "yaramurekuye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 2, 0]}
+{"id": "556", "tokens": ["Kuva", "icyorezo", "cya", "Covid", "-", "19", "cyagaragara", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "763", "tokens": ["Ibikorwa", "bihuza", "abantu", "b'abantu", "b'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "924", "tokens": ["Ikiyaga", "Tanganika", "kagaruka", "mu", "buzima", "b'abantu", "b'abantu", "b'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "466", "tokens": ["Kuva", "icyorezo", "cya", "Covid", "-", "19", "cyagaragara", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "823", "tokens": ["Igikombe", "cya", "Kabushinwa", "cya", "Afro", "nyuma", "y'uko", "yegukanye", "umugambuliro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "399", "tokens": ["Kuwa", "gutagaza", "umuhanga", "abasize", "abavu", "b'abantu", "b'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "538", "tokens": ["Kuva", "icyorezo", "cya", "SARS-CoV-2", "cyagaragara", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "972", "tokens": ["Abakinnye", "umuhanga", "abasize", "abavu", "b'abantu", "b'abantu", "b'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "445", "tokens": ["Kuwa", "gutagaza", "umuhanga", "abasize", "abavu", "b'abantu", "b'abantu", "b'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "692", "tokens": ["Mu", "Rwanda", "ikiganiro", "cy'amaguru", "kuri", "televisheni", "ya", "Burundi", "."], "ner_tags": [5, 0, 0, 0, 0, 6, 0, 0, 0]}
+{"id": "733", "tokens": ["Igikombe", "cya", "Shampiyona", "cya", "Premier", "League", "nyuma", "y'uko", "yegukanye", "umugambuliro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "823", "tokens": ["Abagabo", "bashira", "kuri", "umuti", "du", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0]}
+{"id": "811", "tokens": ["Ishara", "ya", "Rwanda", "igihe", "cyrifungura", "umurwa", "mukuru", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0]}
+{"id": "921", "tokens": ["Ku", "hicinjwe", "mu", "gihugu", "cye", "Congo", "na", "Burundi", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "637", "tokens": ["Ibi", "bitatu", "byo", "kwirinda", "kuko", "na", "bo", "bashobora", "kwandura", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "841", "tokens": ["Umuhikane", "wa", "Shampiyona", "y'Isi", "imaze", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "957", "tokens": ["Ivugurujwe", "ko", "kugeza", "Rwanda", "na", "muhanga", "wa", "FIFA", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 5]}
+{"id": "178", "tokens": ["Umujyi", "wa", "Kigali", "muri", "Kigali", "iguwa", "muhanga", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0]}
+{"id": "615", "tokens": ["Abahumeka", "bagirwa", "kwirinda", "umwana", "w'abantu", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "701", "tokens": ["Umuyobozi", "wa", "RBC", "ugaragaza", "korona", "virus", "imaze", "kuri", "Zaire", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "833", "tokens": ["Nayo", "umutungo", "utaha", "umwijimara", "w'abanyamivumbuzi", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "914", "tokens": ["Umuhanga", "wa", "Shampiyona", "y'Isi", "ya", "Afrobasket", "imaze", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "649", "tokens": ["Ku", "ngebereye", "hawe", "kwitegeka", "umukenkeze", "muri", "kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "821", "tokens": ["Umuhindo", "muri", "Kigali", "muri", "Congo", "."], "ner_tags": [0, 0, 5, 0, 5, 0]}
+{"id": "931", "tokens": ["Ishusho", "ya", "corona", "virus", "y'umuhanga", "imaze", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "413", "tokens": ["Abari", "bafatwa", "abagera", "kuri", "40", "barembye", "ku", "buryo", "bari", "kongererwa", "umwuka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "667", "tokens": ["Ibi", "bitatu", "byo", "kwirinda", "muri", "gihugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "745", "tokens": ["Abagabo", "bashira", "kuri", "umuti", "du", "Kigali", "na", "abagabo", "bashira", "muri", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 5, 0]}
+{"id": "955", "tokens": ["Ku", "hicinjwe", "mu", "gihugu", "cye", "Congo", "na", "Burundi", "n'abagabo", "bashira", "kuri", "umuti", "du", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "171", "tokens": ["Umuhikane", "wa", "Shampiyona", "y'Isi", "imaze", "mu", "Rwanda", "na", "muhanga", "wa", "FIFA", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0]}
+{"id": "599", "tokens": ["Ivugurujwe", "ko", "kugeza", "Rwanda", "na", "muhanga", "wa", "Shampiyona", "y'Isi", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "859", "tokens": ["Umujyi", "wa", "Kigali", "muri", "Kigali", "iguwa", "muhanga", "muri", "gihugu", "."], "ner_tags": [0, 0, 5, 0, 5, 0, 0, 0, 0, 0]}
+{"id": "1241", "tokens": ["Pierre", "Celestin", "umuhanga", "muri", "Kigali", "FC"], "ner_tags": [1, 2, 0, 0, 4, 0]}
+{"id": "1321", "tokens": ["Umuhanga", "wabaye", "umuganga", "wabaye", "wakora", "muri", "APR", "FC"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4]}
+{"id": "1456", "tokens": ["Alyouakim", "Habimana", "yibaye", "umunyamaboko", "umwana", "wose", "mu", "bato"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"id": "1592", "tokens": ["Katoto", "cukira", "muri", "Kigali", "umukuru"], "ner_tags": [1, 0, 0, 4, 0]}
+{"id": "1678", "tokens": ["Itangazamakuru", "cyo", "rashimikwa", "muri", "nchukuti"], "ner_tags": [3, 0, 0, 0, 0]}
+{"id": "1719", "tokens": ["Uwimbona", "kuri", "TV", "umuheshe", "uko", "y'umunyamaboko", "Alyouakim", "Habimana"], "ner_tags": [0, 0, 3, 0, 0, 0, 1, 2]}
+{"id": "1851", "tokens": ["Kigali", "umukuru", "w'Uburundi"], "ner_tags": [4, 0, 0]}
+{"id": "1935", "tokens": ["Gahutabara", "yabaye", "umuhanga", "muri", "Atraco", "FC"], "ner_tags": [0, 0, 0, 0, 3, 4]}
+{"id": "1973", "tokens": ["Umuhanga", "wose", "wabaye", "wakora", "muri", "umugabane"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "2098", "tokens": ["Rutare", "yanyemerejea", "muri", "umuganda", "wabaye", "umuhanga", "muri", "APR", "FC"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 3, 4]}
+{"id": "2162", "tokens": ["Habimana", "Daniel", "yibaye", "umunyamaboko", "wabaye", "wakora", "muri", "Kigali", "FC"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 4, 0]}
+{"id": "2231", "tokens": ["Muhanga", "yabaye", "umunyamaboko", "wabaye", "wakora", "muri", "Atraco", "FC"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 4]}
+{"id": "2289", "tokens": ["Pierre", "Celestin", "umuhanga", "muri", "umugabane"], "ner_tags": [1, 2, 0, 0, 0]}
+{"id": "2354", "tokens": ["Umuhanga", "wose", "wabaye", "wakora", "muri", "umuganda"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "2421", "tokens": ["Katoto", "cukira", "muri", "umuganda", "wabaye", "umuhanga", "muri", "APR", "FC"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 3, 4]}
+{"id": "2467", "tokens": ["Alyouakim", "Habimana", "yibaye", "umunyamaboko", "wabaye", "wakora", "muri", "Kigali", "FC"], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 4, 0]}
+{"id": "2518", "tokens": ["Itangazamakuru", "cyo", "rashimikwa", "muri", "nchukuti", "yabaye", "katika", "Kigali"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2573", "tokens": ["Gahutabara", "yabaye", "umuhanga", "muri", "Atraco", "FC", "umuganda"], "ner_tags": [0, 0, 0, 0, 3, 4, 0]}
+{"id": "2625", "tokens": ["Kigali", "umukuru", "w'Uburundi", "yabaye", "kandi", "katika", "umuganda", "wabaye", "umuhanga", "muri", "APR", "FC"], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4]}
+{"id": "2689", "tokens": ["Rutare", "yanyemerejea", "muri", "umuganda", "wabaye", "umuhanga", "muri", "umugabane"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "850", "tokens": ["Urwego", "Rwanda", "ku", "mwaka", "1990", "."], "ner_tags": [0, 3, 0, 0, 0, 0]}
+{"id": "851", "tokens": ["Amahereke", "y'ikipe", "ya", "Kiyovu", "imikino", "y'umwana", "."], "ner_tags": [0, 0, 1, 0, 0, 0]}
+{"id": "852", "tokens": ["Uyu", "mwana", "wa", "Giscard", "yageze", "muri", "Bwongereza", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 5]}
+{"id": "853", "tokens": ["Habimana", "Ama", "akazi", "agati", "kuri", "umurimo", "w'abakinnyi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"id": "854", "tokens": ["Ikipe", "ya", "y'abagabo", "y'ikipe", "y'abagabo", "y'ikipe", "ya", "mu", "mbuga", "ya", "kijyambere", "."], "ner_tags": [0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "855", "tokens": ["Umunyamaboko", "w'abagabo", "y'ikipe", "ya", "Kiyovu", "yageze", "muri", "bavugako", "."], "ner_tags": [1, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "856", "tokens": ["Uwari", "munsi", "w'abarimu", "ku", "mukuru", "mukuru", "a", "muhoro", "mukuru", "mukuru", "w'abarimu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "857", "tokens": ["Ishyaka", "riyo", "y'umunyarwandakazi", "yatumye", "ubuzima", "bw'abantu", "bafite", "uywerekana", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "858", "tokens": ["Abagabo", "bakinywa", "muri", "umubano", "muri", "kijyambere", "kuri", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "859", "tokens": ["Ishyaka", "riyo", "y'umunyarwandakazi", "yagize", "muri", "kijyambere", "kuri", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "860", "tokens": ["Uwari", "munsi", "w'abarimu", "ku", "mukuru", "mukuru", "a", "muhoro", "mukuru", "mukuru", "w'abarimu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "861", "tokens": ["Ishyaka", "riyo", "y'umunyarwandakazi", "yatumye", "ubuzima", "bw'abantu", "bafite", "uywerekana", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "862", "tokens": ["Abagabo", "bakinywa", "muri", "umubano", "muri", "kijyambere", "kuri", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "863", "tokens": ["Ishyaka", "riyo", "y'umunyarwandakazi", "yagize", "muri", "kijyambere", "kuri", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "864", "tokens": ["Uwari", "munsi", "w'abarimu", "ku", "mukuru", "mukuru", "a", "muhoro", "mukuru", "mukuru", "w'abarimu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "865", "tokens": ["Ishyaka", "riyo", "y'umunyarwandakazi", "yatumye", "ubuzima", "bw'abantu", "bafite", "uywerekana", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "866", "tokens": ["Abagabo", "bakinywa", "muri", "umubano", "muri", "kijyambere", "kuri", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "867", "tokens": ["Ishyaka", "riyo", "y'umunyarwandakazi", "yagize", "muri", "kijyambere", "kuri", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "868", "tokens": ["Uwari", "munsi", "w'abarimu", "ku", "mukuru", "mukuru", "a", "muhoro", "mukuru", "mukuru", "w'abarimu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "869", "tokens": ["Ishyaka", "riyo", "y'umunyarwandakazi", "yatumye", "ubuzima", "bw'abantu", "bafite", "uywerekana", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "870", "tokens": ["Abagabo", "bakinywa", "muri", "umubano", "muri", "kijyambere", "kuri", "icyo", "gihe", "gikomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "1010", "tokens": ["Iki", "gitabo", "gitange", "kuri", "Fadha", "Harvard", "ya", "kujijidijambo", ",", "gusaba", "kubaza", "umusaruro", "mu", "Kigali", ","], "ner_tags": [0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1012", "tokens": ["Nkundi", "z'abagore", "muri", "umunara", "zagira", "abagore", "bana", "n'urugo", "rw'abana", "bana", "ubwo", "bari", "mu", "umuganda", ","], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2001", "tokens": ["Bururi", "m'ubirori", "b'abacu", "babo", "bamenya", "ukuri", "butabiriye", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2002", "tokens": ["Ndakurikirana", "umugabo", "m'urundi", "y'ukomeye", "muri", "igitabo", "cyo", "cyo", "cyo", "cya", "cyamuryo", "."], "ner_tags": [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2003", "tokens": ["Iki", "gihugu", "kimwe", "kiganda", "kikomeye", "kinzana", "cyane", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"id": "2004", "tokens": ["Ikipe", "yaramurekuye", "y'abagore", "y'umugabo", "y'ababyeyi", "yababyeyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "2005", "tokens": ["Burundi", "bwite", "n'umugabo", "w'umugore", "yababyeyi", "ababyeyi", "abagore", "abagore", "."], "ner_tags": [5, 0, 1, 2, 0, 0, 0, 0]}
+{"id": "2006", "tokens": ["Ndorera", "y'umugore", "y'umugabo", "y'ababyeyi", "yababyeyi", "abagore", "abagore", "abagore", "."], "ner_tags": [0, 2, 1, 0, 0, 0, 0, 0]}
+{"id": "2007", "tokens": ["Igihugu", "liri", "kikombe", "kirembo", "cyane", "ciridewo", "."], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"id": "2008", "tokens": ["Ikipe", "yaramurekuye", "y'abagore", "yababyeyi", "abagore", "abagore", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "2009", "tokens": ["Kigali", "b'uruhu", "rw'abagore", "yababyeyi", "abagore", "abagore", "abagore", "abagore", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0]}
+{"id": "2010", "tokens": ["Umugabo", "m'abagore", "yababyeyi", "yabagore", "yababyeyi", "yabagore", "abagore", "abagore", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2011", "tokens": ["Igihugu", "liri", "kikombe", "kirembo", "cyane", "ciridewo", "ciridewo", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"id": "2012", "tokens": ["Bururi", "m'umugore", "w'umugabo", "yababyeyi", "abagore", "abagore", "abagore", "."], "ner_tags": [5, 2, 1, 0, 0, 0, 0]}
+{"id": "2013", "tokens": ["Ikipe", "yaramurekuye", "y'abagore", "yababyeyi", "abagore", "abagore", "abagore", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "2014", "tokens": ["Kigali", "b'uruhu", "rw'abagore", "yababyeyi", "abagore", "abagore", "abagore", "abagore", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0]}
+{"id": "2015", "tokens": ["Umugabo", "m'abagore", "yababyeyi", "yabagore", "yababyeyi", "yabagore", "abagore", "abagore", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2016", "tokens": ["Igihugu", "liri", "kikombe", "kirembo", "cyane", "ciridewo", "ciridewo", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"id": "2017", "tokens": ["Ndakurikirana", "umugore", "m'umugabo", "y'ukomeye", "muri", "igitabo", "cyo", "cyo", "cyo", "cya", "cyamuryo", "."], "ner_tags": [0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2018", "tokens": ["Ikipe", "yaramurekuye", "y'abagore", "yababyeyi", "abagore", "abagore", "abagore", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "2019", "tokens": ["Kigali", "b'uruhu", "rw'abagore", "yababyeyi", "abagore", "abagore", "abagore", "abagore", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0]}
+{"id": "2020", "tokens": ["Umugabo", "m'abagore", "yababyeyi", "yabagore", "yababyeyi", "yabagore", "abagore", "abagore", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2021", "tokens": ["Igihugu", "liri", "kikombe", "kirembo", "cyane", "ciridewo", "ciridewo", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"id": "2022", "tokens": ["Bururi", "m'umugore", "w'umugabo", "yababyeyi", "abagore", "abagore", "abagore", "."], "ner_tags": [5, 2, 1, 0, 0, 0, 0]}
+{"id": "1010", "tokens": ["Ndorwa", "y'Abanyamuryango", "azize", "Covid", "-", "19", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "1020", "tokens": ["Minisitiri", "y'Isimbi", "yavuze", "ko", "abari", "kwicwa", "n'iki", "cyorezo", "ari", "abo", "mu", "ngeri", "zitandukanye", ","], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1030", "tokens": ["Ikipe", "y'Amahanga", "y'Amerika", "yitandukanye", "na", "Ikipe", "y'Igihugu", "y'Uburayi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1040", "tokens": ["Perezida", "y'Abakoloni", "yagaragaje", "Kigali", "mu", "2005", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
+{"id": "1050", "tokens": ["Umuntu", "azize", "Covid", "-", "19", "n'umwe", "azize", "Covid", "-", "19", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1060", "tokens": ["Bwana", "mu", "burenganzira", "ari", "umukobwa", "mu", "ngeri", "zitandukanye", "."], "ner_tags": [0, 0, 8, 0, 0, 0, 0, 0, 0]}
+{"id": "1070", "tokens": ["Ikipe", "y'Igihugu", "y'Rwanda", "yitandukanye", "na", "Ikipe", "y'Igihugu", "y'Uburayi", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "1080", "tokens": ["Perezida", "Kagame", "yayoboye", "Inama", "y'Abaminisitiri", "yitezwemo", "ingamba", "nshya", "zo", "kwirinda", "Covid", "-", "19", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1090", "tokens": ["Umubare", "w'abarwayi", "bari", "kwitabwaho", "wo", "wavuye", "ku", "1", ".", "200", "ugera", "ku", "3560", "mu", "gihe", "abarembye", "bo", "bikubye", "kabiri", "bava", "kuri", "batandatu", "baba", "13", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1100", "tokens": ["Ndorwa", "y'Abanyamuryango", "azize", "Covid", "-", "19", "n'umwe", "azize", "Covid", "-", "19", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1110", "tokens": ["Minisitiri", "y'Isimbi", "yavuze", "ko", "abari", "kwicwa", "n'iki", "cyorezo", "ari", "abo", "mu", "ngeri", "zitandukanye", ","], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1120", "tokens": ["Ikipe", "y'Amahanga", "y'Amerika", "yitandukanye", "na", "Ikipe", "y'Igihugu", "y'Uburayi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1130", "tokens": ["Perezida", "y'Abakoloni", "yagaragaje", "Kigali", "mu", "2005", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0]}
+{"id": "1140", "tokens": ["Umuntu", "azize", "Covid", "-", "19", "n'umwe", "azize", "Covid", "-", "19", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1150", "tokens": ["Bwana", "mu", "burenganzira", "ari", "umukobwa", "mu", "ngeri", "zitandukanye", "."], "ner_tags": [0, 0, 8, 0, 0, 0, 0, 0, 0]}
+{"id": "1160", "tokens": ["Ikipe", "y'Igihugu", "y'Rwanda", "yitandukanye", "na", "Ikipe", "y'Igihugu", "y'Uburayi", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "1170", "tokens": ["Perezida", "Kagame", "yayoboye", "Inama", "y'Abaminisitiri", "yitezwemo", "ingamba", "nshya", "zo", "kwirinda", "Covid", "-", "19", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1180", "tokens": ["Umubare", "w'abarwayi", "bari", "kwitabwaho", "wo", "wavuye", "ku", "1", ".", "200", "ugera", "ku", "3560", "mu", "gihe", "abarembye", "bo", "bikubye", "kabiri", "bava", "kuri", "batandatu", "baba", "13", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1190", "tokens": ["Ndorwa", "y'Abanyamuryango", "azize", "Covid", "-", "19", "n'umwe", "azize", "Covid", "-", "19", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1200", "tokens": ["Minisitiri", "y'Isimbi", "yavuze", "ko", "abari", "kwicwa", "n'iki", "cyorezo", "ari", "abo", "mu", "ngeri", "zitandukanye", ","], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2083", "tokens": ["Abakuru", "ba", "b'ubucuruzi", "batahaye", "kutera", "umuryango", "w", "b", "RDB", ".", "w"], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1024", "tokens": ["U Rwanda", "rurimbye", "ku", "lavishoni", "y", "E", "katika", "mpinduko", "w", "abahanga", "z", "b", "RDB", "zirahishe", "kugeza", "abaturage", "h", "kufata", "gutaha", "ku", "b", "n", "Kagame", "Paul", "Kagame", "z", "abahanga", "z", "b", "RDB", ".", "u", "babaharira", "z", "k", "b", "abaturage", "z", "w", "abahanga", "z", "b", "RDB", "zirahishe", "abaturage", "z", "h", "kufata", "gutaha", "ku", "b", "n", "Kagame", "Paul", "Kagame", "z", "abahanga", "z", "b", "RDB", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 1, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2001", "tokens": ["Amaherezo", "yaberekeye", "kurengera", "abandi", "muri", "udugudu", "muri", "Gicumbi", "burengeshe", "abantu", "yavugaga", "kuri", "virusi", "yabuhesiwe", "muri", "Afurika", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 5, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2002", "tokens": ["Inama", "yabaye", "kuri", "umuco", "muri", "Rwanda", "yafashe", "ubwoko", "bwa", "polisi", "yigishije", "kurwitaho", "abantu", "b'ikigo", "cy'ubumenyi", "muri", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2003", "tokens": ["Abayishe", "imiyoboro", "y'Ishyikirikigi", "babanze", "kuri", "uruhu", "muri", "rushyu", "bwayo", "muri", "bukoni", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2004", "tokens": ["Ibikorwa", "bya", "sebana", "abantu", "b'iterambere", "bakora", "kuri", "kuri", "mu", "kuri", "Rwanda", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "bafitanye", "n'Inkotanyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2005", "tokens": ["Umukobwa", "w'Abanyarwanda", "babanze", "kuri", "uruco", "muri", "Kigali", "burengesha", "abantu", "yabumvuge", "ikiganiro", "cya", "muri", "bukoni", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2006", "tokens": ["Abanyamuryango", "b'abagenewe", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2007", "tokens": ["Kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2008", "tokens": ["Abakongeraho", "abantu", "yaberekeye", "kurengera", "abantu", "b'ibiganiro", "n'ubuyobozi", "bwa", "Rayon", "Sports", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0]}
+{"id": "2009", "tokens": ["Muri", "uyu", "mukino", "wavugishije", "benshi", "kuri", "Abanyamuryango", "b'abagenewe", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "bafitanye", "n'Inkotanyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2010", "tokens": ["Abatagira", "abantu", "yabumvuge", "ikiganiro", "cya", "muri", "bukoni", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2011", "tokens": ["Abanyakabanda", "abantu", "yaberekeye", "kurengera", "abantu", "b'ibiganiro", "n'ubuyobozi", "bwa", "Rayon", "Sports", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0]}
+{"id": "2012", "tokens": ["Umuhanda", "muri", "Rwanda", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2013", "tokens": ["Abanyamuryango", "b'abagenewe", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2014", "tokens": ["Kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2015", "tokens": ["Abakongeraho", "abantu", "yaberekeye", "kurengera", "abantu", "b'ibiganiro", "n'ubuyobozi", "bwa", "Rayon", "Sports", "muri", "uyu", "mukino", "wavugishije", "benshi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0]}
+{"id": "2016", "tokens": ["Abanyamuryango", "b'abagenewe", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2017", "tokens": ["Umuhanda", "muri", "Rwanda", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2018", "tokens": ["Abanyamuryango", "b'abagenewe", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2019", "tokens": ["Kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2020", "tokens": ["Abakongeraho", "abantu", "yaberekeye", "kurengera", "abantu", "b'ibiganiro", "n'ubuyobozi", "bwa", "Rayon", "Sports", "muri", "uyu", "mukino", "wavugishije", "benshi", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "2021", "tokens": ["Umuhanda", "muri", "Rwanda", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "buri", "buri", "mu", "kuri", "Gisaka", "buri", "buri", "mu", "kuri", "Gisaka", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "2022", "tokens": ["Abanyamuryango", "b'abagenewe", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "muri", "uyu", "mukino", "wavugishije", "benshi", "kuri", "Abanyamuryango", "b'abagenewe", "bakora", "ibikorwa", "by'iterambere", "bakirinda", "icyatuma", "batatira", "igihango", "bafitanye", "n'Inkotanyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2023", "tokens": ["Kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "kuri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1201", "tokens": ["Harimo", "abashakashaka", "mu", "Rwanda", "bakora", "byinshi", "kandi", "bacuwe", "kuri", "ibigwi", "byabo", "hafi", "Ubugereku", "bwa", "Kanombe", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1202", "tokens": ["Njye", "nashimira", "cyane", "yamunzwe", "muri", "kigali", "nku", "Yego", "ariko", "agata", "bazibona", "byo", "hafi", "yawa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1203", "tokens": ["Ku", "bijyanye", "na", "Kiyovu", "Sports", "buravuga", "kuri", "aya", "makuru", "yabo", "muri", "bafungura", "hafi", "igikombe", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1204", "tokens": ["Yakomeje", "avuga", "ko", "yari", "kandi", "bagomba", "kubageza", "kuri", "aya", "makuru", "yabo", "hafi", "igikombe", "la", "African", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "1205", "tokens": ["Iyi", "ndwara", "ishobora", "kuvanwa", "na", "Bwongereza", "hafi", "igihugu", "cya", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "1206", "tokens": ["Harimo", "abashakashaka", "mu", "Uganda", "bakora", "byinshi", "kandi", "bacuwe", "kuri", "ibigwi", "byabo", "hafi", "Ubugereku", "bwa", "Kampala", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1207", "tokens": ["Njye", "nashimira", "cyane", "yamunzwe", "muri", "gihugu", "cya", "Tanzania", "hafi", "yawa", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0]}
+{"id": "1208", "tokens": ["Ku", "bijyanye", "na", "Nkurunziza", "buravuga", "kuri", "aya", "makuru", "yabo", "muri", "bafungura", "hafi", "igikombe", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1209", "tokens": ["Yakomeje", "avuga", "ko", "yari", "kandi", "bagomba", "kubageza", "kuri", "aya", "makuru", "yabo", "hafi", "igikombe", "la", "CECAFA", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"id": "1210", "tokens": ["Iyi", "ndwara", "ishobora", "kuvanwa", "na", "Congo", "hafi", "igihugu", "cya", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "1211", "tokens": ["Harimo", "abashakashaka", "mu", "Burundi", "bakora", "byinshi", "kandi", "bacuwe", "kuri", "ibigwi", "byabo", "hafi", "Ubugereku", "bwa", "Muzigete", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1212", "tokens": ["Njye", "nashimira", "cyane", "yamunzwe", "muri", "Uganda", "hafi", "yawa", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "1213", "tokens": ["Ku", "bijyanye", "na", "Ferwafa", "buravuga", "kuri", "aya", "makuru", "yabo", "muri", "bafungura", "hafi", "igikombe", "."], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1214", "tokens": ["Yakomeje", "avuga", "ko", "yari", "kandi", "bagomba", "kubageza", "kuri", "aya", "makuru", "yabo", "hafi", "igikombe", "la", "CECAFA", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"id": "1215", "tokens": ["Iyi", "ndwara", "ishobora", "kuvanwa", "na", "Kenya", "hafi", "igihugu", "cya", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "1216", "tokens": ["Harimo", "abashakashaka", "mu", "Rwanda", "bakora", "byinshi", "kandi", "bacuwe", "kuri", "ibigwi", "byabo", "hafi", "Ubugereku", "bwa", "Bundibugo", "."], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1217", "tokens": ["Njye", "nashimira", "cyane", "yamunzwe", "muri", "Burundi", "hafi", "yawa", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "1218", "tokens": ["Ku", "bijyanye", "na", "Kiwanda", "Sports", "buravuga", "kuri", "aya", "makuru", "yabo", "muri", "bafungura", "hafi", "igikombe", "."], "ner_tags": [0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1219", "tokens": ["Yakomeje", "avuga", "ko", "yari", "kandi", "bagomba", "kubageza", "kuri", "aya", "makuru", "yabo", "hafi", "igikombe", "la", "CECAFA", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]}
+{"id": "1220", "tokens": ["Iyi", "ndwara", "ishobora", "kuvanwa", "na", "Tanzania", "hafi", "igihugu", "cya", "Afrika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "2024", "tokens": ["Mu", "gihugu", "n'amaguru", "ndetse", "muri", "Leta", "n'uburetwa", ",", "bapimwa", "abagati", "ku", "bujijwe", "gukomeza", "saa", "Gatanu", "za", "mu", "gitondo", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 8, 0, 0]}
+{"id": "2025", "tokens": ["Mu", "mwaka", "w'abagorwa", "bari", "2020", "ku", "wa", "Kamena", "tariki", "21", "Nzeri", "."], "ner_tags": [0, 0, 0, 0, 8, 8, 8, 8, 8, 9, 0]}
+{"id": "2026", "tokens": ["Hakizimfura", "yavuze", "ko", "hano", "kubonera", "nyirikazi", "ziri", "muri", "kiganiro", "cyanyuze", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2027", "tokens": ["Dr", "Ndayisaba", "yavuze", "ko", "abahamwe", "bakinze", "kwiminsi", "ya", "Televiziyo", "y'u", "Rwanda", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2028", "tokens": ["Mu", "byikure", "bikomeye", "harimo", "abashinzwe", "biri", "kazi", "ya", "bijyanye", "na", "ubukerarugendo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2029", "tokens": ["Yasabye", "abakore", "kuri", "bujijwe", "saa", "Kumi", "n'Ebyiri", "z'ijoro", "."], "ner_tags": [0, 0, 0, 0, 7, 8, 8, 8, 0]}
+{"id": "2030", "tokens": ["Imibare", "yakomeje", "kuzamuka", "cyane", "mu", "gihe", "cirindamwo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "2031", "tokens": ["Chay", "Cooper", "yakoze", "ikipe", "yaramurekuye", "mu", "Cricket", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 4]}
+{"id": "2032", "tokens": ["Mu", "gihugu", "n'amaguru", "ndetse", "muri", "Leta", "y'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0]}
+{"id": "2033", "tokens": ["Hakizimfura", "yavuze", "ko", "hano", "kugabanya", "mabati", "ya", "kaburi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2034", "tokens": ["Dr", "Muhumuza", "yavuze", "ko", "abahamwe", "bakinze", "kwiminsi", "ya", "Televiziyo", "y'u", "Rwanda", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2035", "tokens": ["Mu", "mwaka", "w'abagorwa", "bari", "2015", "ku", "wa", "Kamena", "tariki", "21", "Nzeri", "."], "ner_tags": [0, 0, 0, 0, 8, 8, 8, 8, 8, 9, 0]}
+{"id": "2036", "tokens": ["Imbwa", "yakoze", "kazi", "yari", "yagiranye", "muri", "ubukerarugendo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "2037", "tokens": ["Chay", "Caiger", "yakoze", "ikipe", "yaramurekuye", "mu", "Sinema", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5]}
+{"id": "2038", "tokens": ["Mu", "gihugu", "n'amaguru", "ndetse", "muri", "Leta", "y'u", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 2, 0, 0, 0]}
+{"id": "2039", "tokens": ["Hakizimfura", "yavuze", "ko", "hano", "kuzamura", "mabwiriza", "yo", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"id": "2040", "tokens": ["Dr", "Ntakirutimana", "yavuze", "ko", "abahamwe", "bakinze", "kwiminsi", "ya", "Televiziyo", "y'u", "Rwanda", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2041", "tokens": ["Mu", "mwaka", "w'abagorwa", "bari", "2010", "ku", "wa", "Kamena", "tariki", "21", "Nzeri", "."], "ner_tags": [0, 0, 0, 0, 8, 8, 8, 8, 8, 9, 0]}
+{"id": "2042", "tokens": ["Imbwa", "yakoze", "kazi", "yari", "yagiranye", "muri", "ubukerarugendo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "2043", "tokens": ["Chay", "Cooper", "yakoze", "ikipe", "yaramurekuye", "mu", "Sinema", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 5]}
+{"id": "1500", "tokens": ["Kigali", "imvururu", "ikora", "igihe", "cyo", "kuri", "umuhanda", "w'icyo", "abakinnyi", "bacyunzi", "n'umunyimara"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1]}
+{"id": "1520", "tokens": ["Umuhanga", "w'imisozi", "y'umupira", "w'igihugu", "umuhanga", "muri", "Uburayi", "y'abakinnyi", "w'umupira", "w'icyo", "mu", "Kigali"], "ner_tags": [3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3]}
+{"id": "1540", "tokens": ["Mu", "nyuma", "y'abakinnyi", "w'umupira", "wa", "Rwanda", "y'umupira", "w'igihugu", "abarabu", "b'abakinnyi", "b'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1560", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1580", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "mu", "Kigali", "muri", "Kanada"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 5]}
+{"id": "1600", "tokens": ["Abakinnyi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1620", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1640", "tokens": ["Mu", "nyuma", "y'abakinnyi", "w'umupira", "wa", "Rwanda", "y'umupira", "w'igihugu", "abarabu", "b'abakinnyi", "b'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1660", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1680", "tokens": ["Abakinnyi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1700", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1720", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1740", "tokens": ["Abakinnyi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1760", "tokens": ["Mu", "nyuma", "y'abakinnyi", "w'umupira", "wa", "Rwanda", "y'umupira", "w'igihugu", "abarabu", "b'abakinnyi", "b'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1780", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1800", "tokens": ["Abakinnyi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1820", "tokens": ["Mu", "nyuma", "y'abakinnyi", "w'umupira", "wa", "Rwanda", "y'umupira", "w'igihugu", "abarabu", "b'abakinnyi", "b'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1840", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1860", "tokens": ["Abakinnyi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi", "b'abakinnyi", "w'umupira", "w'igihugu", "w'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1880", "tokens": ["Mu", "nyuma", "y'abakinnyi", "w'umupira", "wa", "Rwanda", "y'umupira", "w'igihugu", "abarabu", "b'abakinnyi", "b'icyo", "mu", "Uburayi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1900", "tokens": ["Iki", "kiganiro", "kigwi", "icyo", "mu", "icyiciro", "cya", "kabiri", "icyo", "kuri", "kuri", "kuri", "igihe", "cyo", "kuri", "kuri"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "4001", "tokens": ["Ko", "abazimbe", "bazahuye", "n'abaturage", "b'umurwa", "muri", "agashambo", "bakunzi", "b'abagabo", "b'abagore", "ba.", "umbereho"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "4002", "tokens": ["Gishusho", "cyo", "cyo", "kuziba", "abagabo", "n'abagore", "b'umurwayi", "b'umurwayi", "b'umurwayi", "b'umurwayi", "b'umurwayi", "mu", "kurwanya", "urwego", "na", "kupfunya", "kibazo", "cyo", "urwego", "kandi", "ndetse", "kutumwa", "kuri", "umucururo", "kikwanga"], "ner_tags": [0, 0, 0, 0, 1, 2, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "4003", "tokens": ["Inyuramo", "yo", "yo", "nziza", "kandi", "nziza", "ikipe", "y'umukunzi", "b'abagabo", "b'abagore", "b'abakunzi", "n'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi", "mu", "urwego", "rwaniriwe", "kuri", "umucururo", "kikwanga", "byahishywe", "insha", "ku", "kugirwa", "bikurikirane"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 3, 3, 3, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"id": "4004", "tokens": ["Muti", "y'igihugu", "mwiza", "y'abagabo", "b'abagore", "y'abakunzi", "y'abaturage", "y'umurwayi", "mu", "umucururo", "kikwanga", "yagiranye", "abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi"], "ner_tags": [5, 0, 0, 1, 2, 0, 0, 3, 0, 5, 0, 1, 2, 0, 0, 3, 3, 3]}
+{"id": "4005", "tokens": ["Umudugudu", "wo", "wo", "umurwayi", "muri", "agashambo", "bakunzi", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "mu", "umucururo", "kikwanga", "bikurikirane"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"id": "4006", "tokens": ["Ibisabwa", "yo", "yo", "kandi", "nziza", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "mu", "urwego", "rwaniriwe", "kuri", "umucururo", "kikwanga"], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 3, 0, 0, 0, 0, 5]}
+{"id": "4007", "tokens": ["Kabisa", "kandi", "nziza", "abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "mu", "umucururo", "kikwanga", "yagiranye", "abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi"], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 3, 0, 5, 0, 1, 2, 0, 0, 3, 3, 3]}
+{"id": "4008", "tokens": ["Umukuru", "m'umurwayi", "muri", "agashambo", "bakunzi", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "mu", "umucururo", "kikwanga", "bikurikirane"], "ner_tags": [0, 3, 0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"id": "4009", "tokens": ["Ko", "abazimbe", "bazahuye", "n'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi", "mu", "umucururo", "kikwanga", "bikurikirane"], "ner_tags": [0, 0, 0, 0, 3, 3, 3, 0, 5, 0, 0]}
+{"id": "4010", "tokens": ["Gashambo", "la", "la", "la", "la", "umurwayi", "mu", "umucururo", "kikwanga", "la", "la", "la", "la", "la"], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "4011", "tokens": ["Inyuramo", "yo", "yo", "kandi", "nziza", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "mu", "urwego", "rwaniriwe", "kuri", "umucururo", "kikwanga"], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 3, 0, 0, 0, 0, 5]}
+{"id": "4012", "tokens": ["Muti", "y'igihugu", "mwiza", "y'abagabo", "b'abagore", "y'abakunzi", "y'abaturage", "y'umurwayi", "mu", "umucururo", "kikwanga", "yagiranye", "abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi"], "ner_tags": [5, 0, 0, 1, 2, 0, 0, 3, 0, 5, 0, 1, 2, 0, 0, 3, 3, 3]}
+{"id": "4013", "tokens": ["Umudugudu", "wo", "wo", "umurwayi", "muri", "agashambo", "bakunzi", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "mu", "umucururo", "kikwanga", "bikurikirane"], "ner_tags": [0, 0, 0, 3, 0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"id": "4014", "tokens": ["Ibisabwa", "yo", "yo", "kandi", "nziza", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "mu", "urwego", "rwaniriwe", "kuri", "umucururo", "kikwanga"], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 3, 0, 0, 0, 0, 5]}
+{"id": "4015", "tokens": ["Kabisa", "kandi", "nziza", "abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "mu", "umucururo", "kikwanga", "yagiranye", "abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi"], "ner_tags": [0, 0, 0, 1, 2, 0, 0, 3, 0, 5, 0, 1, 2, 0, 0, 3, 3, 3]}
+{"id": "4016", "tokens": ["Umukuru", "m'umurwayi", "muri", "agashambo", "bakunzi", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "mu", "umucururo", "kikwanga", "bikurikirane"], "ner_tags": [0, 3, 0, 0, 0, 1, 2, 0, 0, 0, 5, 0]}
+{"id": "4017", "tokens": ["Ko", "abazimbe", "bazahuye", "n'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi", "mu", "umucururo", "kikwanga", "bikurikirane"], "ner_tags": [0, 0, 0, 0, 3, 3, 3, 0, 5, 0, 0]}
+{"id": "4018", "tokens": ["Gashambo", "la", "la", "la", "la", "umurwayi", "mu", "umucururo", "kikwanga", "la", "la", "la", "la", "la"], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "4019", "tokens": ["Ibisabwa", "yo", "yo", "kandi", "nziza", "b'abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "mu", "urwego", "rwaniriwe", "kuri", "umucururo", "kikwanga"], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 0, 0, 3, 0, 0, 0, 0, 5]}
+{"id": "4020", "tokens": ["Muti", "y'igihugu", "mwiza", "y'abagabo", "b'abagore", "y'abakunzi", "y'abaturage", "y'umurwayi", "mu", "umucururo", "kikwanga", "yagiranye", "abagabo", "b'abagore", "b'abakunzi", "b'abaturage", "b'umurwayi", "b'umurwayi", "b'umurwayi"], "ner_tags": [5, 0, 0, 1, 2, 0, 0, 3, 0, 5, 0, 1, 2, 0, 0, 3, 3, 3]}
+{"id": "1", "tokens": ["Urupfu", "ruririmbyo", "rw'umugabo", "yashyizweho", "n'abagore", "bamuco", "icyo", "cyo", "muri", "gihugu", "cya", "kabiri", "n'abagore", "bamuco", "kuboro", "icyo", "cyo", "muri", "intara", "ryo", "n'abagore", "bamuco", "ba", "mwishyitswe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "3", "tokens": ["Mu", "kiganiro", "cyo", "cyo", "hakina", "kurabana", "kandi", "mwisho", "w'ikino", "ri", "mu", "kiganiro", "cyo", "cyo", "cyo", "cyo", "cya", "kabiri", "cya", "kabiri", "n'ikiganiro", "cya", "cyo", "cyo", "cyo", "."], "ner_tags": [7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "5", "tokens": ["U Rwanda", "rwakina", "umwaka", "umwe", "n'Abanyarwanda", "bamuco", "kuri", "kurukana", "n'umuganga", "bashyirwa", "abahurikariye", "imiryango", "z'icyo", "cyo", "cyo", "cyo", "cyo", "cya", "kabiri", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "7", "tokens": ["Abagore", "bamuco", "b'abantu", "bakina", "yacyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "9", "tokens": ["Mu", "kiganiro", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]}
+{"id": "11", "tokens": ["Urupfu", "ruririmbyo", "rw'umugabo", "yabonye", "kuboro", "icyo", "cyo", "muri", "gihugu", "cya", "kabiri", "n'abagore", "bamuco", "bamuco", "gutegura", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "13", "tokens": ["Mu", "kiganiro", "cyo", "cyo", "hakina", "kurabana", "kandi", "mwisho", "w'ikino", "ri", "mu", "kiganiro", "cyo", "cyo", "cyo", "cyo", "cya", "kabiri", "cya", "kabiri", "n'ikiganiro", "cya", "cyo", "cyo", "cyo", "."], "ner_tags": [7, 7, 7, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "15", "tokens": ["U Rwanda", "rwakina", "umwaka", "umwe", "n'Abanyarwanda", "bamuco", "kuri", "kurukana", "n'umuganga", "bashyirwa", "abahurikariye", "imiryango", "z'icyo", "cyo", "cyo", "cyo", "cyo", "cya", "kabiri", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "17", "tokens": ["Abagore", "bamuco", "b'abantu", "bakina", "yacyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "19", "tokens": ["Mu", "kiganiro", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7]}
+{"id": "21", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "23", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "25", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "27", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "29", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "31", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "33", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "35", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "37", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "39", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "41", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "43", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "45", "tokens": ["Abagore", "bamuco", "bamuco", "bamagurishwa", "icyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "cyo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1451", "tokens": ["Igihe", "cyo", "cya", "Gicurasi", "cya", "Maghribi", "gikora", "igipimo", "cya", "10", "na", "gikoranye", "na", "gipimo", "cya", "20", "."], "ner_tags": [0, 7, 8, 0, 8, 5, 0, 0, 8, 8, 0, 0, 0, 8, 8, 0]}
+{"id": "1932", "tokens": ["Gahunda", "y'intego", "y'amafoto", "y'umwami", "umwami", "Gabon", "yagaragazwa", "na", "Tunisiya", "muri", "digari", "ya", "2022", "."], "ner_tags": [0, 0, 0, 0, 1, 5, 0, 5, 0, 0, 0, 5, 8, 0]}
+{"id": "2131", "tokens": ["Guma", "la", "France", "igihe", "cya", "6", "Korale", "kugira", "umwanya", "gikoranye", "na", "Albaniya", "."], "ner_tags": [0, 5, 5, 7, 8, 8, 0, 0, 0, 8, 5, 0]}
+{"id": "428", "tokens": ["Amagare", "y'Abanyamerika", "yagaragazwa", "ku", "Boliviya", "kuri", "31", "Nyakanga", "2022", "."], "ner_tags": [0, 1, 0, 7, 5, 8, 8, 8, 8, 0]}
+{"id": "1957", "tokens": ["Gahunda", "y'inyanyo", "y'abacuce", "y'ubuhinzi", "yagaragazwa", "na", "Boliviya", "muri", "digari", "ya", "2023", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 5, 0, 0, 8, 0]}
+{"id": "1098", "tokens": ["Ikipe", "y'abagabo", "y'abanyabwati", "yagizwe", "na", "governor", "w'ubudage", "muri", "digari", "ya", "2024", "."], "ner_tags": [0, 1, 2, 0, 6, 6, 0, 0, 0, 8, 0]}
+{"id": "2731", "tokens": ["Umukinnyi", "wo", "hagati", "mu", "gipimo", "cya", "60", "na", "gipimo", "cya", "30", "."], "ner_tags": [0, 0, 0, 0, 0, 8, 8, 0, 0, 8, 8, 0]}
+{"id": "1357", "tokens": ["Guma", "la", "Faro", "igihe", "cya", "9", "Korale", "kugira", "umwanya", "gikoranye", "na", "Buligariya", "."], "ner_tags": [0, 5, 5, 7, 8, 8, 0, 0, 0, 8, 5, 0]}
+{"id": "1456", "tokens": ["Umukinnyi", "wo", "hagati", "mu", "gipimo", "cya", "50", "na", "gipimo", "cya", "20", "."], "ner_tags": [0, 0, 0, 0, 0, 8, 8, 0, 0, 8, 8, 0]}
+{"id": "2179", "tokens": ["Guma", "la", "Spain", "igihe", "cya", "7", "Korale", "kugira", "umwanya", "gikoranye", "na", "Polonye", "."], "ner_tags": [0, 5, 5, 7, 8, 8, 0, 0, 0, 8, 5, 0]}
+{"id": "1091", "tokens": ["Igihe", "cyo", "cya", "Gicurasi", "cya", "Ibirebure", "gikora", "igipimo", "cya", "30", "na", "gikoranye", "na", "gipimo", "cya", "60", "."], "ner_tags": [0, 7, 8, 0, 8, 5, 0, 0, 8, 8, 0, 0, 8, 8, 0]}
+{"id": "1819", "tokens": ["Gahunda", "y'intego", "y'amafoto", "y'umwami", "umwami", "Kameruni", "yagaragazwa", "na", "Tunisiya", "muri", "digari", "ya", "2023", "."], "ner_tags": [0, 0, 0, 0, 1, 5, 0, 5, 0, 0, 0, 5, 8, 0]}
+{"id": "1458", "tokens": ["Umukinnyi", "wo", "hagati", "mu", "gipimo", "cya", "70", "na", "gipimo", "cya", "30", "."], "ner_tags": [0, 0, 0, 0, 0, 8, 8, 0, 0, 8, 8, 0]}
+{"id": "2739", "tokens": ["Umukinnyi", "wo", "hagati", "mu", "gipimo", "cya", "80", "na", "gipimo", "cya", "20", "."], "ner_tags": [0, 0, 0, 0, 0, 8, 8, 0, 0, 8, 8, 0]}
+{"id": "1353", "tokens": ["Guma", "la", "Italy", "igihe", "cya", "10", "Korale", "kugira", "umwanya", "gikoranye", "na", "Giriki", "."], "ner_tags": [0, 5, 5, 7, 8, 8, 0, 0, 0, 8, 5, 0]}
+{"id": "1459", "tokens": ["Umukinnyi", "wo", "hagati", "mu", "gipimo", "cya", "60", "na", "gipimo", "cya", "40", "."], "ner_tags": [0, 0, 0, 0, 0, 8, 8, 0, 0, 8, 8, 0]}
+{"id": "2171", "tokens": ["Guma", "la", "Polonye", "igihe", "cya", "9", "Korale", "kugira", "umwanya", "gikoranye", "na", "Albaniya", "."], "ner_tags": [0, 5, 5, 7, 8, 8, 0, 0, 0, 8, 5, 0]}
+{"id": "1095", "tokens": ["Igihe", "cyo", "cya", "Gicurasi", "cya", "Ibirebure", "gikora", "igipimo", "cya", "40", "na", "gikoranye", "na", "gipimo", "cya", "60", "."], "ner_tags": [0, 7, 8, 0, 8, 5, 0, 0, 8, 8, 0, 0, 8, 8, 0]}
+{"id": "1181", "tokens": ["Mu", "Rwanda", "barayandura", "COVID-19", ".", "itabiriwe", "mu", "rushyashya", "suri", "yo", "kurengera", "gihugu", "n'abaturage", "bafite", "kandi", "bamwe", "batenzi", "n'abakinnyi", "bamwe", "bafungwa", "na", "bafuwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1203", "tokens": ["Covid-19", "itegekwa", "n'abaturage", "b'abantu", "tubarindwa", "kwibasa", "igihe", "cy'umwaka", "2021", "ku", "Buwamahirwa", "n'abantu", "b'abahawe", "urukingo", "rw'abaturage", "yabashikwa", "mu", "Rwanda", "n'abaturage", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "840", "tokens": ["Ku", "mugabane", "w'Uburayi", "yafashe", "indege", "yajya", "mu", "Burayi", "mu", "Buzina", "mu", "gihugu", "cye", "ariko", "nta", "gikuba", "cyacitse", "kuko", "bari", "basanzwe", "bafite", "uburwayi", "bukomeye", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1162", "tokens": ["Itangazo", "rya", "RBC", "rigizwa", "na", "abantu", "b'abakobwa", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "amuhamagari", "kuri", "igihe", "cy'umwaka", "2022", "nyuma", "y'abakobwa", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "971", "tokens": ["N'abakinnyi", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "bamwe", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "kandi", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1224", "tokens": ["Ku", "mugabane", "w'Uburayi", "yafashe", "indege", "yajya", "mu", "Burayi", "mu", "Buzina", "mu", "gihugu", "cye", "ariko", "nta", "gikuba", "cyacitse", "kuko", "bari", "basanzwe", "bafite", "uburwayi", "bukomeye", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "540", "tokens": ["Rwanda", "barayandura", "COVID-19", "kubera", "kumwita", "nk'uko", "bakunda", "kumwita", "abaturage", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1230", "tokens": ["Covid-19", "itabiriwe", "mu", "rushyashya", "suri", "yo", "kurengera", "gihugu", "n'abaturage", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "kandi", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1188", "tokens": ["Ibyo", "byabereye", "muri", "CECAFA", "ya", "2019", "bakimbira", "kwiruka", "gikoma", "gikomeye", "cy'umwaka", "2021", "cyangwa", "bakwirika", "mu", "kigali", "n'abakinnyi", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "."], "ner_tags": [0, 0, 0, 3, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1142", "tokens": ["N'abakinnyi", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "bamwe", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "kandi", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1000", "tokens": ["Yafashe", "indege", "yajya", "mu", "Burayi", "mu", "Buzina", "mu", "gihugu", "cye", "ariko", "nta", "gikuba", "cyacitse", "kuko", "bari", "basanzwe", "bafite", "uburwayi", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1231", "tokens": ["Ubwiswe", "COVID-19", "itabiriwe", "mu", "rushyashya", "suri", "yo", "kurengera", "gihugu", "n'abaturage", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "kandi", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "834", "tokens": ["Rwanda", "barayandura", "COVID-19", "kubera", "kumwita", "nk'uko", "bakunda", "kumwita", "abaturage", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1191", "tokens": ["N'abakinnyi", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "bamwe", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "kandi", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1207", "tokens": ["Ibyo", "byabereye", "muri", "CECAFA", "ya", "2019", "bakimbira", "kwiruka", "gikoma", "gikomeye", "cy'umwaka", "2021", "cyangwa", "bakwirika", "mu", "kigali", "n'abakinnyi", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "."], "ner_tags": [0, 0, 0, 3, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "850", "tokens": ["Ku", "mugabane", "w'Uburayi", "yafashe", "indege", "yajya", "mu", "Burayi", "mu", "Buzina", "mu", "gihugu", "cye", "ariko", "nta", "gikuba", "cyacitse", "kuko", "bari", "basanzwe", "bafite", "uburwayi", "bukomeye", "."], "ner_tags": [0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1168", "tokens": ["Ibyo", "byabereye", "muri", "CECAFA", "ya", "2019", "bakimbira", "kwiruka", "gikoma", "gikomeye", "cy'umwaka", "2021", "cyangwa", "bakwirika", "mu", "kigali", "n'abakinnyi", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "."], "ner_tags": [0, 0, 0, 3, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1151", "tokens": ["N'abakinnyi", "b'abantu", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "bamwe", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "kandi", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1240", "tokens": ["Ubwiswe", "COVID-19", "itabiriwe", "mu", "rushyashya", "suri", "yo", "kurengera", "gihugu", "n'abaturage", "bafite", "uburezi", "b'abantu", "bafite", "uburezi", "bukomeye", "kandi", "bamwe", "bafungwa", "n'abaturage", "b'abantu", "bafite", "ubwiza", "bukomeye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1049", "tokens": ["Ibintu", "byiza", "cyane", "ko", "uburezi", "ari", "ryo", "pfundo", "ryo", "guteza", "imbere", "umwana", "w'umukobwa", "ashima", "na", "gahunda", "yongerewe", "mu", "irushanwa", "ya", "Most", "Innovative", "Project", "ko", "abana", "b'abakobwa", "bashobora", "gutekereza", "bagakora", "kuko", "Miss", "Rwanda", "itajyanye", "n'ubwiza", "bw'inyuma", "gusa", "ahubwo", "n'ibiri", "inyuma", "yabwo", "byose", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1423", "tokens": ["Dorothy", "Kagira", "amaze", "umwaka", "umwe", "akinira", "APR", "FC", "yamukuye", "muri", "Ruganda", "."], "ner_tags": [1, 2, 0, 7, 8, 3, 3, 3, 0, 3, 0, 0]}
+{"id": "1918", "tokens": ["Amakuru", "y'iyi", "album", "ye", "nshya", ", \"\"\"\"\",", "Ikihuriro", ".", "\"\"\"\"\""], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "2345", "tokens": ["Abanyamwana", "b'Abacu", "bakina", "umwaka", "umwe", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 3, 0]}
+{"id": "1234", "tokens": ["Spori", "y'iyi", "ikipe", "ye", "ni", "y'icyubahiro", "cyitwa", "Rayon", "Sports", "FC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"id": "4567", "tokens": ["Ati", "\"\"\"\"\",", "Abacu", "b'Abanyamwana", "bakina", "umwaka", "umwe", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 0, 3, 0]}
+{"id": "9012", "tokens": ["Amakuru", "y'iyi", "igihugu", "yashyize", "umugambi", "muri", "Rwanda", "yabonye", "ubumwe", "b'abanyamwana", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "1119", "tokens": ["Dorothee", "Uwamahoro", "amaze", "umwaka", "umwe", "akinira", "AS", "Kigali", "FC", "yamukuye", "muri", "Kigali", "."], "ner_tags": [1, 2, 0, 7, 8, 3, 3, 3, 3, 0, 3, 0, 0]}
+{"id": "5678", "tokens": ["Ikipe", "y'iyi", "ikipe", "ye", "ni", "y'icyubahiro", "cyitwa", "APR", "FC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"id": "3456", "tokens": ["Abacu", "b'Abanyamwana", "bakina", "umwaka", "umwe", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 3, 0]}
+{"id": "7890", "tokens": ["Amakuru", "y'iyi", "igihugu", "yashyize", "umugambi", "muri", "Rwanda", "yabonye", "ubumwe", "b'abanyamwana", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "1345", "tokens": ["Ikipe", "y'iyi", "ikipe", "ye", "ni", "y'icyubahiro", "cyitwa", "Rayon", "Sports", "FC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"id": "6789", "tokens": ["Ati", "\"\"\"\"\",", "Abacu", "b'Abanyamwana", "bakina", "umwaka", "umwe", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 7, 8, 0, 3, 0]}
+{"id": "9876", "tokens": ["Amakuru", "y'iyi", "album", "ye", "nshya", ", \"\"\"\"\",", "Ikihuriro", ".", "\"\"\"\"\""], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "5432", "tokens": ["Spori", "y'iyi", "ikipe", "ye", "ni", "y'icyubahiro", "cyitwa", "Rayon", "Sports", "FC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"id": "3210", "tokens": ["Abanyamwana", "b'Abacu", "bakina", "umwaka", "umwe", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 3, 0]}
+{"id": "7654", "tokens": ["Amakuru", "y'iyi", "igihugu", "yashyize", "umugambi", "muri", "Rwanda", "yabonye", "ubumwe", "b'abanyamwana", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 5, 0, 0, 0, 0]}
+{"id": "9013", "tokens": ["Dorothee", "Uwamahoro", "amaze", "umwaka", "umwe", "akinira", "AS", "Kigali", "FC", "yamukuye", "muri", "Kigali", "."], "ner_tags": [1, 2, 0, 7, 8, 3, 3, 3, 3, 0, 3, 0, 0]}
+{"id": "4561", "tokens": ["Ikipe", "y'iyi", "ikipe", "ye", "ni", "y'icyubahiro", "cyitwa", "APR", "FC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 0]}
+{"id": "1890", "tokens": ["Abacu", "b'Abanyamwana", "bakina", "umwaka", "umwe", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 3, 0]}
+{"id": "6543", "tokens": ["Amakuru", "y'iyi", "album", "ye", "nshya", ", \"\"\"\"\",", "Ikihuriro", ".", "\"\"\"\"\""], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "2348", "tokens": ["Spori", "y'iyi", "ikipe", "ye", "ni", "y'icyubahiro", "cyitwa", "Rayon", "Sports", "FC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 0]}
+{"id": "1891", "tokens": ["Abanyamwana", "b'Abacu", "bakina", "umwaka", "umwe", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 7, 8, 0, 3, 0]}
+{"id": "2021", "tokens": ["Kabari", "kinzako", "n'abakinnyi", "muri", "Rwanda", ",", "mwebaza", "ku", "itangazamakuru", "rinyomwa", "na", "Bannkomeriki", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2022", "tokens": ["Mu", "mashuri", "y'abakobwa", "y'abakinnyi", "ba", "bahuza", "n'abakobwa", "ba", "muri", "mpuzi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2024", "tokens": ["Abafana", "kuri", "nkombe", "bazihuzwa", "ku", "butaka", "b'Abanyamarembo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2025", "tokens": ["Uretse", "kuzamuka", "kw'imibare", "y'abandura", "ariko", ",", "imibare", "y'abihitanwa", "n'iki", "cyorezo", "si", "myinshi", "cyane", "ugereranyije", "n'iy'abandura", "kubera", "ko", "kuva", "Ukwezi", "kwa", "Kamena", "kwatangira", "hamaze", "kwandura", "abarenga", "1601", "ariko", "abamaze", "gupfa", "ni", "20", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2026", "tokens": ["Kuri", "kiganiro", "cyanyuze", "kuri", "televiziyo", "ya", "Rwanda", "by'abakinnyi", "ba", "bahuza", "n'abakobwa", "ba", "muri", "mpuzi", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2027", "tokens": ["Muri", "uyu", "mujyi", "wa", "Kigali", "ni", "ho", "hari", "kubera", "imikino", "yo", "mu", "itsinda", "C", ",", "u", "Burusiya", ",", "Leta", "Zunze", "Ubumwe", "za", "Amerika", "na", "Thailand", "."], "ner_tags": [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 5, 6, 0, 5, 6, 6, 6, 6, 0, 5, 0]}
+{"id": "2028", "tokens": ["Ubwabonetse", "mu", "Bwongereza", "bwiswe", "Alpha", ",", "ubwo", "muri", "Afurika", "y'Epfo", "bwitwa", "Beta", ",", "mu", "gihe", "ubwabonetse", "mu", "Buhinde", "bwahawe", "izina", "rya", "Delta", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 5, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0]}
+{"id": "2029", "tokens": ["Abantu", "ba", "bazihuzwa", "ku", "butaka", "b'Abanyamarembo", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 0]}
+{"id": "2030", "tokens": ["Kuri", "Britney", "byatangiye", "agenzurwa", "na", "se", "by'igihe", "gito", "nyuma", "yo", "kugaragaza", "ko", "yaba", "yaragize", "ibibazo", "byo", "mu", "mutwe", "mu", "2008", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0]}
+{"id": "2031", "tokens": ["Abamaze", "gusohoka", "(", "1", ")", "n'abamaze", "kwinjira", "(", "3", ")", "muri", "Brentford", ":"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2034", "tokens": ["Uretse", "kuzamuka", "kw'imibare", "y'abandura", "ariko", ",", "imibare", "y'abihitanwa", "n'iki", "cyorezo", "si", "myinshi", "cyane", "ugereranyije", "n'iy'abandura", "kubera", "ko", "kuva", "Ukwezi", "kwa", "Kamena", "kwatangira", "hamaze", "kwandura", "abarenga", "1602", "ariko", "abamaze", "gupfa", "ni", "21", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2035", "tokens": ["Kabari", "kinzako", "n'abakinnyi", "muri", "Rwanda", ",", "mwebaza", "ku", "itangazamakuru", "rinyomwa", "na", "Bannkomeriki", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2037", "tokens": ["Abantu", "246", ",", "476", "nibo", "bamaze", "guhabwa", "doze", "ya", "kabiri", "y'urukingo", "rwa", "AstraZeneca", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1408", "tokens": ["Ubwoko", "bwa", "Covid", "-", "19", "barikomeye", "mu", "Rwanda", "."], "ner_tags": [0, 0, 6, 6, 6, 0, 0, 5, 0]}
+{"id": "206", "tokens": ["Umuhu", "y'abagabo", "abanyamuryango", "mu", "Burundi", "."], "ner_tags": [1, 2, 0, 0, 5, 0]}
+{"id": "313", "tokens": ["Mucoke,"], "ner_tags": [0, 0, 0]}
+{"id": "1014", "tokens": ["Kaminuza", "y'Ubukungu", "ya", "Kigali", "ikora", "nshingano", "muyikorera", "ikora", "abagore", "."], "ner_tags": [3, 4, 4, 4, 0, 0, 0, 0, 2, 0]}
+{"id": "428", "tokens": ["Umuhinzi", "wakiniye", "AS", "Kigali", "y'Abagore", "yerekeje", "mu", "Bufaransa", "."], "ner_tags": [1, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"id": "839", "tokens": ["Umuhu", "y'abagore", "abanyamuryango", "mu", "Rwanda", "."], "ner_tags": [2, 0, 0, 5, 0]}
+{"id": "576", "tokens": ["Gakenke", "Safro", "Kamena", "2022", "."], "ner_tags": [0, 0, 8, 8, 0]}
+{"id": "123", "tokens": ["Ikipe", "yaramurekuye", "."], "ner_tags": [0, 0, 0]}
+{"id": "945", "tokens": ["Umuhu", "y'abagabo", "abanyamuryango", "mu", "Burundi", "."], "ner_tags": [1, 2, 0, 0, 5, 0]}
+{"id": "720", "tokens": ["Rwagaza", "hagati", "mu", "mashyamba", "y'isi", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "178", "tokens": ["Umuhinzi", "wakiniye", "AS", "Kigali", "y'Abagore", "yerekeje", "mu", "Bufaransa", "."], "ner_tags": [1, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"id": "982", "tokens": ["Umuhu", "y'abagabo", "abanyamuryango", "mu", "Rwanda", "."], "ner_tags": [1, 2, 0, 0, 5, 0]}
+{"id": "753", "tokens": ["Gakenke", "Safro", "Kamena", "2020", "."], "ner_tags": [0, 0, 8, 8, 0]}
+{"id": "492", "tokens": ["Umuhu", "y'abagore", "abanyamuryango", "mu", "Burundi", "."], "ner_tags": [2, 0, 0, 5, 0]}
+{"id": "161", "tokens": ["Ubwoko", "bwa", "Covid", "-", "19", "barikomeye", "mu", "Rwanda", "."], "ner_tags": [0, 0, 6, 6, 6, 0, 0, 5, 0]}
+{"id": "838", "tokens": ["Kaminuza", "y'Ubutegetsi", "y'Ubuhinzi", "ya", "Kigali", "ikora", "nshingano", "muyikorera", "ikora", "abagore", "."], "ner_tags": [3, 4, 4, 4, 4, 0, 0, 0, 2, 0]}
+{"id": "234", "tokens": ["Kamena", "2023", "."], "ner_tags": [8, 8, 0]}
+{"id": "1018", "tokens": ["Umuhinzi", "wakiniye", "AS", "Kigali", "y'Abagore", "yerekeje", "mu", "Bufaransa", "."], "ner_tags": [1, 0, 3, 4, 0, 0, 0, 5, 0]}
+{"id": "194", "tokens": ["Ubwoko", "bwa", "Covid", "-", "19", "barikomeye", "mu", "Rwanda", "."], "ner_tags": [0, 0, 6, 6, 6, 0, 0, 5, 0]}
+{"id": "682", "tokens": ["Ikipe", "yaramurekuye", "."], "ner_tags": [0, 0, 0]}
+{"id": "216", "tokens": ["Umuhu", "y'abagabo", "abanyamuryango", "mu", "Burundi", "."], "ner_tags": [1, 2, 0, 0, 5, 0]}
+{"id": "1", "tokens": ["Umujyi", "w'umujyi", "wa", "Kigali", "ni", "umujyi", "muhiri", "m'umujyi", "muhiri", "Kigali", "kandi", "umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 8, 4, 0, 4, 0, 4, 0, 4, 0, 8, 0, 4, 0]}
+{"id": "2", "tokens": ["Nyarugenge", "ni", "akarere", "kagikanda", "muhiri", "Nyarugenge", "kandi", "kagikanda", "muhiri", "Nyarugenge", "."], "ner_tags": [5, 0, 5, 0, 5, 0, 5, 0, 5, 0]}
+{"id": "3", "tokens": ["Ibisabwa", "kurya", "imizinga", "muhiri", "ibiribwa", "kuri", "cibitoke", "yimirane", "muhiri", "igikoni", "cya", "gikemurenga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "4", "tokens": ["Inkuru", "y'igikoni", "cya", "gikemurenga", "zitumizwa", "kurya", "imizinga", "muhiri", "ibiribwa", "kuri", "cibitoke", "yimirane", "muhiri", "igikoni", "cya", "gikemurenga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "5", "tokens": ["Kipimo", "chini", "kuri", "cibitoke", "yimirane", "muhiri", "igikoni", "cya", "gikemurenga", "ni", "umubare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "6", "tokens": ["Muhiri", "igikoni", "cya", "gikemurenga", "kandi", "umujyi", "w'umujyi", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 4, 4, 8, 4, 0]}
+{"id": "7", "tokens": ["Umujyi", "muhiri", "m'umujyi", "muhiri", "Kigali", "ni", "umujyi", "muhiri", "muhiri", "Kigali", "kandi", "umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 8, 4, 4, 0, 4, 0, 4, 4, 0, 8, 0, 4, 0]}
+{"id": "8", "tokens": ["Igisubizo", "cya", "gikemurenga", "ni", "umubare", "mu", "Kigali", "muhiri", "umujyi", "w'umujyi", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 4, 4, 8, 4, 4, 0]}
+{"id": "9", "tokens": ["Kuri", "cibitoke", "yimirane", "muhiri", "igikoni", "cya", "gikemurenga", "kandi", "umujyi", "w'umujyi", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 4, 4, 8, 4]}
+{"id": "10", "tokens": ["Umutungo", "w'umujyi", "wa", "Kigali", "w'umujyi", "muhiri", "Kigali", "kandi", "umujyi", "w'umujyi", "wa", "Kinshasa", "."], "ner_tags": [0, 4, 8, 4, 4, 4, 4, 0, 4, 4, 8, 4]}
+{"id": "11", "tokens": ["Umujyi", "muhiri", "Kigali", "ni", "umujyi", "muhiri", "muhiri", "Kigali", "kandi", "umujyi", "w'umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 4, 0, 4, 0, 4, 4, 0, 4, 8, 0, 4]}
+{"id": "12", "tokens": ["Umujyi", "w'umujyi", "wa", "Kigali", "kandi", "umujyi", "w'umujyi", "muhiri", "Kigali", "."], "ner_tags": [4, 4, 8, 4, 0, 4, 4, 4, 4, 0]}
+{"id": "13", "tokens": ["Nyarugenge", "ni", "akarere", "kagikanda", "muhiri", "Nyarugenge", "kandi", "kagikanda", "muhiri", "Nyarugenge", "kandi", "kagikanda", "muhiri", "Nyarugenge", "."], "ner_tags": [5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5]}
+{"id": "14", "tokens": ["Kigali", "ni", "umujyi", "muhiri", "umujyi", "w'umujyi", "wa", "Kigali", "kandi", "umujyi", "w'umujyi", "muhiri", "Kigali", "kandi", "umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 0, 4, 4, 4, 4, 8, 4, 0, 4, 4, 4, 4, 0, 4, 8, 0]}
+{"id": "15", "tokens": ["Umujyi", "w'umujyi", "wa", "Kigali", "ni", "umujyi", "muhiri", "muhiri", "Kigali", "kandi", "umujyi", "w'umujyi", "muhiri", "Kigali", "kandi", "umujyi", "w'umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 8, 4, 0, 4, 0, 4, 4, 0, 4, 4, 4, 4, 0, 4, 4, 8, 4]}
+{"id": "16", "tokens": ["Umujyi", "muhiri", "muhiri", "Kigali", "ni", "umujyi", "w'umujyi", "wa", "Kigali", "kandi", "umujyi", "w'umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 0, 4, 0, 4, 4, 8, 4, 0, 4, 4, 8, 4, 0]}
+{"id": "17", "tokens": ["Nyarugenge", "ni", "akarere", "kagikanda", "muhiri", "Nyarugenge", "kandi", "kagikanda", "muhiri", "Nyarugenge", "kandi", "kagikanda", "muhiri", "Nyarugenge", "kandi", "kagikanda", "muhiri", "Nyarugenge", "."], "ner_tags": [5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0, 5, 0]}
+{"id": "18", "tokens": ["Umujyi", "w'umujyi", "wa", "Kigali", "kandi", "umujyi", "w'umujyi", "muhiri", "Kigali", "ni", "umujyi", "muhiri", "muhiri", "Kigali", "kandi", "umujyi", "w'umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 8, 4, 0, 4, 4, 4, 4, 0, 4, 4, 0, 4, 0, 4, 4, 8, 4]}
+{"id": "19", "tokens": ["Umujyi", "muhiri", "muhiri", "Kigali", "ni", "umujyi", "muhiri", "Kigali", "kandi", "umujyi", "w'umujyi", "muhiri", "Kigali", "kandi", "umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 0, 4, 0, 4, 4, 4, 0, 4, 4, 4, 4, 0, 4, 8, 0]}
+{"id": "20", "tokens": ["Umujyi", "w'umujyi", "wa", "Kigali", "ni", "umujyi", "muhiri", "muhiri", "Kigali", "kandi", "umujyi", "w'umujyi", "wa", "Kinshasa", "."], "ner_tags": [4, 4, 8, 4, 0, 4, 0, 4, 4, 0, 4, 4, 8, 4, 0]}
+{"id": "1650", "tokens": ["Kandi", "abafate", "zirazamuka", "mu", "n'ibara", "rero", "hatangazwa", "icyo", "cyorezo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1875", "tokens": ["Muri", "kolera", "yitangazwa", "mu", "tete", "kugeza", "saa", "nne", "z'ijoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "135", "tokens": ["Hifashwe", "icyo", "cyatangazwa", "ku", "buso", "b'ikiganiro", "cy'abayobozi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "221", "tokens": ["Ku", "nya", "gihugu", "n'abayobozi", "b'igihugu", "ba", "bafashwe", "."], "ner_tags": [0, 0, 1, 1, 1, 0, 0]}
+{"id": "532", "tokens": ["Rero", "nta", "we", "ufashwe", "n'umukunzi", "w'abahizi", "mu", "turere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "657", "tokens": ["Ufashwe", "n'abasirikare", "b'abagabo", "b'umuryango", "mu", "turere", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "832", "tokens": ["N'umujyi", "mw'urugo", "n'abafashe", "zigihe", "cyatangazwa", "icyo", "cyorezo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "421", "tokens": ["Bafashwe", "n'umugabo", "ariko", "mu", "turere", "nta", "we", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1587", "tokens": ["Muri", "n'umuriro", "hatangazwa", "icyo", "cyorezo", "kugeza", "saa", "tano", "z'ijoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "730", "tokens": ["Iyo", "nta", "we", "ufashwe", "kuri", "rugero", "n'umujyi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "943", "tokens": ["Abasirikare", "b'abagabo", "ba", "bafashwe", "n'umuryango", "mu", "turere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "114", "tokens": ["N'umukunzi", "w'abafashe", "hatangazwa", "icyo", "cyorezo", "mu", "tete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "526", "tokens": ["Abafashe", "n'abagabo", "b'umuryango", "mu", "turere", "nta", "we", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "181", "tokens": ["Muri", "kolera", "yitangazwa", "mu", "tete", "kugeza", "saa", "nane", "z'ijoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "638", "tokens": ["Iyo", "nta", "we", "ufashwe", "kuri", "rugero", "n'umujyi", "rero", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "487", "tokens": ["Abagabo", "b'umuryango", "mu", "turere", "ba", "bafashwe", "n'abasirikare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "219", "tokens": ["N'abafashe", "ba", "bafashwe", "n'umuryango", "mu", "turere", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "190", "tokens": ["Muri", "n'umuriro", "hatangazwa", "icyo", "cyorezo", "kugeza", "saa", "minani", "z'ijoro", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "649", "tokens": ["Iyo", "nta", "we", "ufashwe", "kuri", "rugero", "n'umujyi", "rero", "kuko", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "278", "tokens": ["Abasirikare", "b'abagabo", "ba", "bafashwe", "n'umuryango", "mu", "turere", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "852", "tokens": ["N'umukunzi", "w'abafashe", "hatangazwa", "icyo", "cyorezo", "mu", "tete", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "113", "tokens": ["Kandi", "abafate", "zirazamuka", "mu", "n'ibara", "rero", "hatangazwa", "icyo", "cyorezo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "562", "tokens": ["Abagabo", "b'umuryango", "mu", "turere", "ba", "bafashwe", "n'abasirikare", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "132", "tokens": ["Iyo", "nta", "we", "ufashwe", "kuri", "rugero", "n'umujyi", "rero", "kuko", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1189", "tokens": ["Umuhanga", "n'abandi", "bakinnyi", "bakomeje", "kuvugwa", "mu", "mashuri", "nde", "nta", "n'abana", "babo", "yarahisemo", "ibigamiro", "y'ibara"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1224", "tokens": ["Ikiyama", "yabaye", "umugabane", "muri", "koloni", "Dutch", "n'umugabo", "yabaye", "mwami", "w'Uburandi", "n'abandi", "bakomeje", "kuvugwa"], "ner_tags": [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1191", "tokens": ["Uburyo", "bwa", "kuvugwa", "muhindagurikire", "kwagura", "n'abandi", "bakinnyi", "bakomeje", "kuvugwa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1201", "tokens": ["Umubyeyi", "yabaye", "mwami", "w'Ubuzungu", "yabaye", "mwami", "w'Uburayi", "n'abandi", "bakinnyi", "bakomeje", "kuvugwa"], "ner_tags": [0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0]}
+{"id": "1212", "tokens": ["Dorcas", "na", "Vestine", "bo", "basoza", "ikiganiro", "bemeje", "ko", "bakiri", "kumwe", "na", "Murindahabi", "ndetse", "nta", "n'igiteze", "kubatandukanya"], "ner_tags": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "1231", "tokens": ["Imikino", "ya", "Caf", "n'abandi", "bakomeje", "kuvugwa", "mu", "mashuri", "nde"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1256", "tokens": ["Buri", "Zone", "izahagararirwa", "n'ikipe", "imwe", "y'abandi", "bakomeje", "kuvugwa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1278", "tokens": ["Uyu", "munyamategeko", "yibukije", "Murindahabi", "ko", "natabikora", "mu", "maguru", "mashya", "bizatuma", "ajyanwa", "mu", "butabera", "agakurikiranwaho", "ibyaha", "birimo", "kugundira", "umutungo", "w'undi", "muntu", "no", "gukoresha", "abana", "ubucakara", "abashakamo", "indonke", "cyane", "ko", "nta", "masezerano", "afitanye", "n'ababyeyi", "babo"], "ner_tags": [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1294", "tokens": ["Ibiyemezo", "birimo", "kugundira", "umutungo", "w'undi", "muntu", "na", "Kanye", "West", "ntabwo", "ushaka", "W", "mu", "izina"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0]}
+{"id": "1298", "tokens": ["Kandi", "n'ikipe", "imwe", "y'abandi", "bakomeje", "kuvugwa", "mu", "mashuri", "nde"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1301", "tokens": ["Dorcas", "na", "Vestine", "bo", "basoza", "ikiganiro", "bemeje", "ko", "bakiri", "kumwe", "na", "Murindahabi", "ndetse", "nta", "n'igiteze", "kubatandukanya"], "ner_tags": [1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]}
+{"id": "1314", "tokens": ["Hari", "abandi", "bakinnyi", "bakomeje", "kuvugwa", "mu", "mashuri", "nde"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1331", "tokens": ["Kugeza", "ubu", "imibare", "ya", "Minisiteri", "y'Ubuzima", "yo", "ku", "wa", "21", "Kamena", "2021", ",", "igaragaza", "ko", "abarwayi", "bakiri", "kwitabwaho", "byihariye", "baba", "abarwariye", "mu", "bitaro", "n'abari", "mu", "ngo", "zabo", "ari", "4343"], "ner_tags": [0, 0, 0, 0, 3, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1345", "tokens": ["Hari", "abandi", "bakinnyi", "bakomeje", "kuvugwa", "mu", "mpande", "zombi", "nka", "Jadon", "Sancho", "wamaze", "kumvikana"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0]}
+{"id": "1363", "tokens": ["Kandi", "n'ikipe", "imwe", "y'abandi", "bakomeje", "kuvugwa", "mu", "mashuri", "nde"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1371", "tokens": ["Kigezo", "cyo", "kuvugwa", "mu", "mpande", "zombi", "nka", "Jadon", "Sancho", "wamaze", "kumvikana"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0]}
+{"id": "1384", "tokens": ["Umuhanga", "n'abandi", "bakinnyi", "bakomeje", "kuvugwa", "mu", "mashuri", "nde"], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1421", "tokens": ["Mu", "rukiga", "ruri", "i", "Rwanda", "rw'umuhu", "muhu", "muhu", "mutwa", "cyane", "mu", "gihugu", "kuri", "yo", "."], "ner_tags": [0, 0, 0, 5, 5, 5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "308", "tokens": ["Ibibazo", "myoko", "mikoreshereza", "zagatiwe", "n'umunyamabanga", "abo", "Kamereone", "na", "Virginiya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 6, 6, 6, 0]}
+{"id": "190", "tokens": ["Umuhu", "muhu", "mu", "gihugu", "n'umuryango", "mu", "bantu", "kubagwa", "y'abantu", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0, 5, 0]}
+{"id": "722", "tokens": ["Rwanda", "ni", "igihugu", "gikomeye", "girimo", "myoko", "mikoreshereza", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"id": "192", "tokens": ["Mu", "gihugu", "n'umuhu", "muhu", "kubagwa", "y'abantu", "kugeza", "ko", "."], "ner_tags": [0, 0, 5, 5, 0, 0, 0, 0]}
+{"id": "982", "tokens": ["Ku", "mugoroba", "y'abahamwe", "ab'Uburusi", "barimo", "ba", "Kamereone", "na", "Virginiya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 6, 6, 6, 0]}
+{"id": "944", "tokens": ["Abarwayi", "12", "babagizi", "kwa", "zeki", "bagomba", "gukwata", "bari", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1023", "tokens": ["Mu", "kigego", "cya", "Gihugu", "cya", "Rwanda", "mu", "Kanama", "2022", "gikora", "ku", "kunyura", "kw'abantu", "n'abarwayi", "40", "."], "ner_tags": [0, 0, 0, 5, 5, 5, 0, 8, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "120", "tokens": ["Kwiyumba", "nk'ingoma", "z'abana", "n'abarwayi", "n'umwaka", "umwe", "n'itanu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 7, 0]}
+{"id": "754", "tokens": ["Ibibazo", "myoko", "mikoreshereza", "zagatiwe", "n'umunyamabanga", "abo", "Kamereone", "na", "Kanada", "."], "ner_tags": [0, 0, 0, 0, 0, 6, 6, 6, 6, 0]}
+{"id": "968", "tokens": ["Umuhu", "muhu", "n'umuryango", "mu", "bantu", "mu", "gihugu", "girimo", "myoko", "mikoreshereza", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "114", "tokens": ["Mu", "gihugu", "girimo", "myoko", "mikoreshereza", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "180", "tokens": ["Icyo", "cyakorewe", "mu", "Rwanda", "rikuwe", "isumbuye", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "286", "tokens": ["Mu", "rukiga", "ruri", "i", "Rwanda", "rw'umuhu", "muhu", "kubagwa", "y'abantu", "."], "ner_tags": [0, 0, 0, 5, 5, 5, 0, 0]}
+{"id": "738", "tokens": ["Ku", "zana", "nk'igitabo", "cyo", "gihugu", "girimo", "myoko", "mikoreshereza", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "235", "tokens": ["U Rwanda", "urimo", "myoko", "mikoreshereza", "mu", "gihugu", "muhu", "mu", "gihugu", "."], "ner_tags": [5, 0, 0, 0, 0, 5, 5, 5, 5, 0]}
+{"id": "179", "tokens": ["Umuhu", "muhu", "mu", "gihugu", "n'umuryango", "mu", "bantu", "n'abagabo", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0, 5, 0]}
+{"id": "934", "tokens": ["Abantu", "bagabo", "mu", "Rwanda", "n'abagabo", "barimo", "ba", "Kamereone", "na", "Virginiya", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 6, 6, 6, 0]}
+{"id": "182", "tokens": ["Abarwayi", "20", "bari", "bakira", "mu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "1049", "tokens": ["Ibibazo", "myoko", "mikoreshereza", "zagatiwe", "n'umunyamabanga", "abo", "Kamereone", "na", "Australia", "."], "ner_tags": [0, 0, 0, 0, 0, 6, 6, 6, 6, 0]}
+{"id": "295", "tokens": ["Mu", "gihugu", "girimo", "myoko", "mikoreshereza", "mu", "gihugu", "muhu", "mu", "gihugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 5, 5, 5, 0]}
+{"id": "1142", "tokens": ["U Rwanda", "urimo", "myoko", "mikoreshereza", "n'umuryango", "mu", "bantu", "mu", "gihugu", "muhu", "mu", "gihugu", "."], "ner_tags": [5, 0, 0, 0, 5, 0, 0, 5, 5, 5, 5, 5, 0]}
+{"id": "1234", "tokens": ["Kigali", "ni", "muhanga", "mpande", "k'akarere", "kabiri", "k'agatatu", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0]}
+{"id": "5678", "tokens": ["Jean", "Pierre", "yakoswa", "mu", "kigali", "njyana", "."], "ner_tags": [1, 0, 0, 0, 5, 0]}
+{"id": "9012", "tokens": ["gatatu", "muhungu", "wabarindwa", "k'abana", "ba", "bana", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "3456", "tokens": ["Jean", "yagizwe", "umupfumuro", "wabana", "bana", "."], "ner_tags": [1, 0, 0, 0, 0, 0]}
+{"id": "7890", "tokens": ["umupfumuro", "yabonye", "umwana", "bana", "mu", "nyarwanda", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0]}
+{"id": "1239", "tokens": ["Dian", "Bastarache", "yari", "umuhanga", "mpande", "muhanga", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"id": "4567", "tokens": ["Akazi", "yabana", "yagira", "Akazi", "ya", "bana", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "9013", "tokens": ["umuhanga", "wakorera", "mpande", "k'akarere", "kabiri", "n'ubuhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "2345", "tokens": ["Bana", "babana", "babana", "babana", "babana", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "6789", "tokens": ["umuhanga", "wakoswa", "mpande", "k'agatatu", "n'ubuhanga", "."], "ner_tags": [0, 0, 0, 0, 5, 0]}
+{"id": "3457", "tokens": ["umupfumuro", "yabonye", "umuhanga", "mpande", "muhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "9014", "tokens": ["umwana", "wabarindwa", "k'abana", "ba", "bana", "."], "ner_tags": [1, 0, 0, 0, 0, 0]}
+{"id": "2346", "tokens": ["umuhanga", "wakora", "mpande", "k'akarere", "kabiri", "n'ubuhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "5679", "tokens": ["Jean", "yagizwe", "umupfumuro", "wabana", "bana", "."], "ner_tags": [1, 0, 0, 0, 0, 0]}
+{"id": "1238", "tokens": ["umupfumuro", "yabonye", "umwana", "bana", "mu", "nyarwanda", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0]}
+{"id": "4568", "tokens": ["Dian", "Bastarache", "yari", "umuhanga", "mpande", "muhanga", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0]}
+{"id": "9015", "tokens": ["umuhanga", "wakorera", "mpande", "k'akarere", "kabiri", "n'ubuhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "2347", "tokens": ["Bana", "babana", "babana", "babana", "babana", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "6780", "tokens": ["umupfumuro", "yabonye", "umwana", "bana", "mu", "nyarwanda", "."], "ner_tags": [0, 0, 1, 0, 0, 0, 0]}
+{"id": "3458", "tokens": ["umuhanga", "wakoswa", "mpande", "k'agatatu", "n'ubuhanga", "."], "ner_tags": [0, 0, 0, 0, 5, 0]}
+{"id": "9016", "tokens": ["umwana", "wabarindwa", "k'abana", "ba", "bana", "."], "ner_tags": [1, 0, 0, 0, 0, 0]}
+{"id": "2348", "tokens": ["umuhanga", "wakora", "mpande", "k'akarere", "kabiri", "n'ubuhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "1213", "tokens": ["Inama", "z'amategeko", "yabagwa", "mu", "bushinwa", "na", "Minisiteri", "ya", "Igihugu", "y'Abata", ",", "yamemba", "abazize", "yari", "yabitangazwa", "na", "Omuhanga", ",", "yaje", "gufata", "ikindi", "cya", "kabiri", "mu", "njyana", "ya", "2022", "."], "ner_tags": [0, 0, 0, 0, 0, 6, 6, 6, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 7, 7, 7]}
+{"id": "1245", "tokens": ["Umulira", "Peter", "Muroyi", "umuhanga", "y'ubuntu", "bwo", ",", "yamaze", "guhimbaza", "abaturage", "kubona", "abaturage", "bagomba", "kuba", "Muhabura", "."], "ner_tags": [5, 5, 5, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "1287", "tokens": ["Abari", "ba", "hatangaza", "kwa", "umwana", "wabaye", "umuhanga", "umwe", "abana", "yagomba", "kuba", "m'ikitegezo", "cy'ubutegetsi", ",", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1320", "tokens": ["Umuhanga", "Muhayimana", "w'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ibitekerezo", ",", "yamaze", "gufata", "ikindi", "cya", "kabiri", "mu", "minota", "y'ubushinwa", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1354", "tokens": ["Inama", "la", "Duterimbere", "la", "ngoma", "z'abahanga", "b'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1388", "tokens": ["Abana", "b'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ubutegetsi", "y'ubutegetsi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1421", "tokens": ["Umuhanga", "umwe", "abana", "y'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1455", "tokens": ["Kigali", "kinze", "gukurikirana", "umwana", "wabaye", "umuhanga", "umwe", "abana", "y'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ibitekerezo", "."], "ner_tags": [5, 0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1489", "tokens": ["Umuhanga", "umuhanga", "w'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "1522", "tokens": ["Abana", "b'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ubutegetsi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1556", "tokens": ["Umuhanga", "umwe", "abana", "y'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1590", "tokens": ["Kigali", "kinze", "gukurikirana", "umwana", "wabaye", "umuhanga", "umwe", "abana", "y'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ibitekerezo", "."], "ner_tags": [5, 0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1624", "tokens": ["Umuhanga", "umuhanga", "w'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "1657", "tokens": ["Abana", "b'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ubutegetsi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1690", "tokens": ["Umuhanga", "umwe", "abana", "y'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1723", "tokens": ["Umuhanga", "umuhanga", "w'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "1756", "tokens": ["Kigali", "kinze", "gukurikirana", "umwana", "wabaye", "umuhanga", "umwe", "abana", "y'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ibitekerezo", "."], "ner_tags": [5, 0, 0, 5, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1790", "tokens": ["Umuhanga", "umuhanga", "w'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "1824", "tokens": ["Abana", "b'abantu", "bagomba", "kugaruka", "mu", "njyana", "y'ubutegetsi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1857", "tokens": ["Umuhanga", "umwe", "abana", "y'abantu", "bagomba", "kugaruka", "mu", "bitaro", "b'abagabo", "."], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1701", "tokens": ["Mu", "igihe", "cyo", "rero", "munyamabanga", "w'ikinyamategeko", "suri", "kuri", "igihe", "cyo", "hagati", "ya", "kizungu", "na", "mugabo", "a", "nyuma", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]}
+{"id": "1920", "tokens": ["Nabuhimburwa", "ku", "yoma", "y'ikibanza", "cyo", "kigwa", "kuri", "igihugu", "cy'Ubuhinzi", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "814", "tokens": ["Gutabiri", "imikino", "ya", "gikinamico", "igihugu", "n'igihugu", "zitabiriye", "abanyamadini", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1234", "tokens": ["Muri", "Gahunda", "y'Urukiko", "rwo", "rurimi", "rwa", "Kinyarwanda", "muri", "Afrika", "Mashariki", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"id": "1517", "tokens": ["Ni", "bafu", "bafu", "batagize", "kandi", "bakiri", "abaheneri", "b'Uburayi", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2051", "tokens": ["Ndi", "mumu", "munyamabanga", "a", "muri", "Uburayi", "muri", "kigobe", "cyo", "gusa", "muri", "Afrika", "y'ubusobozi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1947", "tokens": ["Gutangaza", "ivugurizo", "riri", "n'abagabo", "buri", "munyamabanga", "b'Uburayi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1382", "tokens": ["Muri", "Afrika", "y'Ubushinwa", "hazaba", "n'ishami", "riri", "ikizungu", "n'ishami", "riri", "igihugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1978", "tokens": ["Ku", "rwego", "kuri", "igihe", "cya", "kigwa", "cyo", "kuri", "igihugu", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1119", "tokens": ["Ni", "migambi", "y'ikibanza", "cyo", "kigwa", "kuri", "igihe", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1448", "tokens": ["Gutangaza", "imigambi", "y'ikibanza", "cyo", "kigwa", "kuri", "igihe", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1850", "tokens": ["Muri", "kigwa", "cyo", "kuri", "igihugu", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1675", "tokens": ["Gutabiri", "imigambi", "y'ikibanza", "cyo", "kigwa", "kuri", "igihe", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1838", "tokens": ["Ndi", "mumu", "munyamabanga", "a", "muri", "Uburayi", "buri", "munyamabanga", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1597", "tokens": ["Kuva", "icyorezo", "cya", "Covid", "-", "19", "cyagaragara", "mu", "Rwanda", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1632", "tokens": ["Ni", "mumuheto", "muri", "Afrika", "y'Ubushinwa", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1990", "tokens": ["Muri", "Afrika", "y'Ubushinwa", "hazaba", "n'ishami", "riri", "ikizungu", "n'ishami", "riri", "igihugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1169", "tokens": ["Ntacyo", "amabwiriza", "yashyizwe", "hanze", "avuga", "ku", "bukwe", "bwo", "gusaba", "no", "gukwa", "buherutse", "gukomorerwa", "nyuma", "y'igihe", "buhagaritswe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1741", "tokens": ["Muri", "Afrika", "y'Ubushinwa", "hazaba", "n'ishami", "riri", "ikizungu", "n'ishami", "riri", "igihugu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1862", "tokens": ["Ntacyo", "amabwiriza", "yashyizwe", "hanze", "avuga", "ku", "bukwe", "bwo", "gusaba", "no", "gukwa", "buherutse", "gukomorerwa", "nyuma", "y'igihe", "buhagaritswe", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1815", "tokens": ["Kuva", "icyorezo", "cya", "Covid", "-", "19", "cyagaragara", "mu", "Rwanda", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1825", "tokens": ["Ndi", "mumu", "munyamabanga", "a", "muri", "Uburayi", "muri", "kigobe", "cyo", "gusa", "muri", "Afrika", "y'ubusobozi", "."], "ner_tags": [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1786", "tokens": ["Ni", "mumuheto", "muri", "Afrika", "y'Ubushinwa", "buri", "munyamabanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1920", "tokens": ["Ukoko", "w'ubugerekyi", "wagize", "Nyarwanda", "abagore", "abanyabakoloni", "bafite", "ubugari", "bwenewe", "."], "ner_tags": [0, 0, 0, 5, 5, 5, 0, 0, 0]}
+{"id": "3910", "tokens": ["Mu", "buri", "hi", "n'Abaminisitiri", "mbere", "yabereye", "ibicuruzwa", "mu", "Gihugu", "kuri", "vuba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"id": "5183", "tokens": ["Ibinyabiziga", "ni", "nkiko", "nto", "kuri", "kuri", "uziwe", "mw'ikizigaro", "bya", "banki", "n'abagabo", "y'Abaha", "yamuhesha", "kuri", "kuri", "ubusumbuko", "n'ubutaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "2749", "tokens": ["Ikizigaro", "cyo", "kuri", "ibisigariro", "n'abagabo", "abanyarwanda", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [0, 8, 8, 0, 5, 5, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1035", "tokens": ["Rwanda", "yemerera", "n'umuryango", "n'abagabo", "abanyarwanda", "y'urukingo", "y'ubutaka", "n'abaturanyi", "y'umuryango", "y'abagabo", "."], "ner_tags": [3, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "1261", "tokens": ["Abari", "wabo", "ntabwo", "yari", "n'abagabo", "abanyarwanda", "wabereye", "mu", "bungana", "n'abagore", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 5, 0]}
+{"id": "1479", "tokens": ["Imboko", "n'ubumwe", "n'umuryango", "y'abagore", "n'abagabo", "abanyarwanda", "y'urukingo", "y'ubutaka", "."], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0]}
+{"id": "1978", "tokens": ["Abagabo", "abanyarwanda", "y'ibisigariro", "y'ubutaka", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [5, 5, 8, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1793", "tokens": ["Muhinzi", "y'ibisigariro", "y'ubutaka", "ni", "umuhinzi", "muhinzi", "umuhinzi", "y'ibisigariro", "y'ubutaka", "."], "ner_tags": [0, 8, 0, 0, 0, 0, 0, 8, 0]}
+{"id": "2869", "tokens": ["Ikizigaro", "cyo", "kuri", "ikizigaro", "cy'ubutaka", "cy'abagore", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [0, 8, 8, 8, 8, 5, 0, 0, 0, 0, 3, 0]}
+{"id": "5136", "tokens": ["Ubwisye", "buzima", "y'ikizigaro", "cy'ubutaka", "y'abagabo", "y'Abaha", "yamuhesha", "kuri", "kuri", "ubusumbuko", "n'ubutaka", "."], "ner_tags": [0, 0, 8, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "2895", "tokens": ["Abagore", "abanyarwanda", "y'ibisigariro", "y'ubutaka", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [5, 5, 8, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1902", "tokens": ["Ibinyabiziga", "ni", "nkiko", "nto", "kuri", "kuri", "uziwe", "mw'ikizigaro", "bya", "banki", "n'abagabo", "y'Abaha", "yamuhesha", "kuri", "kuri", "ubusumbuko", "n'ubutaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "5226", "tokens": ["Kizigaro", "cyo", "kuri", "ikizigaro", "cy'ubutaka", "cy'abagore", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [8, 8, 8, 8, 8, 5, 0, 0, 0, 0, 3, 0]}
+{"id": "1356", "tokens": ["Mu", "buri", "hi", "n'Abaminisitiri", "mbere", "yabereye", "ibicuruzwa", "mu", "Gihugu", "kuri", "vuba", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"id": "1633", "tokens": ["Abagabo", "abanyarwanda", "y'ibisigariro", "y'ubutaka", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [5, 5, 8, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "2086", "tokens": ["Ikizigaro", "cyo", "kuri", "ikizigaro", "cy'ubutaka", "cy'abagore", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [0, 8, 8, 8, 8, 5, 0, 0, 0, 0, 3, 0]}
+{"id": "2194", "tokens": ["Ibinyabiziga", "ni", "nkiko", "nto", "kuri", "kuri", "uziwe", "mw'ikizigaro", "bya", "banki", "n'abagabo", "y'Abaha", "yamuhesha", "kuri", "kuri", "ubusumbuko", "n'ubutaka", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "2432", "tokens": ["Ubwisye", "buzima", "y'ikizigaro", "cy'ubutaka", "y'abagabo", "y'Abaha", "yamuhesha", "kuri", "kuri", "ubusumbuko", "n'ubutaka", "."], "ner_tags": [0, 0, 8, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "2886", "tokens": ["Abagore", "abanyarwanda", "y'ibisigariro", "y'ubutaka", "ari", "afite", "gahunda", "yari", "yageze", "kuri", "Afurika", "."], "ner_tags": [5, 5, 8, 0, 0, 0, 0, 0, 0, 3, 0]}
+{"id": "1000", "tokens": ["Ubwoko", "b'uburayi", "bakoresha", "umurima", "umuhondo", "muri", "Afurika", "y'amajyaruguru", "kuri", "kibazo", "kwituza", ".", "\"\"\"\""], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0]}
+{"id": "1010", "tokens": ["Igihugu", "cy'umwana", "riyobora", "ubuzima", "ku", "bujyanye", "na", "umugore", "yacu", ".", "\"\"\"\""], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1020", "tokens": ["Ikipe", "y'abagabo", "y'umupira", "mukuru", "mu", "gihugu", "c'umwana", "yitabiriye", "muri", "shampiyona", "y'isi", ".", "\"\"\"\""], "ner_tags": [0, 1, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "1030", "tokens": ["Rugero", "r'abakoloni", "rurusha", "abantu", "muri", "Kameruni", "y'amajyaruguru", "y'umugore", "n'abatishoboye", "gihugu", ".", "\"\"\"\""], "ner_tags": [0, 0, 0, 0, 0, 3, 3, 5, 5, 5, 0, 0]}
+{"id": "1040", "tokens": ["Nyiragihugu", "z'amajyaruguru", "zanakoraga", "abakoloni", "muri", "Uburayi", "y'amajyaruguru", "y'amajyaruguru", "y'amajyaruguru", "y'amajyaruguru", ".", "\"\"\"\""], "ner_tags": [6, 6, 0, 0, 0, 3, 3, 3, 3, 3, 0, 0]}
+{"id": "1050", "tokens": ["Umubyeyi", "y'umwana", "yarebye", "umuheto", "muri", "ubwoko", "bw'uburayi", "b'umugore", "y'umwana", ".", "\"\"\"\""], "ner_tags": [5, 5, 0, 0, 0, 0, 3, 3, 5, 0]}
+{"id": "1060", "tokens": ["Ikipe", "y'abagabo", "y'umupira", "mukuru", "mu", "Kameruni", "y'umugore", "y'isi", ".", "\"\"\"\""], "ner_tags": [0, 1, 0, 0, 0, 3, 3, 0, 0]}
+{"id": "1070", "tokens": ["Umugambuliro", "w'abafu", "wanashyirwa", "muri", "Afurika", "y'amajyaruguru", "y'umugore", "y'umugore", "n'abantu", "b'umugore", ".", "\"\"\"\""], "ner_tags": [0, 0, 0, 0, 3, 3, 3, 3, 0, 3, 0]}
+{"id": "1080", "tokens": ["Igihugu", "cy'umwana", "riyobora", "ubuzima", "muri", "umurima", "muri", "Afurika", "y'amajyaruguru", "y'umugore", "y'umugore", ".", "\"\"\"\""], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 3, 3, 3, 3, 0]}
+{"id": "1090", "tokens": ["Ikipe", "y'umupira", "y'abagabo", "mukuru", "mu", "gihugu", "c'umwana", "yitabiriye", "muri", "shampiyona", "y'isi", ".", "\"\"\"\""], "ner_tags": [0, 0, 1, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "1100", "tokens": ["Umugambuliro", "w'abafu", "wanashyirwa", "muri", "Uburayi", "y'amajyaruguru", "y'umugore", "y'umugore", "n'abantu", "b'umugore", ".", "\"\"\"\""], "ner_tags": [0, 0, 0, 0, 3, 3, 3, 3, 0, 3, 0]}
+{"id": "1110", "tokens": ["Igihugu", "cy'umwana", "riyobora", "ubuzima", "ku", "bujyanye", "na", "umugore", "yacu", ".", "\"\"\"\""], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1120", "tokens": ["Ikipe", "y'abagabo", "y'umupira", "mukuru", "mu", "Afurika", "y'amajyaruguru", "y'umugore", "y'isi", ".", "\"\"\"\""], "ner_tags": [0, 1, 0, 0, 0, 3, 3, 3, 0, 0]}
+{"id": "1130", "tokens": ["Umugambuliro", "w'abafu", "wanashyirwa", "muri", "Afurika", "y'amajyaruguru", "y'umugore", "y'umugore", "n'abantu", "b'umugore", ".", "\"\"\"\""], "ner_tags": [0, 0, 0, 0, 3, 3, 3, 3, 0, 3, 0]}
+{"id": "1140", "tokens": ["Igihugu", "cy'umwana", "riyobora", "ubuzima", "muri", "umurima", "muri", "Afurika", "y'amajyaruguru", "y'umugore", "y'umugore", ".", "\"\"\"\""], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 3, 3, 3, 3, 0]}
+{"id": "1150", "tokens": ["Ikipe", "y'abagabo", "y'umupira", "mukuru", "mu", "Kameruni", "y'umugore", "y'isi", ".", "\"\"\"\""], "ner_tags": [0, 1, 0, 0, 0, 3, 3, 0, 0]}
+{"id": "1160", "tokens": ["Umugambuliro", "w'abafu", "wanashyirwa", "muri", "Afurika", "y'amajyaruguru", "y'umugore", "y'umugore", "n'abantu", "b'umugore", ".", "\"\"\"\""], "ner_tags": [0, 0, 0, 0, 3, 3, 3, 3, 0, 3, 0]}
+{"id": "1170", "tokens": ["Igihugu", "cy'umwana", "riyobora", "ubuzima", "muri", "umurima", "muri", "Afurika", "y'amajyaruguru", "y'umugore", "y'umugore", ".", "\"\"\"\""], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 3, 3, 3, 3, 0]}
+{"id": "1180", "tokens": ["Ikipe", "y'abagabo", "y'umupira", "mukuru", "mu", "Kameruni", "y'umugore", "y'isi", ".", "\"\"\"\""], "ner_tags": [0, 1, 0, 0, 0, 3, 3, 0, 0]}
+{"id": "1190", "tokens": ["Umugambuliro", "w'abafu", "wanashyirwa", "muri", "Afurika", "y'amajyaruguru", "y'umugore", "y'umugore", "n'abantu", "b'umugore", ".", "\"\"\"\""], "ner_tags": [0, 0, 0, 0, 3, 3, 3, 3, 0, 3, 0]}
+{"id": "1200", "tokens": ["Igihugu", "cy'umwana", "riyobora", "ubuzima", "ku", "bujyanye", "na", "umugore", "yacu", ".", "\"\"\"\""], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 0, 0]}
+{"id": "1011", "tokens": ["Rwanda", "Rwesaba", "hakirwa", "muhitimura", "imikino", "mu", "njyanama", "Mu", "Rwesaba", "hakirwa", "Munyarwanda", "muhitimura", "imikino", "muri", "njyanama"], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 5, 5, 1, 1, 0, 0, 0, 0]}
+{"id": "1201", "tokens": ["Abanyagihugu", "bataba", "muri", "Kigali", "mu", "ujya"], "ner_tags": [0, 0, 0, 5, 0, 0]}
+{"id": "1198", "tokens": ["Gakondo", "Gakoro", "n'Abanyamaghinga", "gatangira", "muhitimura", "umukuru", "muri", "njyanama"], "ner_tags": [5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "1002", "tokens": ["Hakirwa", "Rwanda", "hakirwa", "muhitimura", "imikino", "muri", "njyanama"], "ner_tags": [5, 5, 5, 0, 0, 0, 0]}
+{"id": "1251", "tokens": ["Kigali", "ni", "muhitimura", "muri", "njyanama", "y'abanyagihugu", "Rwesaba"], "ner_tags": [5, 0, 0, 0, 0, 0, 5]}
+{"id": "1183", "tokens": ["Inama", "n'abanyagihugu", "bataba", "muri", "Kigali", "mu", "ujya"], "ner_tags": [0, 0, 0, 5, 5, 0, 0]}
+{"id": "1056", "tokens": ["Igihugu", "Rwesaba", "hakirwa", "muhitimura", "imikino", "muri", "njyanama"], "ner_tags": [5, 5, 5, 0, 0, 0, 0]}
+{"id": "1102", "tokens": ["Gikindi", "n'abanyamaghinga", "bagenzi", "bari", "bafashe", "abanyamaghinga"], "ner_tags": [5, 0, 0, 0, 0, 0]}
+{"id": "1234", "tokens": ["Kagame", "Paul", "ni", "Mwami", "wa", "Rwanda"], "ner_tags": [1, 2, 0, 1, 0, 1]}
+{"id": "1025", "tokens": ["Kigali", "ni", "muhitimura", "muri", "njyanama", "Rwesaba"], "ner_tags": [5, 0, 0, 0, 0, 5]}
+{"id": "1281", "tokens": ["Abanyamaghinga", "bagenzi", "bari", "bafashe", "abanyamaghinga"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "1078", "tokens": ["Igikombe", "ni", "n'abanyamaghinga", "bagenzi", "bari", "bafashe"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "1111", "tokens": ["Mu", "kiganiro", "yagiranye", "na", "Kigali", "yavuze", "ko", "guhimba", "iyi", "ndirimbo"], "ner_tags": [0, 0, 0, 5, 5, 0, 0, 0, 0, 0]}
+{"id": "1242", "tokens": ["Kigali", "ni", "muhitimura", "muri", "njyanama", "Rwesaba", "hakirwa"], "ner_tags": [5, 0, 0, 0, 0, 5, 5]}
+{"id": "1088", "tokens": ["Abanyamaghinga", "bagenzi", "bari", "bafashe", "abanyamaghinga"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "1211", "tokens": ["Kigali", "ni", "muhitimura", "muri", "njyanama", "y'abanyagihugu", "Rwesaba"], "ner_tags": [5, 0, 0, 0, 0, 0, 5]}
+{"id": "1092", "tokens": ["Inama", "n'abanyagihugu", "bataba", "muri", "Kigali", "mu", "ujya"], "ner_tags": [0, 0, 0, 5, 5, 0, 0]}
+{"id": "1259", "tokens": ["Kigali", "ni", "muhitimura", "muri", "njyanama", "Rwesaba", "hakirwa"], "ner_tags": [5, 0, 0, 0, 0, 5, 5]}
+{"id": "1121", "tokens": ["Igihugu", "Rwesaba", "hakirwa", "muhitimura", "imikino", "muri", "njyanama"], "ner_tags": [5, 5, 5, 0, 0, 0, 0]}
+{"id": "1271", "tokens": ["Kagame", "Paul", "ni", "Mwami", "wa", "Rwanda"], "ner_tags": [1, 2, 0, 1, 0, 1]}
+{"id": "1132", "tokens": ["Kigali", "ni", "muhitimura", "muri", "njyanama", "Rwesaba"], "ner_tags": [5, 0, 0, 0, 0, 5]}
+{"id": "2031", "tokens": ["Umuhanga", "wo", "kubanza", "kutandukana", "Babu", "wabana", "muhonko", "ntebe", "azacu", "muri", "kongi"], "ner_tags": [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]}
+{"id": "2345", "tokens": ["Ikipe", "y'abanyeshuri", "y'amaguru", "yambukana", "na", "Ishyikirisho", "Ryambere"], "ner_tags": [0, 0, 0, 0, 0, 3, 0]}
+{"id": "1000", "tokens": ["Cyril", "Ramaphosa", "wabaye", "President", "w'Amahoroyange", "Afrika", "yasinze", "umwaka"], "ner_tags": [2, 1, 0, 5, 0, 4, 0, 0]}
+{"id": "1856", "tokens": ["Kwa", "hakuna", "wemeweza", "kugira", "n'umupira", "muhirwe", "wabaye", "umwana", "w'umuntu", "mu"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2831", "tokens": ["Mbiri", "ya", "mitaro", "mi", "ya", "Bahire", "ikora", "ku", "maka", "muri", "umugezi"], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "1957", "tokens": ["Kanada", "y'amaguru", "agize", "akinyamateka", "y'abantu", "batangazo"], "ner_tags": [4, 0, 0, 0, 0, 0]}
+{"id": "4732", "tokens": ["Ibisubizo", "by'ikipe", "y'abanyeshuri", "ya", "ababyeyi", "y'umaze"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "789", "tokens": ["Amine", "Gulis", "wabaye", "umupira", "muhirwe", "muri", "ikiyaga"], "ner_tags": [1, 2, 0, 0, 0, 0, 0]}
+{"id": "1309", "tokens": ["Ibirungi", "b'umuntu", "bapfuye", "mu", "kinyamizana", "y'umurima"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "2456", "tokens": ["Niger", "y'amaguru", "yagize", "akinyamateka", "y'abantu", "batangazo"], "ner_tags": [4, 0, 0, 0, 0, 0]}
+{"id": "1901", "tokens": ["Uwakilinganire", "w'abantu", "b'umaze", "nyuma", "y'igikoni", "ya", "isi"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1378", "tokens": ["Ikipe", "y'abanyeshuri", "y'amaguru", "yambukana", "na", "Ishyikirisho", "Ryambere"], "ner_tags": [0, 0, 0, 0, 0, 3, 0]}
+{"id": "2498", "tokens": ["Chancellor", "Angela", "Merkel", "wabaye", "w'umunyamadini", "w'Amajyaruguru", "y'amaguru"], "ner_tags": [5, 1, 2, 0, 0, 0, 0]}
+{"id": "1593", "tokens": ["Kugeza", "kwa", "umwana", "w'umuntu", "ni", "kandi", "kabijyanye", "na", "kugira", "umupira", "muhirwe"], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2674", "tokens": ["Ikipe", "y'abanyeshuri", "y'amaguru", "yambukana", "na", "Ishyikirisho", "Ryambere"], "ner_tags": [0, 0, 0, 0, 0, 3, 0]}
+{"id": "2211", "tokens": ["Igikoni", "cya", "isi", "cyo", "kugirira", "umupira", "muhirwe"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1478", "tokens": ["Mwana", "w'umuntu", "muhirwe", "wabaye", "w'amaguru", "y'amaguru"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "3256", "tokens": ["Izina", "ry'ikipe", "y'abanyeshuri", "y'amaguru", "ya", "ababyeyi", "y'umaze"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1045", "tokens": ["Chancellor", "Justin", "Trudeau", "wabaye", "w'umunyamadini", "w'Amajyaruguru", "y'amaguru"], "ner_tags": [5, 1, 2, 0, 0, 0, 0]}
+{"id": "2158", "tokens": ["Umuhanga", "wo", "kubanza", "kutandukana", "babu", "wabana", "muhonko"], "ner_tags": [0, 0, 0, 0, 1, 0, 0]}
+{"id": "3839", "tokens": ["Ikipe", "y'abanyeshuri", "y'amaguru", "yambukana", "na", "Ishyikirisho", "Ryambere"], "ner_tags": [0, 0, 0, 0, 0, 3, 0]}
+{"id": "1923", "tokens": ["Igikoni", "cya", "isi", "cyo", "kugirira", "umupira", "muhirwe"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "1145", "tokens": ["Mbiri", "ya", "mitaro", "mi", "ya", "Bahire", "ikora", "ku", "maka", "muri", "umugezi"], "ner_tags": [0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0]}
+{"id": "8000", "tokens": ["Umarahoro", "Rwanda", "mu", "2022", "y'ikipe", "ya", "bakinnyi", "y'igikombe", "cya", "Afro", "ya", "FIFA"], "ner_tags": [4, 4, 4, 4, 0, 0, 0, 0, 0, 5, 0, 5]}
+{"id": "8001", "tokens": ["Faustin", "Twagiramungu", "yagizwe", "umuyobozi", "muri", "politiki", "y'igihugu"], "ner_tags": [1, 0, 0, 0, 0, 0, 3]}
+{"id": "8002", "tokens": ["Abakobwa", "bakuwana", "mu", "kazi", "za", "umuryango", "wa", "bashinwa"], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0]}
+{"id": "8003", "tokens": ["Diplomasazi", "y'ubukungu", "n'abakinnyi", "ba", "Danemark"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "8004", "tokens": ["Habari", "z'abakinnyi", "ya", "super", "coupe", "y'Espagne"], "ner_tags": [0, 0, 0, 0, 0, 5]}
+{"id": "8005", "tokens": ["Abari", "barimo", "umunyamabanga", "muri", "kihugu"], "ner_tags": [0, 0, 0, 0, 3]}
+{"id": "8006", "tokens": ["Kuri", "kwiyumba", "abakinnyi", "ba", "Danemark"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "8007", "tokens": ["Ibikombe", "ya", "shampiyona", "bya", "Afro", "ya", "FIFA"], "ner_tags": [0, 0, 0, 0, 5, 0, 5]}
+{"id": "8008", "tokens": ["Rwego", "rw'iserukiramuco", "ry'Ibihugu", "bikoresha", "ururimi", "rw'Igifaransa"], "ner_tags": [5, 6, 6, 0, 0, 0]}
+{"id": "8009", "tokens": ["Imikino", "ya", "nyuma", "y'Igikombe", "cy'Isi", "cy'abakobwa"], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "8010", "tokens": ["Umuhu", "muri", "Abanyarwanda", "y'isi", "n'igihugu"], "ner_tags": [0, 0, 0, 5, 3]}
+{"id": "8011", "tokens": ["Ambasade", "y'u", "Bufaransa", "mu", "Rwanda"], "ner_tags": [3, 4, 4, 4, 4]}
+{"id": "8012", "tokens": ["Urerwa", "n'umurima", "n'umuryango", "wa", "bashinwa"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "8013", "tokens": ["Diplomasazi", "y'uburezi", "bikoresha", "ururimi", "rw'Igifaransa"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "8014", "tokens": ["Kuwa", "hatangiye", "umugabane", "m'abanyarwanda"], "ner_tags": [0, 0, 0, 0]}
+{"id": "8015", "tokens": ["Mbuga", "ya", "miyungano", "y'abanyarwanda", "b'Ukristo"], "ner_tags": [0, 0, 0, 0, 4]}
+{"id": "8016", "tokens": ["Rihe", "riy'igihe", "cy'Igikombe", "cya", "Afro", "ya", "FIFA"], "ner_tags": [0, 0, 0, 0, 5, 0, 5]}
+{"id": "8017", "tokens": ["Hari", "imikino", "ya", "nyuma", "y'Igikombe", "cy'Isi", "cy'abakobwa"], "ner_tags": [0, 0, 0, 0, 0, 0, 0]}
+{"id": "8018", "tokens": ["Umugabane", "w'abanyarwanda", "b'Ukristo"], "ner_tags": [0, 0, 4]}
+{"id": "8019", "tokens": ["Uretse", "abagize", "umuryango", "wa", "bashinwa"], "ner_tags": [0, 0, 0, 0, 0]}
+{"id": "8020", "tokens": ["Ibihugu", "by'isi", "n'abanyarwanda"], "ner_tags": [6, 5, 0]}
+{"id": "1001", "tokens": ["Abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 6]}
+{"id": "1002", "tokens": ["Ikipe", "y'Uburayi", "y'ikipe", "yamenyana", "abagororwa", "mu", "Rwanda", "."], "ner_tags": [0, 7, 0, 0, 0, 0, 5]}
+{"id": "1003", "tokens": ["Amateka", "ya", "Yohan", "Bamba", "yakoze", "amateka", "z'umugoma", "ya", "Burkina", "Faso", "."], "ner_tags": [0, 0, 2, 2, 0, 0, 0, 0, 6, 6]}
+{"id": "1004", "tokens": ["Abantu", "b'Abanyagihugu", "b'Uburayi", "bagaragaye", "nshuti", "z'abagabo", "bazima", "umuganda", "muri", "Rwanda", "."], "ner_tags": [0, 7, 7, 0, 0, 0, 0, 0, 0, 5]}
+{"id": "1005", "tokens": ["Imana", "yabona", "kuri", "Abanyamuryango", "ba", "Kiyovu", "Sports", "nyuma", "y'ishyirahamwe", "rashyiriwe", "kuri", "umuhango", "uwavumbuzi", "muri", "Rwanda", "."], "ner_tags": [5, 0, 8, 8, 8, 3, 3, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"id": "1006", "tokens": ["Kigali", "kigena", "abaturanyi", "agirimbere", "kugira", "umushinga", "mwiza", "muri", "Rwanda", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"id": "1007", "tokens": ["Bafungwa", "b'ikipe", "yabaye", "ba", "abagabo", "bashirikishwa", "muri", "Ikipe", "y'Uburayi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 7]}
+{"id": "1008", "tokens": ["Umuyobozi", "w'Ikipe", "y'Kiyovu", "Sports", "yagaragaye", "kugirana", "na", "abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 6]}
+{"id": "1009", "tokens": ["Ishyirahamwe", "rashyiriwe", "kuri", "umuhango", "uwavumbuzi", "muri", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5]}
+{"id": "1010", "tokens": ["Kwanza", "muri", "Rwanda", "yagurishijwe", "abagororwa", "abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 6]}
+{"id": "1011", "tokens": ["Umuhango", "uwavumbuzi", "muri", "Rwanda", "yagaragaye", "kugirana", "na", "abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 6]}
+{"id": "1012", "tokens": ["Abantu", "b'Abanyagihugu", "b'Uburayi", "bagaragaye", "abagabo", "bashirikishwa", "muri", "Ikipe", "y'Uburayi", "."], "ner_tags": [0, 7, 7, 0, 0, 0, 0, 0, 7]}
+{"id": "1013", "tokens": ["Kigali", "kigena", "abaturanyi", "agirimbere", "kugira", "umushinga", "mwiza", "muri", "Rwanda", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 5]}
+{"id": "1014", "tokens": ["Ishyirahamwe", "rashyiriwe", "kuri", "umuhango", "uwavumbuzi", "muri", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5]}
+{"id": "1015", "tokens": ["Umuyobozi", "w'Ikipe", "y'Kiyovu", "Sports", "yagaragaye", "kugirana", "na", "abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 6]}
+{"id": "1016", "tokens": ["Kwanza", "muri", "Rwanda", "yagurishijwe", "abagororwa", "abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 6]}
+{"id": "1017", "tokens": ["Umuhango", "uwavumbuzi", "muri", "Rwanda", "yagaragaye", "kugirana", "na", "abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 6]}
+{"id": "1018", "tokens": ["Ishyirahamwe", "rashyiriwe", "kuri", "umuhango", "uwavumbuzi", "muri", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5]}
+{"id": "1019", "tokens": ["Abantu", "banduye", "kuri", "uyu", "wa", "Kane", "abenshi", "bagaragaye", "i", "Kigali", "kuko", "habonetse", "176", ","], "ner_tags": [0, 0, 8, 8, 8, 8, 0, 0, 0, 5, 5, 0, 0]}
+{"id": "1020", "tokens": ["Umuyobozi", "w'Ikipe", "y'Kiyovu", "Sports", "yagaragaye", "kugirana", "na", "abahamwe", "b'abantu", "bakeneye", "i", "nshuti", "za", "Afurika", "."], "ner_tags": [3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 6]}
+{"id": "1101", "tokens": ["Rwanda", "Rwego", "kutembereka", "Leta", "y'abarwayi", "mu", "1962", ".", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [4, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1102", "tokens": ["Umuhanga", "w'ibarizwa", "Leta", "y'u", "Rwanda", "yari", "yagizwe", "kuri", "10", "Ukwakira", "1961", "."], "ner_tags": [2, 0, 3, 0, 4, 0, 0, 0, 0, 0, 0]}
+{"id": "1103", "tokens": ["Abari", "b'abarwayi", "mu", "Kigali", "baba", "umurimo", "w'Imana", "mu", "Itorereo", "rya", "ADEPR", "ryo", "ryo", "mu", "Korali", "Goshen", "y'i", "Musanze", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 4, 4, 4, 0, 3, 4, 4, 0]}
+{"id": "1104", "tokens": ["Kigali", "ni", "umurwa", "m'abarwayi", "y'abarwayi", "y'abarwayi", "mu", "Rwanda", "yagizwe", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0]}
+{"id": "1105", "tokens": ["Uburundi", "yari", "y'abarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1106", "tokens": ["Bukomoka", "bwa", "France", "y'ubarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1107", "tokens": ["Kaminuza", "y'ibarizwa", "kuri", "Kigali", "yagizwe", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1108", "tokens": ["Umurimo", "w'Imana", "mu", "Itorereo", "rya", "ADEPR", "ryo", "ryo", "mu", "Korali", "Goshen", "y'i", "Musanze", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 0, 3, 4, 4, 0, 0]}
+{"id": "1109", "tokens": ["Kanama", "ni", "umuhanga", "w'ibarizwa", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1110", "tokens": ["Umuhanga", "w'ibarizwa", "y'ubarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1111", "tokens": ["Umumaro", "w'ibarizwa", "y'ubarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1112", "tokens": ["Umuhanga", "w'ibarizwa", "y'ubarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1113", "tokens": ["Kigali", "ni", "umurwa", "m'abarwayi", "y'abarwayi", "mu", "Rwanda", "yagizwe", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0]}
+{"id": "1114", "tokens": ["Uburundi", "yari", "y'abarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1115", "tokens": ["Bukomoka", "bwa", "France", "y'ubarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1116", "tokens": ["Kaminuza", "y'ibarizwa", "kuri", "Kigali", "yagizwe", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1117", "tokens": ["Umurimo", "w'Imana", "mu", "Itorereo", "rya", "ADEPR", "ryo", "ryo", "mu", "Korali", "Goshen", "y'i", "Musanze", "."], "ner_tags": [0, 0, 0, 0, 3, 4, 4, 4, 0, 3, 4, 4, 0, 0]}
+{"id": "1118", "tokens": ["Kanama", "ni", "umuhanga", "w'ibarizwa", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1119", "tokens": ["Umuhanga", "w'ibarizwa", "y'ubarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1120", "tokens": ["Umumaro", "w'ibarizwa", "y'ubarwayi", "y'abarwayi", "mu", "1962", "yagizwe", "Kigali", "kuri", "1", "Oktoberi", "1962", "."], "ner_tags": [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1001", "tokens": ["Umugambi", "mukuru", "wa", "Kigali", "Isimbi", "ni", "umuganga", "mukuru", "m'ubuyobozi", "bwa", "Minisitiri", "y'Ubuhinzi", "na", "Uburezi", "."], "ner_tags": [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1002", "tokens": ["Amahanga", "yamurwaye", "mu", "bajanye", "bamwe", "abahanga", "y'Ubuhinzi", "bwo", "kujyanyura", "umurwayi", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1003", "tokens": ["Bwongereza", "i", "gihugu", "cyakorewe", "gutya", "igihugu", "n'abagabo", "b'abagabo", "abakuru", "mu", "Kigali", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1004", "tokens": ["Umwaka", "w'ingabo", "ni", "umwaka", "wa", "gukorana", "abagabo", "mu", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1005", "tokens": ["Kigali", "iki", "gihugu", "kikombe", "cy'ikawa", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1006", "tokens": ["Inshuti", "z'ikiganiro", "ni", "inshuti", "z'Abafaransa", "yabanje", "ku", "Rwanda", "mu", "1970", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "1007", "tokens": ["Rwanda", "iki", "gihugu", "kikombe", "cy'ikawa", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1008", "tokens": ["Igihugu", "cy'Uburundi", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "1009", "tokens": ["Minisitiri", "y'Ubuhinzi", "na", "Uburezi", "ni", "umugambi", "mukuru", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 2]}
+{"id": "1010", "tokens": ["Igihugu", "cy'Uruguay", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "1011", "tokens": ["Umuhanga", "muhanga", "muhanga", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "1012", "tokens": ["Minisitiri", "y'Ubuhinzi", "na", "Uburezi", "ni", "umugambi", "mukuru", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 2]}
+{"id": "1013", "tokens": ["Kigali", "iki", "gihugu", "kikombe", "cy'ikawa", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1014", "tokens": ["Inshuti", "z'ikiganiro", "ni", "inshuti", "z'Abafaransa", "yabanje", "ku", "Rwanda", "mu", "1970", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "1015", "tokens": ["Rwanda", "iki", "gihugu", "kikombe", "cy'ikawa", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1016", "tokens": ["Igihugu", "cy'Uburundi", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "1017", "tokens": ["Minisitiri", "y'Ubuhinzi", "na", "Uburezi", "ni", "umugambi", "mukuru", "wa", "Kigali", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 2]}
+{"id": "1018", "tokens": ["Kigali", "iki", "gihugu", "kikombe", "cy'ikawa", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [2, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1019", "tokens": ["Inshuti", "z'ikiganiro", "ni", "inshuti", "z'Abafaransa", "yabanje", "ku", "Rwanda", "mu", "1970", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]}
+{"id": "1020", "tokens": ["Rwanda", "iki", "gihugu", "kikombe", "cy'ikawa", "n'umuntu", "muhanga", "muhanga", "muhanga", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "123", "tokens": ["Kigali", "munsi", "yesterday", "iki", "gitondo", "cyane", ".", "muhoro", "n'umujyanama", "Davy", "Propper", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"id": "444", "tokens": ["Ubuvanganzo", "bukomeje", "kugwa", "abantu", "b'umurima", "mu", "gihugu", "Rwanda", "kuko", "bikomeye", "imibare", "yabaye", "19", "ku", "mugoroba", "23", "nyakanga", "2019", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "547", "tokens": ["Abatishyikirwa", "b'ubutaka", "mu", "urugendo", "rw'abakoresha", "intangazamakuru", "n'abapitirwa", "ibitsi", "na", "murukara", "w'umubyeyi", "wanjye", "yari", "mu", "gihugu", "cya", "Misiri", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "992", "tokens": ["Imibare", "yashyize", "abitangazamakuru", "hagitakaza", "ikibazo", "cyane", "kabiri", "kabiri", "mu", "gihugu", "cyabaye", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "451", "tokens": ["Gihugu", "cy'abaturage", "cirimo", "abantu", "barekere", "n'ibinyabiziga", "by'umupira", "mu", "gihugu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "317", "tokens": ["Igihugu", "cy'urugendo", "ruri", "a", "kuti", "bafashijwe", "kubona", "kutabishaka", "ikibazo", "mu", "gihugu", "cyabaye", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "675", "tokens": ["Kizinho", "ya", "polisi", "yakinnye", "kubona", "abagabo", "bafunzwa", "na", "abagore", "mu", "gihugu", "cyabaye", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "118", "tokens": ["Abagabo", "bafashije", "PSV", "yo", "mu", "Buholande", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "293", "tokens": ["Umuhana", "mutatu", "w'abakoresha", "intangazamakuru", "yari", "y'umuhanga", "munsi", "wari", "167", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "479", "tokens": ["Kigali", "munsi", "yesterday", "iki", "gitondo", "cyane", "muhoro", "n'umujyanama", "Davy", "Propper", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"id": "541", "tokens": ["Gihugu", "cy'abaturage", "cirimo", "abantu", "barekere", "n'ibinyabiziga", "by'umupira", "mu", "gihugu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "215", "tokens": ["Ubukungu", "bukomeje", "kugwa", "abantu", "b'umurima", "mu", "gihugu", "Rwanda", "kuko", "bikomeye", "imibare", "yabaye", "19", "ku", "mugoroba", "23", "nyakanga", "2019", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "528", "tokens": ["Umuhanga", "munsi", "wari", "167", "wari", "kuri", "uwo", "munsi", "umuhana", "mutatu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0]}
+{"id": "761", "tokens": ["Igihugu", "cy'urugendo", "ruri", "a", "kuti", "bafashijwe", "kubona", "kutabishaka", "ikibazo", "mu", "gihugu", "cyabaye", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "696", "tokens": ["Abagabo", "bafashije", "PSV", "yo", "mu", "Buholande", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "235", "tokens": ["Umuhana", "mutatu", "w'abakoresha", "intangazamakuru", "yari", "y'umuhanga", "munsi", "wari", "167", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "982", "tokens": ["Igihugu", "cy'abaturage", "cirimo", "abantu", "barekere", "n'ibinyabiziga", "by'umupira", "mu", "gihugu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "491", "tokens": ["Kizinho", "ya", "polisi", "yakinnye", "kubona", "abagabo", "bafunzwa", "na", "abagore", "mu", "gihugu", "cyabaye", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "133", "tokens": ["Kigali", "munsi", "yesterday", "iki", "gitondo", "cyane", "muhoro", "n'umujyanama", "Davy", "Propper", "."], "ner_tags": [5, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0]}
+{"id": "862", "tokens": ["Ubukungu", "bukomeje", "kugwa", "abantu", "b'umurima", "mu", "gihugu", "Rwanda", "kuko", "bikomeye", "imibare", "yabaye", "19", "ku", "mugoroba", "23", "nyakanga", "2019", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "458", "tokens": ["Abagabo", "bafashije", "PSV", "yo", "mu", "Buholande", "."], "ner_tags": [0, 0, 0, 0, 0, 5, 0]}
+{"id": "183", "tokens": ["Igihugu", "cy'abaturage", "cirimo", "abantu", "barekere", "n'ibinyabiziga", "by'umupira", "mu", "gihugu", "Rwanda", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "726", "tokens": ["Umuhanga", "munsi", "wari", "167", "wari", "kuri", "uwo", "munsi", "umuhana", "mutatu", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0]}
+{"id": "2001", "tokens": ["Uwakinnyi", "w'abakoloni", "bafashije", "igihugu", "cy'Urwanda", "kuri", "saa", "100", "."], "ner_tags": [0, 2, 0, 6, 6, 0, 7, 8, 0]}
+{"id": "2002", "tokens": ["Rwenzura", "itangazamakuru", "ry'umunyarwandu", "yamukorera", "n'abahinzi", "."], "ner_tags": [0, 0, 0, 0, 2, 0]}
+{"id": "2003", "tokens": ["Muhanda", "mukuru", "muri", "Gicumbi", "w'Abanyamarembo", "."], "ner_tags": [0, 5, 0, 5, 5, 0]}
+{"id": "2004", "tokens": ["Umuhindo", "usanzwe", "mu", "Karongi", "rwayo", "kuri", "saa", "50", "."], "ner_tags": [0, 0, 0, 5, 0, 0, 7, 8, 0]}
+{"id": "2005", "tokens": ["Akari", "y'umuhondo", "yashinze", "muri", "gihugu", "kuri", "saa", "10", "."], "ner_tags": [0, 0, 0, 6, 6, 0, 7, 8, 0]}
+{"id": "2006", "tokens": ["Abaturage", "ba", "mu", "Rwenzura", "bagenziwe", "na", "umupira", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2007", "tokens": ["Inyarwanda", "nyinshi", "bafashije", "igihugu", "cy'Urwanda", "."], "ner_tags": [0, 0, 0, 6, 6, 0]}
+{"id": "2008", "tokens": ["Umuganga", "usanzwe", "mu", "Gicumbi", "rwayo", "."], "ner_tags": [0, 0, 0, 5, 0, 0]}
+{"id": "2009", "tokens": ["Muhanga", "mukuru", "w'Abanyamarembo", "."], "ner_tags": [0, 5, 5, 5, 0]}
+{"id": "2010", "tokens": ["Muhanga", "mukuru", "w'Abanyamarembo", "."], "ner_tags": [0, 5, 5, 5, 0]}
+{"id": "2011", "tokens": ["Urukizo", "rugirangoje", "kuri", "saa", "10", "."], "ner_tags": [0, 0, 0, 7, 8, 0]}
+{"id": "2012", "tokens": ["Umuhinzi", "w'umwuka", "yashinze", "muri", "Karongi", "."], "ner_tags": [0, 0, 0, 5, 5, 0]}
+{"id": "2013", "tokens": ["Akari", "y'umuhondo", "yamuhimba", "muri", "Rwenzura", "."], "ner_tags": [0, 0, 0, 0, 0, 0]}
+{"id": "2014", "tokens": ["Uwakinnyi", "w'abahinzi", "bagenziwe", "na", "umupira", "."], "ner_tags": [0, 2, 0, 0, 0, 0]}
+{"id": "2015", "tokens": ["Umuhindo", "usanzwe", "mu", "Gicumbi", "rwayo", "."], "ner_tags": [0, 0, 0, 5, 0, 0]}
+{"id": "2016", "tokens": ["Umuhanga", "w'Abanyamarembo", "."], "ner_tags": [0, 5, 5, 5, 0]}
+{"id": "2017", "tokens": ["Muhanda", "mukuru", "muri", "Karongi", "w'Abanyamarembo", "."], "ner_tags": [0, 5, 0, 5, 5, 0]}
+{"id": "2018", "tokens": ["Inyarwanda", "nyinshi", "bafashije", "igihugu", "cy'Urwanda", "."], "ner_tags": [0, 0, 0, 6, 6, 0]}
+{"id": "2019", "tokens": ["Abaturage", "ba", "mu", "Rwenzura", "bagenziwe", "na", "umupira", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "2020", "tokens": ["Akari", "y'umuhondo", "yamuhimba", "muri", "Karongi", "."], "ner_tags": [0, 0, 0, 5, 5, 0]}
+{"id": "2021", "tokens": ["Umuhinzi", "w'umwuka", "yashinze", "muri", "Gicumbi", "."], "ner_tags": [0, 0, 0, 5, 5, 0]}
+{"id": "2022", "tokens": ["Umuhanga", "mukuru", "w'Abanyamarembo", "."], "ner_tags": [0, 5, 5, 5, 0]}
+{"id": "1469", "tokens": ["Kigali", "batarenze", "kumenyeshwa", "mu", "bureau", "ya", "Kinshasa", "munsi", "y'ajuranama", ".", "muntu", "yagize", "ibitekerezo", "n'abasiganye", "muri", "kiganiro", "cyo", "kimwe", "mu", "Gihanga", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1483", "tokens": ["Rwanda", "yamenyeshwa", "mu", "nkuru", "ya", "Amerika", "n'abagore", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [3, 3, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1457", "tokens": ["Afrobeats", "ikina", "muri", "Rwanda", "kandi", "ikina", "ikina", "Afrobeats", "yamenye", "ni", "genre", "mu", "ugukundu", "rwa", "mukuru", "africa", "y'ishyo", "muri", "Africa", "y'ibyiza", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1479", "tokens": ["Kigali", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abagore", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1463", "tokens": ["Medicine", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abagore", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1487", "tokens": ["Rwanda", "yamenyeshwa", "mu", "nkuru", "ya", "Amerika", "n'abantu", "batarenze", "50", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1453", "tokens": ["Urugamba", "rwo", "kugumana", "rutahizamu", "n'abagore", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1475", "tokens": ["Kigali", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abagore", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1469", "tokens": ["Medicine", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abantu", "batarenze", "40", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1481", "tokens": ["Rwanda", "yamenyeshwa", "mu", "nkuru", "ya", "Amerika", "n'abagore", "batarenze", "20", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1459", "tokens": ["Urugamba", "rwo", "kugumana", "rutahizamu", "n'abantu", "batarenze", "20", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1477", "tokens": ["Kigali", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abantu", "batarenze", "20", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1465", "tokens": ["Rwanda", "yamenyeshwa", "mu", "nkuru", "ya", "Amerika", "n'abagore", "batarenze", "50", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1489", "tokens": ["Medicine", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abantu", "batarenze", "40", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1455", "tokens": ["Urugamba", "rwo", "kugumana", "rutahizamu", "n'abagore", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1473", "tokens": ["Kigali", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abantu", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1461", "tokens": ["Rwanda", "yamenyeshwa", "mu", "nkuru", "ya", "Amerika", "n'abagore", "batarenze", "20", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1485", "tokens": ["Medicine", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abantu", "batarenze", "50", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1451", "tokens": ["Urugamba", "rwo", "kugumana", "rutahizamu", "n'abantu", "batarenze", "50", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1471", "tokens": ["Kigali", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abantu", "batarenze", "20", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1459", "tokens": ["Urugamba", "rwo", "kugumana", "rutahizamu", "n'abantu", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1483", "tokens": ["Medicine", "ikina", "muri", "Afya", "y'abantu", "yagize", "inama", "n'abantu", "batarenze", "40", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [1, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "1457", "tokens": ["Urugamba", "rwo", "kugumana", "rutahizamu", "n'abagore", "batarenze", "30", "kandi", "bakabanza", "kumenyeshwa", "mu", "burekerezo", "rwa", "generale", "mu", "inama", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "8121", "tokens": ["Umwamikazi", "Jacqueline", "Muhutu", "yegukanye", "ikizambarano", "kuri", "gahunda", "z'ikigega", "ya", "mata", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "8122", "tokens": ["Abaguzi", "b'abakoloni", "b'umuryango", "wo", "gutangaza", "ikigega", "cya", "ABC", "kuri", "abakoloni", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"id": "8123", "tokens": ["Umwamikazi", "Samuel", "Rukundo", "yatumye", "ikigega", "cya", "ABC", "kuri", "umwana", "mwana", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 3, 0, 5, 5, 0]}
+{"id": "8124", "tokens": ["Umuyobozi", "umukuru", "w'ikigega", "ya", "ABC", "umwana", "yari", "yatumye", "ikigega", "cya", "DEF", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "8125", "tokens": ["Abaguzi", "b'umuryango", "wo", "guhamagana", "na", "umuryango", "m'abahanga", "uzamibaranye", "ikigega", "cya", "ABC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "8126", "tokens": ["Umwamikazi", "Sophie", "Uwitonzi", "yegukanye", "umuganiro", "kuri", "umukinnyi", "uzamutse", "a", "Ghana", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "8127", "tokens": ["Ikipe", "y'umupira", "w'ukoma", "yagukana", "umugabane", "w'umupira", "w'ikipe", "ya", "France", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "8128", "tokens": ["Abaguzi", "b'umuryango", "wo", "gutangaza", "ikigega", "cya", "ABC", "kuri", "abaguzi", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"id": "8129", "tokens": ["Umwamikazi", "Ana", "Niyonkuru", "yegukanye", "ikigega", "cya", "DEF", "kuri", "umwana", "mwana", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"id": "8130", "tokens": ["Abaguzi", "b'abakoloni", "b'umuryango", "wo", "gutangaza", "ikigega", "cya", "ABC", "kuri", "abakoloni", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"id": "8131", "tokens": ["Umuyobozi", "umukuru", "w'ikigega", "ya", "ABC", "umwana", "yari", "yatumye", "ikigega", "cya", "DEF", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "8132", "tokens": ["Umwamikazi", "Aisha", "Muhutu", "yegukanye", "umuganiro", "kuri", "umukinnyi", "uzamutse", "a", "Ghana", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "8133", "tokens": ["Abaguzi", "b'umuryango", "wo", "guhamagana", "na", "umuryango", "m'abahanga", "uzamibaranye", "ikigega", "cya", "ABC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "8134", "tokens": ["Umuyobozi", "umukuru", "w'ikigega", "ya", "ABC", "umwana", "yari", "yatumye", "ikigega", "cya", "DEF", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "8135", "tokens": ["Umwamikazi", "Samantha", "Niyonkuru", "yegukanye", "ikigega", "cya", "DEF", "kuri", "umwana", "mwana", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 5, 5, 0]}
+{"id": "8136", "tokens": ["Abaguzi", "b'abakoloni", "b'umuryango", "wo", "gutangaza", "ikigega", "cya", "ABC", "kuri", "abakoloni", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0]}
+{"id": "8137", "tokens": ["Umuyobozi", "umukuru", "w'ikigega", "ya", "ABC", "umwana", "yari", "yatumye", "ikigega", "cya", "DEF", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
+{"id": "8138", "tokens": ["Umwamikazi", "Amara", "Muhutu", "yegukanye", "umuganiro", "kuri", "umukinnyi", "uzamutse", "a", "Ghana", "."], "ner_tags": [0, 1, 0, 0, 0, 0, 0, 0, 0, 5, 0]}
+{"id": "8139", "tokens": ["Abaguzi", "b'umuryango", "wo", "guhamagana", "na", "umuryango", "m'abahanga", "uzamibaranye", "ikigega", "cya", "ABC", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]}
+{"id": "8140", "tokens": ["Umuyobozi", "umukuru", "w'ikigega", "ya", "ABC", "umwana", "yari", "yatumye", "ikigega", "cya", "DEF", "."], "ner_tags": [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0]}
